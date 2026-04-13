@@ -14,8 +14,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $adults = $_POST["adults"];
     $child = $_POST["child"];
     $des = $_POST["des"];
-    $ip = getenv("REMOTE_ADDR") ;
-    $hiddenField = $_POST["hiddenField"]; 
+    $ip = getenv("REMOTE_ADDR");
+    $hiddenField = $_POST["hiddenField"];
 
     $body = "Name: $senderName<br><br>";
     $body .= "Email: $senderEmail<br><br>";
@@ -29,26 +29,26 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mail = new PHPMailer(true);
     try {
         //Server settings
-        $mail->SMTPDebug = 0;                                 
-        $mail->isSMTP();                                      
-        $mail->Host = 'smtp.gmail.com';  
-        $mail->SMTPAuth = true;                               
-        $mail->Username = 'tajnirvanatours@gmail.com';                 
-        $mail->Password = 'kjcxjgndycqjrkei';                           
-        $mail->SMTPSecure = 'tls';                            
-        $mail->Port = 587;                                    
+        $mail->SMTPDebug = 0;
+        $mail->isSMTP();
+        $mail->Host = 'smtp.gmail.com';
+        $mail->SMTPAuth = true;
+        $mail->Username = 'tajnirvanatours@gmail.com';
+        $mail->Password = 'kjcxjgndycqjrkei';
+        $mail->SMTPSecure = 'tls';
+        $mail->Port = 587;
 
         //Recipients
         $mail->setFrom($senderEmail, $senderName);
         $mail->addReplyTo($senderEmail, $senderName);
-        $mail->addAddress('tajnirvanatours@gmail.com');     
+        $mail->addAddress('tajnirvanatours@gmail.com');
 
         //Content
-        $mail->isHTML(true);                                  
+        $mail->isHTML(true);
         $mail->Subject = "Website Enquiry for ($hiddenField)";
-        $mail->Body    = $body;
+        $mail->Body = $body;
 
-        if(!$mail->send()) {
+        if (!$mail->send()) {
             echo 'Message could not be sent.';
             echo 'Mailer Error: ', $mail->ErrorInfo;
         } else {
@@ -59,26 +59,26 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         // Start of auto-reply code
-    $autoReply = new PHPMailer(true); // Create a new PHPMailer instance for the auto-reply
-    $autoReply->isSMTP();
-    $autoReply->Host = 'smtp.gmail.com';
-    $autoReply->SMTPAuth = true;
-    $autoReply->Username = 'tajnirvanatours@gmail.com';
-    $autoReply->Password = 'kjcxjgndycqjrkei';
-    $autoReply->SMTPSecure = 'tls';
-    $autoReply->Port = 587;
+        $autoReply = new PHPMailer(true); // Create a new PHPMailer instance for the auto-reply
+        $autoReply->isSMTP();
+        $autoReply->Host = 'smtp.gmail.com';
+        $autoReply->SMTPAuth = true;
+        $autoReply->Username = 'tajnirvanatours@gmail.com';
+        $autoReply->Password = 'kjcxjgndycqjrkei';
+        $autoReply->SMTPSecure = 'tls';
+        $autoReply->Port = 587;
 
-    $autoReply->setFrom('tajnirvanatours@gmail.com', 'Taj Nirvana Tours');
-    $autoReply->addAddress($senderEmail);
-    $autoReply->isHTML(true);
-    $autoReply->Subject = "Thank you for your enquiry";
-    $autoReply->Body = "<b>Dear $senderName</b>,<br><br>We have received your enquiry for <b>$hiddenField</b>. <br><br>We will get in touch with you soon.<br><br>For more information, please visit our website: <a href='https://tajnirvanatours.com'>https://tajnirvanatours.com</a><br><br>Best regards,<br>Taj Nirvana Tours Team";
-    
-    if(!$autoReply->send()) {
-        echo 'Auto-reply could not be sent.';
-        echo 'Mailer Error: ', $autoReply->ErrorInfo;
-    }
-    // End of auto-reply code
+        $autoReply->setFrom('tajnirvanatours@gmail.com', 'Touranzza');
+        $autoReply->addAddress($senderEmail);
+        $autoReply->isHTML(true);
+        $autoReply->Subject = "Thank you for your enquiry";
+        $autoReply->Body = "<b>Dear $senderName</b>,<br><br>We have received your enquiry for <b>$hiddenField</b>. <br><br>We will get in touch with you soon.<br><br>For more information, please visit our website: <a href='https://tajnirvanatours.com'>https://tajnirvanatours.com</a><br><br>Best regards,<br>Touranzza Team";
+
+        if (!$autoReply->send()) {
+            echo 'Auto-reply could not be sent.';
+            echo 'Mailer Error: ', $autoReply->ErrorInfo;
+        }
+        // End of auto-reply code
 
 
     } catch (Exception $e) {

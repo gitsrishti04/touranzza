@@ -1,82 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Taj Nirvana Tours</title>
-<!-- favicons Icons -->
-<link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-<link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-<meta name="description" content="" />
-<!-- fonts -->
-<link rel="preconnect" href="https://fonts.googleapis.com/">
-<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-<link rel="preconnect" href="https://fonts.googleapis.com/">
-<link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&amp;display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
-<link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
-<link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
-<link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
-<link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
-<link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
-<link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
-<link rel="stylesheet" href="assets/vendors/nouislider/nouislider.min.css" />
-<link rel="stylesheet" href="assets/vendors/nouislider/nouislider.pips.css" />
-<link rel="stylesheet" href="assets/vendors/tiny-slider/tiny-slider.css" />
-<link rel="stylesheet" href="assets/vendors/trevlo-icons/style.css" />
-<link rel="stylesheet" href="assets/vendors/daterangepicker-master/daterangepicker.css" />
-<link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.carousel.min.css" />
-<link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
-<!-- template styles -->
-<link rel="stylesheet" href="assets/css/trevlo.css" />
-<link rel="stylesheet" href="assets/css/influxinfotech.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Touranzza</title>
+    <!-- favicons Icons -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
+    <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+    <meta name="description" content="" />
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
+    <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
+    <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
+    <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
+    <link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
+    <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.min.css" />
+    <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.pips.css" />
+    <link rel="stylesheet" href="assets/vendors/tiny-slider/tiny-slider.css" />
+    <link rel="stylesheet" href="assets/vendors/trevlo-icons/style.css" />
+    <link rel="stylesheet" href="assets/vendors/daterangepicker-master/daterangepicker.css" />
+    <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.carousel.min.css" />
+    <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
+    <!-- template styles -->
+    <link rel="stylesheet" href="assets/css/trevlo.css" />
+    <link rel="stylesheet" href="assets/css/influxinfotech.css" />
 </head>
+
 <body>
-<!-- PAGE STARTS -->
-<div class="page-wrapper">
-<?php include ("header.php") ?>
-<section class="page-header">
-    <div class="page-header__bg raj"></div>
-    <!-- /.page-header__bg -->
-    <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Rajasthan Tours</h2>
-        <div class="page-header__breadcrumb-box">
-            <ul class="trevlo-breadcrumb">
-                <li><a href="index.php">Home</a></li>
-                <li>Rajasthan Tours</li>
-            </ul><!-- /.trevlo-breadcrumb -->
-        </div><!-- /.page-header__breadcrumb-box -->
-    </div><!-- /.container -->
-</section><!-- /.page-header -->
+    <!-- PAGE STARTS -->
+    <div class="page-wrapper">
+        <?php include("header.php") ?>
+        <section class="page-header">
+            <div class="page-header__bg raj"></div>
+            <!-- /.page-header__bg -->
+            <div class="container">
+                <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+                    Rajasthan Tours</h2>
+                <div class="page-header__breadcrumb-box">
+                    <ul class="trevlo-breadcrumb">
+                        <li><a href="index.php">Home</a></li>
+                        <li>Rajasthan Tours</li>
+                    </ul><!-- /.trevlo-breadcrumb -->
+                </div><!-- /.page-header__breadcrumb-box -->
+            </div><!-- /.container -->
+        </section><!-- /.page-header -->
 
-<!-- About Four Start -->
-<!-- About Four End -->
+        <!-- About Four Start -->
+        <!-- About Four End -->
 
-<!-- CTA Two Start -->
-<!-- CTA Two End -->
-<!-- Tour Listing Page One Start -->
-<section class="tour-listing-one tour-listing section-space">
+        <!-- CTA Two Start -->
+        <!-- CTA Two End -->
+        <!-- Tour Listing Page One Start -->
+        <section class="tour-listing-one tour-listing section-space">
             <div class="container">
                 <div class="row">
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="rajasthan-heritage-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/rajasthan-heritage-tour.jpg" alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/rajasthan-heritage-tour.jpg"
+                                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -95,12 +106,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="rajasthan-heritage-tour.php">Rajasthan Heritage Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="rajasthan-heritage-tour.php">Rajasthan
+                                        Heritage Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -108,7 +122,9 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - MANDAWA - BIKANER - JAISALMER - LODURVA - JODHOPUR - RANAKPUR - UDAIPUR PUSHKAR - JAIPUR - AGRA - DELHI</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - MANDAWA -
+                                            BIKANER - JAISALMER - LODURVA - JODHOPUR - RANAKPUR - UDAIPUR PUSHKAR -
+                                            JAIPUR - AGRA - DELHI</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -130,20 +146,25 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="rajasthan-village-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-3.jpg" alt="assets/images/tours/tour-3-2.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/jaipur-tour-3.jpg" alt="assets/images/tours/tour-3-2.jpg"
+                                    class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-2.jpg"
@@ -162,12 +183,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="rajasthan-village-tour.php">Rajasthan Village Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="rajasthan-village-tour.php">Rajasthan
+                                        Village Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -175,7 +199,9 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - MANDAWA - BIKANER - JAISALMER - LODURVA - JODHOPUR - RANAKPUR - UDAIPUR PUSHKAR - JAIPUR - AGRA - DELHI</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - MANDAWA -
+                                            BIKANER - JAISALMER - LODURVA - JODHOPUR - RANAKPUR - UDAIPUR PUSHKAR -
+                                            JAIPUR - AGRA - DELHI</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -197,20 +223,25 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="colorful-rajasthan-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/colorful-rajasthan.jpg" alt="assets/images/tours/tour-3-3.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/colorful-rajasthan.jpg"
+                                    alt="assets/images/tours/tour-3-3.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-3.jpg"
@@ -229,12 +260,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="colorful-rajasthan-tour.php">Colorful Rajasthan Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="colorful-rajasthan-tour.php">Colorful
+                                        Rajasthan Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -242,7 +276,8 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR - JODHOPUR - RANAKPUR - UDAIPUR - PUSHKAR</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR -
+                                            JODHOPUR - RANAKPUR - UDAIPUR - PUSHKAR</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -264,20 +299,25 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="cultural-tour-of-rajasthan.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-2.jpg" alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/jaipur-tour-2.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-4.jpg"
@@ -296,12 +336,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="cultural-tour-of-rajasthan.php">Cultural Tour Of Rajasthan</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="cultural-tour-of-rajasthan.php">Cultural
+                                        Tour Of Rajasthan</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -309,7 +352,8 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR - MANDAWA - BIKANER - JAISALMER - JODHPUR - JODHPUR - UDAIPUR</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR -
+                                            MANDAWA - BIKANER - JAISALMER - JODHPUR - JODHPUR - UDAIPUR</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -325,26 +369,31 @@
                                         </div><!-- /.tour-listing__card-bottom-left -->
                                         <div class="tour-listing__card-bottom-right">
                                             <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                            </div><!-- /.tour-listing__card-bottom-right -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
                                     </div><!-- /.tour-listing__card-bottom -->
                                 </div><!-- /.tour-listing__card-inner-content -->
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="best-rajasthan-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.jpg" alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/jaipur-tour-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-4.jpg"
@@ -363,12 +412,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="best-rajasthan-tour.php">Best Rajasthan Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="best-rajasthan-tour.php">Best Rajasthan
+                                        Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -376,7 +428,8 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - UDAIPUR - RANAKPUR - JODHPUR - JAISALMER - BIKANER - JAIPUR - AGRA - DELHI</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - UDAIPUR -
+                                            RANAKPUR - JODHPUR - JAISALMER - BIKANER - JAIPUR - AGRA - DELHI</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -392,26 +445,31 @@
                                         </div><!-- /.tour-listing__card-bottom-left -->
                                         <div class="tour-listing__card-bottom-right">
                                             <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                            </div><!-- /.tour-listing__card-bottom-right -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
                                     </div><!-- /.tour-listing__card-bottom -->
                                 </div><!-- /.tour-listing__card-inner-content -->
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="desert-tour-rajasthan.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-4.jpg"
@@ -430,12 +488,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan.php">Desert Tour Rajasthan</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan.php">Desert Tour
+                                        Rajasthan</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -443,7 +504,8 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - MANADAWA - BIKANER - JAISALMER - JODHPUR</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - MANADAWA -
+                                            BIKANER - JAISALMER - JODHPUR</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -459,26 +521,31 @@
                                         </div><!-- /.tour-listing__card-bottom-left -->
                                         <div class="tour-listing__card-bottom-right">
                                             <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                            </div><!-- /.tour-listing__card-bottom-right -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
                                     </div><!-- /.tour-listing__card-bottom -->
                                 </div><!-- /.tour-listing__card-inner-content -->
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="fort-and-palaces-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/fort-and-palaces-tour.jpg" alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/fort-and-palaces-tour.jpg"
+                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-4.jpg"
@@ -497,12 +564,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="fort-and-palaces-tour.php">Fort And Palaces Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="fort-and-palaces-tour.php">Fort And
+                                        Palaces Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -510,7 +580,8 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small">  DELHI - JAIPUR - AJMER - PUSHKAR - UDAIPUR - MOUNT ABU - JODHPUR - UDAIPUR</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - JAIPUR - AJMER -
+                                            PUSHKAR - UDAIPUR - MOUNT ABU - JODHPUR - UDAIPUR</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -526,26 +597,31 @@
                                         </div><!-- /.tour-listing__card-bottom-left -->
                                         <div class="tour-listing__card-bottom-right">
                                             <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                            </div><!-- /.tour-listing__card-bottom-right -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
                                     </div><!-- /.tour-listing__card-bottom -->
                                 </div><!-- /.tour-listing__card-inner-content -->
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="royal-rajasthan-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/fort-and-palaces-tour2.jpg" alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/fort-and-palaces-tour2.jpg"
+                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-4.jpg"
@@ -564,12 +640,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour.php">Royal Rajasthan Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour.php">Royal Rajasthan
+                                        Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -577,7 +656,8 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small">  DELHI - AGRA - JAIPUR - JODHPUR - UDAIPUR</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR -
+                                            JODHPUR - UDAIPUR</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -593,26 +673,31 @@
                                         </div><!-- /.tour-listing__card-bottom-left -->
                                         <div class="tour-listing__card-bottom-right">
                                             <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                            </div><!-- /.tour-listing__card-bottom-right -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
                                     </div><!-- /.tour-listing__card-bottom -->
                                 </div><!-- /.tour-listing__card-inner-content -->
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="historical-rajasthan-tour.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/historical-rajasthan-tour.jpg" alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/historical-rajasthan-tour.jpg"
+                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div><!-- /.tour-listing__card-image-overlay -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
                             </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-4.jpg"
@@ -631,12 +716,15 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="tour-listing__card-camera-btn video-popup">
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="historical-rajasthan-tour.php">Historical Rajasthan Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum agtilable</p>
+                                <h3 class="tour-listing__card-title"><a href="historical-rajasthan-tour.php">Historical
+                                        Rajasthan Tour</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -644,7 +732,9 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR - SAMODE - RANTHAMBORE - BUNDI - CHITTORGARH - DUNGARPUR - UDAIPUR - KUMBHALGARH</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR -
+                                            SAMODE - RANTHAMBORE - BUNDI - CHITTORGARH - DUNGARPUR - UDAIPUR -
+                                            KUMBHALGARH</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -670,47 +760,49 @@
             </div><!-- /.container -->
         </section>
         <!-- Tour Listing Page One End -->
-<!-- Why Choose Two Start -->
-<!-- /.trevlo-progress -->
-        </div>
-<!-- /.col-lg-6 col-xl-6 -->
-<!-- /.col-lg-6 col-xl-6 -->
-       </div><!-- /.row -->
+        <!-- Why Choose Two Start -->
+        <!-- /.trevlo-progress -->
+    </div>
+    <!-- /.col-lg-6 col-xl-6 -->
+    <!-- /.col-lg-6 col-xl-6 -->
+    </div><!-- /.row -->
     </div><!-- /.container -->
-</section>
-<!-- Why Choose Two End -->
-<!-- Offer One Start -->
+    </section>
+    <!-- Why Choose Two End -->
+    <!-- Offer One Start -->
 
-<!-- Offer End Start -->
+    <!-- Offer End Start -->
 
-<!-- Counter One Start -->
-<?php include ("footer.php") ?>
-<a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
-<script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
-<script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
-<script src="assets/vendors/jarallax/jarallax.min.js"></script>
-<script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-<script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-<script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-<script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-<script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-<script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-<script src="assets/vendors/nouislider/nouislider.min.js"></script>
-<script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
-<script src="assets/vendors/wnumb/wNumb.min.js"></script>
-<script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
-<script src="assets/vendors/wow/wow.js"></script>
-<script src="assets/vendors/tilt/tilt.jquery.js"></script>
-<script src="assets/vendors/simpleParallax/simpleParallax.min.js"></script>
-<script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
-<script src="assets/vendors/isotope/isotope.js"></script>
-<script src="assets/vendors/countdown/countdown.min.js"></script>
-<script src="assets/vendors/daterangepicker-master/moment.min.js"></script>
-<script src="assets/vendors/daterangepicker-master/daterangepicker.js"></script>
-<script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
-<script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
-<!-- template js -->
-<script src="assets/js/trevlo.js"></script>
+    <!-- Counter One Start -->
+    <?php include("footer.php") ?>
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+            top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
+    <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
+    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
+    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="assets/vendors/wow/wow.js"></script>
+    <script src="assets/vendors/tilt/tilt.jquery.js"></script>
+    <script src="assets/vendors/simpleParallax/simpleParallax.min.js"></script>
+    <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
+    <script src="assets/vendors/isotope/isotope.js"></script>
+    <script src="assets/vendors/countdown/countdown.min.js"></script>
+    <script src="assets/vendors/daterangepicker-master/moment.min.js"></script>
+    <script src="assets/vendors/daterangepicker-master/daterangepicker.js"></script>
+    <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
+    <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
+    <!-- template js -->
+    <script src="assets/js/trevlo.js"></script>
 </body>
+
 </html>
