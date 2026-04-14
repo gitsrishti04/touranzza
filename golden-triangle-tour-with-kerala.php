@@ -90,17 +90,17 @@
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours1.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.jpg"
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/delhi-tours1.jpg"
+                            "src": "assets/images/tours/delhi-tours3.jpg"
                           },
                           {
-                            "src": "assets/images/tours/delhi-tours1.jpg"
+                            "src": "assets/images/tours/delhi-tours3.jpg"
                           }
                         ],
                         "gallery": {
@@ -114,17 +114,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-1.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.jpg"
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/agra-1.jpg"
+                            "src": "assets/images/tours/agra-3.jpg"
                           },
                           {
-                            "src": "assets/images/tours/agra-1.jpg"
+                            "src": "assets/images/tours/agra-3.jpg"
                           }
                         ],
                         "gallery": {
@@ -138,17 +138,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours1.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.jpg"
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/jaipur-tours1.jpg"
+                            "src": "assets/images/tours/jaipurtour2.jpg"
                           },
                           {
-                            "src": "assets/images/tours/jaipur-tours1.jpg"
+                            "src": "assets/images/tours/jaipurtour2.jpg"
                           }
                         ],
                         "gallery": {
@@ -162,17 +162,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/ranthambore-tour1.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.jpg"
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/ranthambore-tour1.jpg"
+                            "src": "assets/images/tours/jaipurtour1.jpg"
                           },
                           {
-                            "src": "assets/images/tours/ranthambore-tour1.jpg"
+                            "src": "assets/images/tours/jaipurtour1.jpg"
                           }
                         ],
                         "gallery": {
@@ -186,17 +186,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/ranthambore-tour.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/kerala-tours.jpg"
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/ranthambore-tour.jpg"
+                            "src": "assets/images/tours/kerala-tours.jpg"
                           },
                           {
-                            "src": "assets/images/tours/ranthambore-tour.jpg"
+                            "src": "assets/images/tours/kerala-tours.jpg"
                           }
                         ],
                         "gallery": {
@@ -218,7 +218,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Historical Rajasthan Tour</h1>
+                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour With Kerala</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -236,7 +236,7 @@
                   data-wow-duration="1500ms"> <span class="icon-clock-1"></span>
                   <div class="tour-listing-details__destination-info-title">
                     <h4 class="tour-listing-details__destination-info-top">Duration</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">14 Days</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">07 Days</h4>
                   </div>
                 </div>
                 <!-- /.tour-listing-details__destination-info -->
@@ -244,8 +244,7 @@
                   data-wow-duration="1500ms"> <span class="icon-location-1"></span>
                   <div class="tour-listing-details__destination-info-title">
                     <h4 class="tour-listing-details__destination-info-top">Location</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">DELHI - AGRA - JAIPUR - SAMODE -
-                      RANTHAMBORE - BUNDI - CHITTORGARH - DUNGARPUR - UDAIPUR - KUMBHALGARH</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">Delhi - Agra - Jaipur - Kerala</h4>
                   </div>
                 </div>
                 <!-- /.tour-listing-details__destination-info -->
@@ -307,8 +306,9 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Pick Up From Delhi Airport, You Will Be Welcomed By Our Company Representative And Then You
-                        Will Be Transferred To Hotel. Overnight Stay At Hotel In Delhi.</p>
+                      <p>First Day Of Golden Triangle Tour With Kerala. You Will Be Welcomed By Our Company
+                        Representative At Arrival On Delhi Airport And Then You Will Be Transferred To Hotel. Night Stay
+                        In Delhi Hotel.</p>
                     </div>
                   </div>
                 </div>
@@ -318,12 +318,10 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After Breakfast, Start Sightseeing Tour Of Old And New Delhi With Tour Guide. Visit Jama
-                        Masjid, Enjoy Rickshaw Ride In Chandni Chowk (Its Optional), Raj Ghat (Mahatma Gandhi Memorial),
-                        Enjoy Lunch In Local Restaurant. Later Visit India Gate (War Memorial), President House,
-                        Parliament House, Humuyuns Tomb, Qutub Minar (Tallest Minaret In India), Lotus Temple, Later
-                        Drive To Agra And Transfer To Hotel, Enjoy Dinner In Local Restaurant Or In Hotel. Overnight
-                        Stay At The Hotel In Agra.</p>
+                      <p>After Breakfast, Start Sightseeing Tour Of Delhi. In Old Delhi, Visit Jama Masjid, Red Fort,
+                        Chandni Chowk. Enjoy Lip Smacking Lunch In Local Restaurant. Later Start Sightseeing Of New
+                        Delhi Which Includes India Gate, Rastrapati Bhawan, Humuyuns Tomb, Qutub Minar. Later Drive To
+                        Agra And Transfer To Hotel, Enjoy Mouth Watering Dinner. Overnight Stay At Agra Hotel.</p>
                     </div>
                   </div>
                 </div>
@@ -333,12 +331,9 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>Pick Up From Hotel At 06:30 A.M., Proceed To Visit Taj Mahal (Enjoy Horse Carriage Ride Near
-                        Taj Mahal, Its Optional) With Our Tour Guide At Sunrise Time Then Come Back To Hotel For
-                        Breakfast. Check Out From Hotel. And Visit Agra Fort (A UNESCO World Heritage Site). Proceed To
-                        Jaipur Enroute Visit Fatehpur Sikri (Fort And Sufi's Place) And Also Enjoy Lunch In Local
-                        Restaurant. Arrive Jaipur, Transfer To Hotel, In The Evening Enjoy Dinner In Local Restaurant Or
-                        In Hotel. Overnight Stay At The Hotel In Jaipur.</p>
+                      <p>Pick Up From Hotel At 06:30 A.M., Leave To Visit Taj Mahal At Sunrise Time Then Come Back To
+                        Hotel For Having Healthy Breakfast. Check Out From Hotel. And Visit Agra Fort. Leave To Jaipur
+                        Via Fatehpur Sikri And Post Lunch. Overnight Stay At Jaipur Hotel.</p>
                     </div>
                   </div>
                 </div>
@@ -348,135 +343,77 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After Breakfast, Start Seeing Tour Of Jaipur At 08:00 A.M. With Our Tour Guide. Visit Amer Fort
-                        (Enjoy Elephant Ride In Amer Fort (Its Optional), Jal Mahal, Hawa Mahal (Window Palace), Enjoy
-                        Lunch In Local Restaurant, Later Visit City Palace(Museum 7 Palace Of Jaipur King), Observatory
-                        (Jantar Mantar), Old Pink City Walking Or Rickshaw Ride(As Per Your Interest), In The Evening
-                        Enjoy Dinner In Local Restaurant Or In Hotel. Overnight Stay At Hotel In Jaipur.</p>
+                      <p>After Breakfast, Start Sightseeing Tour Of Jaipur At 08:00 A.M. With Our Tour Guide. Explore
+                        Stunning Amer Fort With Enthralling Elephant Ride, Hawa Mahal, Drive Past Jal Mahal. Enjoy Mouth
+                        Watering Lunch, Later Visit Jantar Mantar, City Palace.Enjoy Shopping In Local Market. Overnight
+                        Stay At Jaipur Hotel.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 5</span> Jaipur - Samode - Jaipur (50 KMS)</h4>
+                    <h4><span>Day 5</span> Jaipur - Kerala (By Flight)</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After Breakfast, Proceed To Day Return Trip To Samode, Famous For Its Haveli And Fort. Enjoy
-                        Lunch At Samode Palace Or Samode Bagh (Optional) , Back To Jaipur, Overnight Stay At Hotel In
-                        Jaipur.</p>
+                      <p>After Breakfast, Transfer To Jaipur Airport To Catch Flight For Kerala, You Will Be Greet And
+                        Pick Up By Our Executive On Kerala Airport. Upon Arrival Check Into Your Pre Booked Hotel.
+                        Overnight Stay At Kerala Hotel.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 6</span> Jaipur - Ranthambore (150 KMS)</h4>
+                    <h4><span>Day 6</span> Kerala</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After Breakfast, Drive To Ranthambore, Arrive Ranthambore, Check In Hotel, In The Afternoon
-                        Enjoy Jungle Ride In Ranthambore National Park, Back To Hotel, Overnight Stay At Hotel In
-                        Ranthambore.</p>
+                      <p>After Breakfast, Get Ready For Sightseeing Tour Of Kerala, Explore The Beauty Of Prince Of
+                        Wales Museum, Gateway Of India, Enjoy Photo Stop At Dhobi Ghat Followed By Enthralling Marine
+                        Drive And Chowpatty Beach. Overnight Stay At Kerala Hotel.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 7</span> Ranthambore</h4>
+                    <h4><span>Day 7</span> Kerala</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>Enjoy Morning And Afternoon Jungle Ride In Ranthambore National Park, Overnight Stay At Hotel
-                        In Ranthambore.</p>
+                      <p>After Breakfast, Transfer To Kerala Airport To Catch Flight For Home.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 8</span> Ranthambore - Bundi (140 KMS)</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>After Breakfast, Drive To Bundi, Arrive Bundi, Check In Hotel, In The Afternoon Visit Local
-                        Market In Bundi. Bundi Is A Historic Rajasthani Town Famous For Its Impressive Fort And Colorful
-                        Bazaars. Visit Taragarh Fort, Bundi Palace, Chhattar Mahal, Chitrashala, Step-Wells Of Bundi,
-                        Overnight Stay At Hotel In Bundi.</p>
-                    </div>
+                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title">
+                  <h4><span>Day 8</span> Haridwar - Delhi (200 KMS)</h4>
+                </div>
+                <div class="accrodion-content" style="display: none;">
+                  <div class="inner">
+                    <p>Proceed To Delhi As Per Your Flight Schedule, Transfer To Delhi Airport To Board Flight For Onward Destination With Sweet Memories Of Delhi Agra Jaipur Haridwar Rishikest Tour.</p>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 9</span> Bundi - Chittorgarh (150 KMS)</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>After Breakfast, Drive To Chittorgarh, Check In Hotel, Start Sightseeing Tour Of Chittorgarh
-                        With Tour Guide, Visit Chittorgarh Fort, Vijay Stambha, Kirti Stambh, Meera Temple, Padmini's
-                        Palace, Rana Kumbha Palace, Fateh Prakash Palace Museum, Overnight Stay At Hotel In Chittorgarh.
-                      </p>
-                    </div>
+              </div> -->
+                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title">
+                  <h4><span>Day 9</span> Goa Departure</h4>
+                </div>
+                <div class="accrodion-content" style="display: none;">
+                  <div class="inner">
+                    <p>Transfer To Goa Airport To Board Flight For Kerala Or Delhi With Sweet Memories Of Golden Triangle Tour With Goa.</p>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 10</span> Jaisalmer</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>Morning proceed for camel safari. Lunch & dinner enroute on camel safari. Night stay in
-                        Jaisalmer.</p>
-                    </div>
+              </div> -->
+                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title">
+                  <h4><span>Day 10</span> Delhi</h4>
+                </div>
+                <div class="accrodion-content" style="display: none;">
+                  <div class="inner">
+                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 11</span> Dungarpur - Udaipur (110 KMS)</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>After Breakfast, Start Sightseeing Tour Of Udaipur With Tour Guide Visit City Palace, Jagdish
-                        Temple, Bagore Ki Haveli, Saheliyon Ki Bari, Bhartiya Lok Kala Mandal And Shilp Gram, Overnight
-                        Stay At Hotel In Udaipur.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 12</span> Udaipur</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>After Breakfast, Start Sightseeing Tour Of Jaisalmer With Tour Guide, Visit Jaisalmer Fort,
-                        Jain Temple, Patwa Haveli. In The Evening Get A Unique Experience Of Desert By Overnight Stay In
-                        Tented Accommodation In Sand Dunes With Cultural Progam Like Folk Dance. Overnight Stay In
-                        Desert Camp.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 13</span> Udaipur - Kumbhalgarh - Udaipur (105 KMS)</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>After Breakfast, Drive To Kumbhalgarh, Arrive Kumbhalgarh, Check In Hotel, Visit Kumbhalgarh
-                        Fort And After Lunch, Enjoy Trip Of Ranakpur For Its 1444 Differently Carved Pillars Of Jain
-                        Temple Surrounded By Tremendous Valleys Of Aravali Ranges. Back To Udaipur, Overnight Stay At
-                        Hotel In Udaipur.</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h4><span>Day 14</span> Udaipur - Delhi (By Flight)</h4>
-                  </div>
-                  <div class="accrodion-content" style="display: none;">
-                    <div class="inner">
-                      <p>Transfer To Udaipur Airport As Per Your Flight Schedule To Board Flight For Onward Destination.
-                      </p>
-                    </div>
-                  </div>
-                </div>
+              </div> -->
               </div>
             </div>
             <div class="tour-listing-details__included">

@@ -69,6 +69,156 @@
         <section class="tour-listing-one tour-listing section-space">
             <div class="container">
                 <div class="row">
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-3-days.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/agrai-tour-1.jpg" alt="assets/images/tours/tour-3-1.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/delhi-tour-3.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/jaipur-tour-1.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/agratour2.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days.php">Golden
+                                        Triangle Tour 3 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">3 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-4-days.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/delhi-tour-1.jpg" alt="assets/images/tours/tour-3-2.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-2.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-3.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days.php">Golden
+                                        Triangle Tour 4 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">4 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$110</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
@@ -144,11 +294,11 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-ranthambore.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/gt8.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                            <a href="golden-triangle-tour-6-days.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/agrai-tour-3.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -186,9 +336,8 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-ranthambore.php">Golden Triangle Tour With
-                                        Ranthambore</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-6-days.php">Golden
+                                        Triangle Tour 6 Days</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
@@ -198,8 +347,82 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA -
-                                            RANTHAMBORE - JAIPUR - DELHI</p>
+                                        <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">6 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-7-days.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/delhi-tour-2.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-7-days.php">Golden
+                                        Triangle Tour 7 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -221,10 +444,11 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-rajasthan.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-ajmer-and-pushkar.php"
+                                class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -264,8 +488,8 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-rajasthan.php">Golden Triangle Tour With
-                                        Rajasthan</a></h3>
+                                        href="golden-triangle-tour-with-ajmer-and-pushkar.php">Golden Triangle Tour With
+                                        Ajmer Pushkar</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
@@ -275,16 +499,15 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small">DELHI - AGRA - FATEHPUR
-                                            SIKRI - JAIPUR - AJMER - PUSHKAR - UDAIPUR - JODHPUR - JAISALMER - BIKANER -
-                                            MANDAWA - DELHI</p>
+                                        <p class="tour-listing__card-location-text text-small">DELHI - AGRA - JAIPUR -
+                                            AJMER - PUSHKAR - DELHI</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
                                         <div class="tour-listing__card-bottom-left">
                                             <div class="tour-listing__card-day">
                                                 <span class="icon-clock-1"></span>
-                                                <p class="tour-listing__card-day-text text-small">9 Days</p>
+                                                <p class="tour-listing__card-day-text text-small">7 Days</p>
                                             </div><!-- /.tour-listing__card-day -->
                                             <div class="tour-listing__card-people">
                                                 <span class="icon-Duration"></span>
@@ -299,11 +522,11 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-varanasi.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/varanasi-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                            <a href="golden-triangle-tour-with-amritsar.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/amritsar.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -342,8 +565,8 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-varanasi.php">Golden Triangle Tour With
-                                        Varanasi</a></h3>
+                                        href="golden-triangle-tour-with-amritsar.php">Golden Triangle Tour With
+                                        Amritsar</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
@@ -353,15 +576,15 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small">DELHI - JAIPUR - AGRA -
-                                            VARANASI</p>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR -
+                                            AMRITSAR - DELHI</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
                                         <div class="tour-listing__card-bottom-left">
                                             <div class="tour-listing__card-day">
                                                 <span class="icon-clock-1"></span>
-                                                <p class="tour-listing__card-day-text text-small">10 Days</p>
+                                                <p class="tour-listing__card-day-text text-small">9 Days</p>
                                             </div><!-- /.tour-listing__card-day -->
                                             <div class="tour-listing__card-people">
                                                 <span class="icon-Duration"></span>
@@ -376,85 +599,7 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                        data-wow-duration="1500ms">
-                        <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-orchha-khajuraho.php"
-                                class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/orchha-khajuraho.jpg"
-                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
-                                <div class="tour-listing__card-btn-group">
-
-                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
-                                </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div>
-                                <!-- /.tour-listing__card-image-overlay -->
-                            </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                                    class="icon-heart"></span></a>
-                            <div class="tour-listing__card-content">
-                                <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.jpg"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
-                                        <span class="icon-photo-camera-1"></span>
-                                    </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                        class="tour-listing__card-camera-btn video-popup">
-                                        <span class="icon-video-camera-1-1"></span>
-                                    </a>
-                                </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-orchha-khajuraho.php">Golden Triangle Tour With
-                                        Orchha Khajuraho</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
-                                <div class="tour-listing__card-inner-content">
-                                    <div class="tour-listing__card-review-box">
-                                        <span class="icon-star"></span>
-                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
-                                    </div><!-- /.tour-listing__card-review-box -->
-                                    <div class="tour-listing__card-location-box">
-                                        <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - JAIPUR - AGRA -
-                                            JHANSI - ORCHHA - KHAJURAHO - DELHI</p>
-                                    </div><!-- /.tour-listing__card-location-box -->
-                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
-                                    <div class="tour-listing__card-bottom">
-                                        <div class="tour-listing__card-bottom-left">
-                                            <div class="tour-listing__card-day">
-                                                <span class="icon-clock-1"></span>
-                                                <p class="tour-listing__card-day-text text-small">10 Days</p>
-                                            </div><!-- /.tour-listing__card-day -->
-                                            <div class="tour-listing__card-people">
-                                                <span class="icon-Duration"></span>
-                                                <p class="tour-listing__card-people-text text-small">12+</p>
-                                            </div><!-- /.tour-listing__card-people -->
-                                        </div><!-- /.tour-listing__card-bottom-left -->
-                                        <div class="tour-listing__card-bottom-right">
-                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                        </div><!-- /.tour-listing__card-bottom-right -->
-                                    </div><!-- /.tour-listing__card-bottom -->
-                                </div><!-- /.tour-listing__card-inner-content -->
-                            </div><!-- /.tour-listing__card-content -->
-                        </div><!-- /.tour-listing__card -->
-                    </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-goa.php" class="tour-listing__card-image-box">
@@ -530,84 +675,7 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
-                        data-wow-duration="1500ms">
-                        <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-mumbai.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/mumbai.jpg" alt="assets/images/tours/tour-3-4.jpg"
-                                    class="tour-listing__card-image">
-                                <div class="tour-listing__card-btn-group">
-
-                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
-                                </div><!-- /.tour-listing__card-btn-group -->
-                                <div class="tour-listing__card-image-overlay"></div>
-                                <!-- /.tour-listing__card-image-overlay -->
-                            </a><!-- /.tour-listing__card-image-box -->
-                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
-                                    class="icon-heart"></span></a>
-                            <div class="tour-listing__card-content">
-                                <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.jpg"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
-                                        <span class="icon-photo-camera-1"></span>
-                                    </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
-                                        class="tour-listing__card-camera-btn video-popup">
-                                        <span class="icon-video-camera-1-1"></span>
-                                    </a>
-                                </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-mumbai.php">Golden Triangle Tour With Mumbai</a>
-                                </h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
-                                <div class="tour-listing__card-inner-content">
-                                    <div class="tour-listing__card-review-box">
-                                        <span class="icon-star"></span>
-                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
-                                    </div><!-- /.tour-listing__card-review-box -->
-                                    <div class="tour-listing__card-location-box">
-                                        <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small">DELHI - AGRA - JAIPUR -
-                                            MUMBAI</p>
-                                    </div><!-- /.tour-listing__card-location-box -->
-                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
-                                    <div class="tour-listing__card-bottom">
-                                        <div class="tour-listing__card-bottom-left">
-                                            <div class="tour-listing__card-day">
-                                                <span class="icon-clock-1"></span>
-                                                <p class="tour-listing__card-day-text text-small">7 Days</p>
-                                            </div><!-- /.tour-listing__card-day -->
-                                            <div class="tour-listing__card-people">
-                                                <span class="icon-Duration"></span>
-                                                <p class="tour-listing__card-people-text text-small">12+</p>
-                                            </div><!-- /.tour-listing__card-people -->
-                                        </div><!-- /.tour-listing__card-bottom-left -->
-                                        <div class="tour-listing__card-bottom-right">
-                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
-                                        </div><!-- /.tour-listing__card-bottom-right -->
-                                    </div><!-- /.tour-listing__card-bottom -->
-                                </div><!-- /.tour-listing__card-inner-content -->
-                            </div><!-- /.tour-listing__card-content -->
-                        </div><!-- /.tour-listing__card -->
-                    </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-haridwar-and-rishikesh.php"
@@ -685,11 +753,11 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-<div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-amritsar.php" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/amritsar.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                            <a href="golden-triangle-tour-with-mumbai.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/mumbai.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -728,8 +796,8 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-amritsar.php">Golden Triangle Tour With
-                                        Amritsar</a></h3>
+                                        href="golden-triangle-tour-with-mumbai.php">Golden Triangle Tour With Mumbai</a>
+                                </h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
@@ -739,8 +807,242 @@
                                     </div><!-- /.tour-listing__card-review-box -->
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
-                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA - JAIPUR -
-                                            AMRITSAR - DELHI</p>
+                                        <p class="tour-listing__card-location-text text-small">DELHI - AGRA - JAIPUR -
+                                            MUMBAI</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">7 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-orchha-khajuraho.php"
+                                class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/orchha-khajuraho.jpg"
+                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a
+                                        href="golden-triangle-tour-with-orchha-khajuraho.php">Golden Triangle Tour With
+                                        Orchha Khajuraho</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - JAIPUR - AGRA -
+                                            JHANSI - ORCHHA - KHAJURAHO - DELHI</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">10 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi.php"
+                                class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/varanasi-2.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a
+                                        href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi.php">Golden
+                                        Triangle Tour With Orchha, Khajuraho And Varanasi</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - JAIPUR -
+                                            FATEHPUR SIKRI - AGRA - ORCHHA - KHAJURAHO - VARANASI</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">12 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-rajasthan.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a
+                                        href="golden-triangle-tour-with-rajasthan.php">Golden Triangle Tour With
+                                        Rajasthan</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small">DELHI - AGRA - FATEHPUR
+                                            SIKRI - JAIPUR - AJMER - PUSHKAR - UDAIPUR - JODHPUR - JAISALMER - BIKANER -
+                                            MANDAWA - DELHI</p>
                                     </div><!-- /.tour-listing__card-location-box -->
                                     <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
                                     <div class="tour-listing__card-bottom">
@@ -762,7 +1064,238 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
-</div><!-- /.row -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-ranthambore.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/gt8.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a
+                                        href="golden-triangle-tour-with-ranthambore.php">Golden Triangle Tour With
+                                        Ranthambore</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small"> DELHI - AGRA -
+                                            RANTHAMBORE - JAIPUR - DELHI</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">7 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-udaipur.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/udaipur.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a
+                                        href="golden-triangle-tour-with-udaipur.php">Golden Triangle Tour With
+                                        Udaipur</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small">DELHI - AGRA - JAIPUR -
+                                            UDAIPUR</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">7 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-varanasi.php" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/varanasi-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div><!-- /.tour-listing__card-btn-group -->
+                                <div class="tour-listing__card-image-overlay"></div>
+                                <!-- /.tour-listing__card-image-overlay -->
+                            </a><!-- /.tour-listing__card-image-box -->
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span
+                                    class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <div class="tour-listing__card-camera-group">
+                                    <a href="javascript:void(0);"
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                "items": [
+                  {
+                    "src": "assets/images/tours/tour-3-4.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-5.jpg"
+                  },
+                  {
+                    "src": "assets/images/tours/tour-3-6.jpg"
+                  }
+                ],
+                "gallery": {
+                  "enabled": true
+                },
+                "type": "image"
+            }'>
+                                        <span class="icon-photo-camera-1"></span>
+                                    </a>
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                        class="tour-listing__card-camera-btn video-popup">
+                                        <span class="icon-video-camera-1-1"></span>
+                                    </a>
+                                </div><!-- /.tour-listing__card-camera-group -->
+                                <h3 class="tour-listing__card-title"><a
+                                        href="golden-triangle-tour-with-varanasi.php">Golden Triangle Tour With
+                                        Varanasi</a></h3>
+                                <p class="tour-listing__card-text text-small">There are many variations of passages of
+                                    Lorem Ipsum agtilable</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box">
+                                        <span class="icon-star"></span>
+                                        <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                                    </div><!-- /.tour-listing__card-review-box -->
+                                    <div class="tour-listing__card-location-box">
+                                        <span class="icon-location-1"></span>
+                                        <p class="tour-listing__card-location-text text-small">DELHI - JAIPUR - AGRA -
+                                            VARANASI</p>
+                                    </div><!-- /.tour-listing__card-location-box -->
+                                    <div class="tour-listing__card-divider"></div><!-- /.tour-listing__card-divider -->
+                                    <div class="tour-listing__card-bottom">
+                                        <div class="tour-listing__card-bottom-left">
+                                            <div class="tour-listing__card-day">
+                                                <span class="icon-clock-1"></span>
+                                                <p class="tour-listing__card-day-text text-small">10 Days</p>
+                                            </div><!-- /.tour-listing__card-day -->
+                                            <div class="tour-listing__card-people">
+                                                <span class="icon-Duration"></span>
+                                                <p class="tour-listing__card-people-text text-small">12+</p>
+                                            </div><!-- /.tour-listing__card-people -->
+                                        </div><!-- /.tour-listing__card-bottom-left -->
+                                        <div class="tour-listing__card-bottom-right">
+                                            <!-- <h4 class="tour-listing__card-price">$170</h4> -->
+                                        </div><!-- /.tour-listing__card-bottom-right -->
+                                    </div><!-- /.tour-listing__card-bottom -->
+                                </div><!-- /.tour-listing__card-inner-content -->
+                            </div><!-- /.tour-listing__card-content -->
+                        </div><!-- /.tour-listing__card -->
+                    </div><!-- /.col-xl-4 col-md-6 -->
+                </div><!-- /.row -->
             </div><!-- /.container -->
         </section>
         <!-- Tour Listing Page One End -->

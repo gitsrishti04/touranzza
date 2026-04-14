@@ -136,7 +136,7 @@
 
       call_to_action: "Message us", // Call to action
 
-      position: "left", // Position may be 'right' or 'left'
+      position: "right", // Position may be 'right' or 'left'
 
     };
 
@@ -157,6 +157,31 @@
     x.parentNode.insertBefore(s, x);
 
   })();
+
+  // Foolproof way to move the WhatsApp widget up after it loads
+  let waInterval = setInterval(function() {
+    let widgets = document.querySelectorAll('div[id^="gb-widget"], div[id^="getbutton"], .sc-1bdw2h6-0, iframe[src*="getbutton"]');
+    
+    // Also try to find it by z-index if ID fails
+    if (widgets.length === 0) {
+       let allDivs = document.body.children;
+       for (let i = 0; i < allDivs.length; i++) {
+           let zIndex = window.getComputedStyle(allDivs[i]).zIndex;
+           if (zIndex > 2147480000 && allDivs[i].style.bottom !== "") {
+               widgets = [allDivs[i]];
+               break;
+           }
+       }
+    }
+
+    if (widgets.length > 0) {
+      widgets.forEach(function(widget) {
+          widget.style.setProperty('bottom', '85px', 'important');
+      });
+      // Clear interval after 5 seconds to stop running
+      setTimeout(() => clearInterval(waInterval), 5000);
+    }
+  }, 500);
 </script>
 
 <!-- /GetButton.io widget -->

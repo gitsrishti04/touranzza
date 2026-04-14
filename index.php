@@ -21,6 +21,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap"
     rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;1,400&amp;display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
   <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -38,6 +40,136 @@
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
   <link rel="stylesheet" href="assets/css/influxinfotech.css" />
+  <style>
+    /* ── Luxury font for slider subtitle ── */
+    .main-slider-one__sub-title {
+      font-family: 'Playfair Display SC', serif !important;
+      font-size: 18px !important;
+      letter-spacing: 1.5px !important;
+      text-transform: capitalize !important;
+    }
+
+    /* ── Shift yellow decorative shape under "Touranzza" ── */
+    .main-slider-one__title img {
+      transform: translate(280px, -40px) !important;
+      /* First value (260px) moves right/left, second value (-25px) moves up/down */
+    }
+
+    /* ── Increase size of ALL Yellow Section Taglines ── */
+    .sec-title__tagline {
+      font-size: 22px !important;
+      letter-spacing: 2px !important;
+    }
+
+    /* ── Mandala art background for white sections ── */
+    .tour-listing-one,
+    .gallery-one,
+    .blog-one {
+      position: relative;
+      background-color: #ffffff;
+    }
+
+    /* Tour listing — slightly more visible */
+    .tour-listing-one::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image: url('assets/images/backgrounds/mandala-bg.png');
+      background-size: 600px 600px;
+      background-repeat: repeat;
+      opacity: 0.28;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* Gallery & Most Popular Tours — very subtle */
+    .gallery-one::before,
+    .blog-one::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image: url('assets/images/backgrounds/mandala-bg.png');
+      background-size: 600px 600px;
+      background-repeat: repeat;
+      opacity: 0.30;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .tour-listing-one>*,
+    .gallery-one>*,
+    .blog-one>* {
+      position: relative;
+      z-index: 1;
+    }
+
+    /* ── Consistent box shape regardless of content ── */
+    .why-choose-one__box {
+      display: flex;
+      flex-direction: column;
+      min-height: 180px;
+    }
+
+    .why-choose-one__box__title {
+      flex: 1;
+    }
+
+    /* ── Custom why-choose icons: black PNG → golden yellow ── */
+    .why-choose-custom-icon {
+      width: 60px;
+      height: 60px;
+      object-fit: contain;
+      filter: brightness(0) saturate(100%) invert(72%) sepia(80%) saturate(500%) hue-rotate(5deg) brightness(105%);
+    }
+
+    /* ── Section spacing normalisation ── */
+    .tour-listing-one {
+      padding: 80px 0;
+    }
+
+    /* Gallery → reduced top, tight bottom so Most Popular feels closer */
+    .gallery-one {
+      padding: 30px 0 30px;
+    }
+
+    /* Most Popular Tours → reduced top to sit snug under gallery */
+    .blog-one {
+      padding: 30px 0 80px;
+    }
+
+    .why-choose-one {
+      padding: 80px 0;
+    }
+
+    /* Special Offer → extra bottom gap before Get to Know Us */
+    .offer-one {
+      padding-top: 80px;
+      padding-bottom: 120px;
+    }
+
+    /* Get to Know Us → extra top gap after Special Offer */
+    .benefit-one {
+      padding: 100px 0 80px;
+    }
+
+    /* Testimonials → squeezed bottom */
+    .testimonial-one {
+      padding: 80px 0 60px;
+    }
+
+    @media (max-width: 767px) {
+
+      .tour-listing-one,
+      .gallery-one,
+      .blog-one,
+      .why-choose-one,
+      .offer-one,
+      .benefit-one,
+      .testimonial-one {
+        padding: 50px 0;
+      }
+    }
+  </style>
 </head>
 
 <body>
@@ -157,7 +289,7 @@
     <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.jpg);">
       <div class="container">
         <div class="sec-title text-center">
-          <p class="sec-title__tagline">Most Favorite Places</p>
+          <p class="sec-title__tagline">Most Famous Tours</p>
           <!-- /.sec-title__tagline -->
           <h2 class="sec-title__title">Explore Golden Triangle Tours</h2>
           <!-- /.sec-title__title -->
@@ -170,7 +302,7 @@
             "items": 6,
             "margin": 30,
             "smartSpeed": 700,
-            "loop":false,
+            "loop":true,
             "autoplay": 3000,
             "nav":true,
             "dots":true,
@@ -781,140 +913,307 @@
       <!-- /.container -->
     </section>
     <!-- Tour Listing One End -->
-    <!-- Destination Start -->
-    <section class="destination-one">
+
+
+    <!-- Gallery One Start -->
+    <section class="gallery-one">
       <div class="container">
-
-        <!-- 🔹 Heading Row -->
-        <div class="row">
-          <div class="col-12 wow animated fadeInUp">
-            <div class="sec-title text-center">
-              <p class="sec-title__tagline">Best Short Tours</p>
-              <h2 class="sec-title__title">Explore the Beautiful Places in Same Day Trips</h2>
+        <div class="sec-title text-center wow animated fadeInUp" data-wow-delay="0.1s">
+          <p class="sec-title__tagline">Our Photo Gallery</p>
+          <h2 class="sec-title__title">Memories from Our Tours</h2>
+        </div>
+        <div class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-carousel owl-theme"
+          data-owl-options='{
+            "loop": true,
+            "items": 5,
+            "autoplay": true,
+            "autoplayTimeout": 4000,
+            "smartSpeed": 600,
+            "nav": true,
+            "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+            "dots": true,
+            "margin": 10,
+            "responsive": {
+              "0": { "items": 1 },
+              "576": { "items": 2 },
+              "992": { "items": 3 },
+              "1200": { "items": 4 },
+              "1400": { "items": 5 }
+            }
+          }'>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery1.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery1.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery2.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery2.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery3.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery3.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery4.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery4.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery5.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery5.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery6.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery6.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery7.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery7.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery8.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery8.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery9.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery9.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery10.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery10.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery11.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery11.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery12.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery12.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery13.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery13.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery14.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery14.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="gallery-single">
+              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery15.jpg" alt="gallery"
+                  class="gallery-single__img">
+                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery15.jpg"
+                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                      class="icon-plus"></span></a></div>
+              </div>
             </div>
           </div>
         </div>
-
-        <!-- 🔹 Cards Row -->
-        <div class="row justify-content-center">
-
-          <!-- Card 1 -->
-          <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp">
-            <div class="destination-one__card">
-              <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                <img src="assets/images/tours/sameday1.jpg" class="destination-one__card-img">
-                <div class="destination-one__card-overlay">
-                  <div class="destination-one__card-content">
-                    <a href="same-day-agra-tour-by-car.php" class="destination-one__card-btn">
-                      <span>Delhi - Agra - Delhi</span>
-                    </a>
-                    <h4 class="destination-one__card-title">
-                      <a href="same-day-agra-tour-by-car.php">Same Day Agra Tour by Car</a>
-                    </h4>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Card 2 -->
-          <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp">
-            <div class="destination-one__card">
-              <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                <img src="assets/images/tours/sameday4.jpg" class="destination-one__card-img">
-                <div class="destination-one__card-overlay">
-                  <div class="destination-one__card-content">
-                    <a href="same-day-delhi-tour.php" class="destination-one__card-btn">
-                      <span>Delhi</span>
-                    </a>
-                    <h4 class="destination-one__card-title">
-                      <a href="same-day-delhi-tour.php">Same Day Delhi Tour</a>
-                    </h4>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Card 3 -->
-          <div class="col-xl-4 col-lg-4 col-md-6 wow animated fadeInUp">
-            <div class="destination-one__card">
-              <div class="destination-one__card-img-box destination-one__card-img-box--round">
-                <img src="assets/images/tours/sameday5.jpg" class="destination-one__card-img">
-                <div class="destination-one__card-overlay">
-                  <div class="destination-one__card-content">
-                    <a href="same-day-jaipur-tour.php" class="destination-one__card-btn">
-                      <span>Delhi - Jaipur - Delhi</span>
-                    </a>
-                    <h4 class="destination-one__card-title">
-                      <a href="same-day-jaipur-tour.php">Same Day Jaipur Tour</a>
-                    </h4>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
+        <!-- /.gallery-one__carousel -->
       </div>
+      <!-- /.container -->
     </section>
-    <!-- Destination End -->
-
-    <!-- About Start -->
-    <!-- About End -->
-    <!-- Benefit One Start -->
-    <section class="benefit-one">
-      <div class="benefit-one__bg"></div>
-      <!-- /.benefit-bg -->
+    <!-- Gallery One End -->
+    <!-- blog-one Start -->
+    <div class="blog-one" style="padding-top: 30px;">
       <div class="container">
-        <div class="row">
-          <div class="col-lg-5">
-            <div class="benefit-one__content">
-              <div class="sec-title text-left">
-                <p class="sec-title__tagline">GET TO KNOW US</p>
-                <!-- /.sec-title__tagline -->
-                <h2 class="sec-title__title">Why You Should Choose Our Company</h2>
-                <!-- /.sec-title__title -->
-              </div>
-              <!-- /.sec-title -->
-              <!-- /.sec-title -->
-              <h5 class="benefit-one__content__heading">Best ways to enjoy adventures</h5>
-              <p class="benefit-one__content__text"> There are many variations of passages of Lorem Ipsum simply free
-                text
-                available, but the majority. </p>
-              <div class="benefit-one__box-wrapper">
-                <div class="benefit-one__box">
-                  <div class="benefit-one__box__icon"><span class="icon-airplane-1"></span></div>
-                  <h3 class="benefit-one__box__title">Professional & Certified</h3>
-                </div>
-                <!-- /.benefit-box -->
-                <div class="benefit-one__box">
-                  <div class="benefit-one__box__icon"><span class="icon-ticket-1"></span></div>
-                  <h3 class="benefit-one__box__title">Get Instant Tour Bookings</h3>
-                </div>
-                <!-- /.benefit-box -->
-              </div>
-              <a href="about.php" class="trevlo-btn"><span>Discover More</span></a>
-              <!-- /.button -->
-            </div>
-          </div>
-          <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
-            <div class="benefit-one__image"><img src="assets/images/resources/benefit-1-1.jpg" alt="trevlo"></div>
-            <div class="benefit-one__counter">
-              <div class="benefit-one__counter__icon"><span class="icon-satisfied"></span></div>
-              <!-- /.counter__icon -->
-              <div class="benefit-one__counter__number count-box"><span class="count-text" data-stop="3800"
-                  data-speed="1500"></span> </div>
-              <!-- /.counter__number -->
-              <p class="benefit-one__counter__title">Satisfied Customers</p>
-              <!-- /.counter__title -->
-            </div>
-          </div>
+        <div class="sec-title text-center">
+          <p class="sec-title__tagline">Explore Indian Culture</p>
+          <!-- /.sec-title__tagline -->
+          <h2 class="sec-title__title">Most Popular Tours</h2>
+          <!-- /.sec-title__title -->
         </div>
+        <!-- /.sec-title -->
+        <div class="blog-page__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-theme owl-carousel"
+          data-owl-options='{
+            "items": 5,
+            "margin": 30,
+            "smartSpeed": 700,
+            "loop":false,
+            "autoplay": 6000,
+            "nav":false,
+            "dots":true,
+            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "responsive":{
+                "0":{
+                    "items": 1
+                },
+                "768":{
+                    "items": 2
+                },
+                "1200":{
+                    "items": 3
+                }
+            }
+            }'>
+          <div class="item">
+            <div class="blog-card"> <a href="same-day-tours.php" class="blog-card__image-link"> <img
+                  src="assets/images/blog/blog-1-1.jpg" alt="You Should See Things when visiting Japan"
+                  class="blog-card__image">
+                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
+                <!-- /.blog-card__overlay -->
+              </a>
+              <!-- /.blog-card__image-link -->
+              <div class="blog-card__content">
+                <div class="blog-card__date">
+                  <h4 class="blog-card__date-number">01</h4>
+                  <h4 class="blog-card__date-month">Day</h4>
+                </div>
+                <!-- /.blog-card__meta -->
+                <h3 class="blog-card__title"><a href="same-day-tours.php">Same Day Tours</a></h3>
+                <!-- /.blog-card__title -->
+                <a href="same-day-tours.php" class="blog-card__link"> Read more <i
+                    class="fas fa-arrow-right"></i> </a>
+                <!-- /.blog-card__link -->
+              </div>
+              <!-- /.blog-card__content -->
+            </div>
+            <!-- /.blog-card -->
+          </div>
+          <!-- /.col-md-6 col-xl-4 -->
+          <div class="item">
+            <div class="blog-card"> <a href="golden-triangle-tours.php" class="blog-card__image-link"> <img
+                  src="assets/images/blog/blog-1-2.jpg" alt="You Should See Things when visiting Japan"
+                  class="blog-card__image">
+                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
+                <!-- /.blog-card__overlay -->
+              </a>
+              <!-- /.blog-card__image-link -->
+              <div class="blog-card__content">
+                <div class="blog-card__date">
+                  <h4 class="blog-card__date-number">All</h4>
+                  <h4 class="blog-card__date-month">Tours</h4>
+                </div>
+                <!-- /.blog-card__meta -->
+                <h3 class="blog-card__title"><a href="golden-triangle-tours.php">Golden Triangle Tours</a>
+                </h3>
+                <!-- /.blog-card__title -->
+                <a href="golden-triangle-tours.php" class="blog-card__link"> Read more <i
+                    class="fas fa-arrow-right"></i> </a>
+                <!-- /.blog-card__link -->
+              </div>
+              <!-- /.blog-card__content -->
+            </div>
+            <!-- /.blog-card -->
+          </div>
+          <!-- /.col-md-6 col-xl-4 -->
+          <div class="item">
+            <div class="blog-card"> <a href="rajasthan-tours.php" class="blog-card__image-link"> <img
+                  src="assets/images/blog/blog-1-3.jpg" alt="You Should See Things when visiting Japan"
+                  class="blog-card__image">
+                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
+                <!-- /.blog-card__overlay -->
+              </a>
+              <!-- /.blog-card__image-link -->
+              <div class="blog-card__content">
+                <div class="blog-card__date">
+                  <h4 class="blog-card__date-number">All</h4>
+                  <h4 class="blog-card__date-month">Tours</h4>
+                </div>
+                <!-- /.blog-card__meta -->
+                <h3 class="blog-card__title"><a href="rajasthan-tours.php">Rajasthan Tours</a></h3>
+                <!-- /.blog-card__title -->
+                <a href="rajasthan-tours.php" class="blog-card__link"> Read more <i
+                    class="fas fa-arrow-right"></i> </a>
+                <!-- /.blog-card__link -->
+              </div>
+              <!-- /.blog-card__content -->
+            </div>
+            <!-- /.blog-card -->
+          </div>
+          <!-- /.col-md-6 col-xl-4 -->
+        </div>
+        <!-- /.row -->
       </div>
-    </section>
-    <!-- Benefit One End -->
+      <!-- /.container -->
+    </div>
+    <!-- /.blog-one -->
+    <!-- blog-one End -->
+
+
     <section class="why-choose-one">
       <div class="why-choose-one__bg" style="background-image: url(assets/images/backgrounds/why-choose-bg-1.jpg);">
       </div>
@@ -943,8 +1242,10 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-1.png);"></div>
-              <div class="why-choose-one__box__icon"><span class="icon-wildlife"></span></div>
-              <h3 class="why-choose-one__box__title">tours less than 3 days</h3>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/taj-mahal.png" alt="Taj Mahal"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">One Day Tour</h3>
+              <a href="1-day-tours.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
             </div>
             <!-- /.why-choose-box -->
           </div>
@@ -952,8 +1253,10 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-2.png);"></div>
-              <div class="why-choose-one__box__icon"><span class="icon-paragliding-1"></span></div>
-              <h3 class="why-choose-one__box__title">tours less than 6 days</h3>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/city.png" alt="City"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">Under 3-5 Days Journey</h3>
+              <a href="3-to-5-days-tours.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
             </div>
             <!-- /.why-choose-box -->
           </div>
@@ -961,8 +1264,10 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-3.png);"></div>
-              <div class="why-choose-one__box__icon"><span class="icon-hiking-1"></span></div>
-              <h3 class="why-choose-one__box__title">tours less than 12 days</h3>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/temple.png" alt="Temple"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">6-10 days Expeditions</h3>
+              <a href="6-to-10-days-expeditions.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
             </div>
             <!-- /.why-choose-box -->
           </div>
@@ -970,8 +1275,10 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-4.png);"></div>
-              <div class="why-choose-one__box__icon"><span class="icon-hang-gliding-1"></span></div>
-              <h3 class="why-choose-one__box__title">tours more than 15 days</h3>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/tower.png" alt="Tower"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">10+ Days Grand Tours</h3>
+              <a href="10-plus-days-grand-tours.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
             </div>
             <!-- /.why-choose-box -->
           </div>
@@ -1004,7 +1311,8 @@
             <div class="offer-one__img-box">
               <div class="offer-one__inner-img-box"> <img src="assets/images/offer/offer-1-1.jpg" alt="offer"
                   class="offer-one__img-one"> <img src="assets/images/offer/offer-1-2.jpg" alt="offer"
-                  class="offer-one__img-three"> </div>
+                  class="offer-one__img-three" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1;">
+              </div>
               <!-- /.offer-one__inner-img-box -->
             </div>
             <!-- /.offer-one__img-box -->
@@ -1026,121 +1334,6 @@
       <!-- /.bg -->
     </section>
     <!-- Offer End Start -->
-    <!-- blog-one Start -->
-    <div class="blog-one">
-      <div class="container">
-        <div class="sec-title text-center">
-          <p class="sec-title__tagline">Explore Indian Culture</p>
-          <!-- /.sec-title__tagline -->
-          <h2 class="sec-title__title">Most Popular Tours</h2>
-          <!-- /.sec-title__title -->
-        </div>
-        <!-- /.sec-title -->
-        <div class="blog-page__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-theme owl-carousel"
-          data-owl-options='{
-            "items": 5,
-            "margin": 30,
-            "smartSpeed": 700,
-            "loop":false,
-            "autoplay": 6000,
-            "nav":false,
-            "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-            "responsive":{
-                "0":{
-                    "items": 1
-                },
-                "768":{
-                    "items": 2
-                },
-                "1200":{
-                    "items": 3
-                }
-            }
-            }'>
-          <div class="item">
-            <div class="blog-card"> <a href="same-day-agra-tour-by-car.php" class="blog-card__image-link"> <img
-                  src="assets/images/blog/blog-1-1.jpg" alt="You Should See Things when visiting Japan"
-                  class="blog-card__image">
-                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
-                <!-- /.blog-card__overlay -->
-              </a>
-              <!-- /.blog-card__image-link -->
-              <div class="blog-card__content">
-                <div class="blog-card__date">
-                  <h4 class="blog-card__date-number">01</h4>
-                  <h4 class="blog-card__date-month">Day</h4>
-                </div>
-                <!-- /.blog-card__meta -->
-                <h3 class="blog-card__title"><a href="same-day-agra-tour-by-car.php">Same Day Agra Tour by Car</a></h3>
-                <!-- /.blog-card__title -->
-                <a href="same-day-agra-tour-by-car.php" class="blog-card__link"> Read more <i
-                    class="fas fa-arrow-right"></i> </a>
-                <!-- /.blog-card__link -->
-              </div>
-              <!-- /.blog-card__content -->
-            </div>
-            <!-- /.blog-card -->
-          </div>
-          <!-- /.col-md-6 col-xl-4 -->
-          <div class="item">
-            <div class="blog-card"> <a href="golden-triangle-tour-4-days.php" class="blog-card__image-link"> <img
-                  src="assets/images/blog/blog-1-2.jpg" alt="You Should See Things when visiting Japan"
-                  class="blog-card__image">
-                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
-                <!-- /.blog-card__overlay -->
-              </a>
-              <!-- /.blog-card__image-link -->
-              <div class="blog-card__content">
-                <div class="blog-card__date">
-                  <h4 class="blog-card__date-number">04</h4>
-                  <h4 class="blog-card__date-month">Days</h4>
-                </div>
-                <!-- /.blog-card__meta -->
-                <h3 class="blog-card__title"><a href="golden-triangle-tour-4-days.php">Golden Triangle Tour 4 Days</a>
-                </h3>
-                <!-- /.blog-card__title -->
-                <a href="golden-triangle-tour-4-days.php" class="blog-card__link"> Read more <i
-                    class="fas fa-arrow-right"></i> </a>
-                <!-- /.blog-card__link -->
-              </div>
-              <!-- /.blog-card__content -->
-            </div>
-            <!-- /.blog-card -->
-          </div>
-          <!-- /.col-md-6 col-xl-4 -->
-          <div class="item">
-            <div class="blog-card"> <a href="cultural-tour-of-rajasthan.php" class="blog-card__image-link"> <img
-                  src="assets/images/blog/blog-1-3.jpg" alt="You Should See Things when visiting Japan"
-                  class="blog-card__image">
-                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
-                <!-- /.blog-card__overlay -->
-              </a>
-              <!-- /.blog-card__image-link -->
-              <div class="blog-card__content">
-                <div class="blog-card__date">
-                  <h4 class="blog-card__date-number">15</h4>
-                  <h4 class="blog-card__date-month">Days</h4>
-                </div>
-                <!-- /.blog-card__meta -->
-                <h3 class="blog-card__title"><a href="cultural-tour-of-rajasthan.php">Rajasthan Cultural Tour</a></h3>
-                <!-- /.blog-card__title -->
-                <a href="cultural-tour-of-rajasthan.php" class="blog-card__link"> Read more <i
-                    class="fas fa-arrow-right"></i> </a>
-                <!-- /.blog-card__link -->
-              </div>
-              <!-- /.blog-card__content -->
-            </div>
-            <!-- /.blog-card -->
-          </div>
-          <!-- /.col-md-6 col-xl-4 -->
-        </div>
-        <!-- /.row -->
-      </div>
-      <!-- /.container -->
-    </div>
-    <!-- /.blog-one -->
-    <!-- blog-one End -->
     <!-- <div class="client-carousel @@extraClassName">
     <div class="container">
       <h5 class="client-carousel__title"><span>2k + Brands Trust Us</span></h5>
@@ -1201,6 +1394,60 @@
     
   </div> -->
     <!-- /.client-carousel -->
+    <!-- About Start -->
+    <!-- About End -->
+    <!-- Benefit One Start -->
+    <section class="benefit-one">
+      <div class="benefit-one__bg"></div>
+      <!-- /.benefit-bg -->
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5">
+            <div class="benefit-one__content">
+              <div class="sec-title text-left">
+                <p class="sec-title__tagline">GET TO KNOW US</p>
+                <!-- /.sec-title__tagline -->
+                <h2 class="sec-title__title">Why You Should Choose Our Company</h2>
+                <!-- /.sec-title__title -->
+              </div>
+              <!-- /.sec-title -->
+              <!-- /.sec-title -->
+              <h5 class="benefit-one__content__heading">Best ways to enjoy adventures</h5>
+              <p class="benefit-one__content__text"> There are many variations of passages of Lorem Ipsum simply free
+                text
+                available, but the majority. </p>
+              <div class="benefit-one__box-wrapper">
+                <div class="benefit-one__box">
+                  <div class="benefit-one__box__icon"><span class="icon-airplane-1"></span></div>
+                  <h3 class="benefit-one__box__title">Professional & Certified</h3>
+                </div>
+                <!-- /.benefit-box -->
+                <div class="benefit-one__box">
+                  <div class="benefit-one__box__icon"><span class="icon-ticket-1"></span></div>
+                  <h3 class="benefit-one__box__title">Get Instant Tour Bookings</h3>
+                </div>
+                <!-- /.benefit-box -->
+              </div>
+              <a href="about.php" class="trevlo-btn"><span>Discover More</span></a>
+              <!-- /.button -->
+            </div>
+          </div>
+          <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
+            <div class="benefit-one__image"><img src="assets/images/resources/benefit-1-1.jpg" alt="trevlo"></div>
+            <div class="benefit-one__counter">
+              <div class="benefit-one__counter__icon"><span class="icon-satisfied"></span></div>
+              <!-- /.counter__icon -->
+              <div class="benefit-one__counter__number count-box"><span class="count-text" data-stop="5000"
+                  data-speed="1500"></span> </div>
+              <!-- /.counter__number -->
+              <p class="benefit-one__counter__title">Satisfied Customers</p>
+              <!-- /.counter__title -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Benefit One End -->
     <!-- Testimonial One Start -->
     <section class="testimonial-one testimonial-one--home">
       <div class="testimonial-one__bg" style="background-image: url(assets/images/shapes/testimonial-1-bg-2.png);">
