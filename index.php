@@ -61,16 +61,14 @@
       letter-spacing: 2px !important;
     }
 
-    /* ── Mandala art background for white sections ── */
-    .tour-listing-one,
-    .gallery-one,
-    .blog-one {
+    /* ── Mandala art background wrapper for white sections ── */
+    .mandala-bg-wrapper {
       position: relative;
       background-color: #ffffff;
+      overflow: hidden;
     }
 
-    /* Tour listing — slightly more visible */
-    .tour-listing-one::before {
+    .mandala-bg-wrapper::before {
       content: '';
       position: absolute;
       inset: 0;
@@ -82,25 +80,16 @@
       z-index: 0;
     }
 
-    /* Gallery & Most Popular Tours — very subtle */
-    .gallery-one::before,
-    .blog-one::before {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background-image: url('assets/images/backgrounds/mandala-bg.png');
-      background-size: 600px 600px;
-      background-repeat: repeat;
-      opacity: 0.30;
-      pointer-events: none;
-      z-index: 0;
-    }
-
-    .tour-listing-one>*,
-    .gallery-one>*,
-    .blog-one>* {
+    .mandala-bg-wrapper > * {
       position: relative;
       z-index: 1;
+    }
+
+    /* Clean up individual sections to use the common bg */
+    .tour-listing-one,
+    .gallery-one,
+    .blog-one {
+      background: transparent !important;
     }
 
     /* ── Consistent box shape regardless of content ── */
@@ -285,8 +274,10 @@
       <!-- banner-slider -->
     </section>
     <!-- main-slider-end -->
-    <!-- Tour Listing One Start -->
-    <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.jpg);">
+    <!-- MANDALA BACKGROUND WRAPPER START -->
+    <div class="mandala-bg-wrapper">
+      <!-- Tour Listing One Start -->
+      <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.jpg);">
       <div class="container">
         <div class="sec-title text-center">
           <p class="sec-title__tagline">Most Famous Tours</p>
@@ -916,13 +907,12 @@
 
 
     <!-- Gallery One Start -->
-    <section class="gallery-one">
+    <section class="gallery-one" style="padding: 4px 0 4px;">
       <div class="container">
-        <div class="sec-title text-center wow animated fadeInUp" data-wow-delay="0.1s">
-          <p class="sec-title__tagline">Our Photo Gallery</p>
-          <h2 class="sec-title__title">Memories from Our Tours</h2>
+        <div class="sec-title text-center wow animated fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 6px;">
+          <h2 class="sec-title__title" style="margin-bottom: 0;">Memories from Our Tours</h2>
         </div>
-        <div class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-carousel owl-theme"
+        <div class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav owl-carousel owl-theme"
           data-owl-options='{
             "loop": true,
             "items": 5,
@@ -931,7 +921,7 @@
             "smartSpeed": 600,
             "nav": true,
             "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
-            "dots": true,
+            "dots": false,
             "margin": 10,
             "responsive": {
               "0": { "items": 1 },
@@ -1145,8 +1135,7 @@
                 <!-- /.blog-card__meta -->
                 <h3 class="blog-card__title"><a href="same-day-tours.php">Same Day Tours</a></h3>
                 <!-- /.blog-card__title -->
-                <a href="same-day-tours.php" class="blog-card__link"> Read more <i
-                    class="fas fa-arrow-right"></i> </a>
+                <a href="same-day-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i> </a>
                 <!-- /.blog-card__link -->
               </div>
               <!-- /.blog-card__content -->
@@ -1196,8 +1185,7 @@
                 <!-- /.blog-card__meta -->
                 <h3 class="blog-card__title"><a href="rajasthan-tours.php">Rajasthan Tours</a></h3>
                 <!-- /.blog-card__title -->
-                <a href="rajasthan-tours.php" class="blog-card__link"> Read more <i
-                    class="fas fa-arrow-right"></i> </a>
+                <a href="rajasthan-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i> </a>
                 <!-- /.blog-card__link -->
               </div>
               <!-- /.blog-card__content -->
@@ -1211,82 +1199,10 @@
       <!-- /.container -->
     </div>
     <!-- /.blog-one -->
-    <!-- blog-one End -->
+    </div>
+    <!-- MANDALA BACKGROUND WRAPPER END -->
 
 
-    <section class="why-choose-one">
-      <div class="why-choose-one__bg" style="background-image: url(assets/images/backgrounds/why-choose-bg-1.jpg);">
-      </div>
-      <!-- /.why-choose__bg -->
-      <div class="container">
-        <div class="row">
-          <div class="col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-            <div class="sec-title text-left">
-              <p class="sec-title__tagline">Are you ready to travel</p>
-              <!-- /.sec-title__tagline -->
-              <h2 class="sec-title__title">Choose Our Tour Types<br>
-                & Enjoy Now</h2>
-              <!-- /.sec-title__title -->
-            </div>
-            <!-- /.sec-title -->
-            <!-- /.sec-title -->
-          </div>
-          <div class="col-xl-7 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-            <p class="why-choose-one__text"> There are many variations of passages of Lorem Ipsum available, but the
-              majority have
-              suffered alteradution in some form by injected humour, some form </p>
-          </div>
-        </div>
-        <div class="row gutter-y-30">
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-            <div class="why-choose-one__box">
-              <div class="why-choose-one__box__bg"
-                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-1.png);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/taj-mahal.png" alt="Taj Mahal"
-                  class="why-choose-custom-icon"></div>
-              <h3 class="why-choose-one__box__title">One Day Tour</h3>
-              <a href="1-day-tours.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
-            </div>
-            <!-- /.why-choose-box -->
-          </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-            <div class="why-choose-one__box">
-              <div class="why-choose-one__box__bg"
-                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-2.png);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/city.png" alt="City"
-                  class="why-choose-custom-icon"></div>
-              <h3 class="why-choose-one__box__title">Under 3-5 Days Journey</h3>
-              <a href="3-to-5-days-tours.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
-            </div>
-            <!-- /.why-choose-box -->
-          </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-            <div class="why-choose-one__box">
-              <div class="why-choose-one__box__bg"
-                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-3.png);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/temple.png" alt="Temple"
-                  class="why-choose-custom-icon"></div>
-              <h3 class="why-choose-one__box__title">6-10 days Expeditions</h3>
-              <a href="6-to-10-days-expeditions.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
-            </div>
-            <!-- /.why-choose-box -->
-          </div>
-          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="400ms">
-            <div class="why-choose-one__box">
-              <div class="why-choose-one__box__bg"
-                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-4.png);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/tower.png" alt="Tower"
-                  class="why-choose-custom-icon"></div>
-              <h3 class="why-choose-one__box__title">10+ Days Grand Tours</h3>
-              <a href="10-plus-days-grand-tours.php" style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover More <span class="icon-right-arrow"></span></a>
-            </div>
-            <!-- /.why-choose-box -->
-          </div>
-        </div>
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- /.why-choose-one -->
     <!-- Offer One Start -->
     <section class="offer-one" style="background-image: url('assets/images/backgrounds/offer-1-bg.png');">
       <div class="container">
@@ -1334,6 +1250,87 @@
       <!-- /.bg -->
     </section>
     <!-- Offer End Start -->
+    <section class="why-choose-one">
+      <div class="why-choose-one__bg" style="background-image: url(assets/images/backgrounds/why-choose-bg-1.jpg);">
+      </div>
+      <!-- /.why-choose__bg -->
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
+            <div class="sec-title text-left">
+              <p class="sec-title__tagline">Are you ready to travel</p>
+              <!-- /.sec-title__tagline -->
+              <h2 class="sec-title__title">Choose Our Tour Types<br>
+                & Enjoy Now</h2>
+              <!-- /.sec-title__title -->
+            </div>
+            <!-- /.sec-title -->
+            <!-- /.sec-title -->
+          </div>
+          <div class="col-xl-7 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
+            <p class="why-choose-one__text"> There are many variations of passages of Lorem Ipsum available, but the
+              majority have
+              suffered alteradution in some form by injected humour, some form </p>
+          </div>
+        </div>
+        <div class="row gutter-y-30">
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="100ms">
+            <div class="why-choose-one__box">
+              <div class="why-choose-one__box__bg"
+                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-1.png);"></div>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/taj-mahal.png" alt="Taj Mahal"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">One Day Tour</h3>
+              <a href="1-day-tours.php"
+                style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
+                More <span class="icon-right-arrow"></span></a>
+            </div>
+            <!-- /.why-choose-box -->
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="200ms">
+            <div class="why-choose-one__box">
+              <div class="why-choose-one__box__bg"
+                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-2.png);"></div>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/city.png" alt="City"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">Under 3-5 Days Journey</h3>
+              <a href="3-to-5-days-tours.php"
+                style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
+                More <span class="icon-right-arrow"></span></a>
+            </div>
+            <!-- /.why-choose-box -->
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
+            <div class="why-choose-one__box">
+              <div class="why-choose-one__box__bg"
+                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-3.png);"></div>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/temple.png" alt="Temple"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">6-10 days Tours</h3>
+              <a href="6-to-10-days-expeditions.php"
+                style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
+                More <span class="icon-right-arrow"></span></a>
+            </div>
+            <!-- /.why-choose-box -->
+          </div>
+          <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+            <div class="why-choose-one__box">
+              <div class="why-choose-one__box__bg"
+                style="background-image: url(assets/images/backgrounds/why-choose-bg-1-4.png);"></div>
+              <div class="why-choose-one__box__icon"><img src="assets/images/icons/tower.png" alt="Tower"
+                  class="why-choose-custom-icon"></div>
+              <h3 class="why-choose-one__box__title">10+ Days Grand Tours</h3>
+              <a href="10-plus-days-grand-tours.php"
+                style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
+                More <span class="icon-right-arrow"></span></a>
+            </div>
+            <!-- /.why-choose-box -->
+          </div>
+        </div>
+      </div>
+      <!-- /.container -->
+    </section>
+    <!-- /.why-choose-one -->
     <!-- <div class="client-carousel @@extraClassName">
     <div class="container">
       <h5 class="client-carousel__title"><span>2k + Brands Trust Us</span></h5>
@@ -1449,12 +1446,12 @@
     </section>
     <!-- Benefit One End -->
     <!-- Testimonial One Start -->
-    <section class="testimonial-one testimonial-one--home">
+    <section class="testimonial-one testimonial-one--home" style="padding-top: 30px !important;">
       <div class="testimonial-one__bg" style="background-image: url(assets/images/shapes/testimonial-1-bg-2.png);">
       </div>
       <!-- /.testimonial-one__bg -->
-      <div class="container">
-        <div class="sec-title text-center">
+      <div class="container" style="max-width: 1000px;">
+        <div class="sec-title text-center" style="margin-bottom: 10px;">
           <p class="sec-title__tagline">Testimonial</p>
           <!-- /.sec-title__tagline -->
           <h2 class="sec-title__title">What Our Customers are<br>
@@ -1465,7 +1462,7 @@
         <!-- /.sec-title -->
       </div>
       <!-- /.container -->
-      <div class="container">
+      <div class="container" style="max-width: 1000px;">
         <div
           class="testimonial-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
           data-owl-options='{

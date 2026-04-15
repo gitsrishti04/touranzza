@@ -91,7 +91,7 @@
     <div class="container">
       <div class="main-footer__bottom-inner">
         <p class="main-footer__copyright"> &copy; Copyright <a href="#">Touranzza</a> | <span
-            class="dynamic-year"></span> Powered by <a href="https://influxinfotech.com">Influx Infotech</a> </p>
+            class="dynamic-year"></span>
       </div>
       <!-- /.main-footer__inner -->
     </div>

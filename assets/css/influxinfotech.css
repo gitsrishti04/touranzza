@@ -381,20 +381,23 @@ form.tour-listing-details__sidebar-form label {
 
 /* Sticky Button Styles */
 .sticky-button {
-    position: fixed;
-    right: 20px;
-    bottom: 20px;
+    position: fixed !important;
+    right: 20px !important;
+    bottom: 95px !important; /* Positioned above the WhatsApp widget */
     background-color: #ffc202;
     color: #fff;
     padding: 3px 12px;
     cursor: pointer;
     border-radius: 100%;
-    z-index: 1000;
+    z-index: 9999 !important;
     font-weight: 700;
     text-transform: uppercase;
     width: 50px;
     height: 50px;
     font-size: 25px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
 }
 
 div#enquiryForm h3 {
@@ -440,16 +443,7 @@ div#enquiryForm h3 {
 /* Media Query for Mobile */
 @media only screen and (max-width: 767px) {
     .sticky-button {
-        display: none;
-        /* Hide the sticky button on small screens */
-    }
-}
-
-/* Media Query for Mobile */
-@media only screen and (max-width: 767px) {
-    .sticky-button {
-        display: block;
-        /* Adjust to 'block' or 'flex' based on your design */
+        bottom: 85px !important; /* Slightly lower on mobile but still stacked */
     }
 }
 
@@ -670,6 +664,7 @@ section.offer-one {
     gap: 10px;
     margin-top: 40px;
 }
+
 .trevlo-owl__carousel--custom-nav .owl-dots .owl-dot span {
     width: 8px;
     height: 8px;
@@ -678,6 +673,7 @@ section.offer-one {
     display: block;
     transition: all 0.4s ease;
 }
+
 .trevlo-owl__carousel--custom-nav .owl-dots .owl-dot:hover span,
 .trevlo-owl__carousel--custom-nav .owl-dots .owl-dot.active span {
     background-color: #ffc202;
