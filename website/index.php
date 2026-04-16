@@ -54,7 +54,7 @@
     "animateOut": "fadeOut",
     "autoplayTimeout": 5000, 
     "nav": true,
-    "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+    "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
     "dots": false,
     "autoplay": true
     }'>
@@ -383,7 +383,7 @@
             "autoplay": 3000,
             "nav":false,
             "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -1066,7 +1066,7 @@
             "autoplay": 6000,
             "nav":false,
             "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -1405,7 +1405,7 @@
             "autoplay": 6000,
             "nav":false,
             "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -1512,7 +1512,7 @@
             "autoplay": 6000,
             "nav":false,
             "dots":false,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items":1,
@@ -1570,7 +1570,7 @@
       "autoplay": true,
       "smartSpeed": 600,
       "nav": false,
-      "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+      "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
       "dots": true,
       "margin": 10,
       "responsive": {

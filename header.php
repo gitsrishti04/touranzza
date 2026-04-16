@@ -43,21 +43,22 @@
           <li> <a href="index.php">Home</a> </li>
           <li class="dropdown tour-pkg-dropdown"> <a href="tour-packages.php">Tour Packages</a>
             <ul class="sub-menu">
-              <li class="dropdown"><a href="golden-triangle-tours.php">Golden Triangle Tours</a>
+              <li class="dropdown"><a href="golden-triangle-tours.php">Golden Triangle Tours (GT)</a>
                 <ul class="sub-menu">
                   <li><a href="golden-triangle-tour-5-days.php">5 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-with-varanasi.php">With Varanasi</a></li>
-                  <li><a href="golden-triangle-tour-with-ranthambore.php">With Ranthambore</a></li>
-                  <li><a href="golden-triangle-tour-with-rajasthan.php">With Rajasthan</a></li>
-                  <li><a href="golden-triangle-tour-with-amritsar.php">With Amritsar</a></li>
-                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh.php">With Haridwar &amp; Rishikesh</a>
+                  <li><a href="golden-triangle-tour-with-ranthambore.php"> GT with Ranthambore</a></li>
+                  <li><a href="golden-triangle-tour-with-rajasthan.php">GT with Rajasthan</a></li>
+                  <li><a href="golden-triangle-tour-with-varanasi.php">GT with Varanasi</a></li>
+                  <li><a href="golden-triangle-tour-with-amritsar.php">GT with Amritsar</a></li>
+                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh.php">GT with Haridwar &amp;
+                      Rishikesh</a>
                   </li>
-                  <li><a href="golden-triangle-tour-with-orchha-khajuraho.php">With Orchha &amp; Khajuraho</a></li>
-                  <li><a href="golden-triangle-tour-with-goa.php">With Goa</a></li>
-                  <li><a href="golden-triangle-tour-with-mumbai.php">With Mumbai</a></li>
+                  <li><a href="golden-triangle-tour-with-orchha-khajuraho.php">GT with Orchha &amp; Khajuraho</a></li>
+                  <li><a href="golden-triangle-tour-with-goa.php">GT with Goa</a></li>
+                  <li><a href="golden-triangle-tour-with-mumbai.php">GT with Mumbai</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="rajasthan-tours.php">Rajasthan Tours</a>
+              <li class="dropdown rajasthan-tours-col"><a href="rajasthan-tours.php">Rajasthan Tours</a>
                 <ul class="sub-menu">
                   <li><a href="royal-rajasthan-tour.php">Royal Rajasthan Tour</a></li>
                   <li><a href="desert-tour-rajasthan.php">Desert Tour Rajasthan</a></li>
@@ -95,12 +96,13 @@
               </li>
               <li class="dropdown"><a href="tour-packages.php#10-plus-days">10+ Days Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-with-rajasthan.php">GT + Full Rajasthan</a></li>
-                  <li><a href="golden-triangle-tour-with-goa.php">GT + Goa</a></li>
-                  <li><a href="golden-triangle-tour-with-mumbai.php">GT + Mumbai</a></li>
-                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh.php">GT + Haridwar &amp; Rishikesh</a>
+                  <li><a href="golden-triangle-tour-with-rajasthan.php">GT with Full Rajasthan</a></li>
+                  <li><a href="golden-triangle-tour-with-goa.php">GT with Goa</a></li>
+                  <li><a href="golden-triangle-tour-with-mumbai.php">GT with Mumbai</a></li>
+                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh.php">GT with Haridwar &amp;
+                      Rishikesh</a>
                   </li>
-                  <li><a href="golden-triangle-tour-with-amritsar.php">GT + Amritsar</a></li>
+                  <li><a href="golden-triangle-tour-with-amritsar.php">GT with Amritsar</a></li>
                 </ul>
               </li>
             </ul>
@@ -128,6 +130,42 @@
   </div>
 </header>
 <style>
+  /* ── Robust Sticky Header ── */
+  .topbar-one {
+    position: relative !important;
+    z-index: 1010 !important;
+  }
+
+
+  .main-header {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 0 !important;
+    width: 100% !important;
+    z-index: 1000 !important;
+    background: rgba(255, 255, 255, 0.45) !important;
+    /* Increased transparency for a thinner glass look */
+    backdrop-filter: blur(15px) !important;
+    /* Blur effect */
+    -webkit-backdrop-filter: blur(15px) !important;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03) !important;
+    transition: all 0.3s ease-in-out !important;
+  }
+
+  /* Reset layout padding */
+  .page-wrapper {
+    padding-top: 0 !important;
+    overflow: visible !important;
+    /* Critical for position: sticky to work */
+  }
+
+  /* Hide the theme's default secondary ghost header */
+  .sticky-header--cloned,
+  .stricky-header.stricky-fixed {
+    display: none !important;
+  }
+
   /* ── Header Width Constraint ── */
   .main-header .container {
     max-width: 1200px !important;
@@ -165,8 +203,14 @@
   .tour-pkg-dropdown>.sub-menu>li.dropdown {
     flex: 1;
     padding: 0 10px;
-    border-right: 1px solid #cccccc;
+    border-right: 1px solid #e0e0e0;
     /* Darkened division line */
+  }
+
+  /* Specific darker line after Rajasthan Tours */
+  .tour-pkg-dropdown>.sub-menu>li.rajasthan-tours-col {
+    border-right: 2px solid #555555 !important;
+    /* Darker and thicker separator */
   }
 
   .tour-pkg-dropdown>.sub-menu>li.dropdown:last-child {
@@ -206,10 +250,9 @@
     background: transparent !important;
     border: none !important;
     border-radius: 0 !important;
-    max-height: 240px;
-    overflow-y: auto;
-    scrollbar-width: thin;
-    scrollbar-color: #ffc202 #f5f0ea;
+    max-height: none !important;
+    /* Removed fixed height to prevent scrolling */
+    overflow: visible !important;
   }
 
   .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu::-webkit-scrollbar {

@@ -76,7 +76,7 @@
             "autoplay": 6000,
             "nav":false,
             "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1

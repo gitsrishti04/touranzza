@@ -80,7 +80,7 @@
       z-index: 0;
     }
 
-    .mandala-bg-wrapper > * {
+    .mandala-bg-wrapper>* {
       position: relative;
       z-index: 1;
     }
@@ -158,6 +158,106 @@
         padding: 50px 0;
       }
     }
+
+
+
+
+
+    /* ── Perfectly Centered Testimonial Cards ── */
+    .centered-card {
+      text-align: center !important;
+      padding: 50px 25px 40px !important; 
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+      justify-content: flex-start !important;
+      border-radius: 12px !important;
+      background: #fff !important;
+      transition: all 0.3s ease !important;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04) !important;
+      position: relative !important;
+      margin-top: 40px !important;
+      min-height: 360px !important; 
+      overflow: visible !important;
+    }
+
+    .centered-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08) !important;
+    }
+
+    .enlarge-image {
+      position: relative !important; 
+      top: 0 !important; 
+      left: 0 !important; 
+      width: 110px !important; /* Significantly enlarged as requested */
+      height: 110px !important;
+      margin: 0 auto 25px !important; 
+      border: 5px solid #fcfcfc !important;
+      border-radius: 50% !important;
+      overflow: hidden !important;
+      background-color: #fff !important;
+      z-index: 1 !important;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.06) !important;
+    }
+
+    .enlarge-image img {
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: cover !important;
+      border-radius: 50% !important;
+    }
+
+
+
+    /* Flag-style badge attached to the right edge */
+    .centered-card .testimonials-card__meta {
+      position: absolute !important;
+      top: 20px !important;
+      right: 0 !important;
+      background-color: #ffc202 !important;
+      padding: 6px 12px 6px 15px !important; 
+      border-radius: 4px 0 0 4px !important; /* Rounded only on the left side to look like a flag */
+      text-align: right !important;
+      min-width: 90px !important;
+      z-index: 5 !important;
+      box-shadow: -2px 4px 10px rgba(0,0,0,0.08) !important;
+    }
+
+    .centered-card .testimonials-card__meta__name {
+      font-size: 13px !important; 
+      margin: 0 !important;
+      line-height: 1.1 !important;
+      color: #000 !important;
+      font-weight: 800 !important;
+      display: block !important;
+      text-transform: uppercase !important;
+    }
+
+    .centered-card .testimonials-card__meta__designation {
+      font-size: 10px !important; 
+      margin: 0 !important;
+      line-height: 1.1 !important;
+      color: #333 !important;
+      font-weight: 600 !important;
+      display: block !important;
+    }
+
+    .centered-card .testimonials-card__quote {
+      font-style: italic !important;
+      font-size: 15px !important;
+      line-height: 1.8 !important;
+      color: #555 !important;
+      max-width: 100% !important;
+      margin-top: 15px !important; 
+      padding: 0 10px !important;
+    }
+
+    /* Reset Owl stage padding */
+    .testimonial-one__carousel .owl-stage-outer {
+      padding-top: 20px !important;
+      margin-top: 0 !important;
+    }
   </style>
 </head>
 
@@ -175,7 +275,7 @@
     "animateOut": "fadeOut",
     "autoplayTimeout": 5000, 
     "nav": true,
-    "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+    "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
     "dots": false,
     "autoplay": true
     }'>
@@ -278,18 +378,18 @@
     <div class="mandala-bg-wrapper">
       <!-- Tour Listing One Start -->
       <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.jpg);">
-      <div class="container">
-        <div class="sec-title text-center">
-          <p class="sec-title__tagline">Most Famous Tours</p>
-          <!-- /.sec-title__tagline -->
-          <h2 class="sec-title__title">Explore Golden Triangle Tours</h2>
-          <!-- /.sec-title__title -->
-        </div>
-        <!-- /.sec-title -->
-        <!-- /.sec-title -->
-        <div
-          class="tour-listing-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
-          data-owl-options='{
+        <div class="container">
+          <div class="sec-title text-center">
+            <p class="sec-title__tagline">Most Famous Tours</p>
+            <!-- /.sec-title__tagline -->
+            <h2 class="sec-title__title">Explore Golden Triangle Tours</h2>
+            <!-- /.sec-title__title -->
+          </div>
+          <!-- /.sec-title -->
+          <!-- /.sec-title -->
+          <div
+            class="tour-listing-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
+            data-owl-options='{
             "items": 6,
             "margin": 30,
             "smartSpeed": 700,
@@ -297,7 +397,7 @@
             "autoplay": 3000,
             "nav":true,
             "dots":true,
-            "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+            "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -310,23 +410,23 @@
                 }
             }
             }'>
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-3-days.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt1.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-3-days.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt1.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -343,63 +443,64 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-3-days.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days.php">Golden Triangle Tour 3
-                    Days</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">3 Days 2 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days.php">Golden Triangle Tour 3
+                      Days</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">3 Days 2 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-4-days.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt2.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-4-days.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt2.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -416,63 +517,64 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-4-days.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days.php">Golden Triangle Tour 4
-                    Days</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">4 Days 3 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days.php">Golden Triangle Tour 4
+                      Days</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">4 Days 3 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-5-days.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt3.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-5-days.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt3.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -489,63 +591,64 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-5-days.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days.php">Golden Triangle Tour 5
-                    Days</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">5 Days 4 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days.php">Golden Triangle Tour 5
+                      Days</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">5 Days 4 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="#" class="tour-listing__card-image-box"> <img
-                  src="assets/images/tours/gt4.jpg" alt="assets/images/tours/tour-3-1.jpg"
-                  class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="#" class="tour-listing__card-image-box"> <img
+                    src="assets/images/tours/gt4.jpg" alt="assets/images/tours/tour-3-1.jpg"
+                    class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -562,62 +665,63 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="#"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="#">Golden Triangle Tour with Mathura Vrindavan</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">6 Days 5 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="#">Golden Triangle Tour with Mathura Vrindavan</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Delhi</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">6 Days 5 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-with-varanasi.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt5.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-varanasi.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt5.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -634,64 +738,66 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-varanasi.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-varanasi.php">Golden Triangle
-                    Tour
-                    with Varanasi</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Jaipur - Agra - Varanasi - Delhi</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">10 Days 9 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-varanasi.php">Golden Triangle
+                      Tour
+                      with Varanasi</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Jaipur - Agra - Varanasi - Delhi
+                      </p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">10 Days 9 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ajmer-and-pushkar.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt6.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ajmer-and-pushkar.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt6.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -708,64 +814,65 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a
-                    href="golden-triangle-tour-with-ajmer-and-pushkar.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ajmer-and-pushkar.php">Golden
-                    Triangle Tour with Ajmer Pushkar</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      href="golden-triangle-tour-with-ajmer-and-pushkar.php"
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Ajmer - Pushkar - Jaipur</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">7 Days 6 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ajmer-and-pushkar.php">Golden
+                      Triangle Tour with Ajmer Pushkar</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Ajmer - Pushkar - Jaipur</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">7 Days 6 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-with-rajasthan.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt7.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-rajasthan.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt7.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -782,65 +889,66 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-rajasthan.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-rajasthan.php">Golden Triangle
-                    Tour with Rajasthan</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Fatehpur Sikri - Jaipur -
-                      Ajmer
-                      - Pushkar - Udaipur - Jaisalmer - Bikaner - Mandawa</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">9 Days 8 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-rajasthan.php">Golden Triangle
+                      Tour with Rajasthan</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Fatehpur Sikri - Jaipur -
+                        Ajmer
+                        - Pushkar - Udaipur - Jaisalmer - Bikaner - Mandawa</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">9 Days 8 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
-          </div>
-          <!-- /.item -->
-          <div class="item">
-            <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ranthambore.php"
-                class="tour-listing__card-image-box"> <img src="assets/images/tours/gt8.jpg"
-                  alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
-                <div class="tour-listing__card-btn-group">
-                  <div class="tour-listing__card-discount @@innerExtraClassName">GT+Wildlife</div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ranthambore.php"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt8.jpg"
+                    alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT+Wildlife</div>
 
-                </div>
-                <!-- /.tour-listing__card-btn-group -->
-                <div class="tour-listing__card-image-overlay"></div>
-                <!-- /.tour-listing__card-image-overlay -->
-              </a>
-              <!-- /.tour-listing__card-image-box -->
-              <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
-              <div class="tour-listing__card-content">
-                <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
-                    class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
                     "src": "assets/images/tours/tour-3-1.jpg"
@@ -857,70 +965,73 @@
                 },
                 "type": "image"
             }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-ranthambore.php"
-                    class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
-                </div>
-                <!-- /.tour-listing__card-camera-group -->
-                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ranthambore.php">Golden Triangle
-                    Tour with Ranthambore</a></h3>
-                <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                  agtilable.</p>
-                <div class="tour-listing__card-inner-content">
-                  <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
-                    <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
                   </div>
-                  <!-- /.tour-listing__card-review-box -->
-                  <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
-                    <p class="tour-listing__card-location-text text-small">Delhi - Agra - Fatehpur Sikri - Jaipur -
-                      Ranthambore</p>
-                  </div>
-                  <!-- /.tour-listing__card-location-box -->
-                  <div class="tour-listing__card-divider"></div>
-                  <!-- /.tour-listing__card-divider -->
-                  <div class="tour-listing__card-bottom">
-                    <div class="tour-listing__card-bottom-left">
-                      <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
-                        <p class="tour-listing__card-day-text text-small">7 Days 6 Nights</p>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ranthambore.php">Golden
+                      Triangle
+                      Tour with Ranthambore</a></h3>
+                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                    agtilable.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Fatehpur Sikri - Jaipur -
+                        Ranthambore</p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">7 Days 6 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
                       </div>
-                      <!-- /.tour-listing__card-day -->
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
                     </div>
-                    <!-- /.tour-listing__card-bottom-left -->
-                    <div class="tour-listing__card-bottom-right">
-                      <!-- <h4 class="tour-listing__card-price">$160</h4> -->
-                    </div>
-                    <!-- /.tour-listing__card-bottom-right -->
+                    <!-- /.tour-listing__card-bottom -->
                   </div>
-                  <!-- /.tour-listing__card-bottom -->
+                  <!-- /.tour-listing__card-inner-content -->
                 </div>
-                <!-- /.tour-listing__card-inner-content -->
+                <!-- /.tour-listing__card-content -->
               </div>
-              <!-- /.tour-listing__card-content -->
+              <!-- /.tour-listing__card -->
             </div>
-            <!-- /.tour-listing__card -->
+            <!-- /.item -->
           </div>
-          <!-- /.item -->
+          <!-- /.tour-listing-one__carousel -->
         </div>
-        <!-- /.tour-listing-one__carousel -->
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- Tour Listing One End -->
+        <!-- /.container -->
+      </section>
+      <!-- Tour Listing One End -->
 
 
-    <!-- Gallery One Start -->
-    <section class="gallery-one" style="padding: 4px 0 4px;">
-      <div class="container">
-        <div class="sec-title text-center wow animated fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 6px;">
-          <h2 class="sec-title__title" style="margin-bottom: 0;">Memories from Our Tours</h2>
-        </div>
-        <div class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav owl-carousel owl-theme"
-          data-owl-options='{
+      <!-- Gallery One Start -->
+      <section class="gallery-one" style="padding: 4px 0 4px;">
+        <div class="container">
+          <div class="sec-title text-center wow animated fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 6px;">
+            <h2 class="sec-title__title" style="margin-bottom: 0;">Memories from Our Tours</h2>
+          </div>
+          <div
+            class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav owl-carousel owl-theme"
+            data-owl-options='{
             "loop": true,
             "items": 5,
             "autoplay": true,
             "autoplayTimeout": 4000,
             "smartSpeed": 600,
             "nav": true,
-            "navText": ["<span class=\"icon-left-arrow\"></span>","<span class=\"icon-right-arrow\"></span>"],
+            "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
             "dots": false,
             "margin": 10,
             "responsive": {
@@ -931,174 +1042,174 @@
               "1400": { "items": 5 }
             }
           }'>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery1.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery1.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery1.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery1.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery2.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery2.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery3.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery3.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery4.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery4.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery5.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery5.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery6.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery6.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery7.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery7.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery8.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery8.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery9.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery9.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery10.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery10.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery11.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery11.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery12.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery12.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery13.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery13.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery14.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery14.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery15.jpg" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery15.jpg"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a></div>
+                </div>
               </div>
             </div>
           </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery2.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery2.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery3.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery3.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery4.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery4.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery5.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery5.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery6.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery6.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery7.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery7.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery8.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery8.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery9.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery9.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery10.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery10.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery11.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery11.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery12.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery12.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery13.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery13.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery14.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery14.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="gallery-single">
-              <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery15.jpg" alt="gallery"
-                  class="gallery-single__img">
-                <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery15.jpg"
-                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                      class="icon-plus"></span></a></div>
-              </div>
-            </div>
-          </div>
+          <!-- /.gallery-one__carousel -->
         </div>
-        <!-- /.gallery-one__carousel -->
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- Gallery One End -->
-    <!-- blog-one Start -->
-    <div class="blog-one" style="padding-top: 30px;">
-      <div class="container">
-        <div class="sec-title text-center">
-          <p class="sec-title__tagline">Explore Indian Culture</p>
-          <!-- /.sec-title__tagline -->
-          <h2 class="sec-title__title">Most Popular Tours</h2>
-          <!-- /.sec-title__title -->
-        </div>
-        <!-- /.sec-title -->
-        <div class="blog-page__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-theme owl-carousel"
-          data-owl-options='{
+        <!-- /.container -->
+      </section>
+      <!-- Gallery One End -->
+      <!-- blog-one Start -->
+      <div class="blog-one" style="padding-top: 30px;">
+        <div class="container">
+          <div class="sec-title text-center">
+            <p class="sec-title__tagline">Explore Indian Culture</p>
+            <!-- /.sec-title__tagline -->
+            <h2 class="sec-title__title">Most Popular Tours</h2>
+            <!-- /.sec-title__title -->
+          </div>
+          <!-- /.sec-title -->
+          <div class="blog-page__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav owl-theme owl-carousel"
+            data-owl-options='{
             "items": 5,
             "margin": 30,
             "smartSpeed": 700,
@@ -1106,7 +1217,7 @@
             "autoplay": 6000,
             "nav":false,
             "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -1119,86 +1230,90 @@
                 }
             }
             }'>
-          <div class="item">
-            <div class="blog-card"> <a href="same-day-tours.php" class="blog-card__image-link"> <img
-                  src="assets/images/blog/blog-1-1.jpg" alt="You Should See Things when visiting Japan"
-                  class="blog-card__image">
-                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
-                <!-- /.blog-card__overlay -->
-              </a>
-              <!-- /.blog-card__image-link -->
-              <div class="blog-card__content">
-                <div class="blog-card__date">
-                  <h4 class="blog-card__date-number">01</h4>
-                  <h4 class="blog-card__date-month">Day</h4>
+            <div class="item">
+              <div class="blog-card"> <a href="same-day-tours.php" class="blog-card__image-link"> <img
+                    src="assets/images/blog/blog-1-1.jpg" alt="You Should See Things when visiting Japan"
+                    class="blog-card__image">
+                  <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
+                  <!-- /.blog-card__overlay -->
+                </a>
+                <!-- /.blog-card__image-link -->
+                <div class="blog-card__content">
+                  <div class="blog-card__date">
+                    <h4 class="blog-card__date-number">01</h4>
+                    <h4 class="blog-card__date-month">Day</h4>
+                  </div>
+                  <!-- /.blog-card__meta -->
+                  <h3 class="blog-card__title"><a href="same-day-tours.php">Same Day Tours</a></h3>
+                  <!-- /.blog-card__title -->
+                  <a href="same-day-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
+                  </a>
+                  <!-- /.blog-card__link -->
                 </div>
-                <!-- /.blog-card__meta -->
-                <h3 class="blog-card__title"><a href="same-day-tours.php">Same Day Tours</a></h3>
-                <!-- /.blog-card__title -->
-                <a href="same-day-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i> </a>
-                <!-- /.blog-card__link -->
+                <!-- /.blog-card__content -->
               </div>
-              <!-- /.blog-card__content -->
+              <!-- /.blog-card -->
             </div>
-            <!-- /.blog-card -->
-          </div>
-          <!-- /.col-md-6 col-xl-4 -->
-          <div class="item">
-            <div class="blog-card"> <a href="golden-triangle-tours.php" class="blog-card__image-link"> <img
-                  src="assets/images/blog/blog-1-2.jpg" alt="You Should See Things when visiting Japan"
-                  class="blog-card__image">
-                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
-                <!-- /.blog-card__overlay -->
-              </a>
-              <!-- /.blog-card__image-link -->
-              <div class="blog-card__content">
-                <div class="blog-card__date">
-                  <h4 class="blog-card__date-number">All</h4>
-                  <h4 class="blog-card__date-month">Tours</h4>
+            <!-- /.col-md-6 col-xl-4 -->
+            <div class="item">
+              <div class="blog-card"> <a href="golden-triangle-tours.php" class="blog-card__image-link"> <img
+                    src="assets/images/blog/blog-1-2.jpg" alt="You Should See Things when visiting Japan"
+                    class="blog-card__image">
+                  <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
+                  <!-- /.blog-card__overlay -->
+                </a>
+                <!-- /.blog-card__image-link -->
+                <div class="blog-card__content">
+                  <div class="blog-card__date">
+                    <h4 class="blog-card__date-number">All</h4>
+                    <h4 class="blog-card__date-month">Tours</h4>
+                  </div>
+                  <!-- /.blog-card__meta -->
+                  <h3 class="blog-card__title"><a href="golden-triangle-tours.php">Golden Triangle Tours</a>
+                  </h3>
+                  <!-- /.blog-card__title -->
+                  <a href="golden-triangle-tours.php" class="blog-card__link"> Read more <i
+                      class="fas fa-arrow-right"></i> </a>
+                  <!-- /.blog-card__link -->
                 </div>
-                <!-- /.blog-card__meta -->
-                <h3 class="blog-card__title"><a href="golden-triangle-tours.php">Golden Triangle Tours</a>
-                </h3>
-                <!-- /.blog-card__title -->
-                <a href="golden-triangle-tours.php" class="blog-card__link"> Read more <i
-                    class="fas fa-arrow-right"></i> </a>
-                <!-- /.blog-card__link -->
+                <!-- /.blog-card__content -->
               </div>
-              <!-- /.blog-card__content -->
+              <!-- /.blog-card -->
             </div>
-            <!-- /.blog-card -->
-          </div>
-          <!-- /.col-md-6 col-xl-4 -->
-          <div class="item">
-            <div class="blog-card"> <a href="rajasthan-tours.php" class="blog-card__image-link"> <img
-                  src="assets/images/blog/blog-1-3.jpg" alt="You Should See Things when visiting Japan"
-                  class="blog-card__image">
-                <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
-                <!-- /.blog-card__overlay -->
-              </a>
-              <!-- /.blog-card__image-link -->
-              <div class="blog-card__content">
-                <div class="blog-card__date">
-                  <h4 class="blog-card__date-number">All</h4>
-                  <h4 class="blog-card__date-month">Tours</h4>
+            <!-- /.col-md-6 col-xl-4 -->
+            <div class="item">
+              <div class="blog-card"> <a href="rajasthan-tours.php" class="blog-card__image-link"> <img
+                    src="assets/images/blog/blog-1-3.jpg" alt="You Should See Things when visiting Japan"
+                    class="blog-card__image">
+                  <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
+                  <!-- /.blog-card__overlay -->
+                </a>
+                <!-- /.blog-card__image-link -->
+                <div class="blog-card__content">
+                  <div class="blog-card__date">
+                    <h4 class="blog-card__date-number">All</h4>
+                    <h4 class="blog-card__date-month">Tours</h4>
+                  </div>
+                  <!-- /.blog-card__meta -->
+                  <h3 class="blog-card__title"><a href="rajasthan-tours.php">Rajasthan Tours</a></h3>
+                  <!-- /.blog-card__title -->
+                  <a href="rajasthan-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
+                  </a>
+                  <!-- /.blog-card__link -->
                 </div>
-                <!-- /.blog-card__meta -->
-                <h3 class="blog-card__title"><a href="rajasthan-tours.php">Rajasthan Tours</a></h3>
-                <!-- /.blog-card__title -->
-                <a href="rajasthan-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i> </a>
-                <!-- /.blog-card__link -->
+                <!-- /.blog-card__content -->
               </div>
-              <!-- /.blog-card__content -->
+              <!-- /.blog-card -->
             </div>
-            <!-- /.blog-card -->
+            <!-- /.col-md-6 col-xl-4 -->
           </div>
-          <!-- /.col-md-6 col-xl-4 -->
+          <!-- /.row -->
         </div>
-        <!-- /.row -->
+        <!-- /.container -->
       </div>
-      <!-- /.container -->
-    </div>
-    <!-- /.blog-one -->
+      <!-- /.blog-one -->
+
+      <!-- Testimonial One End -->
     </div>
     <!-- MANDALA BACKGROUND WRAPPER END -->
 
@@ -1342,7 +1457,7 @@
             "autoplay": 6000,
             "nav":false,
             "dots":false,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items":1,
@@ -1445,35 +1560,33 @@
       </div>
     </section>
     <!-- Benefit One End -->
-    <!-- Testimonial One Start -->
-    <section class="testimonial-one testimonial-one--home" style="padding-top: 30px !important;">
-      <div class="testimonial-one__bg" style="background-image: url(assets/images/shapes/testimonial-1-bg-2.png);">
-      </div>
-      <!-- /.testimonial-one__bg -->
-      <div class="container" style="max-width: 1000px;">
-        <div class="sec-title text-center" style="margin-bottom: 10px;">
-          <p class="sec-title__tagline">Testimonial</p>
-          <!-- /.sec-title__tagline -->
-          <h2 class="sec-title__title">What Our Customers are<br>
-            Saying?</h2>
-          <!-- /.sec-title__title -->
+
+    <!-- MANDALA BACKGROUND WRAPPER START -->
+    <div class="mandala-bg-wrapper">
+      <!-- Testimonial One Start -->
+      <section class="testimonial-one testimonial-one--home"
+        style="padding-top: 60px !important; background: transparent !important;">
+        <div class="container" style="max-width: 1200px;">
+          <div class="sec-title text-center" style="margin-bottom: 20px;">
+            <p class="sec-title__tagline">Testimonial</p>
+            <!-- /.sec-title__tagline -->
+            <h2 class="sec-title__title">What Our Customers are<br>
+              Saying?</h2>
+            <!-- /.sec-title__title -->
+          </div>
         </div>
-        <!-- /.sec-title -->
-        <!-- /.sec-title -->
-      </div>
-      <!-- /.container -->
-      <div class="container" style="max-width: 1000px;">
-        <div
-          class="testimonial-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
-          data-owl-options='{
+        <div class="container" style="max-width: 1200px;">
+          <div
+            class="testimonial-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
+            data-owl-options='{
             "items": 3,
-            "margin": 42,
+            "margin": 30,
             "smartSpeed": 700,
-            "loop":false,
-            "autoplay": 6000,
-            "nav":false,
-            "dots":true,
-            "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+            "loop":true,
+            "autoplay": true,
+            "nav":true,
+            "dots":false,
+            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -1482,142 +1595,136 @@
                     "items": 2
                 },
                 "1200":{
-                    "items": 3,
-                    "dots": false
+                    "items": 3
                 }
             }
             }'>
-          <div class="item">
-            <div class="testimonials-card">
-              <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
-                  alt="Jacob Jones"> </div>
-              <div class="testimonials-card__meta">
-                <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
-                <p class="testimonials-card__meta__designation">UK</p>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
+                  <p class="testimonials-card__meta__designation">UK</p>
+                </div>
+                <div class="testimonials-card__quote">"His SUV was immaculate and his attitude was wonderful; always
+                  caring for our comfort and convenience."</div>
               </div>
-              <!-- /.testimonials-card__meta -->
-              <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-                <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
-              </div>
-              <!-- /.testimonials-card__ratings -->
-              <div class="testimonials-card__quote">His SUV was immaculate and his attitude was wonderful; always caring
-                for our comfort and convenience and negotiating the hectic roads of and between Delhi, Jaipur and Agra
-                with ease and confidence. I cannot recommend him enough - he was wonderful!</div>
-              <!-- /.testimonials-card__quote -->
             </div>
-            <!-- /.testimonials-card -->
-          </div>
-
-          <div class="item">
-            <div class="testimonials-card">
-              <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
-                  alt="Robert Fox"> </div>
-              <div class="testimonials-card__meta">
-                <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
-                <p class="testimonials-card__meta__designation">USA</p>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-2.jpg" alt="Hanie Fox"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
+                  <p class="testimonials-card__meta__designation">USA</p>
+                </div>
+                <div class="testimonials-card__quote">"There was no way we could have seen what we were able to see
+                  without such an excellent driver."</div>
               </div>
-              <!-- /.testimonials-card__meta -->
-              <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-                <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
-              </div>
-              <!-- /.testimonials-card__ratings -->
-              <div class="testimonials-card__quote">There was no way we could have seen what we were able to see without
-                such an excellent driver. The furnished guises enabled us to really understand what we visited....</div>
-              <!-- /.testimonials-card__quote -->
             </div>
-            <!-- /.testimonials-card -->
-          </div>
-
-          <div class="item">
-            <div class="testimonials-card">
-              <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
-                  alt="Guy Hawkins"> </div>
-              <div class="testimonials-card__meta">
-                <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
-                <p class="testimonials-card__meta__designation">New York</p>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
+                  <p class="testimonials-card__meta__designation">New York</p>
+                </div>
+                <div class="testimonials-card__quote">"The tour was amazing. We have seen a lot of monuments and sights.
+                  Thank you very much!"</div>
               </div>
-              <!-- /.testimonials-card__meta -->
-              <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-                <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
-              </div>
-              <!-- /.testimonials-card__ratings -->
-              <div class="testimonials-card__quote">The tour was amazing. We have seen a lot of monuments and sights.
-                Thank you very much for these beautiful days. Includes long car drives and short nights. But in total we
-                would do it again. Thumbs up!</div>
-              <!-- /.testimonials-card__quote -->
             </div>
-            <!-- /.testimonials-card -->
-          </div>
-
-          <div class="item">
-            <div class="testimonials-card">
-              <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
-                  alt="Jacob Jones"> </div>
-              <div class="testimonials-card__meta">
-                <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
-                <p class="testimonials-card__meta__designation">Australia</p>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="Charlotte Parker"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Charlotte Parker</h5>
+                  <p class="testimonials-card__meta__designation">Canada</p>
+                </div>
+                <div class="testimonials-card__quote">"Everything was perfectly organized. The attention to detail made
+                  our family trip memorable."</div>
               </div>
-              <!-- /.testimonials-card__meta -->
-              <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-                <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
-              </div>
-              <!-- /.testimonials-card__ratings -->
-              <div class="testimonials-card__quote">Amazing views and wonderful tour guides!! Very knowledgeable and
-                courteous. I highly recommend taking this tour!</div>
-              <!-- /.testimonials-card__quote -->
             </div>
-            <!-- /.testimonials-card -->
-          </div>
-
-          <div class="item">
-            <div class="testimonials-card">
-              <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
-                  alt="Robert Fox"> </div>
-              <div class="testimonials-card__meta">
-                <h5 class="testimonials-card__meta__name">Robert Fox</h5>
-                <p class="testimonials-card__meta__designation">Germany</p>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-2.jpg" alt="Arjun Mehta"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Arjun Mehta</h5>
+                  <p class="testimonials-card__meta__designation">India</p>
+                </div>
+                <div class="testimonials-card__quote">"The best Agra tour I've had. Professional, polite, and very
+                  knowledgeable about the history."</div>
               </div>
-              <!-- /.testimonials-card__meta -->
-              <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-                <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
-              </div>
-              <!-- /.testimonials-card__ratings -->
-              <div class="testimonials-card__quote">The tour was easy to book, the admin was very helpful. Car and
-                driver
-                arrived on time, journey was pleasant, the sites were beautiful. The guide could be more friendly and
-                less
-                strict.</div>
-              <!-- /.testimonials-card__quote -->
             </div>
-            <!-- /.testimonials-card -->
-          </div>
-
-          <div class="item">
-            <div class="testimonials-card">
-              <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
-                  alt="Guy Hawkins"> </div>
-              <div class="testimonials-card__meta">
-                <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
-                <p class="testimonials-card__meta__designation">Hong Kong</p>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-3.jpg" alt="Sophia de Luca"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Sophia de Luca</h5>
+                  <p class="testimonials-card__meta__designation">Italy</p>
+                </div>
+                <div class="testimonials-card__quote">"Incredible attention to detail. Every moment was a delightful
+                  surprise. Highly recommended!"</div>
               </div>
-              <!-- /.testimonials-card__meta -->
-              <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-                <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span>
-              </div>
-              <!-- /.testimonials-card__ratings -->
-              <div class="testimonials-card__quote">Great experience overall. Highly recommended for everyone to get a
-                real inside feel of the culture and creativity of the many generations</div>
-              <!-- /.testimonials-card__quote -->
             </div>
-            <!-- /.testimonials-card -->
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="Mark Thompson"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Mark Thompson</h5>
+                  <p class="testimonials-card__meta__designation">Australia</p>
+                </div>
+                <div class="testimonials-card__quote">"Seamless cross-city travel and wonderful accommodation choices.
+                  Touranzza is top-tier."</div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-2.jpg" alt="Yuki Tanaka"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Yuki Tanaka</h5>
+                  <p class="testimonials-card__meta__designation">Japan</p>
+                </div>
+                <div class="testimonials-card__quote">"Polite guides and safe driving. We felt very comfortable
+                  traveling across Northern India."</div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-3.jpg" alt="Elena Rossi"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">Elena Rossi</h5>
+                  <p class="testimonials-card__meta__designation">Germany</p>
+                </div>
+                <div class="testimonials-card__quote">"The sunrise at Taj Mahal was magical. Our guide knew the best
+                  spots for photos!"</div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="testimonials-card centered-card">
+                <div class="testimonials-card__image enlarge-image"> <img
+                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="David Miller"> </div>
+                <div class="testimonials-card__meta">
+                  <h5 class="testimonials-card__meta__name">David Miller</h5>
+                  <p class="testimonials-card__meta__designation">USA</p>
+                </div>
+                <div class="testimonials-card__quote">"Top-notch hospitality from start to end. The itinerary was
+                  well-balanced and exciting."</div>
+              </div>
+            </div>
           </div>
-
         </div>
-        <!-- /.thm-owl__slider -->
-      </div>
-      <!-- /.container -->
-    </section>
-    <!-- Testimonial One End -->
+      </section>
+      <!-- Testimonial One End -->
+    </div>
+    <!-- MANDALA BACKGROUND WRAPPER END -->
     <?php include("footer.php") ?>
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
         top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
