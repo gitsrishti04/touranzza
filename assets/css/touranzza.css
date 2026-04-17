@@ -809,22 +809,14 @@ section.offer-one {
     color: #ffc202 !important;
 }
 
-/* ── Premium Glass Header (Dual State) ── */
+/* ── Premium Glass Header (Dark Carbon Style) ── */
 .main-header {
-    background-color: rgba(10, 10, 10, 0.25) !important; /* Lighter shade at rest */
-    backdrop-filter: blur(8px) !important;
+    background-color: rgba(0, 0, 0, 0.82) !important; /* Deep carbon black with subtle glass transparency */
+    backdrop-filter: blur(8px) !important; /* Slightly reduced blur for a crisper, less muddy feel */
     -webkit-backdrop-filter: blur(8px) !important;
-    border-bottom: 2px solid rgba(255, 194, 2, 0.2) !important;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05) !important;
-    transition: all 0.4s ease-in-out;
-}
-
-.main-header.stricky-fixed {
-    background-color: rgba(10, 10, 10, 0.65) !important; /* Perfect dark glass on scroll */
-    backdrop-filter: blur(15px) !important;
-    -webkit-backdrop-filter: blur(15px) !important;
-    border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.25) !important;
+    border-bottom: 1.5px solid rgba(255, 194, 2, 0.4) !important; /* Thinner, more vibrant brand accent */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
 /* ── Ultra-Compact & Extreme Left-Aligned Header ── */
@@ -864,11 +856,11 @@ section.offer-one {
 }
 
 .sticky-header--cloned {
-    background-color: rgba(10, 10, 10, 0.7) !important; /* Slightly darker glass for sticky visibility */
-    backdrop-filter: blur(12px) !important;
-    -webkit-backdrop-filter: blur(12px) !important;
-    border-bottom: 2px solid rgba(255, 194, 2, 0.3) !important;
-    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3) !important;
+    background-color: rgba(0, 0, 0, 0.9) !important; /* Slightly darker for the floating state */
+    backdrop-filter: blur(6px) !important;
+    -webkit-backdrop-filter: blur(6px) !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4) !important;
 }
 
 .sticky-header--cloned .main-header__inner {
