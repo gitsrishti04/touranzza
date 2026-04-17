@@ -809,10 +809,14 @@ section.offer-one {
     color: #ffc202 !important;
 }
 
-/* ── Compact & Fixed Header Refinements ── */
+/* ── Premium Glass Header (Glassmorphism) ── */
 .main-header {
-    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.5) !important;
-    background-color: #000000 !important; /* Solid black as requested */
+    background-color: rgba(10, 10, 10, 0.55) !important; /* Semi-transparent dark glass */
+    backdrop-filter: blur(15px) !important;
+    -webkit-backdrop-filter: blur(15px) !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.3) !important; /* Brand yellow subtle border */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2) !important;
+    transition: all 0.3s ease-in-out;
 }
 
 /* ── Ultra-Compact & Extreme Left-Aligned Header ── */
@@ -822,7 +826,7 @@ section.offer-one {
 }
 
 .main-header__inner {
-    padding-top: 8px !important; /* Slightly more room for the larger logo */
+    padding-top: 8px !important; 
     padding-bottom: 8px !important;
     padding-left: 20px !important; 
     justify-content: flex-start !important;
@@ -852,13 +856,16 @@ section.offer-one {
 }
 
 .sticky-header--cloned {
-    background-color: #000000 !important; /* Solid black to match the main header style */
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3) !important;
+    background-color: rgba(10, 10, 10, 0.7) !important; /* Slightly darker glass for sticky visibility */
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.3) !important;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3) !important;
 }
 
 .sticky-header--cloned .main-header__inner {
-    padding-top: 2px !important;
-    padding-bottom: 2px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
     background-color: transparent !important;
 }
 

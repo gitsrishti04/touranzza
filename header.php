@@ -140,13 +140,11 @@
     top: 0 !important;
     width: 100% !important;
     z-index: 1000 !important;
-    background: rgba(255, 255, 255, 0.45) !important;
-    /* Increased transparency for a thinner glass look */
+    background: rgba(10, 10, 10, 0.55) !important;
     backdrop-filter: blur(15px) !important;
-    /* Blur effect */
     -webkit-backdrop-filter: blur(15px) !important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03) !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.3) !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2) !important;
     transition: all 0.3s ease-in-out !important;
   }
 
