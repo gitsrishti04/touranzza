@@ -28,7 +28,7 @@
     </div>
   </div>
 </div>
-<header class="main-header sticky-header sticky-header--normal">
+<header class="main-header sticky-header sticky-header--normal stricky">
   <div class="container-fluid">
     <div class="main-header__inner">
       <div class="main-header__left">
@@ -140,12 +140,23 @@
     top: 0 !important;
     width: 100% !important;
     z-index: 1000 !important;
-    background: rgba(10, 10, 10, 0.55) !important;
+    background: rgba(10, 10, 10, 0.25) !important; /* Lighter shade at rest */
+    backdrop-filter: blur(8px) !important; /* Slightly less blur at rest */
+    -webkit-backdrop-filter: blur(8px) !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.2) !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05) !important;
+    transition: all 0.4s ease-in-out !important;
+  }
+
+  /* Scrolled/Sticky State - The "Perfect" Look */
+  .main-header.stricky-fixed {
+    background: rgba(10, 10, 10, 0.65) !important; /* Darker glass on scroll */
     backdrop-filter: blur(15px) !important;
     -webkit-backdrop-filter: blur(15px) !important;
-    border-bottom: 2px solid rgba(255, 194, 2, 0.3) !important;
-    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2) !important;
-    transition: all 0.3s ease-in-out !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.25) !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
   }
 
   /* Reset layout padding */
