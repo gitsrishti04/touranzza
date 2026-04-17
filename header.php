@@ -32,8 +32,7 @@
   <div class="container-fluid">
     <div class="main-header__inner">
       <div class="main-header__left">
-        <div class="main-header__logo"> <a href="index.php"> <img src="assets/images/blacklogo1.png" alt="Touranzza"
-              style="width: auto; max-height: 42px;"></a>
+        <div class="main-header__logo"> <a href="index.php"> <img src="assets/images/blacklogo1.png" alt="Touranzza"></a>
         </div>
       </div>
       <nav class="main-header__nav main-menu">
