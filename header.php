@@ -6,9 +6,9 @@
           <li class="topbar-one__info-item"> <span class="topbar-one__info-icon icon-phone-1"></span> <a
               href="tel:+919045427043" class="topbar-one__info-text">+91-9045427043</a></span> </li>
           <li class="topbar-one__info-item"> <span class="topbar-one__info-icon icon-phone-1"></span> <a
-              href="tel:+917055739511" class="topbar-one__info-text">+91-7055739511</a></span> </li>
+              href="tel:+919355995594" class="topbar-one__info-text">+91-9355995594</a></span> </li>
           <li class="topbar-one__info-item"> <span class="topbar-one__info-icon icon-envelope"></span> <a
-              href="mailto:support@touranzza.com" class="topbar-one__info-text">support@touranzza.com</a> </li>
+              href="mailto:india@touranzza.com" class="topbar-one__info-text">india@touranzza.com</a> </li>
         </ul>
         <ul class="topbar-one__info topbar-one__info--right">
         </ul>
@@ -29,17 +29,15 @@
   </div>
 </div>
 <header class="main-header sticky-header sticky-header--normal">
-  <div class="container">
+  <div class="container-fluid">
     <div class="main-header__inner">
       <div class="main-header__left">
-        <div class="main-header__logo"> <a href="index.php"> <img src="assets/images/blacklogo.png" alt="Touranzza"
-              style="width: auto; max-height: 80px;"></a>
+        <div class="main-header__logo"> <a href="index.php"> <img src="assets/images/blacklogo1.png" alt="Touranzza"
+              style="width: auto; max-height: 42px;"></a>
         </div>
       </div>
-      <nav class="main-header__nav main-menu"
-        style="flex: 1; display: flex; justify-content: flex-end; align-items: center;">
-        <ul class="main-menu__list"
-          style="white-space: nowrap; display: flex; align-items: center; gap: 10px; margin: 0; padding: 0;">
+      <nav class="main-header__nav main-menu">
+        <ul class="main-menu__list">
           <li> <a href="index.php">Home</a> </li>
           <li class="dropdown tour-pkg-dropdown"> <a href="tour-packages.php">Tour Packages</a>
             <ul class="sub-menu">
@@ -172,129 +170,192 @@
     margin: 0 auto !important;
   }
 
-  /* ── Tour Packages landscape dropdown ── */
-  .tour-pkg-dropdown {
-    position: static !important;
+  /* ── Responsive Header Layout ── */
+  @media (max-width: 1199px) {
+    .main-header {
+      background: #ffffff !important;
+      /* Solid white for better visibility on mobile */
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+    }
+
+    .main-header__nav.main-menu {
+      display: none !important;
+    }
+
+    .main-header__logo img {
+      max-height: 60px !important;
+    }
+
+    .main-header__right {
+      display: flex !important;
+      align-items: center;
+      gap: 15px;
+    }
+
+    .main-header__booking-btn,
+    .main-header__right-right {
+      display: none !important;
+    }
+
+    .mobile-nav__toggler {
+      display: flex !important;
+      order: 1;
+      color: #000 !important;
+      /* Ensure hamburger icon is dark */
+    }
   }
 
-  .tour-pkg-dropdown>.sub-menu {
-    display: none;
-    position: absolute !important;
-    left: 0 !important;
-    right: 0 !important;
-    top: 100% !important;
-    min-width: unset !important;
-    width: 100% !important;
-    flex-direction: row !important;
-    flex-wrap: nowrap !important;
-    padding: 14px 20px !important;
-    gap: 0;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.13);
-    border-top: 3px solid #ffc202;
-    background: #fff;
-    z-index: 99999;
+  /* ── Tour Packages landscape dropdown (Desktop Only) ── */
+  @media (min-width: 1200px) {
+    .tour-pkg-dropdown {
+      position: static !important;
+    }
+
+    .tour-pkg-dropdown>.sub-menu {
+      display: none;
+      position: absolute !important;
+      left: 0 !important;
+      right: 0 !important;
+      top: 100% !important;
+      min-width: unset !important;
+      width: 100% !important;
+      flex-direction: row !important;
+      flex-wrap: nowrap !important;
+      padding: 14px 20px !important;
+      gap: 0;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.13);
+      border-top: 3px solid #ffc202;
+      background: #fff;
+      z-index: 99999;
+    }
+
+    .tour-pkg-dropdown:hover>.sub-menu {
+      display: flex !important;
+    }
+
+    /* Each category column */
+    .tour-pkg-dropdown>.sub-menu>li.dropdown {
+      flex: 1;
+      padding: 0 10px;
+      border-right: 1px solid #e0e0e0;
+      /* Darkened division line */
+    }
+
+    /* Specific darker line after Rajasthan Tours */
+    .tour-pkg-dropdown>.sub-menu>li.rajasthan-tours-col {
+      border-right: 2px solid #555555 !important;
+      /* Darker and thicker separator */
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown:last-child {
+      border-right: none;
+    }
+
+    /* Category heading link → gold badge */
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>a {
+      display: block !important;
+      background: #ffc202 !important;
+      color: #000000 !important;
+      /* Changed to black for visibility */
+      font-size: 10.5px !important;
+      font-weight: 700 !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.4px;
+      padding: 5px 8px !important;
+      border-radius: 3px;
+      margin-bottom: 8px;
+      white-space: nowrap;
+      text-align: center !important;
+      /* Keeps the headings centered in their blocks */
+    }
+
+    /* Sub-sub-menu: always visible, static block — override theme scaleY(0) hide */
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu {
+      position: static !important;
+      display: block !important;
+      opacity: 1 !important;
+      visibility: visible !important;
+      transform: none !important;
+      transform-origin: unset !important;
+      transition: none !important;
+      box-shadow: none !important;
+      padding: 0 !important;
+      min-width: unset !important;
+      background: transparent !important;
+      border: none !important;
+      border-radius: 0 !important;
+      max-height: none !important;
+      /* Removed fixed height to prevent scrolling */
+      overflow: visible !important;
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu::-webkit-scrollbar {
+      width: 3px;
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu::-webkit-scrollbar-thumb {
+      background: #ffc202;
+      border-radius: 2px;
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li {
+      border-bottom: 1px solid #e0e0e0;
+      /* Darkened the horizontal separators slightly as well */
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a {
+      padding: 5px 4px !important;
+      font-size: 12px !important;
+      color: #444 !important;
+      white-space: normal !important;
+      line-height: 1.3;
+      display: flex !important;
+      align-items: flex-start;
+      justify-content: flex-start !important;
+      /* Forces left alignment */
+      text-align: left !important;
+      /* Forces left alignment */
+      gap: 4px;
+      background: transparent !important;
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a::before {
+      content: '›';
+      color: #ffc202;
+      font-size: 14px;
+      flex-shrink: 0;
+      line-height: 1.4;
+    }
+
+    .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a:hover {
+      color: #ffc202 !important;
+      padding-left: 8px !important;
+    }
   }
 
-  .tour-pkg-dropdown:hover>.sub-menu {
-    display: flex !important;
+  /* ── Desktop-Only Menu Styles (Moved from inline to CSS) ── */
+  @media (min-width: 1200px) {
+    .main-header__nav.main-menu {
+      flex: 1 !important;
+      display: flex !important;
+      justify-content: flex-end !important;
+      align-items: center !important;
+    }
+
+    .main-menu__list {
+      white-space: nowrap !important;
+      display: flex !important;
+      align-items: center !important;
+      gap: 10px !important;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
   }
 
-  /* Each category column */
-  .tour-pkg-dropdown>.sub-menu>li.dropdown {
-    flex: 1;
-    padding: 0 10px;
-    border-right: 1px solid #e0e0e0;
-    /* Darkened division line */
-  }
-
-  /* Specific darker line after Rajasthan Tours */
-  .tour-pkg-dropdown>.sub-menu>li.rajasthan-tours-col {
-    border-right: 2px solid #555555 !important;
-    /* Darker and thicker separator */
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown:last-child {
-    border-right: none;
-  }
-
-  /* Category heading link → gold badge */
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>a {
-    display: block !important;
-    background: #ffc202 !important;
-    color: #000000 !important;
-    /* Changed to black for visibility */
-    font-size: 10.5px !important;
-    font-weight: 700 !important;
-    text-transform: uppercase !important;
-    letter-spacing: 0.4px;
-    padding: 5px 8px !important;
-    border-radius: 3px;
-    margin-bottom: 8px;
-    white-space: nowrap;
-    text-align: center !important;
-    /* Keeps the headings centered in their blocks */
-  }
-
-  /* Sub-sub-menu: always visible, static block — override theme scaleY(0) hide */
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu {
-    position: static !important;
-    display: block !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-    transform: none !important;
-    transform-origin: unset !important;
-    transition: none !important;
-    box-shadow: none !important;
-    padding: 0 !important;
-    min-width: unset !important;
-    background: transparent !important;
-    border: none !important;
-    border-radius: 0 !important;
-    max-height: none !important;
-    /* Removed fixed height to prevent scrolling */
-    overflow: visible !important;
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu::-webkit-scrollbar {
-    width: 3px;
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu::-webkit-scrollbar-thumb {
-    background: #ffc202;
-    border-radius: 2px;
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li {
-    border-bottom: 1px solid #e0e0e0;
-    /* Darkened the horizontal separators slightly as well */
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a {
-    padding: 5px 4px !important;
-    font-size: 12px !important;
-    color: #444 !important;
-    white-space: normal !important;
-    line-height: 1.3;
-    display: flex !important;
-    align-items: flex-start;
-    justify-content: flex-start !important;
-    /* Forces left alignment */
-    text-align: left !important;
-    /* Forces left alignment */
-    gap: 4px;
-    background: transparent !important;
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a::before {
-    content: '›';
-    color: #ffc202;
-    font-size: 14px;
-    flex-shrink: 0;
-    line-height: 1.4;
-  }
-
-  .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a:hover {
-    color: #ffc202 !important;
-    padding-left: 8px !important;
+  /* ── Mobile Dropdown Hiding ── */
+  @media (max-width: 1199px) {
+    .tour-pkg-dropdown>.sub-menu {
+      display: none !important;
+    }
   }
 </style>

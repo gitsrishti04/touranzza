@@ -1,0 +1,12 @@
+# SEO Redirects for Touranzza
+
+RewriteEngine On
+
+# Force WWW and HTTPS
+RewriteCond %{HTTP_HOST} ^touranzza\.com [NC]
+RewriteRule ^(.*)$ https://www.touranzza.com/$1 [L,R=301]
+
+# Optional: Redirect .html requests to .php to catch any external old links
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)\.html$ $1.php [L,R=301]

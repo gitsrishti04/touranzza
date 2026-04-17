@@ -39,7 +39,7 @@
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
-  <link rel="stylesheet" href="assets/css/influxinfotech.css" />
+  <link rel="stylesheet" href="assets/css/touranzza.css" />
   <style>
     /* ── Luxury font for slider subtitle ── */
     .main-slider-one__sub-title {
@@ -49,16 +49,44 @@
       text-transform: capitalize !important;
     }
 
-    /* ── Shift yellow decorative shape under "Touranzza" ── */
+    /* ── Position yellow brush stroke under "Touranzza" ── */
+    .main-slider-one__title {
+      position: relative !important;
+      display: inline-block !important;
+      /* Forces the relative container to wrap text only */
+    }
+
     .main-slider-one__title img {
-      transform: translate(280px, -40px) !important;
-      /* First value (260px) moves right/left, second value (-25px) moves up/down */
+      position: absolute !important;
+      left: 77% !important;
+      /* Slightly adjusted to center under 'Touranzza' more broadly */
+      top: 75% !important;
+      /* Shifted more upwards */
+      transform: translateX(-50%) !important;
+      width: 280px !important;
+      /* Significantly larger */
+      z-index: -5;
+      /* Place slightly behind text for a natural brush look */
     }
 
     /* ── Increase size of ALL Yellow Section Taglines ── */
     .sec-title__tagline {
       font-size: 22px !important;
       letter-spacing: 2px !important;
+    }
+
+    @media (max-width: 767px) {
+      .main-slider-one__title img {
+        transform: translate(0, 10px) !important;
+        /* Center shape under text on mobile */
+        max-width: 150px;
+        margin: 0 auto;
+      }
+
+      .sec-title__tagline {
+        font-size: 16px !important;
+        letter-spacing: 1px !important;
+      }
     }
 
     /* ── Mandala art background wrapper for white sections ── */
@@ -166,7 +194,7 @@
     /* ── Perfectly Centered Testimonial Cards ── */
     .centered-card {
       text-align: center !important;
-      padding: 50px 25px 40px !important; 
+      padding: 50px 25px 40px !important;
       display: flex !important;
       flex-direction: column !important;
       align-items: center !important;
@@ -177,7 +205,7 @@
       box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04) !important;
       position: relative !important;
       margin-top: 40px !important;
-      min-height: 360px !important; 
+      min-height: 360px !important;
       overflow: visible !important;
     }
 
@@ -187,18 +215,19 @@
     }
 
     .enlarge-image {
-      position: relative !important; 
-      top: 0 !important; 
-      left: 0 !important; 
-      width: 110px !important; /* Significantly enlarged as requested */
+      position: relative !important;
+      top: 0 !important;
+      left: 0 !important;
+      width: 110px !important;
+      /* Significantly enlarged as requested */
       height: 110px !important;
-      margin: 0 auto 25px !important; 
+      margin: 0 auto 25px !important;
       border: 5px solid #fcfcfc !important;
       border-radius: 50% !important;
       overflow: hidden !important;
       background-color: #fff !important;
       z-index: 1 !important;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.06) !important;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06) !important;
     }
 
     .enlarge-image img {
@@ -216,16 +245,17 @@
       top: 20px !important;
       right: 0 !important;
       background-color: #ffc202 !important;
-      padding: 6px 12px 6px 15px !important; 
-      border-radius: 4px 0 0 4px !important; /* Rounded only on the left side to look like a flag */
+      padding: 6px 12px 6px 15px !important;
+      border-radius: 4px 0 0 4px !important;
+      /* Rounded only on the left side to look like a flag */
       text-align: right !important;
       min-width: 90px !important;
       z-index: 5 !important;
-      box-shadow: -2px 4px 10px rgba(0,0,0,0.08) !important;
+      box-shadow: -2px 4px 10px rgba(0, 0, 0, 0.08) !important;
     }
 
     .centered-card .testimonials-card__meta__name {
-      font-size: 13px !important; 
+      font-size: 13px !important;
       margin: 0 !important;
       line-height: 1.1 !important;
       color: #000 !important;
@@ -235,7 +265,7 @@
     }
 
     .centered-card .testimonials-card__meta__designation {
-      font-size: 10px !important; 
+      font-size: 10px !important;
       margin: 0 !important;
       line-height: 1.1 !important;
       color: #333 !important;
@@ -249,7 +279,7 @@
       line-height: 1.8 !important;
       color: #555 !important;
       max-width: 100% !important;
-      margin-top: 15px !important; 
+      margin-top: 15px !important;
       padding: 0 10px !important;
     }
 

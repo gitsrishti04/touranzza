@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'tajnirvanatours@gmail.com';
+        $mail->Username = 'india@touranzza.com';
         $mail->Password = 'kjcxjgndycqjrkei';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         //Recipients
         $mail->setFrom($senderEmail, $senderName);
         $mail->addReplyTo($senderEmail, $senderName);
-        $mail->addAddress('tajnirvanatours@gmail.com');
+        $mail->addAddress('india@touranzza.com');
 
         //Content
         $mail->isHTML(true);
@@ -63,12 +63,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $autoReply->isSMTP();
         $autoReply->Host = 'smtp.gmail.com';
         $autoReply->SMTPAuth = true;
-        $autoReply->Username = 'tajnirvanatours@gmail.com';
+        $autoReply->Username = 'india@touranzza.com';
         $autoReply->Password = 'kjcxjgndycqjrkei';
         $autoReply->SMTPSecure = 'tls';
         $autoReply->Port = 587;
 
-        $autoReply->setFrom('tajnirvanatours@gmail.com', 'Touranzza');
+        $autoReply->setFrom('india@touranzza.com', 'Touranzza');
         $autoReply->addAddress($senderEmail);
         $autoReply->isHTML(true);
         $autoReply->Subject = "Thank you for your enquiry";

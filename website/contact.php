@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
-    <link rel="stylesheet" href="assets/css/influxinfotech.css" />
+    <link rel="stylesheet" href="assets/css/touranzza.css" />
 </head>
 
 <body>
@@ -107,9 +107,9 @@
                             </div>
                             <div class="contact-page__info-text-box">
                                 <p class="contact-page__info-title">Email us</p>
-                                <a href="mailto:tajnirvanatours@gmail.com">
+                                <a href="mailto:india@touranzza.com">
                                     <h4 class="contact-page__info-text contact-page__info-text-link">
-                                        tajnirvanatours@gmail.com</h4>
+                                        india@touranzza.com</h4>
                                 </a>
 
                             </div>

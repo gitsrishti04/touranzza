@@ -66,8 +66,7 @@
           <ul class="footer-widget__info">
             <li> <span class="icon-phone-1"></span> <a href="tel:+919837105911">+91-9837105911</a></li>
             <li> <span class="icon-phone-1"></span> <a href="tel:+917830492929">+91-7830492929</a></li>
-            <li> <span class="icon-envelope"></span> <a
-                href="mailto:tajnirvanatours@gmail.com">tajnirvanatours@gmail.com</a></li>
+            <li> <span class="icon-envelope"></span> <a href="mailto:india@touranzza.com">india@touranzza.com</a></li>
           </ul>
           <!-- /.footer-widget__info -->
           <ul class="main-footer__social">
@@ -102,81 +101,7 @@
 <!-- /.main-footer -->
 </div>
 <!-- /.page-wrapper -->
-<div class="mobile-nav__wrapper">
-  <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-  <!-- /.mobile-nav__overlay -->
-  <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
-        class="fa fa-times"></i></span>
-    <div class="logo-box"> <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png"
-          width="155" alt="" /></a> </div>
-    <!-- /.logo-box -->
-    <div class="mobile-nav__container"></div>
-    <!-- /.mobile-nav__container -->
-    <ul class="mobile-nav__contact list-unstyled">
-      <li> <span class="icon-phone-1"></span> <a href="tel:+917830492929">+91-7830492929</a></li>
-      <li> <span class="icon-envelope"></span> <a href="mailto:tajnirvanatours@gmail.com">tajnirvanatours@gmail.com</a>
-      </li>
-    </ul>
-    <!-- /.mobile-nav__contact -->
-    <div class="mobile-nav__social"> <a href="https://twitter.com/"> <i class="fab fa-twitter" aria-hidden="true"></i>
-        <span class="sr-only">Twitter</span> </a> <a href="https://facebook.com/"> <i class="fab fa-facebook"
-          aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> <a href="https://pinterest.com/"> <i
-          class="fab fa-pinterest-p" aria-hidden="true"></i> <span class="sr-only">Pinterest</span> </a> <a
-        href="https://instagram.com/"> <i class="fab fa-instagram" aria-hidden="true"></i> <span
-          class="sr-only">Instagram</span> </a> </div>
-    <!-- /.mobile-nav__social -->
-  </div>
-  <!-- /.mobile-nav__content -->
-</div>
-<!-- /.mobile-nav__wrapper -->
-<div class="search-popup">
-  <div class="search-popup__overlay search-toggler"></div>
-  <!-- /.search-popup__overlay -->
-  <div class="search-popup__content">
-    <form role="search" method="get" class="search-popup__form" action="#">
-      <input type="text" id="search" placeholder="Search Here..." />
-      <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
-          class="icon-search"></span> </button>
-    </form>
-  </div>
-  <!-- /.search-popup__content -->
-</div>
-<!-- GetButton.io widget -->
 
-<script type="text/javascript">
-  (function () {
-
-    var options = {
-
-      whatsapp: "+919675155111", // WhatsApp number
-
-      call_to_action: "Message us", // Call to action
-
-      position: "left", // Position may be 'right' or 'left'
-
-    };
-
-    var proto = document.location.protocol,
-      host = "getbutton.io",
-      url = proto + "//static." + host;
-
-    var s = document.createElement('script');
-    s.type = 'text/javascript';
-    s.async = true;
-    s.src = url + '/widget-send-button/js/init.js';
-
-    s.onload = function () {
-      WhWidgetSendButton.init(host, proto, options);
-    };
-
-    var x = document.getElementsByTagName('script')[0];
-    x.parentNode.insertBefore(s, x);
-
-  })();
-</script>
-
-<!-- /GetButton.io widget -->
-<!-- /.search-popup -->
 
 
 <!-- Sticky Button -->

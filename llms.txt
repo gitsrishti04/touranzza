@@ -1,0 +1,19 @@
+# Touranzza - Your Compass to India
+
+Explore the soul of India with Touranzza. We provide premium, curated travel experiences across India's most iconic destinations, including the Golden Triangle, Rajasthan, and beyond.
+
+## Core Content
+- Home: [https://touranzza.com/index.php]
+- Tour Packages: [https://touranzza.com/tour-packages.php]
+- Photo Gallery: [https://touranzza.com/photo-gallery.php]
+- Contact & Bookings: [https://touranzza.com/contact.php]
+
+## Key Destinations & Services
+- Golden Triangle Tours (GT): Comprehensive itineraries covering Delhi, Agra, and Jaipur.
+- Rajasthan Expeditions: Cultural journeys through Udaipur, Jodhpur, and the desert landscapes.
+- Curated Experiences: Photography tours, luxury expeditions, and custom itineraries.
+
+## Technical Info
+- Feed: [https://touranzza.com/sitemap.xml]
+- Robots: [https://touranzza.com/robots.txt]
+- Contact: india@touranzza.com

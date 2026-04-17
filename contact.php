@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
-    <link rel="stylesheet" href="assets/css/influxinfotech.css" />
+    <link rel="stylesheet" href="assets/css/touranzza.css" />
 </head>
 
 <body>
@@ -94,8 +94,8 @@
                                 <a href="tel:+919045427043">
                                     <h4 class="contact-page__info-text contact-page__info-text-link">+91-9045427043</h4>
                                 </a>
-                                <a href="tel:+917055739511">
-                                    <h4 class="contact-page__info-text contact-page__info-text-link">+91-7055739511</h4>
+                                <a href="tel:+919355995594">
+                                    <h4 class="contact-page__info-text contact-page__info-text-link">+91-9355995594</h4>
                                 </a>
                             </div>
                         </div><!-- /.contact-page__info-box -->
@@ -107,9 +107,9 @@
                             </div>
                             <div class="contact-page__info-text-box">
                                 <p class="contact-page__info-title">Email us</p>
-                                <a href="mailto:support@touranzza.com">
+                                <a href="mailto:india@touranzza.com">
                                     <h4 class="contact-page__info-text contact-page__info-text-link">
-                                        support@touranzza.com</h4>
+                                        india@touranzza.com</h4>
                                 </a>
 
                             </div>

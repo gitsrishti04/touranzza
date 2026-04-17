@@ -8,7 +8,7 @@
           <li class="topbar-one__info-item"> <span class="topbar-one__info-icon icon-phone-1"></span> <a
               href="tel:+917830492929" class="topbar-one__info-text">+91-7830492929</a></span> </li>
           <li class="topbar-one__info-item"> <span class="topbar-one__info-icon icon-envelope"></span> <a
-              href="mailto:tajnirvanatours@gmail.com" class="topbar-one__info-text">tajnirvanatours@gmail.com</a> </li>
+              href="mailto:india@touranzza.com" class="topbar-one__info-text">india@touranzza.com</a> </li>
         </ul>
         <!-- /.topbar-one__info -->
         <ul class="topbar-one__info topbar-one__info--right">
