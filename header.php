@@ -140,12 +140,15 @@
     top: 0 !important;
     width: 100% !important;
     z-index: 1000 !important;
-    background: rgba(0, 0, 0, 0.82) !important;
-    backdrop-filter: blur(8px) !important;
-    -webkit-backdrop-filter: blur(8px) !important;
-    border-bottom: 1.5px solid rgba(255, 194, 2, 0.4) !important;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
-    transition: all 0.3s ease-in-out !important;
+  }
+  /* ── Premium Solid Black Header ── */
+  .main-header {
+    background-color: #000000 !important; /* Solid absolute black */
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    border-bottom: 1.5px solid rgba(255, 194, 2, 0.4) !important; /* Brand yellow accent */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+    transition: all 0.3s ease-in-out;
   }
 
   /* Reset layout padding */
@@ -170,9 +173,9 @@
   /* ── Responsive Header Layout ── */
   @media (max-width: 1199px) {
     .main-header {
-      background: #ffffff !important;
-      /* Solid white for better visibility on mobile */
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1) !important;
+      background: #000000 !important;
+      /* Solid black for global consistency */
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3) !important;
     }
 
     .main-header__nav.main-menu {
@@ -197,8 +200,8 @@
     .mobile-nav__toggler {
       display: flex !important;
       order: 1;
-      color: #000 !important;
-      /* Ensure hamburger icon is dark */
+      color: #ffc202 !important;
+      /* Brand yellow for visibility on black header */
     }
   }
 

@@ -677,7 +677,7 @@ section.offer-one {
    PREMIUM MOBILE NAVIGATION REFINEMENTS
    ────────────────────────────────────────────────────────────── */
 .mobile-nav__content {
-    background-color: #ffffff !important;
+    background-color: #ffffff !important; /* White Sidebar */
     opacity: 1 !important;
     visibility: visible !important;
     box-shadow: 20px 0 60px rgba(0, 0, 0, 0.15);
@@ -687,7 +687,7 @@ section.offer-one {
 }
 
 .mobile-nav__overlay {
-    background-color: rgba(15, 12, 16, 0.75) !important; /* Darker overlay for better focus */
+    background-color: rgba(15, 12, 16, 0.75) !important; /* Dark overlay */
     backdrop-filter: blur(8px);
 }
 
@@ -737,9 +737,16 @@ section.offer-one {
     padding-right: 25px !important;
     height: 50px !important;
     display: flex !important;
-    justify-content: space-between !important;
     align-items: center !important;
+    justify-content: space-between !important;
+    transition: all 0.3s ease;
     width: 100% !important;
+}
+
+.mobile-nav__container .main-menu__list li:hover > a,
+.mobile-nav__container .main-menu__list li.current > a {
+    color: #ffc202 !important; /* Brand yellow for active/hover */
+    background-color: rgba(0, 0, 0, 0.03);
 }
 
 /* Sub-menu Toggle Button Redesign */
@@ -809,14 +816,13 @@ section.offer-one {
     color: #ffc202 !important;
 }
 
-/* ── Premium Glass Header (Dark Carbon Style) ── */
+/* ── Premium Solid Black Header ── */
 .main-header {
-    background-color: rgba(0, 0, 0, 0.82) !important; /* Deep carbon black with subtle glass transparency */
-    backdrop-filter: blur(8px) !important; /* Slightly reduced blur for a crisper, less muddy feel */
-    -webkit-backdrop-filter: blur(8px) !important;
-    border-bottom: 1.5px solid rgba(255, 194, 2, 0.4) !important; /* Thinner, more vibrant brand accent */
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3) !important;
-    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    background-color: #000000 !important; /* Solid absolute black */
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important; /* Fixed: 2px sharp brand accent */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
 }
 
 /* ── Ultra-Compact & Extreme Left-Aligned Header ── */
@@ -826,16 +832,17 @@ section.offer-one {
 }
 
 .main-header__inner {
-    padding-top: 8px !important; 
-    padding-bottom: 8px !important;
+    padding-top: 0 !important; 
+    padding-bottom: 0 !important;
     padding-left: 20px !important; 
     justify-content: flex-start !important;
     gap: 50px !important; 
+    height: 60px !important; /* Re-squeezed to 60px */
 }
 
 /* Logo Sizing */
 .main-header__logo img {
-    max-height: 70px !important; /* Significantly increased for impact */
+    max-height: 60px !important; /* Slightly reduced for a cleaner fit */
     width: auto !important;
     transition: all 0.3s ease;
 }
@@ -855,22 +862,25 @@ section.offer-one {
     color: #ffc202 !important; /* Keep it yellow permanently */
 }
 
+/* Slim Sticky Header Fix */
 .sticky-header--cloned {
-    background-color: rgba(0, 0, 0, 0.9) !important; /* Slightly darker for the floating state */
-    backdrop-filter: blur(6px) !important;
-    -webkit-backdrop-filter: blur(6px) !important;
+    background-color: #000000 !important; /* Solid absolute black */
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
     border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important;
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4) !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+    height: 50px !important; /* Squeezed height */
 }
 
 .sticky-header--cloned .main-header__inner {
-    padding-top: 5px !important;
-    padding-bottom: 5px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
     background-color: transparent !important;
+    height: 50px !important;
 }
 
 .sticky-header--cloned .main-header__logo img {
-    max-height: 60px !important; /* Larger sticky logo */
+    max-height: 50px !important; /* Slimmer sticky logo */
 }
 
 /* Custom Nav Arrows For Slider (Middle of the slider) */
