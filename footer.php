@@ -137,6 +137,12 @@
   <div class="close-popup" onclick="toggleFormPopup()">Close</div>
 </div>
 
+<!-- Custom WhatsApp Sticky Button -->
+<a href="https://wa.me/919675155111" class="whatsapp-sticky" target="_blank" aria-label="Chat on WhatsApp">
+  <i class="fab fa-whatsapp"></i>
+  <span class="whatsapp-sticky__tooltip">Message us</span>
+</a>
+
 <script>
   // Toggle Popup Form and Overlay
   function toggleFormPopup() {
