@@ -583,7 +583,7 @@
       <!-- /.mobile-nav__container -->
       <ul class="mobile-nav__contact list-unstyled">
         <li> <i class="fa fa-envelope"></i> <a href="mailto:needhelp@trevlo.com">needhelp@trevlo.com</a> </li>
-        <li> <i class="fa fa-phone-alt"></i> <a href="tel:(303)5550105">(303) 555-0105</a> </li>
+        <li> <i class="fa fa-phone-alt"></i> <a href="tel:+919355995594">+91-9355995594</a> </li>
       </ul>
       <!-- /.mobile-nav__contact -->
       <div class="mobile-nav__social"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i>
