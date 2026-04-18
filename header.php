@@ -15,13 +15,13 @@
       </div>
       <div class="topbar-one__right">
         <ul class="topbar-one__social">
-          <li class="topbar-one__social-item"> <a href="https://facebook.com/" class="topbar-one__social-link"><i
+          <li class="topbar-one__social-item"> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-facebook-f"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://twitter.com/" class="topbar-one__social-link"><i
+          <li class="topbar-one__social-item"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-twitter"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://pinterest.com/" class="topbar-one__social-link"><i
-                class="fab fa-pinterest-p"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://instagram.com/" class="topbar-one__social-link"><i
+          <li class="topbar-one__social-item"> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
+                class="fab fa-tripadvisor"></i></a> </li>
+          <li class="topbar-one__social-item"> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-instagram"></i></a> </li>
         </ul>
       </div>
@@ -131,6 +131,12 @@
   .topbar-one {
     position: relative !important;
     z-index: 1010 !important;
+    background-color: #130f10 !important;
+    border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important;
+  }
+
+  .topbar-one::after {
+    background-color: transparent !important;
   }
 
 
@@ -143,7 +149,7 @@
   }
   /* ── Premium Solid Black Header ── */
   .main-header {
-    background-color: #000000 !important; /* Solid absolute black */
+    background-color: #130f10 !important; /* Match footer black */
     backdrop-filter: none !important;
     -webkit-backdrop-filter: none !important;
     border-bottom: 1.5px solid rgba(255, 194, 2, 0.4) !important; /* Brand yellow accent */
@@ -173,7 +179,7 @@
   /* ── Responsive Header Layout ── */
   @media (max-width: 1199px) {
     .main-header {
-      background: #000000 !important;
+      background: #130f10 !important;
       /* Solid black for global consistency */
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3) !important;
     }

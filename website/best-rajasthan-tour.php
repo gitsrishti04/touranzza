@@ -645,11 +645,11 @@
         <li> <i class="fa fa-phone-alt"></i> <a href="tel:(303)5550105">(303) 555-0105</a> </li>
       </ul>
       <!-- /.mobile-nav__contact -->
-      <div class="mobile-nav__social"> <a href="https://twitter.com/"> <i class="fab fa-twitter" aria-hidden="true"></i>
-          <span class="sr-only">Twitter</span> </a> <a href="https://facebook.com/"> <i class="fab fa-facebook"
-            aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> <a href="https://pinterest.com/"> <i
-            class="fab fa-pinterest-p" aria-hidden="true"></i> <span class="sr-only">Pinterest</span> </a> <a
-          href="https://instagram.com/"> <i class="fab fa-instagram" aria-hidden="true"></i> <span
+      <div class="mobile-nav__social"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i>
+          <span class="sr-only">Twitter</span> </a> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"
+            aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i
+            class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a> <a
+          href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span
             class="sr-only">Instagram</span> </a> </div>
       <!-- /.mobile-nav__social -->
     </div>

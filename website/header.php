@@ -20,13 +20,13 @@
       <!-- /.topbar-one__left -->
       <div class="topbar-one__right">
         <ul class="topbar-one__social">
-          <li class="topbar-one__social-item"> <a href="https://facebook.com/" class="topbar-one__social-link"><i
+          <li class="topbar-one__social-item"> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-facebook-f"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://twitter.com/" class="topbar-one__social-link"><i
+          <li class="topbar-one__social-item"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-twitter"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://pinterest.com/" class="topbar-one__social-link"><i
-                class="fab fa-pinterest-p"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://instagram.com/" class="topbar-one__social-link"><i
+          <li class="topbar-one__social-item"> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
+                class="fab fa-tripadvisor"></i></a> </li>
+          <li class="topbar-one__social-item"> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-instagram"></i></a> </li>
         </ul>
         <!-- /.topbar-one__social -->

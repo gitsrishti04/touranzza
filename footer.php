@@ -55,14 +55,14 @@
           </ul>
           <!-- /.footer-widget__info -->
           <ul class="main-footer__social">
-            <li class="main-footer__social-item"> <a href="https://facebook.com/" class="main-footer__social-link"><i
+            <li class="main-footer__social-item"> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
                   class="fab fa-facebook-f"></i></a> </li>
-            <li class="main-footer__social-item"> <a href="https://linkedin.com/" class="main-footer__social-link"><i
-                  class="fab fa-linkedin-in"></i></a> </li>
-            <li class="main-footer__social-item"> <a href="https://twitter.com/" class="main-footer__social-link"><i
+            <li class="main-footer__social-item"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
                   class="fab fa-twitter"></i></a> </li>
-            <li class="main-footer__social-item"> <a href="https://youtube.com/" class="main-footer__social-link"><i
-                  class="fab fa-youtube"></i></a> </li>
+            <li class="main-footer__social-item"> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
+                  class="fab fa-tripadvisor"></i></a> </li>
+            <li class="main-footer__social-item"> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
+                  class="fab fa-instagram"></i></a> </li>
           </ul>
         </div>
         <!-- /.footer-widget -->
@@ -160,10 +160,10 @@
     </ul>
     <!-- /.mobile-nav__contact -->
     <div class="mobile-nav__social"> 
-      <a href="https://facebook.com/"> <i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> 
-      <a href="https://twitter.com/"> <i class="fab fa-twitter" aria-hidden="true"></i> <span class="sr-only">Twitter</span> </a> 
-      <a href="https://linkedin.com/"> <i class="fab fa-linkedin-in" aria-hidden="true"></i> <span class="sr-only">LinkedIn</span> </a> 
-      <a href="https://instagram.com/"> <i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a> 
+      <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> 
+      <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i> <span class="sr-only">Twitter</span> </a> 
+      <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a> 
+      <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a> 
     </div>
     <!-- /.mobile-nav__social -->
   </div>

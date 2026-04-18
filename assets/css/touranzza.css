@@ -13,6 +13,24 @@
     margin-bottom: 0;
 }
 
+.topbar-one__social-link {
+    background-color: #ffc202 !important;
+    color: #000 !important;
+    width: 30px;
+    height: 30px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+}
+
+.topbar-one__social-link:hover {
+    background-color: #000 !important;
+    color: #ffc202 !important;
+}
+
+
 @media (max-width: 1199px) {
     .main-header__inner {
         padding-top: 5px;
@@ -697,7 +715,8 @@ section.offer-one {
     padding: 25px !important;
     display: flex !important;
     align-items: center !important;
-    border-bottom: 1px solid #eeeeee;
+    background-color: #130f10 !important; /* Black Sidebar Header */
+    border-bottom: 1px solid #333333;
     min-height: 90px;
 }
 
@@ -710,7 +729,7 @@ section.offer-one {
     position: absolute !important;
     top: 30px !important;
     right: 25px !important;
-    color: #000000 !important;
+    color: #ffffff !important; /* White close icon for black header */
     font-size: 22px !important;
     z-index: 100;
 }
@@ -751,6 +770,7 @@ section.offer-one {
 
 /* Sub-menu Toggle Button Redesign */
 .mobile-nav__content .main-menu__list li a button {
+    display: none !important; /* Removed dropdown button as requested */
     width: 32px !important;
     height: 32px !important;
     background-color: #f7f7f7 !important;
@@ -818,7 +838,7 @@ section.offer-one {
 
 /* ── Premium Solid Black Header ── */
 .main-header {
-    background-color: #000000 !important; /* Solid absolute black */
+    background-color: #130f10 !important; /* Match footer black */
     backdrop-filter: none !important;
     -webkit-backdrop-filter: none !important;
     border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important; /* Fixed: 2px sharp brand accent */
@@ -864,7 +884,7 @@ section.offer-one {
 
 /* Slim Sticky Header Fix */
 .sticky-header--cloned {
-    background-color: #000000 !important; /* Solid absolute black */
+    background-color: #130f10 !important; /* Match footer black */
     backdrop-filter: none !important;
     -webkit-backdrop-filter: none !important;
     border-bottom: 2px solid rgba(255, 194, 2, 0.4) !important;

@@ -106,7 +106,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -181,7 +181,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -256,7 +256,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -331,7 +331,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -406,7 +406,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -482,7 +482,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -559,7 +559,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -636,7 +636,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -713,7 +713,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -790,7 +790,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -868,7 +868,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -946,7 +946,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -1023,7 +1023,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -1101,7 +1101,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -1178,7 +1178,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
@@ -1255,7 +1255,7 @@
             }'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
-                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc"
+                                    <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
                                         class="tour-listing__card-camera-btn video-popup">
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
