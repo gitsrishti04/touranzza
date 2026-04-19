@@ -75,7 +75,6 @@
           <div class="main-header__phone">
             <div class="main-header__phone-icon"> <span class="icon-phone-1"></span> </div>
             <div class="main-header__phone-text">
-              <p class="main-header__phone-title">Call Anytime</p>
               <h4 class="main-header__phone-number"><a href="tel:+919355995594">+91-9355995594</a></h4>
             </div>
           </div>
