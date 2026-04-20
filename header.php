@@ -34,12 +34,12 @@
   <div class="container-fluid">
     <div class="main-header__inner">
       <div class="main-header__left">
-        <div class="main-header__logo"> <a href="index.php"> <img src="assets/images/blacklogo1.png" alt="Touranzza"></a>
+        <div class="main-header__logo"> <a href="./"> <img src="assets/images/blacklogo1.png" alt="Touranzza"></a>
         </div>
       </div>
       <nav class="main-header__nav main-menu">
         <ul class="main-menu__list">
-          <li> <a href="index.php">Home</a> </li>
+          <li> <a href="./">Home</a> </li>
           <li class="dropdown tour-pkg-dropdown"> <a href="tour-packages.php">Tour Packages</a>
             <ul class="sub-menu">
               <li class="dropdown"><a href="golden-triangle-tours.php">Golden Triangle Tours (GT)</a>

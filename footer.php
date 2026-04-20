@@ -32,7 +32,7 @@
           <h2 class="footer-widget__title">SUPPORT & HELP</h2>
           <!-- /.footer-widget__title -->
           <ul class="footer-widget__links">
-            <li><a href="index.php">HOME</a></li>
+            <li><a href="./">HOME</a></li>
             <li><a href="contact.php">CONTACT US</a></li>
             <li><a href="contact.php">TERMS OF SERVICES</a></li>
             <li><a href="contact.php">PRIVACY POLICY</a></li>
@@ -151,7 +151,7 @@
   <!-- /.mobile-nav__overlay -->
   <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
         class="fa fa-times"></i></span>
-    <div class="logo-box"> <a href="index.php" aria-label="logo image"><img src="assets/images/blacklogo1.png"
+    <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.png"
           width="155" alt="Touranzza" /></a> </div>
     <!-- /.logo-box -->
     <div class="mobile-nav__container"></div>

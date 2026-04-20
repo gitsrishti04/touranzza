@@ -11,7 +11,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="" />
+  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -287,6 +287,58 @@
       padding-top: 20px !important;
       margin-top: 0 !important;
     }
+
+    /* Reduce gap beneath testimonials section */
+    .testimonial-one {
+      padding-bottom: 40px !important;
+    }
+    
+    .testimonial-one__carousel .owl-nav {
+      position: absolute !important;
+      top: 50% !important;
+      transform: translateY(-50%) !important;
+      width: 100% !important;
+      display: flex !important;
+      justify-content: space-between !important;
+      left: 0 !important;
+      z-index: 10 !important;
+      pointer-events: none !important;
+    }
+
+    .testimonial-one__carousel .owl-nav button {
+      pointer-events: auto !important;
+      background-color: #ffc202 !important;
+      color: #000 !important;
+      width: 45px !important;
+      height: 45px !important;
+      border-radius: 50% !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      transition: all 0.3s ease !important;
+      font-size: 18px !important;
+    }
+
+    .testimonial-one__carousel .owl-nav button.owl-prev {
+      left: -20px !important;
+      position: absolute !important;
+    }
+
+    .testimonial-one__carousel .owl-nav button.owl-next {
+      right: -20px !important;
+      position: absolute !important;
+    }
+
+    .testimonial-one__carousel .owl-nav button:hover {
+      background-color: #000 !important;
+      color: #ffc202 !important;
+    }
+
+    /* Fix clipping on mobile/small screens */
+    @media (max-width: 1200px) {
+      .testimonial-one__carousel .owl-nav button.owl-prev { left: 5px !important; }
+      .testimonial-one__carousel .owl-nav button.owl-next { right: 5px !important; }
+    }
   </style>
 </head>
 
@@ -478,8 +530,7 @@
                   <!-- /.tour-listing__card-camera-group -->
                   <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days.php">Golden Triangle Tour 3
                       Days</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">Experience luxury travel across India with bespoke tour packages crafted for comfort.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -1516,9 +1567,7 @@
               <!-- /.sec-title -->
               <!-- /.sec-title -->
               <h5 class="benefit-one__content__heading">Best ways to enjoy adventures</h5>
-              <p class="benefit-one__content__text"> There are many variations of passages of Lorem Ipsum simply free
-                text
-                available, but the majority. </p>
+              <p class="benefit-one__content__text"> Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments. </p>
               <div class="benefit-one__box-wrapper">
                 <div class="benefit-one__box">
                   <div class="benefit-one__box__icon"><span class="icon-airplane-1"></span></div>
@@ -1568,7 +1617,7 @@
         </div>
         <div class="container" style="max-width: 1200px;">
           <div
-            class="testimonial-one__carousel trevlo-owl__carousel trevlo-owl__carousel--basic-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
+            class="testimonial-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav trevlo-owl__carousel--with-shadow owl-theme owl-carousel"
             data-owl-options='{
             "items": 3,
             "margin": 30,
@@ -1577,7 +1626,7 @@
             "autoplay": true,
             "nav":true,
             "dots":false,
-            "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
+            "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
             "responsive":{
                 "0":{
                     "items": 1
@@ -1598,8 +1647,7 @@
                   <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
                   <p class="testimonials-card__meta__designation">UK</p>
                 </div>
-                <div class="testimonials-card__quote">"His SUV was immaculate and his attitude was wonderful; always
-                  caring for our comfort and convenience."</div>
+                <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days with our private guide Anil, travelling the Golden Triangle. He customised the tour to suit our travel arrangements. He is very knowledgeable and has many contacts. Everything we asked for he was able to deliver."</div>
               </div>
             </div>
             <div class="item">
@@ -1610,8 +1658,7 @@
                   <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
                   <p class="testimonials-card__meta__designation">USA</p>
                 </div>
-                <div class="testimonials-card__quote">"There was no way we could have seen what we were able to see
-                  without such an excellent driver."</div>
+                <div class="testimonials-card__quote">"AMAZING tour of Taj Mahal! 5 STARS! Highly recommend. Anil arranged everything from the car pick up in Delhi, customized tours each day. Santosh was my guide and was absolutely WONDERFUL! He was kind, patient, fun, helpful."</div>
               </div>
             </div>
             <div class="item">
@@ -1622,8 +1669,7 @@
                   <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
                   <p class="testimonials-card__meta__designation">New York</p>
                 </div>
-                <div class="testimonials-card__quote">"The tour was amazing. We have seen a lot of monuments and sights.
-                  Thank you very much!"</div>
+                <div class="testimonials-card__quote">"Knowledgeable Guide. From first contact Anil was very helpful and accommodating to work within our time schedule. Anil arranged Ashok to drive us from Delhi and back who was a very safe and considerate driver."</div>
               </div>
             </div>
             <div class="item">
@@ -1634,8 +1680,7 @@
                   <h5 class="testimonials-card__meta__name">Charlotte Parker</h5>
                   <p class="testimonials-card__meta__designation">Canada</p>
                 </div>
-                <div class="testimonials-card__quote">"Everything was perfectly organized. The attention to detail made
-                  our family trip memorable."</div>
+                <div class="testimonials-card__quote">"Feeling being with family. When you know Mr Anil you feel you know him for a long time, and when you listen his explanations it's clear he knows very well what he is sharing. For sure we recomend this experiece."</div>
               </div>
             </div>
             <div class="item">
@@ -1646,8 +1691,7 @@
                   <h5 class="testimonials-card__meta__name">Arjun Mehta</h5>
                   <p class="testimonials-card__meta__designation">India</p>
                 </div>
-                <div class="testimonials-card__quote">"The best Agra tour I've had. Professional, polite, and very
-                  knowledgeable about the history."</div>
+                <div class="testimonials-card__quote">"Awesome Day Trip. Mr. Sharma organized really nicely the 1 day trip from Delhi to Agra, including the Taj Mahal, Inlay Art, Red Fort visits. Mr. Sharma was always reachable on WhatsApp."</div>
               </div>
             </div>
             <div class="item">
@@ -1658,8 +1702,7 @@
                   <h5 class="testimonials-card__meta__name">Sophia de Luca</h5>
                   <p class="testimonials-card__meta__designation">Italy</p>
                 </div>
-                <div class="testimonials-card__quote">"Incredible attention to detail. Every moment was a delightful
-                  surprise. Highly recommended!"</div>
+                <div class="testimonials-card__quote">"Best Guide!!! We met Anil through our hotel and couldn't be happier with our 4-hour tour of the Taj Mahal and Agra Fort. We travel often and have met dozens of guides, but Anil was one of the best we have encountered!"</div>
               </div>
             </div>
             <div class="item">
@@ -1670,8 +1713,7 @@
                   <h5 class="testimonials-card__meta__name">Mark Thompson</h5>
                   <p class="testimonials-card__meta__designation">Australia</p>
                 </div>
-                <div class="testimonials-card__quote">"Seamless cross-city travel and wonderful accommodation choices.
-                  Touranzza is top-tier."</div>
+                <div class="testimonials-card__quote">"Ani was fantastic. He is extremely responsive to correspondences. Transportation from dehli with Ash was great. Tour was wonderful, he is extremely knowledgeable about the taj and history of the time period. Highly recommended."</div>
               </div>
             </div>
             <div class="item">
@@ -1682,8 +1724,7 @@
                   <h5 class="testimonials-card__meta__name">Yuki Tanaka</h5>
                   <p class="testimonials-card__meta__designation">Japan</p>
                 </div>
-                <div class="testimonials-card__quote">"Polite guides and safe driving. We felt very comfortable
-                  traveling across Northern India."</div>
+                <div class="testimonials-card__quote">"Two days in the exciting city of Agra. Anil Sharma our host and guide was amazing! We highly recommend requesting him and his attentive staff for you on your visit to Agra!"</div>
               </div>
             </div>
             <div class="item">
@@ -1694,8 +1735,7 @@
                   <h5 class="testimonials-card__meta__name">Elena Rossi</h5>
                   <p class="testimonials-card__meta__designation">Germany</p>
                 </div>
-                <div class="testimonials-card__quote">"The sunrise at Taj Mahal was magical. Our guide knew the best
-                  spots for photos!"</div>
+                <div class="testimonials-card__quote">"I'll start by saying this was an absolute wonderful experience thanks to Anil. Anil was not only knowledgeable, but passionate about his city and its rich history. Unlike other tour operators, Anil provides boutique personalized service."</div>
               </div>
             </div>
             <div class="item">
@@ -1706,8 +1746,7 @@
                   <h5 class="testimonials-card__meta__name">David Miller</h5>
                   <p class="testimonials-card__meta__designation">USA</p>
                 </div>
-                <div class="testimonials-card__quote">"Top-notch hospitality from start to end. The itinerary was
-                  well-balanced and exciting."</div>
+                <div class="testimonials-card__quote">"Top-notch hospitality from start to end! Our entire Northern India itinerary was balanced and exciting. Not only did we get VIP treatment, but our driver Ashok was an absolute professional. We simply cannot recommend Touranzza enough. 10/10 experience!"</div>
               </div>
             </div>
           </div>

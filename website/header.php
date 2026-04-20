@@ -44,13 +44,13 @@
   <div class="container">
     <div class="main-header__inner">
       <div class="main-header__left">
-        <div class="main-header__logo"> <a href="index.php"> <img src="assets/images/logo-light.png" alt="Touranzza"
+        <div class="main-header__logo"> <a href="./"> <img src="assets/images/logo-light.png" alt="Touranzza"
               width="146"></a>
         </div>
         <!-- /.main-header__logo -->
         <nav class="main-header__nav main-menu">
           <ul class="main-menu__list">
-            <li> <a href="index.php">Home</a> </li>
+            <li> <a href="./">Home</a> </li>
             <li> <a href="about.php">About Us</a> </li>
             <li class="dropdown"> <a href="tour-packages.php">Tour Packages</a>
               <ul class="sub-menu">

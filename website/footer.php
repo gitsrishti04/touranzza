@@ -33,7 +33,7 @@
           <h2 class="footer-widget__title">Site Menu</h2>
           <!-- /.footer-widget__title -->
           <ul class="footer-widget__links">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="./">Home</a></li>
             <li><a href="about.php">About Us</a></li>
             <li><a href="photo-gallery.php">Photo Gallery</a></li>
             <li><a href="testimonials.php">Testimonials</a></li>

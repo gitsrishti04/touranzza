@@ -2,6 +2,10 @@
 
 RewriteEngine On
 
+# Redirect index.php to /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
+RewriteRule ^index\.php$ / [L,R=301]
+
 # Force WWW and HTTPS
 RewriteCond %{HTTP_HOST} ^touranzza\.com [NC]
 RewriteRule ^(.*)$ https://www.touranzza.com/$1 [L,R=301]
