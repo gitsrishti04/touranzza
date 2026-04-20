@@ -140,7 +140,7 @@
                                 <h2 class="sec-title__title" style="font-size: 32px; margin-bottom: 25px;">Quick Enquiry
                                 </h2>
                             </div>
-                            <form class="contact-page__form form-one row gutter-20 wow animated fadeInUp"
+                            <form action="tourmail.php" method="POST" class="contact-page__form form-one row gutter-20 wow animated fadeInUp"
                                 data-wow-delay="0s" data-wow-duration="1500ms">
                                 <div class="col-md-6 ">
                                     <div class="form-one__group">
@@ -242,7 +242,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/trevlo.js"></script>
+    <script src="assets/js/trevlo.js?v=4"></script>
 </body>
 
 </html>

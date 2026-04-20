@@ -39,8 +39,8 @@
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.carousel.min.css" />
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
   <!-- template styles -->
-  <link rel="stylesheet" href="assets/css/trevlo.css" />
-  <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <link rel="stylesheet" href="assets/css/trevlo.css?v=2" />
+  <link rel="stylesheet" href="assets/css/touranzza.css?v=2" />
   <style>
     /* ── Luxury font for slider subtitle ── */
     .main-slider-one__sub-title {
@@ -214,28 +214,26 @@
       transform: translateY(-5px);
       box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08) !important;
     }
-
     .enlarge-image {
       position: relative !important;
       top: 0 !important;
       left: 0 !important;
       width: 110px !important;
-      /* Significantly enlarged as requested */
-      height: 110px !important;
+      height: 145px !important;
       margin: 0 auto 25px !important;
-      border: 5px solid #fcfcfc !important;
-      border-radius: 50% !important;
+      border: 4px solid #fff !important;
+      border-radius: 12px !important;
       overflow: hidden !important;
       background-color: #fff !important;
       z-index: 1 !important;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06) !important;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15) !important;
     }
 
     .enlarge-image img {
       width: 100% !important;
       height: 100% !important;
       object-fit: cover !important;
-      border-radius: 50% !important;
+      border-radius: 0 !important;
     }
 
 
@@ -1073,156 +1071,118 @@
               "1400": { "items": 5 }
             }
           }'>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery1.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery1.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery2.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery2.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery3.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery3.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery4.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery4.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery5.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery5.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery6.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery6.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery7.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery7.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery8.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery8.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
+        <div class="item">
+          <div class="gallery-single">
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png" alt="gallery"
+                class="gallery-single__img">
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png"
+                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                    class="icon-plus"></span></a> </div>
+              <!-- /.gallery-single__overlay -->
             </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery9.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery9.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery10.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery10.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery11.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery11.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery12.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery12.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery13.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery13.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery14.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery14.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="gallery-single">
-                <div class="gallery-single__img-box"><img src="assets/images/gallery/gallery15.jpg" alt="gallery"
-                    class="gallery-single__img">
-                  <div class="gallery-single__overlay"><a href="assets/images/gallery/gallery15.jpg"
-                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                        class="icon-plus"></span></a></div>
-                </div>
-              </div>
-            </div>
+            <!-- /.gallery-single__img-box -->
+          </div>
+          <!-- /.gallery-single -->
+        </div>
+        <!-- /.item -->
           </div>
           <!-- /.gallery-one__carousel -->
         </div>
@@ -1633,7 +1593,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="Jacob Jones"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.png" alt="Jacob Jones"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
                   <p class="testimonials-card__meta__designation">UK</p>
@@ -1645,7 +1605,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-2.jpg" alt="Hanie Fox"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.png" alt="Hanie Fox"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
                   <p class="testimonials-card__meta__designation">USA</p>
@@ -1657,7 +1617,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-3.jpg" alt="Guy Hawkins"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.png" alt="Guy Hawkins"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
                   <p class="testimonials-card__meta__designation">New York</p>
@@ -1669,7 +1629,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="Charlotte Parker"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_39_20 AM.png" alt="Charlotte Parker"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Charlotte Parker</h5>
                   <p class="testimonials-card__meta__designation">Canada</p>
@@ -1681,7 +1641,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-2.jpg" alt="Arjun Mehta"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.png" alt="Arjun Mehta"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Arjun Mehta</h5>
                   <p class="testimonials-card__meta__designation">India</p>
@@ -1693,7 +1653,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-3.jpg" alt="Sophia de Luca"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.png" alt="Sophia de Luca"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Sophia de Luca</h5>
                   <p class="testimonials-card__meta__designation">Italy</p>
@@ -1705,7 +1665,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="Mark Thompson"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.png" alt="Mark Thompson"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Mark Thompson</h5>
                   <p class="testimonials-card__meta__designation">Australia</p>
@@ -1717,7 +1677,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-2.jpg" alt="Yuki Tanaka"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.png" alt="Yuki Tanaka"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Yuki Tanaka</h5>
                   <p class="testimonials-card__meta__designation">Japan</p>
@@ -1729,7 +1689,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-3.jpg" alt="Elena Rossi"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.png" alt="Elena Rossi"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Elena Rossi</h5>
                   <p class="testimonials-card__meta__designation">Germany</p>
@@ -1741,7 +1701,7 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/testimonial/testimonial-1-1.jpg" alt="David Miller"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.png" alt="David Miller"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">David Miller</h5>
                   <p class="testimonials-card__meta__designation">USA</p>
@@ -1784,7 +1744,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/trevlo.js"></script>
+    <script src="assets/js/trevlo.js?v=4"></script>
 </body>
 
 </html>

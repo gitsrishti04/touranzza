@@ -7,15 +7,15 @@ require 'PHPMailer-master/src/PHPMailer.php';
 require 'PHPMailer-master/src/SMTP.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $senderName = $_POST["name"];
-    $senderEmail = $_POST["email"];
-    $phone = $_POST["phone"];
-    $datepicker = $_POST["datepicker"];
-    $adults = $_POST["adults"];
-    $child = $_POST["child"];
-    $des = $_POST["des"];
+    $senderName = $_POST["name"] ?? $_POST["form-box-name-input"] ?? '';
+    $senderEmail = $_POST["email"] ?? $_POST["form-box-email-input"] ?? '';
+    $phone = $_POST["phone"] ?? $_POST["form-box-phone-input"] ?? '';
+    $datepicker = $_POST["datepicker"] ?? '';
+    $adults = $_POST["adults"] ?? '';
+    $child = $_POST["child"] ?? '';
+    $des = $_POST["des"] ?? $_POST["form-one-message-input"] ?? '';
     $ip = getenv("REMOTE_ADDR");
-    $hiddenField = $_POST["hiddenField"];
+    $hiddenField = $_POST["hiddenField"] ?? $_POST["form-box-subject-input"] ?? 'General Enquiry';
 
     $body = "Name: $senderName<br><br>";
     $body .= "Email: $senderEmail<br><br>";
@@ -31,17 +31,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         //Server settings
         $mail->SMTPDebug = 0;
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com';
+        $mail->Host = 'smtp.hostinger.com';
         $mail->SMTPAuth = true;
         $mail->Username = 'india@touranzza.com';
-        $mail->Password = 'kjcxjgndycqjrkei';
+        $mail->Password = 'Touranzzza@26';
         $mail->SMTPSecure = 'tls';
         $mail->Port = 587;
 
         //Recipients
-        $mail->setFrom($senderEmail, $senderName);
+        $mail->setFrom('india@touranzza.com', 'Touranzza');
         $mail->addReplyTo($senderEmail, $senderName);
         $mail->addAddress('india@touranzza.com');
+        $mail->addAddress('touranzza@gmail.com');
 
         //Content
         $mail->isHTML(true);
@@ -49,22 +50,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Body = $body;
 
         if (!$mail->send()) {
-            echo 'Message could not be sent.';
-            echo 'Mailer Error: ', $mail->ErrorInfo;
+            echo 'Message could not be sent. Mailer Error: ' . $mail->ErrorInfo;
         } else {
-            echo '<script>
-                    alert("Thank you for your enquiry! We will get in touch with you soon.");
-                    window.location.href = "https://tajnirvanatours.com/thanks.php";
-                  </script>';
+            echo 'Success';
         }
 
         // Start of auto-reply code
         $autoReply = new PHPMailer(true); // Create a new PHPMailer instance for the auto-reply
         $autoReply->isSMTP();
-        $autoReply->Host = 'smtp.gmail.com';
+        $autoReply->Host = 'smtp.hostinger.com';
         $autoReply->SMTPAuth = true;
         $autoReply->Username = 'india@touranzza.com';
-        $autoReply->Password = 'kjcxjgndycqjrkei';
+        $autoReply->Password = 'Touranzzza@26';
         $autoReply->SMTPSecure = 'tls';
         $autoReply->Port = 587;
 

@@ -57,8 +57,10 @@
           <ul class="main-footer__social">
             <li class="main-footer__social-item"> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
                   class="fab fa-facebook-f"></i></a> </li>
-            <li class="main-footer__social-item"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
-                  class="fab fa-twitter"></i></a> </li>
+            <li class="main-footer__social-item"> <a href="https://www.linkedin.com/company/touranzza/" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
+                  class="fab fa-linkedin-in"></i></a> </li>
+            <li class="main-footer__social-item"> <a href="https://share.google/Bwu2Uwfy6zNyqPp0X" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
+                  class="fab fa-google"></i></a> </li>
             <li class="main-footer__social-item"> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
                   class="fab fa-tripadvisor"></i></a> </li>
             <li class="main-footer__social-item"> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer" class="main-footer__social-link"><i
@@ -97,7 +99,7 @@
 <div class="overlay" id="overlay"></div>
 <div class="popup-form" id="enquiryForm">
   <h3>Quick Enquiry</h3>
-  <form class="contact-page__form form-one row gutter-20">
+  <form action="tourmail.php" method="POST" class="contact-page__form form-one row gutter-20">
     <div class="col-md-6 " data-wow-delay="0s">
       <div class="form-one__group">
         <input type="text" name="form-box-name-input" id="form-one-name-input" placeholder="Your Name"
@@ -161,7 +163,8 @@
     <!-- /.mobile-nav__contact -->
     <div class="mobile-nav__social"> 
       <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> 
-      <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i> <span class="sr-only">Twitter</span> </a> 
+      <a href="https://www.linkedin.com/company/touranzza/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin-in" aria-hidden="true"></i> <span class="sr-only">LinkedIn</span> </a> 
+      <a href="https://share.google/Bwu2Uwfy6zNyqPp0X" target="_blank" rel="noopener noreferrer"> <i class="fab fa-google" aria-hidden="true"></i> <span class="sr-only">Google</span> </a> 
       <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a> 
       <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a> 
     </div>
@@ -185,4 +188,5 @@
       formPopup.style.display = 'block';
     }
   }
+
 </script>

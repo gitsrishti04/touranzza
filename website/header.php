@@ -22,8 +22,10 @@
         <ul class="topbar-one__social">
           <li class="topbar-one__social-item"> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-facebook-f"></i></a> </li>
-          <li class="topbar-one__social-item"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
-                class="fab fa-twitter"></i></a> </li>
+          <li class="topbar-one__social-item"> <a href="https://www.linkedin.com/company/touranzza/" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
+                class="fab fa-linkedin-in"></i></a> </li>
+          <li class="topbar-one__social-item"> <a href="https://share.google/Bwu2Uwfy6zNyqPp0X" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
+                class="fab fa-google"></i></a> </li>
           <li class="topbar-one__social-item"> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i
                 class="fab fa-tripadvisor"></i></a> </li>
           <li class="topbar-one__social-item"> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer" class="topbar-one__social-link"><i

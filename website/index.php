@@ -36,8 +36,8 @@
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.carousel.min.css" />
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
   <!-- template styles -->
-  <link rel="stylesheet" href="assets/css/trevlo.css" />
-  <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <link rel="stylesheet" href="assets/css/trevlo.css?v=2" />
+  <link rel="stylesheet" href="assets/css/touranzza.css?v=2" />
 </head>
 
 <body>
@@ -1082,16 +1082,13 @@
             }'>
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.png"
                 alt="Jacob Jones"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
               <p class="testimonials-card__meta__designation">UK</p>
             </div>
             <!-- /.testimonials-card__meta -->
-            <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-              <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
-            <!-- /.testimonials-card__ratings -->
             <div class="testimonials-card__quote">His SUV was immaculate and his attitude was wonderful; always caring
               for our comfort and convenience and negotiating the hectic roads of and between Delhi, Jaipur and Agra
               with ease and confidence. I cannot recommend him enough - he was wonderful!</div>
@@ -1102,16 +1099,13 @@
 
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.png"
                 alt="Robert Fox"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
               <p class="testimonials-card__meta__designation">USA</p>
             </div>
             <!-- /.testimonials-card__meta -->
-            <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-              <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
-            <!-- /.testimonials-card__ratings -->
             <div class="testimonials-card__quote">There was no way we could have seen what we were able to see without
               such an excellent driver. The furnished guises enabled us to really understand what we visited....</div>
             <!-- /.testimonials-card__quote -->
@@ -1121,16 +1115,13 @@
 
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.png"
                 alt="Guy Hawkins"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
               <p class="testimonials-card__meta__designation">New York</p>
             </div>
             <!-- /.testimonials-card__meta -->
-            <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-              <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
-            <!-- /.testimonials-card__ratings -->
             <div class="testimonials-card__quote">The tour was amazing. We have seen a lot of monuments and sights.
               Thank you very much for these beautiful days. Includes long car drives and short nights. But in total we
               would do it again. Thumbs up!</div>
@@ -1141,16 +1132,13 @@
 
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_39_20 AM.png"
                 alt="Jacob Jones"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
               <p class="testimonials-card__meta__designation">Australia</p>
             </div>
             <!-- /.testimonials-card__meta -->
-            <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-              <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
-            <!-- /.testimonials-card__ratings -->
             <div class="testimonials-card__quote">Amazing views and wonderful tour guides!! Very knowledgeable and
               courteous. I highly recommend taking this tour!</div>
             <!-- /.testimonials-card__quote -->
@@ -1160,16 +1148,13 @@
 
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.png"
                 alt="Robert Fox"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Robert Fox</h5>
               <p class="testimonials-card__meta__designation">Germany</p>
             </div>
             <!-- /.testimonials-card__meta -->
-            <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-              <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
-            <!-- /.testimonials-card__ratings -->
             <div class="testimonials-card__quote">The tour was easy to book, the admin was very helpful. Car and driver
               arrived on time, journey was pleasant, the sites were beautiful. The guide could be more friendly and less
               strict.</div>
@@ -1180,16 +1165,13 @@
 
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.png"
                 alt="Guy Hawkins"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
               <p class="testimonials-card__meta__designation">Hong Kong</p>
             </div>
             <!-- /.testimonials-card__meta -->
-            <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
-              <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
-            <!-- /.testimonials-card__ratings -->
             <div class="testimonials-card__quote">Great experience overall. Highly recommended for everyone to get a
               real inside feel of the culture and creativity of the many generations</div>
             <!-- /.testimonials-card__quote -->
@@ -1593,9 +1575,9 @@
       }'>
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery1.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery1.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1607,9 +1589,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery2.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery2.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1621,9 +1603,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery3.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery3.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1635,9 +1617,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery4.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery4.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1649,9 +1631,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery5.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery5.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1663,9 +1645,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery6.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery6.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1677,9 +1659,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery7.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery7.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1691,9 +1673,9 @@
         <!-- /.item -->
         <div class="item">
           <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery8.jpg" alt="gallery"
+            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png" alt="gallery"
                 class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery8.jpg"
+              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png"
                   class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                     class="icon-plus"></span></a> </div>
               <!-- /.gallery-single__overlay -->
@@ -1703,103 +1685,6 @@
           <!-- /.gallery-single -->
         </div>
         <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery9.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery9.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery10.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery10.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery11.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery11.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery12.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery12.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery13.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery13.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery14.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery14.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/gallery15.jpg" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/gallery15.jpg"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
-            </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
         <!-- /.item -->
       </div>
     </div>
@@ -1832,7 +1717,7 @@
   <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
   <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
   <!-- template js -->
-  <script src="assets/js/trevlo.js"></script>
+  <script src="assets/js/trevlo.js?v=4"></script>
 </body>
 
 </html>

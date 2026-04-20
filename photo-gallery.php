@@ -85,6 +85,32 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
                             <img src="assets/images/gallery/gallery1.jpg" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery1.jpg"
@@ -94,7 +120,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -107,7 +133,33 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                 <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -120,13 +172,39 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
                             <img src="assets/images/gallery/gallery4.jpg" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery4.jpg"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -163,6 +241,32 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
                             <img src="assets/images/gallery/gallery7.jpg" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery7.jpg"
@@ -172,7 +276,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -185,7 +289,33 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                 <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -198,7 +328,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -212,6 +342,32 @@
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                 <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -237,6 +393,32 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                 <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
@@ -250,7 +432,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -263,7 +445,33 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                 <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -276,7 +484,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -290,6 +498,32 @@
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
                 <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -315,7 +549,20 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/gallery22.jpg" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/gallery22.jpg"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -341,65 +588,13 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
                             <img src="assets/images/gallery/gallery21.jpg" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery21.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery22.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery22.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery23.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery23.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery24.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery24.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery25.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery25.jpg"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -419,7 +614,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -432,7 +627,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -458,59 +653,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery30.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery30.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery31.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery31.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery32.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery32.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
-                    data-wow-duration="1500ms">
-                    <div class="gallery-single">
-                        <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery33.jpg" alt="gallery" class="gallery-single__img">
-                            <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery33.jpg"
-                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                                        class="icon-plus"></span></a>
-                            </div><!-- /.gallery-single__overlay -->
-                        </div><!-- /.gallery-single__img-box -->
-                    </div><!-- /.gallery-single -->
-                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -536,7 +679,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -549,7 +692,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -575,7 +718,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -588,7 +731,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -607,6 +750,19 @@
                         <div class="gallery-single__img-box">
                             <img src="assets/images/gallery/gallery41.jpg" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
+                                <a href="assets/images/gallery/gallery41.jpg"
+                                    class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                                        class="icon-plus"></span></a>
+                            </div><!-- /.gallery-single__overlay -->
+                        </div><!-- /.gallery-single__img-box -->
+                    </div><!-- /.gallery-single -->
+                </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                    data-wow-duration="1500ms">
+                    <div class="gallery-single">
+                        <div class="gallery-single__img-box">
+                            <img src="assets/images/gallery/gallery42.jpg" alt="gallery" class="gallery-single__img">
+                            <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery42.jpg"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
@@ -614,7 +770,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -640,7 +796,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -653,7 +809,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -679,7 +835,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -692,7 +848,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -718,7 +874,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.1s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -731,7 +887,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.5s"
+                <div class="col-xl-3 col-lg-4 col-sm-6 wow animated fadeInUp" data-wow-delay="0.3s"
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
@@ -757,7 +913,7 @@
                         </div><!-- /.gallery-single__img-box -->
                     </div><!-- /.gallery-single -->
                 </div><!-- /.col-xl-4 col-lg-4 col-sm-6 -->
-            </div><!-- /.row -->
+                </div><!-- /.row -->
         </div><!-- /.container -->
     </div>
     <!-- /.gallery-page -->
@@ -795,7 +951,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/trevlo.js"></script>
+    <script src="assets/js/trevlo.js?v=4"></script>
 </body>
 
 </html>

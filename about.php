@@ -162,7 +162,7 @@
     <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
     <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
     <!-- template js -->
-    <script src="assets/js/trevlo.js"></script>
+    <script src="assets/js/trevlo.js?v=4"></script>
 </body>
 
 </html>
