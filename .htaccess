@@ -1,27 +1,36 @@
+# Enable Rewrite Engine
 RewriteEngine On
 
 # -----------------------------------
-# 1. FORCE HTTPS + WWW (REQUIRED)
+# 1. FORCE HTTPS + WWW (Canonical URL)
 # -----------------------------------
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} !^www\.touranzza\.com$ [NC]
 RewriteRule ^(.*)$ https://www.touranzza.com/$1 [L,R=301]
 
 # -----------------------------------
-# 2. REDIRECT index.php → /
+# 2. REDIRECT /index.php → /
 # -----------------------------------
 RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]
 RewriteRule ^index\.php$ / [L,R=301]
 
 # -----------------------------------
-# 3. REMOVE .php EXTENSION
+# 3. REMOVE .php EXTENSION (External)
+# /page.php → /page
 # -----------------------------------
 RewriteCond %{THE_REQUEST} \s/([^.]+)\.php[\s?] [NC]
-RewriteRule ^([^.]+)\.php$ /$1 [L,R=301]
+RewriteRule ^ %1 [L,R=301]
 
 # -----------------------------------
-# 4. INTERNAL REWRITE
+# 4. INTERNAL REWRITE (Pretty URLs → PHP)
+# /page → /page.php
 # -----------------------------------
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# -----------------------------------
+# 5. OPTIONAL: Redirect .html → clean URL
+# -----------------------------------
+RewriteCond %{THE_REQUEST} \s/([^.]+)\.html[\s?] [NC]
+RewriteRule ^ %1 [L,R=301]
