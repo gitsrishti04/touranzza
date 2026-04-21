@@ -135,7 +135,7 @@
                     <!-- Golden Triangle -->
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tours.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tours" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/agrai-tour-1.jpg" alt="Golden Triangle Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -149,7 +149,7 @@
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                 </div>
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tours.php">Golden Triangle Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tours">Golden Triangle Tours</a></h3>
                                 <p class="tour-listing__card-text text-small">A perfect introduction to India's rich heritage across three iconic cities.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
@@ -181,7 +181,7 @@
                     <!-- Rajasthan -->
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="rajasthan-tours.php" class="tour-listing__card-image-box">
+                            <a href="rajasthan-tours" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-1.jpg" alt="Rajasthan Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">Rajasthan</div>
@@ -195,7 +195,7 @@
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                 </div>
-                                <h3 class="tour-listing__card-title"><a href="rajasthan-tours.php">Rajasthan Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="rajasthan-tours">Rajasthan Tours</a></h3>
                                 <p class="tour-listing__card-text text-small">Experience the royal heritage, majestic forts, and desert life of Rajasthan.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
@@ -240,7 +240,7 @@
                     <!-- 1 Day -->
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="1-day-tours.php" class="tour-listing__card-image-box">
+                            <a href="1-day-tours" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/agra-3.jpg" alt="1 Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">1 Day</div>
@@ -248,7 +248,7 @@
                                 <div class="tour-listing__card-image-overlay"></div>
                             </a>
                             <div class="tour-listing__card-content">
-                                <h3 class="tour-listing__card-title"><a href="1-day-tours.php">1 Day Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="1-day-tours">1 Day Tours</a></h3>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
@@ -271,7 +271,7 @@
                     <!-- 3-5 Days -->
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="3-to-5-days-tours.php" class="tour-listing__card-image-box">
+                            <a href="3-to-5-days-tours" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-2.jpg" alt="3-5 Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">3-5 Days</div>
@@ -279,7 +279,7 @@
                                 <div class="tour-listing__card-image-overlay"></div>
                             </a>
                             <div class="tour-listing__card-content">
-                                <h3 class="tour-listing__card-title"><a href="3-to-5-days-tours.php">3-5 Day Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="3-to-5-days-tours">3-5 Day Tours</a></h3>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
@@ -302,7 +302,7 @@
                     <!-- 6-10 Days -->
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="6-to-10-days-expeditions.php" class="tour-listing__card-image-box">
+                            <a href="6-to-10-days-expeditions" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/gt1.jpg" alt="6-10 Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">6-10 Days</div>
@@ -310,7 +310,7 @@
                                 <div class="tour-listing__card-image-overlay"></div>
                             </a>
                             <div class="tour-listing__card-content">
-                                <h3 class="tour-listing__card-title"><a href="6-to-10-days-expeditions.php">6-10 Day Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="6-to-10-days-expeditions">6-10 Day Tours</a></h3>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
@@ -333,7 +333,7 @@
                     <!-- 10+ Days -->
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="10-plus-days-grand-tours.php" class="tour-listing__card-image-box">
+                            <a href="10-plus-days-grand-tours" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/colorful-rajasthan.jpg" alt="10+ Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">10+ Days</div>
@@ -341,7 +341,7 @@
                                 <div class="tour-listing__card-image-overlay"></div>
                             </a>
                             <div class="tour-listing__card-content">
-                                <h3 class="tour-listing__card-title"><a href="10-plus-days-grand-tours.php">10+ Day Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="10-plus-days-grand-tours">10+ Day Tours</a></h3>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-location-box">
                                         <span class="icon-location-1"></span>
@@ -381,7 +381,7 @@
 
     <!-- Counter One Start -->
     <?php include("footer.php") ?>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+    <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
     <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

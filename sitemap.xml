@@ -1,99 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
-    <loc>https://www.touranzza.com/index.php</loc>
+    <loc>https://www.touranzza.com/</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
+
+  <!-- Core Pages -->
   <url>
-    <loc>https://www.touranzza.com/about.php</loc>
+    <loc>https://www.touranzza.com/about</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/contact.php</loc>
-    <priority>0.80</priority>
+    <loc>https://www.touranzza.com/contact</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.75</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/tour-packages.php</loc>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/testimonials.php</loc>
+    <loc>https://www.touranzza.com/testimonials</loc>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
+
+  <!-- Main Category -->
   <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-5-days.php</loc>
+    <loc>https://www.touranzza.com/tour-packages</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Golden Triangle Tours -->
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-3-days</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-5-days</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-6-days</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-7-days</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Variants -->
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-with-ranthambore</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-with-rajasthan</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-with-varanasi</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-with-amritsar</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-with-goa</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/golden-triangle-tour-with-mumbai</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <!-- Other Categories -->
+  <url>
+    <loc>https://www.touranzza.com/rajasthan-tours</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+
+  <url>
+    <loc>https://www.touranzza.com/same-day-tours</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
+
+  <!-- Duration-Based -->
   <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-3-days.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-6-days.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-7-days.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-with-ranthambore.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-with-rajasthan.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-with-varanasi.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-with-amritsar.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-with-goa.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/golden-triangle-tour-with-mumbai.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/rajasthan-tours.php</loc>
-    <priority>0.85</priority>
-  </url>
-  <url>
-    <loc>https://www.touranzza.com/same-day-tours.php</loc>
+    <loc>https://www.touranzza.com/1-day-tours</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/1-day-tours.php</loc>
+    <loc>https://www.touranzza.com/3-to-5-days-tours</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/3-to-5-days-tours.php</loc>
+    <loc>https://www.touranzza.com/6-to-10-days-expeditions</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/6-to-10-days-expeditions.php</loc>
+    <loc>https://www.touranzza.com/10-plus-days-grand-tours</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
+
+  <!-- Specific Tours -->
   <url>
-    <loc>https://www.touranzza.com/10-plus-days-grand-tours.php</loc>
-    <priority>0.80</priority>
+    <loc>https://www.touranzza.com/same-day-agra-tour-by-car</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/same-day-agra-tour-by-car.php</loc>
-    <priority>0.75</priority>
+    <loc>https://www.touranzza.com/same-day-agra-tour-by-train</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
   </url>
+
   <url>
-    <loc>https://www.touranzza.com/same-day-agra-tour-by-train.php</loc>
-    <priority>0.75</priority>
+    <loc>https://www.touranzza.com/same-day-delhi-tour</loc>
+    <lastmod>2026-04-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
   </url>
-  <url>
-    <loc>https://www.touranzza.com/same-day-delhi-tour.php</loc>
-    <priority>0.75</priority>
-  </url>
+
 </urlset>

@@ -40,79 +40,79 @@
       <nav class="main-header__nav main-menu">
         <ul class="main-menu__list">
           <li> <a href="./">Home</a> </li>
-          <li class="dropdown tour-pkg-dropdown"> <a href="tour-packages.php">Tour Packages</a>
+          <li class="dropdown tour-pkg-dropdown"> <a href="tour-packages">Tour Packages</a>
             <ul class="sub-menu">
-              <li class="dropdown"><a href="golden-triangle-tours.php">Golden Triangle Tours (GT)</a>
+              <li class="dropdown"><a href="golden-triangle-tours">Golden Triangle Tours (GT)</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-5-days.php">5 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-with-ranthambore.php"> GT with Ranthambore</a></li>
-                  <li><a href="golden-triangle-tour-with-rajasthan.php">GT with Rajasthan</a></li>
-                  <li><a href="golden-triangle-tour-with-varanasi.php">GT with Varanasi</a></li>
-                  <li><a href="golden-triangle-tour-with-amritsar.php">GT with Amritsar</a></li>
-                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh.php">GT with Haridwar &amp;
+                  <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-with-ranthambore"> GT with Ranthambore</a></li>
+                  <li><a href="golden-triangle-tour-with-rajasthan">GT with Rajasthan</a></li>
+                  <li><a href="golden-triangle-tour-with-varanasi">GT with Varanasi</a></li>
+                  <li><a href="golden-triangle-tour-with-amritsar">GT with Amritsar</a></li>
+                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh">GT with Haridwar &amp;
                       Rishikesh</a>
                   </li>
-                  <li><a href="golden-triangle-tour-with-orchha-khajuraho.php">GT with Orchha &amp; Khajuraho</a></li>
-                  <li><a href="golden-triangle-tour-with-goa.php">GT with Goa</a></li>
-                  <li><a href="golden-triangle-tour-with-mumbai.php">GT with Mumbai</a></li>
+                  <li><a href="golden-triangle-tour-with-orchha-khajuraho">GT with Orchha &amp; Khajuraho</a></li>
+                  <li><a href="golden-triangle-tour-with-goa">GT with Goa</a></li>
+                  <li><a href="golden-triangle-tour-with-mumbai">GT with Mumbai</a></li>
                 </ul>
               </li>
-              <li class="dropdown rajasthan-tours-col"><a href="rajasthan-tours.php">Rajasthan Tours</a>
+              <li class="dropdown rajasthan-tours-col"><a href="rajasthan-tours">Rajasthan Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="royal-rajasthan-tour.php">Royal Rajasthan Tour</a></li>
-                  <li><a href="desert-tour-rajasthan.php">Desert Tour Rajasthan</a></li>
-                  <li><a href="fort-and-palaces-tour.php">Fort &amp; Palaces Tour</a></li>
-                  <li><a href="rajasthan-heritage-tour.php">Rajasthan Heritage Tour</a></li>
+                  <li><a href="royal-rajasthan-tour">Royal Rajasthan Tour</a></li>
+                  <li><a href="desert-tour-rajasthan">Desert Tour Rajasthan</a></li>
+                  <li><a href="fort-and-palaces-tour">Fort &amp; Palaces Tour</a></li>
+                  <li><a href="rajasthan-heritage-tour">Rajasthan Heritage Tour</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="same-day-tours.php">Same Day / 1 Day Tours</a>
+              <li class="dropdown"><a href="same-day-tours">Same Day / 1 Day Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="same-day-agra-tour-by-car.php">Same Day Agra by Car</a></li>
-                  <li><a href="same-day-agra-tour-by-train.php">Same Day Agra by Train</a></li>
-                  <li><a href="same-day-delhi-tour.php">Same Day Delhi Tour</a></li>
-                  <li><a href="same-day-jaipur-tour.php">Same Day Jaipur Tour</a></li>
+                  <li><a href="same-day-agra-tour-by-car">Same Day Agra by Car</a></li>
+                  <li><a href="same-day-agra-tour-by-train">Same Day Agra by Train</a></li>
+                  <li><a href="same-day-delhi-tour">Same Day Delhi Tour</a></li>
+                  <li><a href="same-day-jaipur-tour">Same Day Jaipur Tour</a></li>
 
                 </ul>
               </li>
-              <li class="dropdown"><a href="tour-packages.php#3-5-days">3–5 Days Tours</a>
+              <li class="dropdown"><a href="tour-packages#3-5-days">3–5 Days Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-3-days.php">3 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-4-days.php">4 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-5-days.php">5 Days Golden Triangle</a></li>
-                  <li><a href="desert-tour-rajasthan.php">5 Days Desert Tour</a></li>
+                  <li><a href="golden-triangle-tour-3-days">3 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-4-days">4 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
+                  <li><a href="desert-tour-rajasthan">5 Days Desert Tour</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="tour-packages.php#6-10-days">6–10 Days Tours</a>
+              <li class="dropdown"><a href="tour-packages#6-10-days">6–10 Days Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-6-days.php">6 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-7-days.php">7 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-with-varanasi.php">7 Days GT + Varanasi</a></li>
-                  <li><a href="golden-triangle-tour-with-ranthambore.php">7 Days GT + Ranthambore</a></li>
-                  <li><a href="royal-rajasthan-tour.php">8 Days Royal Rajasthan</a></li>
-                  <li><a href="rajasthan-heritage-tour.php">9 Days Heritage Tour</a></li>
-                  <li><a href="fort-and-palaces-tour.php">10 Days Fort &amp; Palaces</a></li>
+                  <li><a href="golden-triangle-tour-6-days">6 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-7-days">7 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-with-varanasi">7 Days GT + Varanasi</a></li>
+                  <li><a href="golden-triangle-tour-with-ranthambore">7 Days GT + Ranthambore</a></li>
+                  <li><a href="royal-rajasthan-tour">8 Days Royal Rajasthan</a></li>
+                  <li><a href="rajasthan-heritage-tour">9 Days Heritage Tour</a></li>
+                  <li><a href="fort-and-palaces-tour">10 Days Fort &amp; Palaces</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="tour-packages.php#10-plus-days">10+ Days Tours</a>
+              <li class="dropdown"><a href="tour-packages#10-plus-days">10+ Days Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-with-rajasthan.php">GT with Full Rajasthan</a></li>
-                  <li><a href="golden-triangle-tour-with-goa.php">GT with Goa</a></li>
-                  <li><a href="golden-triangle-tour-with-mumbai.php">GT with Mumbai</a></li>
-                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh.php">GT with Haridwar &amp;
+                  <li><a href="golden-triangle-tour-with-rajasthan">GT with Full Rajasthan</a></li>
+                  <li><a href="golden-triangle-tour-with-goa">GT with Goa</a></li>
+                  <li><a href="golden-triangle-tour-with-mumbai">GT with Mumbai</a></li>
+                  <li><a href="golden-triangle-tour-with-haridwar-and-rishikesh">GT with Haridwar &amp;
                       Rishikesh</a>
                   </li>
-                  <li><a href="golden-triangle-tour-with-amritsar.php">GT with Amritsar</a></li>
+                  <li><a href="golden-triangle-tour-with-amritsar">GT with Amritsar</a></li>
                 </ul>
               </li>
             </ul>
           </li>
-          <li> <a href="photo-gallery.php">Photo Gallery</a> </li>
-          <li> <a href="contact.php">Contact</a> </li>
+          <li> <a href="photo-gallery">Photo Gallery</a> </li>
+          <li> <a href="contact">Contact</a> </li>
         </ul>
       </nav>
       <div class="main-header__right">
         <div class="mobile-nav__btn mobile-nav__toggler"> <span></span> <span></span> <span></span> </div>
-        <a href="tour-packages.php"
+        <a href="tour-packages"
           class="main-header__booking-btn trevlo-btn trevlo-btn--white-two"><span>Start Booking</span></a>
         <div class="main-header__right-right">
           <div class="main-header__phone">

@@ -215,7 +215,7 @@
     <!-- Counter One Start -->
 
     <?php include("footer.php") ?>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+    <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
     <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

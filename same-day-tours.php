@@ -73,7 +73,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="same-day-agra-tour-by-car.php" class="tour-listing__card-image-box">
+                            <a href="same-day-agra-tour-by-car" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/agrai-tour-2.jpg" alt="assets/images/tours/tour-3-1.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -112,7 +112,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="same-day-agra-tour-by-car.php">Same Day
+                                <h3 class="tour-listing__card-title"><a href="same-day-agra-tour-by-car">Same Day
                                         Agra Tour By Car</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -148,7 +148,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="same-day-agra-tour-by-train.php" class="tour-listing__card-image-box">
+                            <a href="same-day-agra-tour-by-train" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/agrai-tour-1.jpg" alt="assets/images/tours/tour-3-2.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -187,7 +187,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="same-day-agra-tour-by-train.php">Same Day
+                                <h3 class="tour-listing__card-title"><a href="same-day-agra-tour-by-train">Same Day
                                         Agra Tour By Train</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -223,7 +223,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="same-day-agra-tour-by-gatimaan-express.php" class="tour-listing__card-image-box">
+                            <a href="same-day-agra-tour-by-gatimaan-express" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/same-day-tour.jpg" alt="assets/images/tours/tour-3-3.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -263,7 +263,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="same-day-agra-tour-by-gatimaan-express.php">Same Day Agra Tour By Gatimaan
+                                        href="same-day-agra-tour-by-gatimaan-express">Same Day Agra Tour By Gatimaan
                                         Express</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -299,7 +299,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="taj-mahal-sunrise-tour.php" class="tour-listing__card-image-box">
+                            <a href="taj-mahal-sunrise-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/sunrise-tour.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -338,7 +338,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="taj-mahal-sunrise-tour.php">Taj Mahal
+                                <h3 class="tour-listing__card-title"><a href="taj-mahal-sunrise-tour">Taj Mahal
                                         Sunrise Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -374,7 +374,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="same-day-delhi-tour.php" class="tour-listing__card-image-box">
+                            <a href="same-day-delhi-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/delhi-tour-3.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -413,7 +413,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="same-day-delhi-tour.php">Same Day Delhi
+                                <h3 class="tour-listing__card-title"><a href="same-day-delhi-tour">Same Day Delhi
                                         Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -449,7 +449,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="same-day-jaipur-tour.php" class="tour-listing__card-image-box">
+                            <a href="same-day-jaipur-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -488,7 +488,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="same-day-jaipur-tour.php">Same Day Jaipur
+                                <h3 class="tour-listing__card-title"><a href="same-day-jaipur-tour">Same Day Jaipur
                                         Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -541,7 +541,7 @@
 
     <!-- Counter One Start -->
     <?php include("footer.php") ?>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+    <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
     <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

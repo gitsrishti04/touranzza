@@ -73,7 +73,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="royal-rajasthan-tour.php" class="tour-listing__card-image-box">
+                            <a href="royal-rajasthan-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/fort-and-palaces-tour2.jpg"
                                     alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -112,7 +112,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour.php">Royal Rajasthan
+                                <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour">Royal Rajasthan
                                         Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -150,7 +150,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="desert-tour-rajasthan.php" class="tour-listing__card-image-box">
+                            <a href="desert-tour-rajasthan" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -189,7 +189,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan.php">Desert Tour
+                                <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan">Desert Tour
                                         Rajasthan</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -227,7 +227,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-6-days.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-6-days" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/agrai-tour-3.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -266,7 +266,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-6-days.php">Golden
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-6-days">Golden
                                         Triangle Tour 6 Days</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -303,7 +303,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-7-days.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-7-days" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/delhi-tour-2.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -342,7 +342,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-7-days.php">Golden
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-7-days">Golden
                                         Triangle Tour 7 Days</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -379,7 +379,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-ajmer-and-pushkar.php"
+                            <a href="golden-triangle-tour-with-ajmer-and-pushkar"
                                 class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
@@ -420,7 +420,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-ajmer-and-pushkar.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-ajmer-and-pushkar">Golden Triangle Tour With
                                         Ajmer Pushkar</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -458,7 +458,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-amritsar.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-amritsar" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/amritsar.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -498,7 +498,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-amritsar.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-amritsar">Golden Triangle Tour With
                                         Amritsar</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -536,7 +536,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-goa.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-goa" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/goa.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -575,7 +575,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-goa.php">Golden
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-goa">Golden
                                         Triangle Tour With Goa</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -613,7 +613,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-haridwar-and-rishikesh.php"
+                            <a href="golden-triangle-tour-with-haridwar-and-rishikesh"
                                 class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/Haridwar-Rishikesh.jpg"
                                     alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
@@ -654,7 +654,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-haridwar-and-rishikesh.php">Golden Triangle Tour
+                                        href="golden-triangle-tour-with-haridwar-and-rishikesh">Golden Triangle Tour
                                         With Haridwar Rishikesh</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -692,7 +692,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-rajasthan.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-rajasthan" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -732,7 +732,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-rajasthan.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-rajasthan">Golden Triangle Tour With
                                         Rajasthan</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -771,7 +771,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-ranthambore.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-ranthambore" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/gt8.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -811,7 +811,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-ranthambore.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-ranthambore">Golden Triangle Tour With
                                         Ranthambore</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -849,7 +849,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-varanasi.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-varanasi" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/varanasi-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -889,7 +889,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-varanasi.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-varanasi">Golden Triangle Tour With
                                         Varanasi</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -927,7 +927,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-mumbai.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-mumbai" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/mumbai.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -967,7 +967,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-mumbai.php">Golden Triangle Tour With Mumbai</a>
+                                        href="golden-triangle-tour-with-mumbai">Golden Triangle Tour With Mumbai</a>
                                 </h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -1005,7 +1005,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-orchha-khajuraho.php"
+                            <a href="golden-triangle-tour-with-orchha-khajuraho"
                                 class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/orchha-khajuraho.jpg"
                                     alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
@@ -1046,7 +1046,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-orchha-khajuraho.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-orchha-khajuraho">Golden Triangle Tour With
                                         Orchha Khajuraho</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -1085,7 +1085,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-udaipur.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-udaipur" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/udaipur-tour1.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image" style="height: 252px; width: 100%; object-fit: cover;">
                                 <div class="tour-listing__card-btn-group">
@@ -1125,7 +1125,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-udaipur.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-udaipur">Golden Triangle Tour With
                                         Udaipur</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -1179,7 +1179,7 @@
 
     <!-- Counter One Start -->
     <?php include("footer.php") ?>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+    <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
     <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

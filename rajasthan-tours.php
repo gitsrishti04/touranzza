@@ -73,7 +73,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="rajasthan-heritage-tour.php" class="tour-listing__card-image-box">
+                            <a href="rajasthan-heritage-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/rajasthan-heritage-tour.jpg"
                                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -112,7 +112,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="rajasthan-heritage-tour.php">Rajasthan
+                                <h3 class="tour-listing__card-title"><a href="rajasthan-heritage-tour">Rajasthan
                                         Heritage Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -150,7 +150,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="royal-rajasthan-tour.php" class="tour-listing__card-image-box">
+                            <a href="royal-rajasthan-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/fort-and-palaces-tour2.jpg"
                                     alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -189,7 +189,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour.php">Royal Rajasthan
+                                <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour">Royal Rajasthan
                                         Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -226,7 +226,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="fort-and-palaces-tour.php" class="tour-listing__card-image-box">
+                            <a href="fort-and-palaces-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/fort-and-palaces-tour.jpg"
                                     alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -265,7 +265,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="fort-and-palaces-tour.php">Fort And
+                                <h3 class="tour-listing__card-title"><a href="fort-and-palaces-tour">Fort And
                                         Palaces Tour</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -302,7 +302,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="desert-tour-rajasthan.php" class="tour-listing__card-image-box">
+                            <a href="desert-tour-rajasthan" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -341,7 +341,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan.php">Desert Tour
+                                <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan">Desert Tour
                                         Rajasthan</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -394,7 +394,7 @@
 
     <!-- Counter One Start -->
     <?php include("footer.php") ?>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+    <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
     <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

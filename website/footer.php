@@ -19,9 +19,9 @@
           <h2 class="footer-widget__title">Tour Packages</h2>
           <!-- /.footer-widget__title -->
           <ul class="footer-widget__links">
-            <li><a href="golden-triangle-tours.php">Golden Triangle Tours</a></li>
-            <li><a href="same-day-tours.php">Same Day Tours </a></li>
-            <li><a href="rajasthan-tours.php">Rajasthan Tours </a></li>
+            <li><a href="golden-triangle-tours"">Golden Triangle Tours</a></li>
+            <li><a href="same-day-tours"">Same Day Tours </a></li>
+            <li><a href="rajasthan-tours"">Rajasthan Tours </a></li>
           </ul>
           <!-- /.footer-widget__links -->
         </div>
@@ -34,10 +34,10 @@
           <!-- /.footer-widget__title -->
           <ul class="footer-widget__links">
             <li><a href="./">Home</a></li>
-            <li><a href="about.php">About Us</a></li>
-            <li><a href="photo-gallery.php">Photo Gallery</a></li>
-            <li><a href="testimonials.php">Testimonials</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="about"">About Us</a></li>
+            <li><a href="photo-gallery"">Photo Gallery</a></li>
+            <li><a href="testimonials"">Testimonials</a></li>
+            <li><a href="contact"">Contact Us</a></li>
           </ul>
           <!-- /.footer-widget__links -->
         </div>
@@ -92,7 +92,7 @@
     <div class="container">
       <div class="main-footer__bottom-inner">
         <p class="main-footer__copyright"> &copy; Copyright <a href="#">Touranzza</a> | <span
-            class="dynamic-year"></span>
+            class="dynamic-year"></span> </p>
       </div>
       <!-- /.main-footer__inner -->
     </div>

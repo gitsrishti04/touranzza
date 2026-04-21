@@ -73,7 +73,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-3-days.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-3-days" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/agrai-tour-1.jpg" alt="assets/images/tours/tour-3-1.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -112,7 +112,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days.php">Golden
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Golden
                                         Triangle Tour 3 Days</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -149,7 +149,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-4-days.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-4-days" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/delhi-tour-1.jpg" alt="assets/images/tours/tour-3-2.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -188,7 +188,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days.php">Golden
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Golden
                                         Triangle Tour 4 Days</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -225,7 +225,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-5-days.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-5-days" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/jaipur-tour-1.jpg" alt="assets/images/tours/tour-3-3.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -264,7 +264,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days.php">Golden
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days">Golden
                                         Triangle Tour 5 Days</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -301,7 +301,7 @@
 <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
-                            <a href="golden-triangle-tour-with-ranthambore.php" class="tour-listing__card-image-box">
+                            <a href="golden-triangle-tour-with-ranthambore" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/gt8.jpg" alt="assets/images/tours/tour-3-4.jpg"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
@@ -341,7 +341,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-ranthambore.php">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-ranthambore">Golden Triangle Tour With
                                         Ranthambore</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -396,7 +396,7 @@
 
     <!-- Counter One Start -->
     <?php include("footer.php") ?>
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+    <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
     <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
     <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

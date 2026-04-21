@@ -155,7 +155,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days with our private guide Anil, travelling the Golden Triangle (Delhi - Jaipur - Agra). He customised the tour to suit our travel arrangements. He is very knowledgeable and has many contacts. Everything we asked for he was able to deliver."</div>
+            <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days with our private guide Touranzza, travelling the Golden Triangle (Delhi - Jaipur - Agra). The team customised the tour perfectly to suit our travel arrangements. They are extremely professional and handle every detail with expertise. Everything we requested was delivered flawlessly."</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -173,7 +173,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"AMAZING tour of Taj Mahal! 5 STARS! Highly recommend. Anil arranged everything from the car pick up in Delhi, customized tours each day. Santosh was my guide and was absolutely WONDERFUL! He was kind, patient, fun, helpful."</div>
+            <div class="testimonials-card__quote">"AMAZING tour of Taj Mahal! 5 STARS! Highly recommend. Touranzza provided a seamless experience from the private car pickup in Delhi to the customized daily tours. Our assigned guide, Santosh, was absolutely WONDERFUL—kind, patient, and exceptionally knowledgeable."</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -191,7 +191,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"Knowledgeable Guide. From first contact Anil was very helpful and accommodating to work within our time schedule. Anil arranged Ashok to drive us from Delhi and back who was a very safe and considerate driver."</div>
+            <div class="testimonials-card__quote">"Knowledgeable Guide. From first contact Touranzza was very helpful and accommodating to work within our time schedule. Touranzza arranged Ashok to drive us from Delhi and back who was a very safe and considerate driver."</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -209,7 +209,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"Feeling being with family. When you know Mr Anil you feel you know him for a long time, and when you listen his explanations it's clear he knows very well what he is sharing. For sure we recomend this experiece."</div>
+            <div class="testimonials-card__quote">"Feeling being with family. Working with Touranzza feels like being with family. The depth of historical knowledge and the care they put into their guest experiences is clear from start to finish. For sure we recomend this experiece."</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -227,7 +227,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"Awesome Day Trip. Mr. Sharma organized really nicely the 1 day trip from Delhi to Agra, including the Taj Mahal, Inlay Art, Red Fort visits. Mr. Sharma was always reachable on WhatsApp."</div>
+            <div class="testimonials-card__quote">"Awesome Day Trip. Touranzza organized a flawless one-day excursion from Delhi to Agra, including the Taj Mahal, Inlay Art, Red Fort visits. Touranzza was always available 24/7 via WhatsApp."</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -245,7 +245,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"Best Guide!!! We met Anil through our hotel and couldn't be happier with our 4-hour tour of the Taj Mahal and Agra Fort. We travel often and have met dozens of guides, but Anil was one of the best we have encountered!"</div>
+            <div class="testimonials-card__quote">"Best Guide!!! We booked Touranzza through our hotel and couldn't be happier with our 4-hour tour of the Taj Mahal and Agra Fort. We travel often and have met dozens of guides, but Touranzza is easily one of the best we have encountered!"</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -281,7 +281,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"Two days in the exciting city of Agra. Anil Sharma our host and guide was amazing! We highly recommend requesting him and his attentive staff for you on your visit to Agra!"</div>
+            <div class="testimonials-card__quote">"Two days in the exciting city of Agra. "Our two-day experience with Touranzza was amazing! We highly recommend choosing this agency and their attentive staff for a premium visit to Agra. Every detail was handled with care and hospitality.""</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->
@@ -299,7 +299,7 @@
             <div class="testimonials-card__ratings"> <span class="icon-star"></span> <span class="icon-star"></span>
               <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> </div>
             <!-- /.testimonials-card__ratings -->
-            <div class="testimonials-card__quote">"I'll start by saying this was an absolute wonderful experience thanks to Anil. Anil was not only knowledgeable, but passionate about his city and its rich history. Anil provides boutique personalized service."</div>
+            <div class="testimonials-card__quote">"I'll start by saying this was an absolute wonderful experience thanks to Touranzza. The entire team is passionate about sharing India’s rich history. Touranzza provides boutique personalized service."</div>
             <!-- /.testimonials-card__quote -->
           </div>
           <!-- /.testimonials-card -->

@@ -11,7 +11,8 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description"
+    content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -214,6 +215,7 @@
       transform: translateY(-5px);
       box-shadow: 0 15px 40px rgba(0, 0, 0, 0.08) !important;
     }
+
     .enlarge-image {
       position: relative !important;
       top: 0 !important;
@@ -292,7 +294,7 @@
     .testimonial-one {
       padding-bottom: 40px !important;
     }
-    
+
     .testimonial-one__carousel .owl-nav {
       position: absolute !important;
       top: 50% !important;
@@ -336,8 +338,81 @@
 
     /* Fix clipping on mobile/small screens */
     @media (max-width: 1200px) {
-      .testimonial-one__carousel .owl-nav button.owl-prev { left: 5px !important; }
-      .testimonial-one__carousel .owl-nav button.owl-next { right: 5px !important; }
+      .testimonial-one__carousel .owl-nav button.owl-prev {
+        left: 5px !important;
+      }
+
+      .testimonial-one__carousel .owl-nav button.owl-next {
+        right: 5px !important;
+      }
+    }
+
+    /* ── Uniform Tour Cards ── */
+    .tour-listing-one__carousel .item {
+      height: 100% !important;
+      display: flex !important;
+    }
+
+    .tour-listing__card {
+      display: flex !important;
+      flex-direction: column !important;
+      height: 100% !important;
+      width: 100% !important;
+      background: #fff !important;
+      border-radius: 12px !important;
+      overflow: hidden !important;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05) !important;
+      transition: all 0.3s ease !important;
+    }
+
+    .tour-listing__card-image-box {
+      position: relative !important;
+      display: block !important;
+      width: 100% !important;
+      height: 240px !important; /* Fixed height for image area */
+      overflow: hidden !important;
+    }
+
+    .tour-listing__card-image-box img {
+      width: 100% !important;
+      height: 100% !important;
+      object-fit: cover !important;
+      transition: transform 0.5s ease !important;
+    }
+
+    .tour-listing__card-content {
+      display: flex !important;
+      flex-direction: column !important;
+      flex-grow: 1 !important;
+      padding: 25px !important;
+    }
+
+    .tour-listing__card-title {
+      min-height: 75px !important; /* Increased to fit 3-line titles if needed */
+      margin-bottom: 5px !important;
+      display: flex !important;
+      align-items: flex-start !important;
+    }
+
+    .tour-listing__card-title a {
+      font-size: 20px !important;
+      line-height: 1.3 !important;
+      font-weight: 700 !important;
+    }
+
+    .tour-listing__card-text {
+      flex-grow: 1 !important;
+      margin-bottom: 15px !important;
+      display: block !important; /* Removed line-clamp to show all text */
+      overflow: visible !important;
+      min-height: 120px !important; /* Increased to fit the longest description while remaining uniform */
+      line-height: 1.6 !important;
+    }
+
+    .tour-listing__card-inner-content {
+      margin-top: auto !important;
+      border-top: 1px solid #f2f2f2 !important;
+      padding-top: 15px !important;
     }
   </style>
 </head>
@@ -492,7 +567,7 @@
             }
             }'>
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-3-days.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-3-days"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt1.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -523,14 +598,16 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-3-days.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-3-days"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days.php">Golden Triangle Tour 3
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Golden Triangle Tour 3
                       Days</a></h3>
-                  <p class="tour-listing__card-text text-small">Experience luxury travel across India with bespoke tour packages crafted for comfort.</p>
+                  <p class="tour-listing__card-text text-small">A swift, ultra-luxury journey through Delhi, Agra, and
+                    Jaipur. Experience private guided tours of the Taj Mahal and royal forts with seamless five-star
+                    transfers.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -565,7 +642,7 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-4-days.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-4-days"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt2.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -596,15 +673,16 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-4-days.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-4-days"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days.php">Golden Triangle Tour 4
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Golden Triangle Tour 4
                       Days</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">A signature luxury circuit featuring the Taj Mahal,
+                    Jaipur’s Royal Palaces, and Delhi’s heritage. Perfect for travelers seeking a premium, fast-paced
+                    introduction to India’s splendor.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -639,7 +717,7 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-5-days.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-5-days"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt3.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -670,15 +748,16 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-5-days.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-5-days"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days.php">Golden Triangle Tour 5
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days">Golden Triangle Tour 5
                       Days</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">Immerse yourself in regal history with an extended stay
+                    in the Pink City and Agra. Enjoy private guided heritage walks and leisure time at India’s finest
+                    five-star luxury hotels</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -750,8 +829,9 @@
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
                   <h3 class="tour-listing__card-title"><a href="#">Golden Triangle Tour with Mathura Vrindavan</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">Experience the divine essence of Lord Krishna’s
+                    birthplace with private guided temple tours. A soulful addition to your luxury heritage circuit
+                    through Delhi, Agra, and Jaipur.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -786,7 +866,7 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-varanasi.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-varanasi"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt5.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -817,16 +897,17 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-varanasi.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-varanasi"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-varanasi.php">Golden Triangle
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-varanasi">Golden Triangle
                       Tour
                       with Varanasi</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">The ultimate cultural immersion linking the historic
+                    Triangle with the ancient soul of Varanasi. Discover timeless spirituality along the private ghats
+                    of the Ganges.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -862,7 +943,7 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ajmer-and-pushkar.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ajmer-and-pushkar"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt6.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -893,15 +974,16 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a
-                      href="golden-triangle-tour-with-ajmer-and-pushkar.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-ajmer-and-pushkar"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ajmer-and-pushkar.php">Golden
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ajmer-and-pushkar">Golden
                       Triangle Tour with Ajmer Pushkar</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
+                  <p class="tour-listing__card-text text-small">Experience the ultimate spiritual and heritage journey
+                    through Delhi, Agra, and Jaipur, extended with the sacred vibes of Ajmer and the Brahma Temple in
+                    Pushkar. A perfect blend of royalty and soulsum
                     agtilable.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
@@ -937,7 +1019,7 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-rajasthan.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-rajasthan"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt7.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -968,15 +1050,16 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-rajasthan.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-rajasthan"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-rajasthan.php">Golden Triangle
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-rajasthan">Golden Triangle
                       Tour with Rajasthan</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">Our most comprehensive luxury circuit covering the regal
+                    forts of Udaipur, the golden sands of Jaisalmer, and the iconic Taj Mahal. Witness the grandeur of
+                    Rajasthan with private guided tours and palace stays.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -1013,7 +1096,7 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ranthambore.php"
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ranthambore"
                   class="tour-listing__card-image-box"> <img src="assets/images/tours/gt8.jpg"
                     alt="assets/images/tours/tour-3-1.jpg" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
@@ -1044,16 +1127,17 @@
                   "enabled": true
                 },
                 "type": "image"
-            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-ranthambore.php"
+            }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-ranthambore"
                       class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ranthambore.php">Golden
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ranthambore">Golden
                       Triangle
                       Tour with Ranthambore</a></h3>
-                  <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
-                    agtilable.</p>
+                  <p class="tour-listing__card-text text-small">Pair world-class heritage with a luxury tiger safari in
+                    Ranthambore National Park. The perfect itinerary for travelers seeking both royal history and wild
+                    adventure.</p>
                   <div class="tour-listing__card-inner-content">
                     <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
                       <p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p>
@@ -1070,6 +1154,83 @@
                       <div class="tour-listing__card-bottom-left">
                         <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
                           <p class="tour-listing__card-day-text text-small">7 Days 6 Nights</p>
+                        </div>
+                        <!-- /.tour-listing__card-day -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-left -->
+                      <div class="tour-listing__card-bottom-right">
+                        <!-- <h4 class="tour-listing__card-price">$160</h4> -->
+                      </div>
+                      <!-- /.tour-listing__card-bottom-right -->
+                    </div>
+                    <!-- /.tour-listing__card-bottom -->
+                  </div>
+                  <!-- /.tour-listing__card-inner-content -->
+                </div>
+                <!-- /.tour-listing__card-content -->
+              </div>
+              <!-- /.tour-listing__card -->
+            </div>
+            <!-- /.item -->
+            <div class="item">
+              <div class="tour-listing__card"> <a href="golden-triangle-tour-with-amritsar"
+                  class="tour-listing__card-image-box"> <img src="assets/images/tours/amritsar.jpg"
+                    alt="assets/images/tours/tour-4-1.jpg" class="tour-listing__card-image">
+                  <div class="tour-listing__card-btn-group">
+                    <div class="tour-listing__card-discount @@innerExtraClassName">GT+Religious</div>
+
+                  </div>
+                  <!-- /.tour-listing__card-btn-group -->
+                  <div class="tour-listing__card-image-overlay"></div>
+                  <!-- /.tour-listing__card-image-overlay -->
+                </a>
+                <!-- /.tour-listing__card-image-box -->
+                <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                <div class="tour-listing__card-content">
+                  <div class="tour-listing__card-camera-group"> <a href="javascript:void(0);"
+                      class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
+                  "items": [
+                    {
+                      "src": "assets/images/tours/tour-3-1.jpg"
+                    },
+                    {
+                      "src": "assets/images/tours/tour-3-2.jpg"
+                    },
+                    {
+                      "src": "assets/images/tours/tour-3-3.jpg"
+                    }
+                  ],
+                  "gallery": {
+                    "enabled": true
+                  },
+                  "type": "image"
+              }'> <span class="icon-photo-camera-1"></span> </a> <a href="golden-triangle-tour-with-amritsar"
+                      class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span>
+                    </a>
+                  </div>
+                  <!-- /.tour-listing__card-camera-group -->
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-amritsar">Golden Triangle
+                      Tour
+                      with Amritsar</a></h3>
+                  <p class="tour-listing__card-text text-small">Combine India’s iconic heritage with the spiritual
+                    majesty of the Golden Temple. A curated blend of Mughal architecture and the serene traditions of
+                    Punjab.</p>
+                  <div class="tour-listing__card-inner-content">
+                    <div class="tour-listing__card-review-box"> <span class="icon-star"></span>
+                      <p class="tour-listing__card-review-text text-small">4.7 (28 Reviews)</p>
+                    </div>
+                    <!-- /.tour-listing__card-review-box -->
+                    <div class="tour-listing__card-location-box"> <span class="icon-location-1"></span>
+                      <p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Amritsar - Delhi
+                      </p>
+                    </div>
+                    <!-- /.tour-listing__card-location-box -->
+                    <div class="tour-listing__card-divider"></div>
+                    <!-- /.tour-listing__card-divider -->
+                    <div class="tour-listing__card-bottom">
+                      <div class="tour-listing__card-bottom-left">
+                        <div class="tour-listing__card-day"> <span class="icon-clock-1"></span>
+                          <p class="tour-listing__card-day-text text-small">8 Days 7 Nights</p>
                         </div>
                         <!-- /.tour-listing__card-day -->
                       </div>
@@ -1122,118 +1283,134 @@
               "1400": { "items": 5 }
             }
           }'>
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
-        <div class="item">
-          <div class="gallery-single">
-            <div class="gallery-single__img-box"> <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png" alt="gallery"
-                class="gallery-single__img">
-              <div class="gallery-single__overlay"> <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png"
-                  class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
-                    class="icon-plus"></span></a> </div>
-              <!-- /.gallery-single__overlay -->
+            <!-- /.item -->
+            <div class="item">
+              <div class="gallery-single">
+                <div class="gallery-single__img-box"> <img
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png" alt="gallery"
+                    class="gallery-single__img">
+                  <div class="gallery-single__overlay"> <a
+                      href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png"
+                      class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
+                        class="icon-plus"></span></a> </div>
+                  <!-- /.gallery-single__overlay -->
+                </div>
+                <!-- /.gallery-single__img-box -->
+              </div>
+              <!-- /.gallery-single -->
             </div>
-            <!-- /.gallery-single__img-box -->
-          </div>
-          <!-- /.gallery-single -->
-        </div>
-        <!-- /.item -->
+            <!-- /.item -->
           </div>
           <!-- /.gallery-one__carousel -->
         </div>
@@ -1273,7 +1450,7 @@
             }
             }'>
             <div class="item">
-              <div class="blog-card"> <a href="same-day-tours.php" class="blog-card__image-link"> <img
+              <div class="blog-card"> <a href="same-day-tours" class="blog-card__image-link"> <img
                     src="assets/images/blog/blog-1-1.jpg" alt="You Should See Things when visiting Japan"
                     class="blog-card__image">
                   <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
@@ -1286,9 +1463,9 @@
                     <h4 class="blog-card__date-month">Day</h4>
                   </div>
                   <!-- /.blog-card__meta -->
-                  <h3 class="blog-card__title"><a href="same-day-tours.php">Same Day Tours</a></h3>
+                  <h3 class="blog-card__title"><a href="same-day-tours">Same Day Tours</a></h3>
                   <!-- /.blog-card__title -->
-                  <a href="same-day-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
+                  <a href="same-day-tours" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
                   </a>
                   <!-- /.blog-card__link -->
                 </div>
@@ -1298,7 +1475,7 @@
             </div>
             <!-- /.col-md-6 col-xl-4 -->
             <div class="item">
-              <div class="blog-card"> <a href="golden-triangle-tours.php" class="blog-card__image-link"> <img
+              <div class="blog-card"> <a href="golden-triangle-tours" class="blog-card__image-link"> <img
                     src="assets/images/blog/blog-1-2.jpg" alt="You Should See Things when visiting Japan"
                     class="blog-card__image">
                   <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
@@ -1311,11 +1488,11 @@
                     <h4 class="blog-card__date-month">Tours</h4>
                   </div>
                   <!-- /.blog-card__meta -->
-                  <h3 class="blog-card__title"><a href="golden-triangle-tours.php">Golden Triangle Tours</a>
+                  <h3 class="blog-card__title"><a href="golden-triangle-tours">Golden Triangle Tours</a>
                   </h3>
                   <!-- /.blog-card__title -->
-                  <a href="golden-triangle-tours.php" class="blog-card__link"> Read more <i
-                      class="fas fa-arrow-right"></i> </a>
+                  <a href="golden-triangle-tours" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
+                  </a>
                   <!-- /.blog-card__link -->
                 </div>
                 <!-- /.blog-card__content -->
@@ -1324,7 +1501,7 @@
             </div>
             <!-- /.col-md-6 col-xl-4 -->
             <div class="item">
-              <div class="blog-card"> <a href="rajasthan-tours.php" class="blog-card__image-link"> <img
+              <div class="blog-card"> <a href="rajasthan-tours" class="blog-card__image-link"> <img
                     src="assets/images/blog/blog-1-3.jpg" alt="You Should See Things when visiting Japan"
                     class="blog-card__image">
                   <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
@@ -1337,9 +1514,9 @@
                     <h4 class="blog-card__date-month">Tours</h4>
                   </div>
                   <!-- /.blog-card__meta -->
-                  <h3 class="blog-card__title"><a href="rajasthan-tours.php">Rajasthan Tours</a></h3>
+                  <h3 class="blog-card__title"><a href="rajasthan-tours">Rajasthan Tours</a></h3>
                   <!-- /.blog-card__title -->
-                  <a href="rajasthan-tours.php" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
+                  <a href="rajasthan-tours" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
                   </a>
                   <!-- /.blog-card__link -->
                 </div>
@@ -1366,13 +1543,14 @@
         <div class="row">
           <div class="col-xl-5 col-lg-6">
             <div class="offer-one__content sec-title">
-              <p class="offer-one__top-title">Special offer for you</p>
+              <p class="offer-one__top-title">Exclusive Seasonal Packages</p>
               <h2 class="offer-one__heading sec-title__heading">Start your Journey with a Single Click</h2>
-              <p class="offer-one__text">There are many variations of passages of Lorem Ipsum available, but the
-                majority
-                have</p>
+              <p class="offer-one__text">Unlock curated luxury travel deals designed for the discerning explorer. From
+                private guided heritage walks to exclusive stays in India’s most iconic palace hotels, our seasonal
+                offers provide unmatched value without compromising on elegance. Secure your bespoke itinerary today and
+                experience India like never before</p>
               <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <a
-                  href="contact.php" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>Start
+                  href="contact" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>Start
                     Booking</span></a>
               </div>
               <!-- /.offer-one__btn-box -->
@@ -1415,7 +1593,7 @@
         <div class="row">
           <div class="col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
             <div class="sec-title text-left">
-              <p class="sec-title__tagline">Are you ready to travel</p>
+              <p class="sec-title__tagline">Are you ready to travel ?</p>
               <!-- /.sec-title__tagline -->
               <h2 class="sec-title__title">Choose Our Tour Types<br>
                 & Enjoy Now</h2>
@@ -1425,9 +1603,11 @@
             <!-- /.sec-title -->
           </div>
           <div class="col-xl-7 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-            <p class="why-choose-one__text"> There are many variations of passages of Lorem Ipsum available, but the
-              majority have
-              suffered alteradution in some form by injected humour, some form </p>
+            <p class="why-choose-one__text"> Discover a world of refined travel with our diverse portfolio of India
+              experiences. Whether you desire a Private Golden Triangle Tour, a soul-stirring Varanasi spiritual
+              journey, or a Regal Rajasthan expedition, our tour types are fully customizable. Every journey is
+              supported by 24/7 concierge service, professional English-speaking guides, and luxury private transfers.
+            </p>
           </div>
         </div>
         <div class="row gutter-y-30">
@@ -1438,7 +1618,7 @@
               <div class="why-choose-one__box__icon"><img src="assets/images/icons/taj-mahal.png" alt="Taj Mahal"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">One Day Tour</h3>
-              <a href="1-day-tours.php"
+              <a href="1-day-tours"
                 style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
                 More <span class="icon-right-arrow"></span></a>
             </div>
@@ -1451,7 +1631,7 @@
               <div class="why-choose-one__box__icon"><img src="assets/images/icons/city.png" alt="City"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">Under 3-5 Days Journey</h3>
-              <a href="3-to-5-days-tours.php"
+              <a href="3-to-5-days-tours"
                 style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
                 More <span class="icon-right-arrow"></span></a>
             </div>
@@ -1464,7 +1644,7 @@
               <div class="why-choose-one__box__icon"><img src="assets/images/icons/temple.png" alt="Temple"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">6-10 days Tours</h3>
-              <a href="6-to-10-days-expeditions.php"
+              <a href="6-to-10-days-expeditions"
                 style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
                 More <span class="icon-right-arrow"></span></a>
             </div>
@@ -1477,7 +1657,7 @@
               <div class="why-choose-one__box__icon"><img src="assets/images/icons/tower.png" alt="Tower"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">10+ Days Grand Tours</h3>
-              <a href="10-plus-days-grand-tours.php"
+              <a href="10-plus-days-grand-tours"
                 style="position: absolute; bottom: 15px; right: 20px; color: #ffeb3b; font-size: 14px; font-weight: bold; z-index: 2; text-decoration: none; display: flex; align-items: center; gap: 5px;">Discover
                 More <span class="icon-right-arrow"></span></a>
             </div>
@@ -1567,7 +1747,8 @@
               <!-- /.sec-title -->
               <!-- /.sec-title -->
               <h5 class="benefit-one__content__heading">Best ways to enjoy adventures</h5>
-              <p class="benefit-one__content__text"> Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments. </p>
+              <p class="benefit-one__content__text"> Experience luxury travel across India with bespoke tour packages
+                crafted for comfort, elegance, and unforgettable moments. </p>
               <div class="benefit-one__box-wrapper">
                 <div class="benefit-one__box">
                   <div class="benefit-one__box__icon"><span class="icon-airplane-1"></span></div>
@@ -1580,7 +1761,7 @@
                 </div>
                 <!-- /.benefit-box -->
               </div>
-              <a href="about.php" class="trevlo-btn"><span>Discover More</span></a>
+              <a href="about" class="trevlo-btn"><span>Discover More</span></a>
               <!-- /.button -->
             </div>
           </div>
@@ -1647,7 +1828,10 @@
                   <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
                   <p class="testimonials-card__meta__designation">UK</p>
                 </div>
-                <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days with our private guide Anil, travelling the Golden Triangle. He customised the tour to suit our travel arrangements. He is very knowledgeable and has many contacts. Everything we asked for he was able to deliver."</div>
+                <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days booking with
+                  Touranzza for our Golden Triangle trip. The team customised the tour perfectly to suit our travel
+                  arrangements. They are extremely professional and handle every detail with expertise. Everything we
+                  requested was delivered flawlessly."</div>
               </div>
             </div>
             <div class="item">
@@ -1658,7 +1842,10 @@
                   <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
                   <p class="testimonials-card__meta__designation">USA</p>
                 </div>
-                <div class="testimonials-card__quote">"AMAZING tour of Taj Mahal! 5 STARS! Highly recommend. Anil arranged everything from the car pick up in Delhi, customized tours each day. Santosh was my guide and was absolutely WONDERFUL! He was kind, patient, fun, helpful."</div>
+                <div class="testimonials-card__quote">"AMAZING tour of Taj Mahal! 5 STARS! Highly recommend. Touranzza
+                  provided a seamless experience from the private car pickup in Delhi to the customized daily tours. Our
+                  assigned guide, Santosh, was absolutely WONDERFUL—kind, patient, and exceptionally
+                  knowledgeable."</div>
               </div>
             </div>
             <div class="item">
@@ -1669,18 +1856,24 @@
                   <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
                   <p class="testimonials-card__meta__designation">New York</p>
                 </div>
-                <div class="testimonials-card__quote">"Knowledgeable Guide. From first contact Anil was very helpful and accommodating to work within our time schedule. Anil arranged Ashok to drive us from Delhi and back who was a very safe and considerate driver."</div>
+                <div class="testimonials-card__quote">"Exceptional Service. From our first inquiry, the Touranzza team
+                  was incredibly helpful and accommodating of our tight schedule. They arranged for a private driver,
+                  Ashok, who provided safe and comfortable transfers between Delhi and Agra. A truly professional
+                  company."</div>
               </div>
             </div>
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_39_20 AM.png" alt="Charlotte Parker"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_39_20 AM.png" alt="Charlotte Parker">
+                </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Charlotte Parker</h5>
                   <p class="testimonials-card__meta__designation">Canada</p>
                 </div>
-                <div class="testimonials-card__quote">"Feeling being with family. When you know Mr Anil you feel you know him for a long time, and when you listen his explanations it's clear he knows very well what he is sharing. For sure we recomend this experiece."</div>
+                <div class="testimonials-card__quote">"Travel with confidence. Working with Touranzza feels like being
+                  with family. The depth of historical knowledge and the care they put into their guest experiences is
+                  clear from start to finish. We highly recommend Touranzza for anyone visiting India."</div>
               </div>
             </div>
             <div class="item">
@@ -1691,7 +1884,9 @@
                   <h5 class="testimonials-card__meta__name">Arjun Mehta</h5>
                   <p class="testimonials-card__meta__designation">India</p>
                 </div>
-                <div class="testimonials-card__quote">"Awesome Day Trip. Mr. Sharma organized really nicely the 1 day trip from Delhi to Agra, including the Taj Mahal, Inlay Art, Red Fort visits. Mr. Sharma was always reachable on WhatsApp."</div>
+                <div class="testimonials-card__quote">"Awesome Day Trip. Touranzza organized a flawless one-day
+                  excursion from Delhi to Agra, covering the Taj Mahal, local Inlay Art, and the Red Fort. Their support
+                  team was highly responsive and available 24/7 via WhatsApp for everything we needed."</div>
               </div>
             </div>
             <div class="item">
@@ -1702,7 +1897,10 @@
                   <h5 class="testimonials-card__meta__name">Sophia de Luca</h5>
                   <p class="testimonials-card__meta__designation">Italy</p>
                 </div>
-                <div class="testimonials-card__quote">"Best Guide!!! We met Anil through our hotel and couldn't be happier with our 4-hour tour of the Taj Mahal and Agra Fort. We travel often and have met dozens of guides, but Anil was one of the best we have encountered!"</div>
+                <div class="testimonials-card__quote">"World-Class Experience! We booked Touranzza through our hotel and
+                  couldn't be happier with the 4-hour luxury tour of the Taj Mahal and Agra Fort. As frequent travelers,
+                  we’ve worked with many tour companies, but Touranzza is easily one of the best we have encountered!"
+                </div>
               </div>
             </div>
             <div class="item">
@@ -1713,7 +1911,10 @@
                   <h5 class="testimonials-card__meta__name">Mark Thompson</h5>
                   <p class="testimonials-card__meta__designation">Australia</p>
                 </div>
-                <div class="testimonials-card__quote">"Ani was fantastic. He is extremely responsive to correspondences. Transportation from dehli with Ash was great. Tour was wonderful, he is extremely knowledgeable about the taj and history of the time period. Highly recommended."</div>
+                <div class="testimonials-card__quote">"Professional & Responsive. Touranzza was fantastic to work with.
+                  The team was extremely responsive to all our emails. The private transportation from Delhi with Ash
+                  was excellent, and the guided tour provided deep historical insights into the Taj Mahal. Highly
+                  recommended."</div>
               </div>
             </div>
             <div class="item">
@@ -1724,7 +1925,9 @@
                   <h5 class="testimonials-card__meta__name">Yuki Tanaka</h5>
                   <p class="testimonials-card__meta__designation">Japan</p>
                 </div>
-                <div class="testimonials-card__quote">"Two days in the exciting city of Agra. Anil Sharma our host and guide was amazing! We highly recommend requesting him and his attentive staff for you on your visit to Agra!"</div>
+                <div class="testimonials-card__quote">"A Memorable Visit to Agra. Our two-day experience with Touranzza
+                  was amazing! We highly recommend choosing this agency and their attentive staff for a premium visit to
+                  Agra. Every detail was handled with care and hospitality."</div>
               </div>
             </div>
             <div class="item">
@@ -1735,7 +1938,10 @@
                   <h5 class="testimonials-card__meta__name">Elena Rossi</h5>
                   <p class="testimonials-card__meta__designation">Germany</p>
                 </div>
-                <div class="testimonials-card__quote">"I'll start by saying this was an absolute wonderful experience thanks to Anil. Anil was not only knowledgeable, but passionate about his city and its rich history. Unlike other tour operators, Anil provides boutique personalized service."</div>
+                <div class="testimonials-card__quote">"Boutique Excellence. An absolutely wonderful experience thanks to
+                  Touranzza. The entire team is passionate about sharing India's rich history. Unlike generic tour
+                  operators, Touranzza provides high-end, boutique personalized service that makes all the
+                  difference."</div>
               </div>
             </div>
             <div class="item">
@@ -1746,7 +1952,9 @@
                   <h5 class="testimonials-card__meta__name">David Miller</h5>
                   <p class="testimonials-card__meta__designation">USA</p>
                 </div>
-                <div class="testimonials-card__quote">"Top-notch hospitality from start to end! Our entire Northern India itinerary was balanced and exciting. Not only did we get VIP treatment, but our driver Ashok was an absolute professional. We simply cannot recommend Touranzza enough. 10/10 experience!"</div>
+                <div class="testimonials-card__quote">"Top-notch hospitality from start to end! Our entire Northern
+                  India itinerary was balanced and exciting. Not only did we get VIP treatment, but our driver Ashok was
+                  an absolute professional. We simply cannot recommend Touranzza enough. 10/10 experience!"</div>
               </div>
             </div>
           </div>
