@@ -101,88 +101,114 @@
 <!-- Popup Form -->
 <div class="overlay" id="overlay"></div>
 <div class="popup-form" id="enquiryForm">
-  <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+  <div class="close-popup-icon" onclick="toggleFormPopup()">×</div>
+  <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms" style="padding: 0; margin: 0; box-shadow: none;">
     <h3 class="tour-listing-details__sidebar-title">Enquire Now</h3>
     <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>Name</label>
-        <input type="text" name="name" id="popup-name" placeholder="Your Name" class="form-one__input">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>Name</label>
+            <input type="text" name="name" id="popup-name" placeholder="Your Name" class="form-one__input">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>Email</label>
+            <input type="email" name="email" id="popup-email" placeholder="Your Email" class="form-one__input">
+          </div>
+        </div>
       </div>
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>Email</label>
-        <input type="email" name="email" id="popup-email" placeholder="Your Email" class="form-one__input">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>Contact no with Country Code</label>
+            <input id="popup-phone" name="phone" type="tel" class="form-one__input">
+            <input id="popup-country" type="hidden" name="country">
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+            <script>
+              var popupInput = document.querySelector("#popup-phone");
+              var popupIti = window.intlTelInput(popupInput, {
+                initialCountry: "IN",
+                utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js"
+              });
+              popupInput.addEventListener("countrychange", function () {
+                var countryData = popupIti.getSelectedCountryData();
+                document.querySelector("#popup-country").value = countryData.name;
+              });
+            </script>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>Travel Date</label>
+            <input type="text" name="datepicker" placeholder="Select date" id="popup-datepicker"
+              class="tour-listing-details__sidebar-form-date trevlo-datepicker">
+            <i class="tour-listing-details__sidebar-form-date-arrow fas fa-angle-down"></i>
+          </div>
+        </div>
       </div>
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>Contact no with Country Code</label>
-        <input id="popup-phone" name="phone" type="tel" class="form-one__input">
-        <input id="popup-country" type="hidden" name="country">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
-        <script>
-          var popupInput = document.querySelector("#popup-phone");
-          var popupIti = window.intlTelInput(popupInput, {
-            initialCountry: "IN",
-            utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js"
-          });
-          popupInput.addEventListener("countrychange", function () {
-            var countryData = popupIti.getSelectedCountryData();
-            document.querySelector("#popup-country").value = countryData.name;
-          });
-        </script>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>No. of Adults</label>
+            <select class="selectpicker" name="adults" aria-label="Adults">
+              <option selected value="">Adults</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+              <option value="12">12</option>
+              <option value="13">13</option>
+              <option value="14">14</option>
+              <option value="15+">15+</option>
+            </select>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>No. of Children</label>
+            <select class="selectpicker" name="children" aria-label="Children">
+              <option selected value="">Children</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+              <option value="12">12</option>
+              <option value="13">13</option>
+              <option value="14">14</option>
+              <option value="15+">15+</option>
+            </select>
+          </div>
+        </div>
       </div>
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>Travel Date</label>
-        <input type="text" name="datepicker" placeholder="Select date" id="popup-datepicker"
-          class="tour-listing-details__sidebar-form-date trevlo-datepicker">
-        <i class="tour-listing-details__sidebar-form-date-arrow fas fa-angle-down"></i>
+      <div class="row">
+        <div class="col-12">
+          <div class="tour-listing-details__sidebar-form-input">
+            <label>Your Message</label>
+            <textarea name="message" id="popup-message" cols="30" rows="3" placeholder="Write a Message"
+              class="form-one__message form-one__input"></textarea>
+          </div>
+        </div>
       </div>
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>No. of Adults</label>
-        <select class="selectpicker" name="adults" aria-label="Adults">
-          <option selected value="">Adults</option>
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5">5</option>
-          <option value="6">6</option>
-          <option value="7">7</option>
-          <option value="8">8</option>
-          <option value="9">9</option>
-          <option value="10">10</option>
-          <option value="11">11</option>
-          <option value="12">12</option>
-          <option value="13">13</option>
-          <option value="14">14</option>
-          <option value="15+">15+</option>
-        </select>
+      <input type="hidden" name="hiddenField" value="Global Popup Enquiry">
+      <div style="text-align: center;">
+        <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Enquire Now</span></button>
       </div>
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>No. of Children</label>
-        <select class="selectpicker" name="children" aria-label="Children">
-          <option selected value="">Children</option>
-          <option value="1">1</option>
-          <option value="2">2</option>
-          <option value="3">3</option>
-          <option value="4">4</option>
-          <option value="5">5</option>
-          <option value="6">6</option>
-          <option value="7">7</option>
-          <option value="8">8</option>
-          <option value="9">9</option>
-          <option value="10">10</option>
-          <option value="11">11</option>
-          <option value="12">12</option>
-          <option value="13">13</option>
-          <option value="14">14</option>
-          <option value="15+">15+</option>
-        </select>
-      </div>
-      <div class="tour-listing-details__sidebar-form-input">
-        <label>Your Message</label>
-        <textarea name="message" id="popup-message" cols="30" rows="3" placeholder="Write a Message"
-          class="form-one__message form-one__input"></textarea>
-      </div>
-      <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Enquire Now</span></button>
     </form>
   </div>
   <div class="close-popup" onclick="toggleFormPopup()">Close</div>

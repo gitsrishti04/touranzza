@@ -437,19 +437,22 @@ form.tour-listing-details__sidebar-form label {
 }
 
 .sticky-button__tooltip {
-    position: absolute;
-    right: 60px;
-    background-color: #ffc202;
-    color: #130f10;
-    padding: 5px 12px;
-    border-radius: 4px;
-    font-size: 14px;
-    font-weight: 700;
-    white-space: nowrap;
+    position: absolute !important;
+    right: 60px !important;
+    background-color: #ffc202 !important;
+    color: #130f10 !important;
+    padding: 5px 12px !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+    line-height: 1.2 !important;
+    font-weight: 700 !important;
+    white-space: nowrap !important;
     opacity: 0;
     visibility: hidden;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+    text-transform: uppercase !important;
+    pointer-events: none !important;
 }
 
 .sticky-button:hover .sticky-button__tooltip {
@@ -526,22 +529,35 @@ div#enquiryForm h3 {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fff;
-    padding: 30px;
+    padding: 40px !important;
     border-radius: 12px;
-    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
-    z-index: 1100;
-    width: 90%;
-    max-width: 450px;
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.3);
+    z-index: 10001;
+    width: 800px !important;
+    max-width: 95vw;
     max-height: 90vh;
     overflow-y: auto;
 }
 
-.close-popup {
+.close-popup-icon {
     position: absolute;
-    top: -30px;
-    right: 10px;
+    top: 15px;
+    right: 20px;
+    font-size: 32px;
+    color: #130f10;
     cursor: pointer;
-    color: #fff;
+    line-height: 1;
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+.close-popup-icon:hover {
+    color: #ffc202;
+    transform: rotate(90deg);
+}
+
+.close-popup {
+    display: none !important;
 }
 
 /* Overlay Styles */
