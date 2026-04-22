@@ -69,8 +69,8 @@
                 <div class="col-md-5">
                   <div class="about-one__image__one trevlo-tilt"
                     data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 3, "speed": 700, "scale": 1 }'> <img
-                      src="assets/images/resources/about-1-1.jpg" alt="trevlo"> <img
-                      src="assets/images/resources/about-1-2.jpg" alt="trevlo">
+                      src="assets/images/resources/about-1-1.webp" alt="trevlo"> <img
+                      src="assets/images/resources/about-1-2.webp" alt="trevlo">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 30">
                       <path d="M177.276 2.12957C155.784 21.96 90.3733 49.5857 0.667034 1.44487" />
                     </svg>
@@ -83,11 +83,11 @@
                     </svg>
                     <div class="trevlo-tilt"
                       data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 5, "speed": 700, "scale": 1 }'>
-                      <img src="assets/images/resources/about-1-3.jpg" alt="trevlo"> </div>
-                    <div class="about-one__image__two__shape"><img src="assets/images/shapes/about-1-shape-3.png"
+                      <img src="assets/images/resources/about-1-3.webp" alt="trevlo"> </div>
+                    <div class="about-one__image__two__shape"><img src="assets/images/shapes/about-1-shape-3.webp"
                         alt="trevlo"></div>
                     <div class="about-one__counter"
-                      style="background-image: url(assets/images/shapes/about-1-shape-4.png);">
+                      style="background-image: url(assets/images/shapes/about-1-shape-4.webp);">
 
                       <!-- /.counter__number -->
                       <p class="about-one__counter__title">Explore the Culture</p>
@@ -99,9 +99,9 @@
               </div>
             </div>
             <!-- /.about-one__image -->
-            <div class="about-one__shape-one"> <img src="assets/images/shapes/about-1-shape-1.png" alt="trevlo"> </div>
+            <div class="about-one__shape-one"> <img src="assets/images/shapes/about-1-shape-1.webp" alt="trevlo"> </div>
             <!-- /.about-one__shape -->
-            <div class="about-one__shape-two"> <img src="assets/images/shapes/about-1-shape-2.png" alt="trevlo"> </div>
+            <div class="about-one__shape-two"> <img src="assets/images/shapes/about-1-shape-2.webp" alt="trevlo"> </div>
             <!-- /.about-one__shape -->
           </div>
           <!-- /.col-xl-6 col-lg-6 -->

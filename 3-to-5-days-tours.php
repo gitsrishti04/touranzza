@@ -46,6 +46,8 @@
     <!-- PAGE STARTS -->
     <div class="page-wrapper">
         <?php include("header.php") ?>
+    <!-- MANDALA BACKGROUND WRAPPER START -->
+    <div class="mandala-bg-wrapper">
         <section class="page-header">
             <div class="page-header__bg gt-tour"></div>
             <!-- /.page-header__bg -->
@@ -74,7 +76,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-3-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-1.jpg" alt="assets/images/tours/tour-3-1.jpg"
+                                <img src="assets/images/tours/agrai-tour-1.webp" alt="assets/images/tours/tour-3-1.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -91,13 +93,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/delhi-tour-3.jpg"
+                    "src": "assets/images/tours/delhi-tour-3.webp"
                   },
                   {
-                    "src": "assets/images/tours/jaipur-tour-1.jpg"
+                    "src": "assets/images/tours/jaipur-tour-1.webp"
                   },
                   {
-                    "src": "assets/images/tours/agratour2.jpg"
+                    "src": "assets/images/tours/agratour2.webp"
                   }
                 ],
                 "gallery": {
@@ -150,7 +152,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-4-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-1.jpg" alt="assets/images/tours/tour-3-2.jpg"
+                                <img src="assets/images/tours/delhi-tour-1.webp" alt="assets/images/tours/tour-3-2.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -167,13 +169,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-2.jpg"
+                    "src": "assets/images/tours/tour-3-2.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/tour-3-3.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   }
                 ],
                 "gallery": {
@@ -226,7 +228,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-5-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.jpg" alt="assets/images/tours/tour-3-3.jpg"
+                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="assets/images/tours/tour-3-3.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -243,13 +245,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/tour-3-3.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   }
                 ],
                 "gallery": {
@@ -302,7 +304,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-ranthambore" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/gt8.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/gt8.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -319,13 +321,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -395,6 +397,8 @@
     <!-- Offer End Start -->
 
     <!-- Counter One Start -->
+    </div><!-- /.mandala-bg-wrapper -->
+    <!-- MANDALA BACKGROUND WRAPPER END -->
     <?php include("footer.php") ?>
     <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>

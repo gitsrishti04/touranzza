@@ -2,7 +2,7 @@
               <h3 class="tour-listing-details__sidebar-title tour-listing-details__sidebar-post-title">Tour Packages</h3>
               <ul class="tour-listing-sidebar-post">
                 <li class="tour-listing-sidebar-post__item">
-                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-1.jpg" alt="last-post"> </div>
+                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-1.webp" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="golden-triangle-tours">Golden Triangle Tours</a></h5>
@@ -12,7 +12,7 @@
                   </div>
                 </li>
                 <li class="tour-listing-sidebar-post__item">
-                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-2.jpg" alt="last-post"> </div>
+                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-2.webp" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="same-day-tours">Same Day Tours</a></h5>
@@ -22,7 +22,7 @@
                   </div>
                 </li>
                 <li class="tour-listing-sidebar-post__item">
-                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-3.jpg" alt="last-post"> </div>
+                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-3.webp" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="rajasthan-tours">Rajasthan Tours</a></h5>

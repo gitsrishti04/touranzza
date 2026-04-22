@@ -1,22 +1,21 @@
 # Enable Rewrite Engine
 RewriteEngine On
+RewriteBase /backup/
 
 # -----------------------------------
-# 1. Redirect /index.php → /
+# 1. Redirect index.php to root
 # -----------------------------------
-RewriteCond %{THE_REQUEST} \s/index\.php[\s?] [NC]
-RewriteRule ^index\.php$ / [L,R=301]
+RewriteCond %{THE_REQUEST} \s/backup/index\.php[\s?] [NC]
+RewriteRule ^index\.php$ /backup/ [L,R=301]
 
 # -----------------------------------
 # 2. Remove .php extension
-# /page.php → /page
 # -----------------------------------
-RewriteCond %{THE_REQUEST} \s/([^.]+)\.php[\s?] [NC]
-RewriteRule ^([^.]+)\.php$ /$1 [L,R=301]
+RewriteCond %{THE_REQUEST} \s/backup/([^.]+)\.php[\s?] [NC]
+RewriteRule ^([^.]+)\.php$ $1 [L,R=301]
 
 # -----------------------------------
 # 3. Internal rewrite
-# /page → /page.php
 # -----------------------------------
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f

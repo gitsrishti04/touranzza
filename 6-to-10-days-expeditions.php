@@ -46,6 +46,8 @@
     <!-- PAGE STARTS -->
     <div class="page-wrapper">
         <?php include("header.php") ?>
+    <!-- MANDALA BACKGROUND WRAPPER START -->
+    <div class="mandala-bg-wrapper">
         <section class="page-header">
             <div class="page-header__bg gt-tour"></div>
             <!-- /.page-header__bg -->
@@ -74,8 +76,8 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="royal-rajasthan-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/fort-and-palaces-tour2.jpg"
-                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/fort-and-palaces-tour2.webp"
+                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -91,13 +93,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -151,7 +153,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="desert-tour-rajasthan" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -168,13 +170,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -228,7 +230,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-6-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-3.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/agrai-tour-3.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -245,13 +247,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -304,7 +306,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-7-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-2.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/delhi-tour-2.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -321,13 +323,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -381,7 +383,7 @@
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-ajmer-and-pushkar"
                                 class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -398,13 +400,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -459,7 +461,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-amritsar" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/amritsar.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/amritsar.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -476,13 +478,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -537,7 +539,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-goa" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/goa.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/goa.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -554,13 +556,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -615,8 +617,8 @@
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-haridwar-and-rishikesh"
                                 class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/Haridwar-Rishikesh.jpg"
-                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/Haridwar-Rishikesh.webp"
+                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -632,13 +634,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -693,7 +695,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-rajasthan" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -710,13 +712,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -772,7 +774,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-ranthambore" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/gt8.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/gt8.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -789,13 +791,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -850,7 +852,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-varanasi" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/varanasi-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/varanasi-1.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -867,13 +869,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -928,7 +930,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-mumbai" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/mumbai.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/mumbai.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -945,13 +947,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -1007,8 +1009,8 @@
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-orchha-khajuraho"
                                 class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/orchha-khajuraho.jpg"
-                                    alt="assets/images/tours/tour-3-4.jpg" class="tour-listing__card-image">
+                                <img src="assets/images/tours/orchha-khajuraho.webp"
+                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -1024,13 +1026,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -1086,7 +1088,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-udaipur" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/udaipur-tour1.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/udaipur-tour1.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image" style="height: 252px; width: 100%; object-fit: cover;">
                                 <div class="tour-listing__card-btn-group">
 
@@ -1103,13 +1105,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -1178,6 +1180,8 @@
     <!-- Offer End Start -->
 
     <!-- Counter One Start -->
+    </div><!-- /.mandala-bg-wrapper -->
+    <!-- MANDALA BACKGROUND WRAPPER END -->
     <?php include("footer.php") ?>
     <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
             top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>

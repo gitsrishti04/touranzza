@@ -48,6 +48,8 @@
   <!-- PAGE STARTS -->
   <div class="page-wrapper">
     <?php include("header.php") ?>
+    <!-- MANDALA BACKGROUND WRAPPER START -->
+    <div class="mandala-bg-wrapper">
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
@@ -63,6 +65,7 @@
     <!-- Tour Listing Page One Start -->
     <!-- Tour Listing Details One Start -->
     <section class="tour-listing-details tour-listing-details-right">
+<div class="container">
       <div class="tour-listing-details__top-carousel">
         <div class="tour-listing-details__top-carousel-wrapper trevlo-owl__carousel owl-theme owl-carousel"
           data-owl-options='{
@@ -71,7 +74,7 @@
         "smartSpeed": 700,
         "loop":false,
         "autoplay": 6000,
-        "nav":false,
+        "nav":true,
         "dots":false,
         "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
         "responsive":{
@@ -91,17 +94,17 @@
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/delhitour1.jpg"
+                            "src": "assets/images/tours/delhitour1.webp"
                           },
                           {
-                            "src": "assets/images/tours/delhitour1.jpg"
+                            "src": "assets/images/tours/delhitour1.webp"
                           }
                         ],
                         "gallery": {
@@ -115,17 +118,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/agratour2.jpg"
+                            "src": "assets/images/tours/agratour2.webp"
                           },
                           {
-                            "src": "assets/images/tours/agratour2.jpg"
+                            "src": "assets/images/tours/agratour2.webp"
                           }
                         ],
                         "gallery": {
@@ -139,17 +142,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/jaipurtour2.jpg"
+                            "src": "assets/images/tours/jaipurtour2.webp"
                           },
                           {
-                            "src": "assets/images/tours/jaipurtour2.jpg"
+                            "src": "assets/images/tours/jaipurtour2.webp"
                           }
                         ],
                         "gallery": {
@@ -163,17 +166,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/khajuraho-tour.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/khajuraho-tour.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/khajuraho-tour.jpg"
+                            "src": "assets/images/tours/khajuraho-tour.webp"
                           },
                           {
-                            "src": "assets/images/tours/khajuraho-tour.jpg"
+                            "src": "assets/images/tours/khajuraho-tour.webp"
                           }
                         ],
                         "gallery": {
@@ -187,17 +190,17 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/orchha-tour.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/orchha-tour.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/orchha-tour.jpg"
+                            "src": "assets/images/tours/orchha-tour.webp"
                           },
                           {
-                            "src": "assets/images/tours/orchha-tour.jpg"
+                            "src": "assets/images/tours/orchha-tour.webp"
                           }
                         ],
                         "gallery": {
@@ -210,17 +213,17 @@
             <!-- /.tour-listing-details__top-carousel-image -->
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/varanasi-tours-1.jpg"
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/varanasi-tours-1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{
                         "items": [
                           {
-                            "src": "assets/images/tours/varanasi-tours-1.jpg"
+                            "src": "assets/images/tours/varanasi-tours-1.webp"
                           },
                           {
-                            "src": "assets/images/tours/varanasi-tours-1.jpg"
+                            "src": "assets/images/tours/varanasi-tours-1.webp"
                           }
                         ],
                         "gallery": {
@@ -237,6 +240,7 @@
         <!-- /.tour-listing-details__top-carousel-wrapper -->
       </div>
       <!-- /.tour-listing-details__top-carousel -->
+</div><!-- /.container -->
       <div class="tour-listing-details__destination">
         <div class="container">
           <div class="tour-listing-details__destination-row row">
@@ -247,7 +251,7 @@
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
-              <div class="tour-listing-details__ratings-box">
+              <div class="tour-listing-details__ratings-box"><i class="fab fa-tripadvisor tripadvisor-icon"></i>
                 <div class="trevlo-ratings"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i
                     class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
                 <p class="tour-listing-details__ratings-text">5.0 Superb</p>
@@ -627,7 +631,7 @@
     <!-- /.mobile-nav__overlay -->
     <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
           class="fa fa-times"></i></span>
-      <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.png"
+      <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp"
             width="155" alt="" /></a> </div>
       <!-- /.logo-box -->
       <div class="mobile-nav__container"></div>
@@ -661,8 +665,10 @@
     <!-- /.search-popup__content -->
   </div>
   <!-- Tour Listing Page One End -->
-  <?php include("footer.php") ?>
-  <a href="# data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+  </div><!-- /.mandala-bg-wrapper -->
+    <!-- MANDALA BACKGROUND WRAPPER END -->
+    <?php include("footer.php") ?>
+  <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
       top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
   <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
   <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>

@@ -9,11 +9,11 @@ require 'PHPMailer-master/src/SMTP.php';
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $senderName = $_POST["name"] ?? $_POST["form-box-name-input"] ?? '';
     $senderEmail = $_POST["email"] ?? $_POST["form-box-email-input"] ?? '';
-    $phone = $_POST["phone"] ?? $_POST["form-box-phone-input"] ?? '';
+    $phone = $_POST["phone"] ?? $_POST["phone-number"] ?? $_POST["form-box-phone-input"] ?? '';
     $datepicker = $_POST["datepicker"] ?? '';
     $adults = $_POST["adults"] ?? '';
-    $child = $_POST["child"] ?? '';
-    $des = $_POST["des"] ?? $_POST["form-one-message-input"] ?? '';
+    $child = $_POST["children"] ?? $_POST["child"] ?? '';
+    $des = $_POST["message"] ?? $_POST["des"] ?? $_POST["form-one-message-input"] ?? '';
     $ip = getenv("REMOTE_ADDR");
     $hiddenField = $_POST["hiddenField"] ?? $_POST["form-box-subject-input"] ?? 'General Enquiry';
 

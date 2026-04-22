@@ -1,11 +1,11 @@
 <footer class="main-footer @@extraClassName">
-  <div class="main-footer__bg" style="background-image: url(assets/images/backgrounds/footer-bg.png);"></div>
+  <div class="main-footer__bg" style="background-image: url(assets/images/backgrounds/footer-bg.webp);"></div>
   <!-- /.main-footer__bg -->
   <div class="container">
     <div class="row justify-content-between">
       <div class="col-lg-3 col-md-4 col-sm-6 col-xl-2 wow animated fadeInUp" data-wow-delay="0.1s">
         <div class="footer-widget footer-widget--links">
-          <div class="main-footer__logo-box"> <a href="#"><img src="assets/images/footer-logo-dark.png" alt="logo-dark"
+          <div class="main-footer__logo-box"> <a href="#"><img src="assets/images/footer-logo-dark.webp" alt="logo-dark"
                 class="main-footer__logo"></a>
           </div>
           <!-- /.footer-widget__links -->
@@ -92,50 +92,99 @@
 
 
 <!-- Sticky Button -->
-<div class="sticky-button" onclick="toggleFormPopup()"><i class="fas fa-envelope"></i></div>
+<div class="sticky-button" onclick="toggleFormPopup()" aria-label="Enquire Now">
+  <i class="fas fa-envelope"></i>
+  <span class="sticky-button__tooltip">Enquire Now</span>
+</div>
 </div>
 
 <!-- Popup Form -->
 <div class="overlay" id="overlay"></div>
 <div class="popup-form" id="enquiryForm">
-  <h3>Quick Enquiry</h3>
-  <form action="tourmail.php" method="POST" class="contact-page__form form-one row gutter-20">
-    <div class="col-md-6 " data-wow-delay="0s">
-      <div class="form-one__group">
-        <input type="text" name="form-box-name-input" id="form-one-name-input" placeholder="Your Name"
-          class="form-one__input">
-      </div><!-- /.form-one__group -->
-    </div><!-- /.col-md-6 -->
-    <div class="col-md-6 " data-wow-delay="0.3s">
-      <div class="form-one__group">
-        <input type="email" name="form-box-email-input" id="form-one-email-input" placeholder="Email Address"
-          class="form-one__input">
-      </div><!-- /.form-one__group -->
-    </div><!-- /.col-md-6 -->
-    <div class="col-md-6 " data-wow-delay="0s">
-      <div class="form-one__group">
-        <input type="tel" name="form-box-phone-input" id="form-one-phone-input" placeholder="Phone"
-          class="form-one__input">
-      </div><!-- /.form-one__group -->
-    </div><!-- /.col-md-6 -->
-    <div class="col-md-6 " data-wow-delay="0.3s">
-      <div class="form-one__group">
-        <input type="text" name="form-box-subject-input" id="form-one-subject-input" placeholder="Subject"
-          class="form-one__input">
-      </div><!-- /.form-one__group -->
-    </div><!-- /.col-md-6 -->
-    <div class="col-12 " data-wow-delay="0.1s">
-      <div class="form-one__group">
-        <textarea name="form-one-message-input" id="form-one-message-input" cols="30" rows="10"
-          placeholder="Write a Message" class="form-one__message form-one__input"></textarea>
-      </div><!-- /.form-one__group -->
-    </div><!-- /.col-12-->
-    <div class="col-12 " data-wow-delay="0.2s">
-      <div class="form-one__btn-box">
-        <button type="submit" class="form-one__btn trevlo-btn trevlo-btn--base"><span>Send Message</span></button>
-      </div><!-- /.form-one__btn-box -->
-    </div><!-- /.col-12-->
-  </form>
+  <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+    <h3 class="tour-listing-details__sidebar-title">Enquire Now</h3>
+    <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>Name</label>
+        <input type="text" name="name" id="popup-name" placeholder="Your Name" class="form-one__input">
+      </div>
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>Email</label>
+        <input type="email" name="email" id="popup-email" placeholder="Your Email" class="form-one__input">
+      </div>
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>Contact no with Country Code</label>
+        <input id="popup-phone" name="phone" type="tel" class="form-one__input">
+        <input id="popup-country" type="hidden" name="country">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+        <script>
+          var popupInput = document.querySelector("#popup-phone");
+          var popupIti = window.intlTelInput(popupInput, {
+            initialCountry: "IN",
+            utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js"
+          });
+          popupInput.addEventListener("countrychange", function () {
+            var countryData = popupIti.getSelectedCountryData();
+            document.querySelector("#popup-country").value = countryData.name;
+          });
+        </script>
+      </div>
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>Travel Date</label>
+        <input type="text" name="datepicker" placeholder="Select date" id="popup-datepicker"
+          class="tour-listing-details__sidebar-form-date trevlo-datepicker">
+        <i class="tour-listing-details__sidebar-form-date-arrow fas fa-angle-down"></i>
+      </div>
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>No. of Adults</label>
+        <select class="selectpicker" name="adults" aria-label="Adults">
+          <option selected value="">Adults</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15+">15+</option>
+        </select>
+      </div>
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>No. of Children</label>
+        <select class="selectpicker" name="children" aria-label="Children">
+          <option selected value="">Children</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15+">15+</option>
+        </select>
+      </div>
+      <div class="tour-listing-details__sidebar-form-input">
+        <label>Your Message</label>
+        <textarea name="message" id="popup-message" cols="30" rows="3" placeholder="Write a Message"
+          class="form-one__message form-one__input"></textarea>
+      </div>
+      <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Enquire Now</span></button>
+    </form>
+  </div>
   <div class="close-popup" onclick="toggleFormPopup()">Close</div>
 </div>
 
@@ -151,7 +200,7 @@
   <!-- /.mobile-nav__overlay -->
   <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
         class="fa fa-times"></i></span>
-    <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.png"
+    <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp"
           width="155" alt="Touranzza" /></a> </div>
     <!-- /.logo-box -->
     <div class="mobile-nav__container"></div>

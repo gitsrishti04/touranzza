@@ -85,9 +85,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -98,9 +98,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -111,9 +111,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery1.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery1.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery1.jpg"
+                                <a href="assets/images/gallery/gallery1.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -124,9 +124,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery2.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery2.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery2.jpg"
+                                <a href="assets/images/gallery/gallery2.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -137,9 +137,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -150,9 +150,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -163,9 +163,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery3.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery3.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery3.jpg"
+                                <a href="assets/images/gallery/gallery3.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -176,9 +176,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery4.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery4.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery4.jpg"
+                                <a href="assets/images/gallery/gallery4.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -189,9 +189,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -202,9 +202,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -215,9 +215,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery5.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery5.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery5.jpg"
+                                <a href="assets/images/gallery/gallery5.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -228,9 +228,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery6.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery6.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery6.jpg"
+                                <a href="assets/images/gallery/gallery6.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -241,9 +241,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -254,9 +254,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -267,9 +267,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery7.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery7.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery7.jpg"
+                                <a href="assets/images/gallery/gallery7.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -280,9 +280,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery8.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery8.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery8.jpg"
+                                <a href="assets/images/gallery/gallery8.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -293,9 +293,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -306,9 +306,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -319,9 +319,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery9.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery9.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery9.jpg"
+                                <a href="assets/images/gallery/gallery9.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -332,9 +332,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery10.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery10.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery10.jpg"
+                                <a href="assets/images/gallery/gallery10.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -345,9 +345,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -358,9 +358,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -371,9 +371,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery11.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery11.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery11.jpg"
+                                <a href="assets/images/gallery/gallery11.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -384,9 +384,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery12.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery12.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery12.jpg"
+                                <a href="assets/images/gallery/gallery12.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -397,9 +397,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -410,9 +410,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -423,9 +423,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery13.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery13.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery13.jpg"
+                                <a href="assets/images/gallery/gallery13.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -436,9 +436,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery14.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery14.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery14.jpg"
+                                <a href="assets/images/gallery/gallery14.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -449,9 +449,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -462,9 +462,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -475,9 +475,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery15.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery15.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery15.jpg"
+                                <a href="assets/images/gallery/gallery15.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -488,9 +488,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery16.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery16.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery16.jpg"
+                                <a href="assets/images/gallery/gallery16.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -501,9 +501,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -514,9 +514,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.png"
+                                <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -527,9 +527,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery17.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery17.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery17.jpg"
+                                <a href="assets/images/gallery/gallery17.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -540,9 +540,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery18.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery18.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery18.jpg"
+                                <a href="assets/images/gallery/gallery18.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -553,9 +553,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery22.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery22.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery22.jpg"
+                                <a href="assets/images/gallery/gallery22.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -566,9 +566,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery19.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery19.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery19.jpg"
+                                <a href="assets/images/gallery/gallery19.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -579,9 +579,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery20.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery20.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery20.jpg"
+                                <a href="assets/images/gallery/gallery20.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -592,9 +592,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery21.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery21.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery21.jpg"
+                                <a href="assets/images/gallery/gallery21.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -605,9 +605,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery26.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery26.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery26.jpg"
+                                <a href="assets/images/gallery/gallery26.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -618,9 +618,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery27.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery27.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery27.jpg"
+                                <a href="assets/images/gallery/gallery27.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -631,9 +631,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery28.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery28.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery28.jpg"
+                                <a href="assets/images/gallery/gallery28.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -644,9 +644,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery29.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery29.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery29.jpg"
+                                <a href="assets/images/gallery/gallery29.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -657,9 +657,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery34.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery34.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery34.jpg"
+                                <a href="assets/images/gallery/gallery34.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -670,9 +670,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery35.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery35.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery35.jpg"
+                                <a href="assets/images/gallery/gallery35.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -683,9 +683,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery36.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery36.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery36.jpg"
+                                <a href="assets/images/gallery/gallery36.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -696,9 +696,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery37.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery37.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery37.jpg"
+                                <a href="assets/images/gallery/gallery37.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -709,9 +709,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery38.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery38.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery38.jpg"
+                                <a href="assets/images/gallery/gallery38.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -722,9 +722,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery39.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery39.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery39.jpg"
+                                <a href="assets/images/gallery/gallery39.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -735,9 +735,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery40.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery40.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery40.jpg"
+                                <a href="assets/images/gallery/gallery40.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -748,9 +748,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery41.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery41.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery41.jpg"
+                                <a href="assets/images/gallery/gallery41.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -761,9 +761,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery42.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery42.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery42.jpg"
+                                <a href="assets/images/gallery/gallery42.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -774,9 +774,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery43.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery43.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery43.jpg"
+                                <a href="assets/images/gallery/gallery43.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -787,9 +787,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery44.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery44.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery44.jpg"
+                                <a href="assets/images/gallery/gallery44.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -800,9 +800,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery45.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery45.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery45.jpg"
+                                <a href="assets/images/gallery/gallery45.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -813,9 +813,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery46.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery46.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery46.jpg"
+                                <a href="assets/images/gallery/gallery46.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -826,9 +826,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery47.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery47.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery47.jpg"
+                                <a href="assets/images/gallery/gallery47.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -839,9 +839,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery48.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery48.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery48.jpg"
+                                <a href="assets/images/gallery/gallery48.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -852,9 +852,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery49.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery49.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery49.jpg"
+                                <a href="assets/images/gallery/gallery49.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -865,9 +865,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery50.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery50.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery50.jpg"
+                                <a href="assets/images/gallery/gallery50.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -878,9 +878,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery51.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery51.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery51.jpg"
+                                <a href="assets/images/gallery/gallery51.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -891,9 +891,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery52.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery52.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery52.jpg"
+                                <a href="assets/images/gallery/gallery52.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->
@@ -904,9 +904,9 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery53.jpg" alt="gallery" class="gallery-single__img">
+                            <img src="assets/images/gallery/gallery53.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
-                                <a href="assets/images/gallery/gallery53.jpg"
+                                <a href="assets/images/gallery/gallery53.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
                                         class="icon-plus"></span></a>
                             </div><!-- /.gallery-single__overlay -->

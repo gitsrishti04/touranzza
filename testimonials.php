@@ -146,7 +146,7 @@
             }'>
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.webp"
                 alt="Jacob Jones"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
@@ -164,7 +164,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.webp"
                 alt="Robert Fox"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
@@ -182,7 +182,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.webp"
                 alt="Guy Hawkins"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
@@ -200,7 +200,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.webp"
                 alt="Jacob Jones"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
@@ -218,7 +218,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.webp"
                 alt="Robert Fox"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Robert Fox</h5>
@@ -236,7 +236,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.webp"
                 alt="Guy Hawkins"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
@@ -254,7 +254,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.webp"
                 alt="David"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">David Miller</h5>
@@ -272,7 +272,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.webp"
                 alt="Elena"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Elena</h5>
@@ -290,7 +290,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.jpg"
+            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.webp"
                 alt="Arthur"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Arthur</h5>

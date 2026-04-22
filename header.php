@@ -1,3 +1,6 @@
+<!-- enquiry -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
+<!-- enquiry -->
 <div class="topbar-one">
   <div class="topbar-one__contaner container-fluid">
     <div class="topbar-one__inner">
@@ -34,7 +37,7 @@
   <div class="container-fluid">
     <div class="main-header__inner">
       <div class="main-header__left">
-        <div class="main-header__logo"> <a href="./"> <img src="assets/images/blacklogo1.png" alt="Touranzza"></a>
+        <div class="main-header__logo"> <a href="./"> <img src="assets/images/blacklogo1.webp" alt="Touranzza"></a>
         </div>
       </div>
       <nav class="main-header__nav main-menu">

@@ -63,7 +63,7 @@
 
         <!-- About Four Start -->
         <div class="testimonial-one__bg trevlo-splax"
-            style="background-image: url(assets/images/backgrounds/tetsimonial-1-bg.png);" data-para-options='{
+            style="background-image: url(assets/images/backgrounds/tetsimonial-1-bg.webp);" data-para-options='{
         "orientation": "down",
         "scale": 1.5,
         "delay": ".3",
@@ -134,54 +134,116 @@
             <div class="container mt-2 pb-3">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-12">
-                        <div class="contact-page__form-box"
-                            style="background:#fff; padding: 40px; box-shadow: 0 0 20px rgba(0,0,0,0.05); border-radius: 10px; margin-top: 20px;">
-                            <div class="sec-title text-center">
-                                <h2 class="sec-title__title" style="font-size: 32px; margin-bottom: 25px;">Quick Enquiry
-                                </h2>
-                            </div>
-                            <form action="tourmail.php" method="POST" class="contact-page__form form-one row gutter-20 wow animated fadeInUp"
-                                data-wow-delay="0s" data-wow-duration="1500ms">
-                                <div class="col-md-6 ">
-                                    <div class="form-one__group">
-                                        <input type="text" name="form-box-name-input" id="form-one-name-input"
-                                            placeholder="Your Name" class="form-one__input">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 ">
-                                    <div class="form-one__group">
-                                        <input type="email" name="form-box-email-input" id="form-one-email-input"
-                                            placeholder="Email Address" class="form-one__input">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 ">
-                                    <div class="form-one__group">
-                                        <input type="tel" name="form-box-phone-input" id="form-one-phone-input"
-                                            placeholder="Phone" class="form-one__input">
-                                    </div>
-                                </div>
-                                <div class="col-md-6 ">
-                                    <div class="form-one__group">
-                                        <input type="text" name="form-box-subject-input" id="form-one-subject-input"
-                                            placeholder="Subject" class="form-one__input">
-                                    </div>
-                                </div>
-                                <div class="col-12 ">
-                                    <div class="form-one__group">
-                                        <textarea name="form-one-message-input" id="form-one-message-input" cols="30"
-                                            rows="10" placeholder="Write a Message"
-                                            class="form-one__message form-one__input"></textarea>
-                                    </div>
-                                </div>
-                                <div class="col-12 text-center">
-                                    <div class="form-one__btn-box">
-                                        <button type="submit"
-                                            class="form-one__btn trevlo-btn trevlo-btn--base"><span>Send
-                                                Message</span></button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+                        <div class="contact-page__form-box" style="background:transparent; padding: 0; box-shadow: none; border-radius: 0; margin-top: 20px; max-width: 900px; margin-left: auto; margin-right: auto;">
+    <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+        <h3 class="tour-listing-details__sidebar-title">Enquire Now</h3>
+        <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>Name</label>
+                        <input type="text" name="name" id="contact-name" placeholder="Your Name" class="form-one__input">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>Email</label>
+                        <input type="email" name="email" id="contact-email" placeholder="Your Email" class="form-one__input">
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>Contact no with Country Code</label>
+                        <input id="contact-phone" name="phone" type="tel" class="form-one__input">
+                        <input id="contact-country" type="hidden" name="country">
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+                        <script>
+                            var contactInput = document.querySelector("#contact-phone");
+                            var contactIti = window.intlTelInput(contactInput, {
+                                initialCountry: "IN",
+                                utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js"
+                            });
+                            contactInput.addEventListener("countrychange", function () {
+                                var countryData = contactIti.getSelectedCountryData();
+                                document.querySelector("#contact-country").value = countryData.name;
+                            });
+                        </script>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>Travel Date</label>
+                        <input type="text" name="datepicker" placeholder="Select date" id="contact-datepicker"
+                            class="tour-listing-details__sidebar-form-date trevlo-datepicker">
+                        <i class="tour-listing-details__sidebar-form-date-arrow fas fa-angle-down"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>No. of Adults</label>
+                        <select class="selectpicker" name="adults" aria-label="Adults">
+                            <option selected value="">Adults</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                            <option value="11">11</option>
+                            <option value="12">12</option>
+                            <option value="13">13</option>
+                            <option value="14">14</option>
+                            <option value="15+">15+</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>No. of Children</label>
+                        <select class="selectpicker" name="children" aria-label="Children">
+                            <option selected value="">Children</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                            <option value="11">11</option>
+                            <option value="12">12</option>
+                            <option value="13">13</option>
+                            <option value="14">14</option>
+                            <option value="15+">15+</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="tour-listing-details__sidebar-form-input">
+                        <label>Your Message</label>
+                        <textarea name="message" id="contact-message" cols="30" rows="5" placeholder="Write a Message"
+                            class="form-one__message form-one__input"></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Enquire Now</span></button>
+            </div>
+        </form>
+    </div>
+</div>
                     </div>
                 </div>
             </div>

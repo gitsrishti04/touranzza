@@ -46,6 +46,8 @@
     <!-- PAGE STARTS -->
     <div class="page-wrapper">
         <?php include("header.php") ?>
+    <!-- MANDALA BACKGROUND WRAPPER START -->
+    <div class="mandala-bg-wrapper">
         <section class="page-header">
             <div class="page-header__bg samedays"></div>
             <!-- /.page-header__bg -->
@@ -74,7 +76,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-car" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-2.jpg" alt="assets/images/tours/tour-3-1.jpg"
+                                <img src="assets/images/tours/agrai-tour-2.webp" alt="assets/images/tours/tour-3-1.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -91,13 +93,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-1.jpg"
+                    "src": "assets/images/tours/tour-3-1.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-2.jpg"
+                    "src": "assets/images/tours/tour-3-2.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/tour-3-3.webp"
                   }
                 ],
                 "gallery": {
@@ -149,7 +151,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-train" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-1.jpg" alt="assets/images/tours/tour-3-2.jpg"
+                                <img src="assets/images/tours/agrai-tour-1.webp" alt="assets/images/tours/tour-3-2.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -166,13 +168,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-2.jpg"
+                    "src": "assets/images/tours/tour-3-2.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-3.jpg"
+                    "src": "assets/images/tours/tour-3-3.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   }
                 ],
                 "gallery": {
@@ -225,7 +227,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-delhi-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-3.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/delhi-tour-3.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -242,13 +244,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -300,7 +302,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-jaipur-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.jpg" alt="assets/images/tours/tour-3-4.jpg"
+                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="assets/images/tours/tour-3-4.webp"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -317,13 +319,13 @@
                                         class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
                 "items": [
                   {
-                    "src": "assets/images/tours/tour-3-4.jpg"
+                    "src": "assets/images/tours/tour-3-4.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-5.jpg"
+                    "src": "assets/images/tours/tour-3-5.webp"
                   },
                   {
-                    "src": "assets/images/tours/tour-3-6.jpg"
+                    "src": "assets/images/tours/tour-3-6.webp"
                   }
                 ],
                 "gallery": {
@@ -381,4 +383,46 @@
     </div>
     <!-- /.col-lg-6 col-xl-6 -->
     <!-- /.col-lg-6 col-xl-6 -->
-    
+    </div><!-- /.row -->
+    </div><!-- /.container -->
+    </section>
+    <!-- Why Choose Two End -->
+    <!-- Offer One Start -->
+
+    <!-- Offer End Start -->
+
+    <!-- Counter One Start -->
+    </div><!-- /.mandala-bg-wrapper -->
+    <!-- MANDALA BACKGROUND WRAPPER END -->
+    <?php include("footer.php") ?>
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
+            top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
+    <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
+    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
+    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
+    <script src="assets/vendors/wow/wow.js"></script>
+    <script src="assets/vendors/tilt/tilt.jquery.js"></script>
+    <script src="assets/vendors/simpleParallax/simpleParallax.min.js"></script>
+    <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
+    <script src="assets/vendors/isotope/isotope.js"></script>
+    <script src="assets/vendors/countdown/countdown.min.js"></script>
+    <script src="assets/vendors/daterangepicker-master/moment.min.js"></script>
+    <script src="assets/vendors/daterangepicker-master/daterangepicker.js"></script>
+    <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
+    <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
+    <!-- template js -->
+    <script src="assets/js/trevlo.js?v=4"></script>
+</body>
+
+</html>
