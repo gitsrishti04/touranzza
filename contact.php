@@ -61,22 +61,8 @@
             </div><!-- /.container -->
         </section><!-- /.page-header -->
 
-        <!-- About Four Start -->
-        <div class="testimonial-one__bg trevlo-splax"
-            style="background-image: url(assets/images/backgrounds/tetsimonial-1-bg.webp);" data-para-options='{
-        "orientation": "down",
-        "scale": 1.5,
-        "delay": ".3",
-        "transition": "cubic-bezier(0,0,0,1)",
-        "overflow": true
-        }'>
-        </div><!-- /.testimonial-one__bg -->
-        <!-- /.sec-title__tagline -->
+        <div class="mandala-bg-wrapper">
 
-        <!-- /.sec-title__title -->
-    </div>
-    <!-- /.owl-slide-item-->
-    <!-- Why Choose Two Start -->
 
     <section class="contact-page section-space-top">
         <div class="contact-page__info">
@@ -254,6 +240,7 @@
         </div>
         <!-- /.google-map -->
     </section>
+</div><!-- /.mandala-bg-wrapper -->
     <!-- /.trevlo-progress -->
     <!-- /.why-choose-two__box__icon -->
     <!-- /.why-choose-two__box -->
