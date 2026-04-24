@@ -147,7 +147,7 @@
                             <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tour-3.webp"}, {"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/agratour2.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
+                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/agrai-tour-1.webp"}, {"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipur-tour-2.webp"}, {"src": "assets/images/tours/gt1.webp"}, {"src": "assets/images/tours/colorful-rajasthan.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                 </div>
@@ -193,7 +193,7 @@
                             <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
-                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/jaipur-tours2.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
+                                    <a href="javascript:void(0);" class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/agrai-tour-1.webp"}, {"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipur-tour-2.webp"}, {"src": "assets/images/tours/gt1.webp"}, {"src": "assets/images/tours/colorful-rajasthan.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                 </div>

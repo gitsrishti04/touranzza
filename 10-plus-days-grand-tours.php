@@ -90,23 +90,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-1.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-2.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-3.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/rajasthan-heritage-tour.webp"}, {"src": "assets/images/tours/fort-and-palaces-tour.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/varanasi-2.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -168,23 +152,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/rajasthan-heritage-tour.webp"}, {"src": "assets/images/tours/fort-and-palaces-tour.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/varanasi-2.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -245,23 +213,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/rajasthan-heritage-tour.webp"}, {"src": "assets/images/tours/fort-and-palaces-tour.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/varanasi-2.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -324,23 +276,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/rajasthan-heritage-tour.webp"}, {"src": "assets/images/tours/fort-and-palaces-tour.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/varanasi-2.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"

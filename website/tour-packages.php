@@ -87,23 +87,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/delhi-tour-3.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/jaipur-tour-1.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/agratour2.jpg"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/agrai-tour-1.jpg"}, {"src": "assets/images/tours/delhi-tour-1.jpg"}, {"src": "assets/images/tours/jaipur-tour-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -162,23 +146,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-2.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-3.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-4.jpg"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/agrai-tour-1.jpg"}, {"src": "assets/images/tours/delhi-tour-1.jpg"}, {"src": "assets/images/tours/jaipur-tour-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -237,23 +205,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-3.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-4.jpg"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.jpg"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/agrai-tour-1.jpg"}, {"src": "assets/images/tours/delhi-tour-1.jpg"}, {"src": "assets/images/tours/jaipur-tour-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"

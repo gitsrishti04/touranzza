@@ -68,7 +68,7 @@
         "items": 4,
         "margin": 20,
         "smartSpeed": 700,
-        "loop":false,
+        "loop":true,
         "autoplay": 6000,
         "nav":false,
         "dots":false,
@@ -94,20 +94,7 @@
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/jaipurtour2.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/jaipurtour2.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.jpg"}, {"src": "assets/images/tours/jaipurtour1.jpg"}, {"src": "assets/images/tours/jaipur-tours3.jpg"}, {"src": "assets/images/tours/jaipur-tours2.jpg"}, {"src": "assets/images/tours/jaipur-tours1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
@@ -118,20 +105,7 @@
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/jaipurtour1.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/jaipurtour1.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.jpg"}, {"src": "assets/images/tours/jaipurtour1.jpg"}, {"src": "assets/images/tours/jaipur-tours3.jpg"}, {"src": "assets/images/tours/jaipur-tours2.jpg"}, {"src": "assets/images/tours/jaipur-tours1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
@@ -142,20 +116,7 @@
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/jaipur-tours3.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/jaipur-tours3.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.jpg"}, {"src": "assets/images/tours/jaipurtour1.jpg"}, {"src": "assets/images/tours/jaipur-tours3.jpg"}, {"src": "assets/images/tours/jaipur-tours2.jpg"}, {"src": "assets/images/tours/jaipur-tours1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
@@ -166,20 +127,7 @@
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/jaipur-tours2.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/jaipur-tours2.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.jpg"}, {"src": "assets/images/tours/jaipurtour1.jpg"}, {"src": "assets/images/tours/jaipur-tours3.jpg"}, {"src": "assets/images/tours/jaipur-tours2.jpg"}, {"src": "assets/images/tours/jaipur-tours1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
@@ -190,20 +138,7 @@
                 alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{
-                        "items": [
-                          {
-                            "src": "assets/images/tours/jaipur-tours1.jpg"
-                          },
-                          {
-                            "src": "assets/images/tours/jaipur-tours1.jpg"
-                          }
-                        ],
-                        "gallery": {
-                          "enabled": true
-                        },
-                        "type": "image"
-                    }'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.jpg"}, {"src": "assets/images/tours/jaipurtour1.jpg"}, {"src": "assets/images/tours/jaipur-tours3.jpg"}, {"src": "assets/images/tours/jaipur-tours2.jpg"}, {"src": "assets/images/tours/jaipur-tours1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->

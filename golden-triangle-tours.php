@@ -90,23 +90,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-3.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -165,23 +149,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -242,23 +210,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -320,23 +272,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -398,23 +334,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -475,23 +395,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -551,23 +455,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -629,23 +517,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
@@ -706,23 +578,7 @@
                             <div class="tour-listing__card-content">
                                 <div class="tour-listing__card-camera-group">
                                     <a href="javascript:void(0);"
-                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{
-                "items": [
-                  {
-                    "src": "assets/images/tours/tour-3-4.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-5.webp"
-                  },
-                  {
-                    "src": "assets/images/tours/tour-3-6.webp"
-                  }
-                ],
-                "gallery": {
-                  "enabled": true
-                },
-                "type": "image"
-            }'>
+                                        class="tour-listing__card-camera-btn trevlo-image-popup" data-gallery-options='{"items": [{"src": "assets/images/tours/jaipur-tour-1.webp"}, {"src": "assets/images/tours/gt8.webp"}, {"src": "assets/images/tours/jaipur-tour-4.webp"}, {"src": "assets/images/tours/varanasi-1.webp"}, {"src": "assets/images/tours/orchha-khajuraho.webp"}, {"src": "assets/images/tours/goa.webp"}, {"src": "assets/images/tours/mumbai.webp"}, {"src": "assets/images/tours/Haridwar-Rishikesh.webp"}, {"src": "assets/images/tours/amritsar.webp"}], "gallery": {"enabled": true}, "type": "image"}'>
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                     <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" target="_blank" rel="noopener noreferrer"
