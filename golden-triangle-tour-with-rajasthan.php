@@ -49,7 +49,7 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "TravelAgency",
     "name": "Touranzza",
     "description": "Luxury travel agency specializing in private tours of India, offering bespoke Golden Triangle tours, Rajasthan heritage journeys, and same-day experiences.",
     "url": "https://touranzza.com",
