@@ -49,6 +49,43 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Touranzza",
+    "description": "Luxury travel agency specializing in private tours of India, offering bespoke Golden Triangle tours, Rajasthan heritage journeys, and same-day experiences.",
+    "url": "https://touranzza.com",
+    "logo": "https://touranzza.com/assets/images/footer-logo-dark.webp",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Agra",
+      "addressRegion": "Uttar Pradesh",
+      "addressCountry": "IN"
+    },
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+91-9837105911",
+        "contactType": "customer service",
+        "availableLanguage": "English"
+      },
+      {
+        "@type": "ContactPoint",
+        "telephone": "+91-7830492929",
+        "contactType": "customer service",
+        "availableLanguage": "English"
+      }
+    ],
+    "email": "india@touranzza.com",
+    "sameAs": [
+      "https://www.facebook.com/share/1DU6ep6f9V/",
+      "https://www.linkedin.com/company/touranzza/",
+      "https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==",
+      "https://www.tripadvisor.in/Profile/touranzza"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {
