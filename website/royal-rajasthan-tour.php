@@ -50,11 +50,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>

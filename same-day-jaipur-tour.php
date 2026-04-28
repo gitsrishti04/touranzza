@@ -4,23 +4,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Same Day Jaipur Tour from Delhi by Private Car | Touranzza</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Same day Jaipur tour from Delhi by private car. Amber Fort, City Palace, Hawa Mahal, Jantar Mantar — a full-day guided Jaipur sightseeing tour from Delhi, back by 9 PM." />
+  <link rel="canonical" href="https://touranzza.com/same-day-jaipur-tour" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Same Day Jaipur Tour from Delhi by Private Car | Touranzza" />
+  <meta property="og:description" content="Same day Jaipur tour from Delhi by private car. Amber Fort, City Palace, Hawa Mahal, Jantar Mantar — a full-day guided Jaipur sightseeing tour, back by 9 PM." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://touranzza.com/same-day-jaipur-tour" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/jaipurtour2.webp" />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link rel="preconnect" href="https://fonts.googleapis.com/">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&amp;display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
@@ -38,7 +42,6 @@
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
   <!-- enquiry -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
-  <!-- enquiry -->
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
   <link rel="stylesheet" href="assets/css/touranzza.css" />
@@ -50,19 +53,6 @@
     <?php include("header.php") ?>
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
-    <!-- <section class="page-header">
-    <div class="page-header__bg"></div>
-    <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
-        <div class="page-header__breadcrumb-box">
-            <ul class="trevlo-breadcrumb">
-                <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
-            </ul>
-        </div>
-    </div>
-</section> -->
-    <!-- Tour Listing Page One Start -->
     <!-- Tour Listing Details One Start -->
     <section class="tour-listing-details tour-listing-details-right">
 <div class="container">
@@ -78,349 +68,321 @@
         "dots":false,
         "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
         "responsive":{
-            "0":{
-                "items": 1
-            },
-            "768":{
-                "items": 2
-            },
-            "992":{
-                "items": 3
-            },
-            "1300":{
-                "items": 4,
-                "dots": false
-            }
+            "0":{"items": 1},
+            "768":{"items": 2},
+            "992":{"items": 3},
+            "1300":{"items": 4,"dots": false}
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp" alt="Amber Fort, Jaipur">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/jaipur-tours2.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp" alt="Hawa Mahal — Wind Palace, Jaipur">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/jaipur-tours2.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours3.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours3.webp" alt="City Palace museum and courtyards, Jaipur">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/jaipur-tours2.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours2.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours2.webp" alt="Jantar Mantar UNESCO site, Jaipur">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/jaipur-tours2.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours1.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours1.webp" alt="Jal Mahal water palace, Man Sagar Lake, Jaipur">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/jaipur-tours2.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
         </div>
-        <!-- /.tour-listing-details__top-carousel-wrapper -->
       </div>
-      <!-- /.tour-listing-details__top-carousel -->
 </div><!-- /.container -->
       <div class="tour-listing-details__destination">
         <div class="container">
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Same Day Jaipur Tour</h1>
-                <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
+                <h1 class="tour-listing-details__dastination-title">Same Day Jaipur Tour from Delhi by Private Car</h1>
               </div>
-              <!-- /.tour-listing-details__daetination-left -->
               <div class="tour-listing-details__ratings-box"><i class="fab fa-tripadvisor tripadvisor-icon"></i>
-                <div class="trevlo-ratings"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i
-                    class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
+                <div class="trevlo-ratings"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
                 <p class="tour-listing-details__ratings-text">5.0 Superb</p>
               </div>
-              <!-- /.tour-listing-details__ratings-box -->
             </div>
-            <!-- /.col-xl-4 -->
             <div class="col-xl-6">
               <div class="tour-listing-details__destination-right">
-                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.1s"
-                  data-wow-duration="1500ms"> <span class="icon-clock-1"></span>
+                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="icon-clock-1"></span>
                   <div class="tour-listing-details__destination-info-title">
                     <h4 class="tour-listing-details__destination-info-top">Duration</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">01 Day Trip</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">1 Day Trip</h4>
                   </div>
                 </div>
-                <!-- /.tour-listing-details__destination-info -->
-                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.7s"
-                  data-wow-duration="1500ms"> <span class="icon-location-1"></span>
+                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms"> <span class="icon-location-1"></span>
                   <div class="tour-listing-details__destination-info-title">
-                    <h4 class="tour-listing-details__destination-info-top">Location</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">Delhi - Jaipur - Delhi</h4>
+                    <h4 class="tour-listing-details__destination-info-top">Route</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">Delhi &rsaquo; Jaipur &rsaquo; Delhi</h4>
                   </div>
                 </div>
-                <!-- /.tour-listing-details__destination-info -->
               </div>
-              <!-- /.tour-listing-details__destination-right -->
             </div>
-            <!-- /.col-xl-8 -->
           </div>
-          <!-- /.row -->
         </div>
-        <!-- /.container -->
       </div>
       <!-- /.tour-listing-details__destination -->
       <div class="container">
         <div class="tour-listing-details__row row">
           <div class="col-xl-8">
+
+            <!-- OVERVIEW -->
             <div class="tour-listing-details__overview">
               <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h2>
               </div>
-              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Some cities impress you at first glance — Jaipur unfolds slowly, revealing layers of royalty, artistry, and timeless charm. This same day Jaipur tour from Delhi is crafted for travellers who want to experience the elegance of Rajasthan without the need for an overnight stay. As you leave Delhi behind and journey towards the Pink City, the landscape shifts, setting the tone for a day filled with architectural wonders and cultural richness.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">Designed as a seamless Jaipur day trip from Delhi, this experience combines comfort with meaningful exploration. From majestic hilltop forts to intricately designed palaces, Jaipur stands among the most captivating tourist destinations in India. With a private local guide, you'll gain deeper insights into royal traditions, craftsmanship, and the stories behind each monument — not just captions on a placard.</p>
+
+              <!-- INTERLINK 1: Taj Mahal -->
+              <div class="tour-listing-details__related-link wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <p class="tour-listing-details__overview-text">Many travellers combine this Jaipur city tour with a <a href="same-day-agra-tour-by-gatimaan-express" style="color: inherit; text-decoration: underline; font-weight: 600;">Taj Mahal day trip from Delhi by train</a> to experience two of North India's most iconic destinations in a single trip.</p>
+              </div>
             </div>
-            <!-- /.tour-listing-details__explore -->
+            <!-- /.tour-listing-details__overview -->
+
+            <!-- TOUR HIGHLIGHTS -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Private air-conditioned car from Delhi — depart 5:00 AM, back by 9 PM</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Amber Fort — grand hilltop fortress with optional elephant or jeep ride</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Jal Mahal photo stop — water palace on Man Sagar Lake</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>City Palace — royal residence, museums and Mughal miniature collections</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
-                <!-- /.col-lg-6 col-md-7 -->
+                <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+                  <ul class="tour-listing-details__included-list-one tour-highlights">
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Jantar Mantar — UNESCO-listed astronomical observatory</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Hawa Mahal — Jaipur's most iconic pink sandstone façade</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Lunch at a quality restaurant (included)</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Experienced local guide and all monument entrance fees</p>
+                    </li>
+                  </ul>
+                </div>
               </div>
-              <!-- /.row -->
             </div>
+
+            <!-- ITINERARY -->
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>6:00 AM - Start driving from Delhi to Jaipur</span></h4>
+                    <h3><span>5:00 AM</span> Departure from Delhi</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Begin with the most awaited trip of your life to the kingly city from Delhi at 6:00 AM. Our
-                        driver cum travel guide will pick you from your location and take you on an exciting journey.
-                      </p>
+                      <p style="margin-top: 0.75rem;">Begin your Delhi to Jaipur day trip with an early pick-up from your hotel or airport. Travel in a private air-conditioned vehicle, enjoying a smooth drive towards one of the most iconic destinations in Rajasthan. The early start is deliberate — it lets you reach Amber Fort before the crowds and make the most of the full day ahead.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>10:30 AM – Arrive in Jaipur</span></h4>
+                    <h3><span>10:00 AM</span> Amber Fort Exploration</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After 4 to 5 hours of journey, you will be there in the pink city of India. In the 17th
-                        century, Maharaja Jai Singh II kept the name of the city and was called the God father of this
-                        wonderful place, who played an important role in nurturing the city. It was named after him.
-                        Jaipur is also known as Pinki City. In the 18th century, Prince of Wales and Queen Victoria
-                        visited the country and the whole city was painted in Pink color by Maharaja Ram Singh of Jaipur
-                        to show his love and respect for the prince and queen</p>
+                      <p style="margin-top: 0.75rem;">Arrive in Jaipur and meet your local guide before heading directly to Amber Fort — a stunning hilltop fortress perched above a narrow lake and one of the finest examples of Rajput military architecture in India. Explore its grand Ganesh Pol gateway, the mirrored Sheesh Mahal (Hall of Mirrors), and the carved marble courtyards above. An optional elephant or jeep ride up the cobbled ramp adds a traditional touch to the visit.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>12:00 Noon - Visit the picturesque Jal Mahal</span></h4>
+                    <h3><span>12:00 PM</span> Jal Mahal Photo Stop</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Visit , which is situated in the middle of the Man Sagar Lake in Jaipur. Seeing its beauty in
-                        the lake will make you mesmerize. The palace was built by Maharaja Jai Singh in the 18th
-                        century.</p>
+                      <p style="margin-top: 0.75rem;">Pause at Jal Mahal, the picturesque water palace that appears to float in the middle of Man Sagar Lake. Built by Maharaja Jai Singh II in the 18th century, it is one of the most photographed landmarks in Jaipur — particularly beautiful in the early afternoon light with the Aravalli Hills behind it. A short stop for photography before continuing into the walled city.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>12:30 noon - Visiting the world-famous Hawa Mahal</span></h4>
+                    <h3><span>1:00 PM</span> Lunch Break</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Well, every traveler knows about the HawaMahal in Jaipur. This red and pink sandstone structure
-                        is a great example of the Hindu architecture. This palace is situated in the bustling life of
-                        the city. This outstanding palace was built by Maharaja SawaiPratap Singh in the 17th century.
-                      </p>
+                      <p style="margin-top: 0.75rem;">Enjoy a relaxed seated lunch at a quality restaurant, offering a mix of local Rajasthani and Indian cuisine. A good opportunity to rest before the afternoon's monuments.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>01:00 pm - Watching the splendor of City Palace</span></h4>
+                    <h3><span>2:00 PM</span> City Palace</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After HawaMahal, visit the City Palace in which you will find the Chandra Mahal and Mubarak
-                        Mahal as well. Chandra Mahal Palace has now been transformed into a museum, but it has still
-                        preserved its royal essence. This palace was of Sawai Jai Singh II and he used to live here from
-                        1729 to 1732. Afterward, this palace was redecorated by Sir Samuel Swinton Jacob and Vidyadhar
-                        Bhattacharya, the main designer in the majestic palace.</p>
+                      <p style="margin-top: 0.75rem;">Discover the City Palace — a magnificent royal complex at the heart of Jaipur's walled old city, built by Sawai Jai Singh II between 1729 and 1732. Its museums display Mughal miniatures, royal costumes, weapons and ceremonial objects. The Chandra Mahal remains the residence of the Jaipur royal family, with several floors open to the public. Your guide will walk you through the courtyards and collections.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>02:00 PM - Visiting JantarMantar to experience again the most expected Monuments</span>
-                    </h4>
+                    <h3><span>3:00 PM</span> Jantar Mantar (UNESCO World Heritage Site)</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>This is the time to visit the well-known JantarMantar, which is a sequence of 19 monuments
-                        features with astronomical and architectural equipment. These technical places were designed and
-                        constructed by Sawai Jai Singh II in the 17th century. It is no doubt a great place to travel in
-                        the city.</p>
+                      <p style="margin-top: 0.75rem;">Continue to Jantar Mantar — one of five astronomical observatories built by Maharaja Sawai Jai Singh II in the early 18th century and a UNESCO World Heritage Site since 2010. Its 19 monumental instruments were designed to measure time, predict eclipses, and track celestial bodies with remarkable precision. The Samrat Yantra sundial — the world's largest — can tell time to within two seconds. Your guide will explain how they worked.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>3:00 PM - Visiting Albert Hall</span></h4>
+                    <h3><span>3:45 PM</span> Hawa Mahal — The Wind Palace</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Visit this ancient museum just close to the Ram Niwas garden and wonderful creation of Samuel
-                        Swinton Jacob and Meir TujumoolHoosein. This museum was inaugurated in the 18th century and is
-                        considered one of the prime museums of the government. Visiting here will surely take you in the
-                        oldest time of India and it displays the superb artwork of Indo-Saracenic architecture.</p>
+                      <p style="margin-top: 0.75rem;">End your sightseeing at Hawa Mahal, Jaipur's most instantly recognisable landmark. The five-storey pink sandstone façade contains 953 small windows (jharokhas) designed so that royal ladies could watch street processions below without being seen. Built by Maharaja Sawai Pratap Singh in 1799, it remains one of the most photographed structures in all of India. The best exterior views are from the street opposite — your guide will position you perfectly.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>04:00 PM - Travel around Amer or Amber Fort</span></h4>
+                    <h3><span>4:30 PM</span> Return Drive to Delhi</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>As it indicates, Amer Fort is in Amer, Rajasthan. It is located on a drive of 11 km from Jaipur
-                        city. Travelers who come to Jaipur usually visit Amer Fort. This beautifully designed structure
-                        was established by Raja Man Singh, who was a good judge of Akbar the Great. It is a superb model
-                        of Rajasthani culture and art.</p>
+                      <p style="margin-top: 0.75rem;">Begin your drive back to Delhi, reflecting on a day filled with Rajput history, royal architecture, and the particular energy of Jaipur's walled city. Your driver will aim for the fastest route, typically arriving between 8:30 PM and 9:00 PM depending on traffic.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>05:00 PM – Back to the Delhi Airport or Hotel</span></h4>
+                    <h3><span>8:30–9:00 PM</span> Arrival in Delhi &amp; Drop-off</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After collecting beautiful memories of Jaipur sightseeing, now the time has come to return
-                        back. Our driver will make sure that you reach at your suggested place (hotel or the Airport).
-                        Enjoy the sweet memories of this wonderful Jaipur trip forever.</p>
+                      <p style="margin-top: 0.75rem;">Arrive back in Delhi and get dropped at your hotel, airport, or any preferred location — completing your same day Jaipur tour from Delhi.</p>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>Day 10</span> Delhi</h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
-                  </div>
-                </div>
-              </div> -->
+
               </div>
             </div>
+            <!-- /.itinerary -->
+
+            <!-- INCLUSIONS / EXCLUSIONS -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Included</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Private air-conditioned vehicle with professional driver</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Hotel or airport pick-up and drop-off in Delhi</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Experienced local tour guide in Jaipur</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>All monument entrance fees</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Lunch at a quality restaurant</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Bottled water during the journey</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>All tolls, parking and applicable taxes</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Personalised assistance throughout</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
-                <!-- /.col-lg-6 col-md-7 -->
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                  <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Not Included</h2>
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>Additional Service</p>
+                      <p>Personal expenses (shopping, tips)</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Insurance</p>
+                      <p>Camera or video charges at monuments</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Food & Drinks</p>
+                      <p>Optional activities (elephant ride, special palace access)</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Tickets</p>
+                      <p>Any services not mentioned in inclusions</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
-                <!-- /.col-lg-6 col-md-5 -->
               </div>
-              <!-- /.row -->
             </div>
-            <!-- /.tour-listing-details__similar container-fluid -->
+
+            <!-- WHY CHOOSE / INTERLINK SECTION -->
+            <div class="tour-listing-details__overview">
+              <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Why Choose This Jaipur Tour from Delhi?</h2>
+              </div>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">This experience is perfect for travellers looking for a well-planned India day trip that combines efficiency with depth. Instead of rushing through attractions on a bus tour, you explore Jaipur with context and comfort — guided by local expertise, at your own pace, in a private vehicle.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">If you're exploring North India further, our <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">same day Agra tour from Delhi by car</a> offers a seamless extension — Taj Mahal, Agra Fort, and Fatehpur Sikri all in one day. Many guests combine both days for a two-day private North India experience.</p>
+
+              <!-- INTERLINK 3: Golden Triangle upsell -->
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">For a complete experience of North India's royal heritage, explore our <a href="golden-triangle-tours" style="color: inherit; text-decoration: underline; font-weight: 600;">Imperial Golden Triangle Tour covering Delhi, Agra and Jaipur</a> — a curated multi-day private journey through India's most iconic cultural corridor.</p>
+            </div>
+
           </div>
+          <!-- /.col-xl-8 -->
+
           <div class="col-xl-4">
             <aside class="tour-listing-details__sidebar">
-              <div
-                class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
+              <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="#" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -434,8 +396,7 @@
                     <input id="phone-number" name="phone-number" type="tel" class="form-one__input">
                     <input id="country-name" type="hidden" name="country">
                     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-                    <script
-                      src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+                    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
                     <script>
                       var input = document.querySelector("#phone-number");
                       var iti = window.intlTelInput(input, {
@@ -501,67 +462,44 @@
                     <textarea name="des" id="des" cols="30" rows="10" placeholder="Write a Message"
                       class="form-one__message form-one__input"></textarea>
                   </div>
-                  <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Book
-                      Now</span></button>
+                  <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Book Now</span></button>
                 </form>
               </div>
               <?php include("sidebar.php") ?>
             </aside>
-            <!-- /.tour-listing-details__sidebar -->
           </div>
           <!-- /.col-xl-4 -->
         </div>
-        <!-- /.row -->
       </div>
-      <!-- /.container -->
     </section>
     <!-- Tour Listing Details One End -->
   </div>
   <!-- /.page-wrapper -->
   <div class="mobile-nav__wrapper">
     <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-    <!-- /.mobile-nav__overlay -->
-    <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
-          class="fa fa-times"></i></span>
-      <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp"
-            width="155" alt="" /></a> </div>
-      <!-- /.logo-box -->
+    <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+      <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp" width="155" alt="Touranzza Logo" /></a> </div>
       <div class="mobile-nav__container"></div>
-      <!-- /.mobile-nav__container -->
       <ul class="mobile-nav__contact list-unstyled">
-        <li> <i class="fa fa-envelope"></i> <a href="mailto:needhelp@trevlo.com">needhelp@trevlo.com</a> </li>
+        <li> <i class="fa fa-envelope"></i> <a href="mailto:info@touranzza.com">info@touranzza.com</a> </li>
         <li> <i class="fa fa-phone-alt"></i> <a href="tel:+919355995594">+91-9355995594</a> </li>
       </ul>
-      <!-- /.mobile-nav__contact -->
-      <div class="mobile-nav__social"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i>
-          <span class="sr-only">Twitter</span> </a> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"
-            aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i
-            class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a> <a
-          href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span
-            class="sr-only">Instagram</span> </a> </div>
-      <!-- /.mobile-nav__social -->
+      <div class="mobile-nav__social"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span> </a> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook" aria-hidden="true"></i><span class="sr-only">Facebook</span> </a> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i class="fab fa-tripadvisor" aria-hidden="true"></i><span class="sr-only">TripAdvisor</span> </a> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i><span class="sr-only">Instagram</span> </a> </div>
     </div>
-    <!-- /.mobile-nav__content -->
   </div>
-  <!-- /.mobile-nav__wrapper -->
   <div class="search-popup">
     <div class="search-popup__overlay search-toggler"></div>
-    <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
-        <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
-            class="icon-search"></span> </button>
+        <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span class="icon-search"></span> </button>
       </form>
     </div>
-    <!-- /.search-popup__content -->
   </div>
-  <!-- Tour Listing Page One End -->
   </div><!-- /.mandala-bg-wrapper -->
     <!-- MANDALA BACKGROUND WRAPPER END -->
     <?php include("footer.php") ?>
-  <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
-      top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
+  <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
   <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
   <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>

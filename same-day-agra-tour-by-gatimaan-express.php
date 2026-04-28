@@ -53,11 +53,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -211,7 +211,17 @@
                 look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
                 available, but the majority have suffered alteradution in some form by injected humour, or randomised
                 words which don't look even slightly believable. If you are going</p>
-            </div>
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just want the heritage core? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> itinerary.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to dive deeper into the desert? Explore the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Interested in spiritual hubs near the Himalayas? Try our <a href="golden-triangle-tour-with-haridwar-and-rishikesh" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Haridwar &amp; Rishikesh</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
+              </ul>
+</div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
               <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
@@ -238,7 +248,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -247,41 +257,41 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>In the morning, meet our staff at your preferred place (hotel /airplane terminal) and go to the
+                      <p style="margin-top: 0.75rem;">In the morning, meet our staff at your preferred place (hotel /airplane terminal) and go to the
                         railway station in Delhi to board the train. The train will take you to Agra station.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>08:10 AM – The train departs from Delhi railway station</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>The Gatimaan Express Train will depart from the Hazrat Nizamuddin railway station, Delhi, and
+                      <p style="margin-top: 0.75rem;">The Gatimaan Express Train will depart from the Hazrat Nizamuddin railway station, Delhi, and
                         will arrive in Agra at 09:50 am. This is a high-speed train and takes appx-two hours to reach
                         the Agra city. Breakfast will be offered on the board of the train.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>09:50 AM – Arrive at the Agra Cantt. Railway Station</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>On your arrival in Agra, the travel guide will meet you and transfer you to the TajMahal a
+                      <p style="margin-top: 0.75rem;">On your arrival in Agra, the travel guide will meet you and transfer you to the TajMahal a
                         wonderful mausoleum and the amazing attractions of Agra.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>10:00 AM – Discover Taj Mahal from every angle</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Taj Mahal – Considered as one of the beautiful structures (fascination) in India and one of the
+                      <p style="margin-top: 0.75rem;">Taj Mahal – Considered as one of the beautiful structures (fascination) in India and one of the
                         seven wonders on the planet, TajMahal was built in 22 years (1632 – 1653) and it is said 20,000
                         workers worked day and night to complete this wonder. It was built by Shah-Jahan for his
                         beautiful wife MumtazMahal. Being a marvelous white mausoleum, it has been combined with amazing
@@ -289,36 +299,36 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>12:30 PM – Lunch Time</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After seeing Taj Mahal now it is time to enjoy some time at leisure and have a delicious lunch
+                      <p style="margin-top: 0.75rem;">After seeing Taj Mahal now it is time to enjoy some time at leisure and have a delicious lunch
                         at Agra's popular place and post-lunch move to Agra Fort.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>02:00 PM – Visit Agra Fort</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>It is generally known as the red fort in Agra and a perfect example of the excellence. The red
+                      <p style="margin-top: 0.75rem;">It is generally known as the red fort in Agra and a perfect example of the excellence. The red
                         sandstone Agra Fort was made by the great Mughal Emperor Akbar in the 15th century at the edge
                         of the Yamuna river.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>03:30 PM – Visit itimad-ud-daulah (Baby Taj)</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Well ahead visit Itimad-Ud-Daulah which is in the main called child Taj Mahal and it is also
+                      <p style="margin-top: 0.75rem;">Well ahead visit Itimad-Ud-Daulah which is in the main called child Taj Mahal and it is also
                         positioned on the banks of Yamuna River. The tomb is attractively constructed and reminds the
                         years of the Mughals to travelers. This wonderful charm is a must-visit place and keeps a
                         special place in the heart of history lovers and leisure travelers who come to see Taj. Every
@@ -326,35 +336,35 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>04:30 PM – Local street market walk</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After visiting you will be visit local street market for shopping , you can buy some souvenir
+                      <p style="margin-top: 0.75rem;">After visiting you will be visit local street market for shopping , you can buy some souvenir
                         for friend and family, alter drive the railway station board the train for Delhi</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>07:30 Pm – Pick up Delhi Railway station</span></h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Our staff will be pick –up on the platform at Delhi Railway station after drive to hotel
+                      <p style="margin-top: 0.75rem;">Our staff will be pick –up on the platform at Delhi Railway station after drive to hotel
                         /airport drop. End your memorable train trip.</p>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <!-- <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 10</span> Delhi</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
+                    <p style="margin-top: 0.75rem;">Today, you have finished your Imperial Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
                   </div>
                 </div>
               </div> -->

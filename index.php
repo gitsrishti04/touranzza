@@ -369,7 +369,8 @@
       position: relative !important;
       display: block !important;
       width: 100% !important;
-      height: 240px !important; /* Fixed height for image area */
+      height: 240px !important;
+      /* Fixed height for image area */
       overflow: hidden !important;
     }
 
@@ -388,7 +389,8 @@
     }
 
     .tour-listing__card-title {
-      min-height: 75px !important; /* Increased to fit 3-line titles if needed */
+      min-height: 75px !important;
+      /* Increased to fit 3-line titles if needed */
       margin-bottom: 5px !important;
       display: flex !important;
       align-items: flex-start !important;
@@ -403,9 +405,11 @@
     .tour-listing__card-text {
       flex-grow: 1 !important;
       margin-bottom: 15px !important;
-      display: block !important; /* Removed line-clamp to show all text */
+      display: block !important;
+      /* Removed line-clamp to show all text */
       overflow: visible !important;
-      min-height: 120px !important; /* Increased to fit the longest description while remaining uniform */
+      min-height: 120px !important;
+      /* Increased to fit the longest description while remaining uniform */
       line-height: 1.6 !important;
     }
 
@@ -536,9 +540,9 @@
       <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.webp);">
         <div class="container">
           <div class="sec-title text-center">
-            <p class="sec-title__tagline">Most Famous Tours</p>
+            <p class="sec-title__tagline">Top Picks by Our Travelers</p>
             <!-- /.sec-title__tagline -->
-            <h2 class="sec-title__title">Explore Golden Triangle Tours</h2>
+            <h2 class="sec-title__title">Explore Our Signature India Journeys</h2>
             <!-- /.sec-title__title -->
           </div>
           <!-- /.sec-title -->
@@ -603,7 +607,7 @@
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Golden Triangle Tour 3
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Imperial Golden Triangle Tour 3
                       Days</a></h3>
                   <p class="tour-listing__card-text text-small">A swift, ultra-luxury journey through Delhi, Agra, and
                     Jaipur. Experience private guided tours of the Taj Mahal and royal forts with seamless five-star
@@ -678,7 +682,7 @@
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Golden Triangle Tour 4
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Imperial Golden Triangle Tour 4
                       Days</a></h3>
                   <p class="tour-listing__card-text text-small">A signature luxury circuit featuring the Taj Mahal,
                     Jaipur’s Royal Palaces, and Delhi’s heritage. Perfect for travelers seeking a premium, fast-paced
@@ -753,7 +757,7 @@
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days">Golden Triangle Tour 5
+                  <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days">Imperial Golden Triangle Tour 5
                       Days</a></h3>
                   <p class="tour-listing__card-text text-small">Immerse yourself in regal history with an extended stay
                     in the Pink City and Agra. Enjoy private guided heritage walks and leisure time at India’s finest
@@ -828,7 +832,7 @@
                     </a>
                   </div>
                   <!-- /.tour-listing__card-camera-group -->
-                  <h3 class="tour-listing__card-title"><a href="#">Golden Triangle Tour with Mathura Vrindavan</a></h3>
+                  <h3 class="tour-listing__card-title"><a href="#">Imperial Golden Triangle Tour with Mathura Vrindavan</a></h3>
                   <p class="tour-listing__card-text text-small">Experience the divine essence of Lord Krishna’s
                     birthplace with private guided temple tours. A soulful addition to your luxury heritage circuit
                     through Delhi, Agra, and Jaipur.</p>
@@ -1261,7 +1265,7 @@
       <section class="gallery-one" style="padding: 4px 0 4px;">
         <div class="container">
           <div class="sec-title text-center wow animated fadeInUp" data-wow-delay="0.1s" style="margin-bottom: 6px;">
-            <h2 class="sec-title__title" style="margin-bottom: 0;">Memories from Our Tours</h2>
+            <h2 class="sec-title__title" style="margin-bottom: 0;">India Through Our Guests Eyes</h2>
           </div>
           <div
             class="gallery-one__carousel trevlo-owl__carousel trevlo-owl__carousel--custom-nav owl-carousel owl-theme"
@@ -1421,9 +1425,9 @@
       <div class="blog-one" style="padding-top: 30px;">
         <div class="container">
           <div class="sec-title text-center">
-            <p class="sec-title__tagline">Explore Indian Culture</p>
+            <p class="sec-title__tagline">Explore Our Complete Range of Tours</p>
             <!-- /.sec-title__tagline -->
-            <h2 class="sec-title__title">Most Popular Tours</h2>
+            <h2 class="sec-title__title">Find Your Perfect India Journey</h2>
             <!-- /.sec-title__title -->
           </div>
           <!-- /.sec-title -->
@@ -1463,7 +1467,7 @@
                     <h4 class="blog-card__date-month">Day</h4>
                   </div>
                   <!-- /.blog-card__meta -->
-                  <h3 class="blog-card__title"><a href="same-day-tours">Same Day Tours</a></h3>
+                  <h3 class="blog-card__title"><a href="same-day-tours">Private Day Experiences</a></h3>
                   <!-- /.blog-card__title -->
                   <a href="same-day-tours" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
                   </a>
@@ -1488,7 +1492,7 @@
                     <h4 class="blog-card__date-month">Tours</h4>
                   </div>
                   <!-- /.blog-card__meta -->
-                  <h3 class="blog-card__title"><a href="golden-triangle-tours">Golden Triangle Tours</a>
+                  <h3 class="blog-card__title"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a>
                   </h3>
                   <!-- /.blog-card__title -->
                   <a href="golden-triangle-tours" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
@@ -1514,7 +1518,7 @@
                     <h4 class="blog-card__date-month">Tours</h4>
                   </div>
                   <!-- /.blog-card__meta -->
-                  <h3 class="blog-card__title"><a href="rajasthan-tours">Rajasthan Tours</a></h3>
+                  <h3 class="blog-card__title"><a href="rajasthan-tours">Royal Rajasthan Retreats</a></h3>
                   <!-- /.blog-card__title -->
                   <a href="rajasthan-tours" class="blog-card__link"> Read more <i class="fas fa-arrow-right"></i>
                   </a>
@@ -1543,15 +1547,12 @@
         <div class="row">
           <div class="col-xl-5 col-lg-6">
             <div class="offer-one__content sec-title">
-              <p class="offer-one__top-title">Exclusive Seasonal Packages</p>
-              <h2 class="offer-one__heading sec-title__heading">Start your Journey with a Single Click</h2>
-              <p class="offer-one__text">Unlock curated luxury travel deals designed for the discerning explorer. From
-                private guided heritage walks to exclusive stays in India’s most iconic palace hotels, our seasonal
-                offers provide unmatched value without compromising on elegance. Secure your bespoke itinerary today and
-                experience India like never before</p>
+              <p class="offer-one__top-title">Tailor-Made Travel Experiences Across India</p>
+              <h2 class="offer-one__heading sec-title__heading">Start Planning your Trip Today</h2>
+              <p class="offer-one__text">Tell us your travel preferences and we'll craft a personalized India itinerary for you. From iconic landmarks to luxury stays, we handle everything-so you can travel stress-free.</p>
               <div class="offer-one__btn-box wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <a
-                  href="contact" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>Start
-                    Booking</span></a>
+                  href="contact" class="offer-one__btn trevlo-btn trevlo-btn--primary"><span>Get Your Custom
+                    Itinerary</span></a>
               </div>
               <!-- /.offer-one__btn-box -->
             </div>
@@ -1593,20 +1594,18 @@
         <div class="row">
           <div class="col-xl-5 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
             <div class="sec-title text-left">
-              <p class="sec-title__tagline">Are you ready to travel ?</p>
+              <p class="sec-title__tagline">Choose your trip duration</p>
               <!-- /.sec-title__tagline -->
-              <h2 class="sec-title__title">Choose Our Tour Types<br>
-                & Enjoy Now</h2>
+              <h2 class="sec-title__title">Find the perfect Itinerary<br>
+                for Your Time in India</h2>
               <!-- /.sec-title__title -->
             </div>
             <!-- /.sec-title -->
             <!-- /.sec-title -->
           </div>
           <div class="col-xl-7 col-lg-6 wow fadeInUp" data-wow-delay="200ms">
-            <p class="why-choose-one__text"> Discover a world of refined travel with our diverse portfolio of India
-              experiences. Whether you desire a Private Golden Triangle Tour, a soul-stirring Varanasi spiritual
-              journey, or a Regal Rajasthan expedition, our tour types are fully customizable. Every journey is
-              supported by 24/7 concierge service, professional English-speaking guides, and luxury private transfers.
+            <p class="why-choose-one__text"> Whether you have a day or a couple of weeks, explore itineraries designed
+              around your schedule. Choose your duration and discover the best of India-seamlessly planned for you.
             </p>
           </div>
         </div>
@@ -1828,7 +1827,8 @@
                   <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
                   <p class="testimonials-card__meta__designation">UK</p>
                 </div>
-                <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days booking with
+                <div class="testimonials-card__quote">"Our group of 6 adults just spent the most amazing 5 days booking
+                  with
                   Touranzza for our Golden Triangle trip. The team customised the tour perfectly to suit our travel
                   arrangements. They are extremely professional and handle every detail with expertise. Everything we
                   requested was delivered flawlessly."</div>
@@ -1892,7 +1892,8 @@
             <div class="item">
               <div class="testimonials-card centered-card">
                 <div class="testimonials-card__image enlarge-image"> <img
-                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp" alt="Sophia de Luca"> </div>
+                    src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp" alt="Sophia de Luca">
+                </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Sophia de Luca</h5>
                   <p class="testimonials-card__meta__designation">Italy</p>

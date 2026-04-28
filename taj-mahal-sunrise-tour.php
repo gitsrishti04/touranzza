@@ -53,11 +53,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -238,7 +238,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -246,7 +246,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Our driver will reach at your starting venue on time to receive you from the hotel and drive
+                      <p style="margin-top: 0.75rem;">Our driver will reach at your starting venue on time to receive you from the hotel and drive
                         towards Agra. Expect 3 hours ride to arrive in Agra city. Till then, take pleasure in the
                         journey and have some breaks in between the way for relaxing drinks (Tea and coffee). Meet your
                         private Guide on Arrival in the city and move towards TajMahal Sunrise . Visit TajMahal with
@@ -263,7 +263,7 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After enjoying an undefined beauty of the TajMahal, continue your trip to Agra Fort. It was
+                      <p style="margin-top: 0.75rem;">After enjoying an undefined beauty of the TajMahal, continue your trip to Agra Fort. It was
                         built by Great Mughal Emperor Akbar in the era of the 15th century. The fort is a great creation
                         of Mughal architectures and reflects the influence of wealth and power. It is constructed with
                         red sandstone and covers huge acres of land.</p>
@@ -276,7 +276,7 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After enjoying the sightseeing in and around the fort, visit a restaurant to spend some
+                      <p style="margin-top: 0.75rem;">After enjoying the sightseeing in and around the fort, visit a restaurant to spend some
                         relaxing time over the delicious Breakfast . Taste the different cuisines of this city. Must try
                         its authentic local cuisines that contain authentic flavors and aroma.</p>
                     </div>
@@ -288,7 +288,7 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>This can be an optional site to explore, if you don’t want to visit this site you can miss it.
+                      <p style="margin-top: 0.75rem;">This can be an optional site to explore, if you don’t want to visit this site you can miss it.
                         Discover the glorious charm of the surroundings of the TajMahal.</p>
                     </div>
                   </div>
@@ -299,7 +299,7 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After completing the sightseeing in the city and visiting all the major charms like - TajMahal,
+                      <p style="margin-top: 0.75rem;">After completing the sightseeing in the city and visiting all the major charms like - TajMahal,
                         Agra Fort, and Itmad-tu-dulla (Baby Taj ) , our driver will make you drive back to Delhi by your
                         rental private vehicle.</p>
                     </div>
@@ -311,7 +311,7 @@
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After coming back in the city, our driver will drop you at the Hotel or Airport to catch the
+                      <p style="margin-top: 0.75rem;">After coming back in the city, our driver will drop you at the Hotel or Airport to catch the
                         flight to your home with amazing memories of your trip. The above tour plan is just an overview
                         to let you know that your trip will go through this. If you want to include more destinations in
                         it, you can as it will add more fun and excitement in your trip.</p>
@@ -324,7 +324,7 @@
                 </div>
                 <div class="accrodion-content" style="display: none;">
                   <div class="inner">
-                    <p>Well ahead visit Itimad-Ud-Daulah which is in the main called child Taj Mahal and it is also positioned on the banks of Yamuna River. The tomb is attractively constructed and reminds the years of the Mughals to travelers. This wonderful charm is a must-visit place and keeps a special place in the heart of history lovers and leisure travelers who come to see Taj. Every traveler must see this baby Taj during their trip to the city.</p>
+                    <p style="margin-top: 0.75rem;">Well ahead visit Itimad-Ud-Daulah which is in the main called child Taj Mahal and it is also positioned on the banks of Yamuna River. The tomb is attractively constructed and reminds the years of the Mughals to travelers. This wonderful charm is a must-visit place and keeps a special place in the heart of history lovers and leisure travelers who come to see Taj. Every traveler must see this baby Taj during their trip to the city.</p>
                   </div>
                 </div>
               </div>
@@ -334,7 +334,7 @@
                 </div>
                 <div class="accrodion-content" style="display: none;">
                   <div class="inner">
-                    <p>After visiting you will be visit local street market for shopping , you can buy some souvenir for friend and family, alter drive the railway station board the train for Delhi</p>
+                    <p style="margin-top: 0.75rem;">After visiting you will be visit local street market for shopping , you can buy some souvenir for friend and family, alter drive the railway station board the train for Delhi</p>
                   </div>
                 </div>
               </div>
@@ -344,7 +344,7 @@
                 </div>
                 <div class="accrodion-content" style="display: none;">
                   <div class="inner">
-                    <p>Our staff will be pick –up on the platform at Delhi Railway station after drive to hotel /airport drop. End your memorable train trip.</p>
+                    <p style="margin-top: 0.75rem;">Our staff will be pick –up on the platform at Delhi Railway station after drive to hotel /airport drop. End your memorable train trip.</p>
                   </div>
                 </div>
               </div> -->
@@ -354,7 +354,7 @@
                 </div>
                 <div class="accrodion-content" style="display: none;">
                   <div class="inner">
-                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
+                    <p style="margin-top: 0.75rem;">Today, you have finished your Imperial Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
                   </div>
                 </div>
               </div> -->

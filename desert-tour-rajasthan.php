@@ -53,11 +53,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -212,7 +212,17 @@
                 look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
                 available, but the majority have suffered alteradution in some form by injected humour, or randomised
                 words which don't look even slightly believable. If you are going</p>
-            </div>
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just want the heritage core? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> itinerary.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to dive deeper into the desert? Explore the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Interested in spiritual hubs near the Himalayas? Try our <a href="golden-triangle-tour-with-haridwar-and-rishikesh" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Haridwar &amp; Rishikesh</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
+              </ul>
+</div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
               <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
@@ -239,7 +249,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -247,148 +257,148 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Upon your arrival at New Delhi, our tour representative will meet and greet at the airport.
+                      <p style="margin-top: 0.75rem;">Upon your arrival at New Delhi, our tour representative will meet and greet at the airport.
                         Transfer to the hotel. Rest of the day is free at leisure. Overnight stay will be in Delhi.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 2</span> Mandawa</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After morning breakfast, drive to Mandawa (200 km / 4 hrs). Explore the glorious havelis rich
+                      <p style="margin-top: 0.75rem;">After morning breakfast, drive to Mandawa (200 km / 4 hrs). Explore the glorious havelis rich
                         in preserving heritage of this colorful state. Overnight stay will be in Mandawa.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 3</span> Bikaner</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Morning breakfast at the hotel. Proceed for a 4 hours drive to Bikaner (200km). Visit Junagarh
+                      <p style="margin-top: 0.75rem;">Morning breakfast at the hotel. Proceed for a 4 hours drive to Bikaner (200km). Visit Junagarh
                         Fort, one of the glorious fort depicting royal heritage of the city. Also visit camel breeding
                         farm and famous Karni Mata temple at Deshnok. Overnight stay will be at the hotel in Bikaner.
                       </p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 4</span> Jaisalmer</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Enjoy a healthy breakfast at the hotel. Later on, drive to Jaisalmer (355km / 6-7 hrs). Visit
+                      <p style="margin-top: 0.75rem;">Enjoy a healthy breakfast at the hotel. Later on, drive to Jaisalmer (355km / 6-7 hrs). Visit
                         the only lake in the city, Gadsisar Lake. The lake is surrounded by temples and shrines. Also
                         visit the royal cenotaphs at Bada Bagh. Overnight stay will be Jaisalmer.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 5</span> Jaisalmer</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After breakfast, begin your local sightseeing with a visit to forts and the havelis of
+                      <p style="margin-top: 0.75rem;">After breakfast, begin your local sightseeing with a visit to forts and the havelis of
                         Jaisalmer. In Evening, proceed for a camel safari in the golden sand dunes of the city.
                         Overnight stay will be in Jaisalmer.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 6</span> Jodhpur</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Morning breakfast at the hotel. Next, drive to Jodhpur (305 km / 6 hrs). In afternoon, visit
+                      <p style="margin-top: 0.75rem;">Morning breakfast at the hotel. Next, drive to Jodhpur (305 km / 6 hrs). In afternoon, visit
                         Mehrangarh Fort, regarded as one of the biggest forts in Rajasthan. Later on, explore the marble
                         cenotaph at Jaswant Thada. Overnight stay will be at the hotel in Jodhpur.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 7</span> Jodhpur</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Morning breakfast at the hotel. You will proceed to airport for your onward journey.</p>
+                      <p style="margin-top: 0.75rem;">Morning breakfast at the hotel. You will proceed to airport for your onward journey.</p>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <!-- <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 8</span> Jaisalmer - Bikaner</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>After breakfast drive to Bikaner. On arrival at Bikaner check-in at hotel. Rest of the day free to explore the local area. Overnight stay at hotel.</p>
+                    <p style="margin-top: 0.75rem;">After breakfast drive to Bikaner. On arrival at Bikaner check-in at hotel. Rest of the day free to explore the local area. Overnight stay at hotel.</p>
                   </div>
                 </div>
               </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 9</span> Bikaner - Jaipur</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>After breakfast local tour of Bikaner, visit Bikaner Fort, the Lalgarh Palace and the Deshnoke Temple. Afternoon drive to Jaipur. On arrival at Jaipur check-in at hotel. Overnight stay at hotel.</p>
+                    <p style="margin-top: 0.75rem;">After breakfast local tour of Bikaner, visit Bikaner Fort, the Lalgarh Palace and the Deshnoke Temple. Afternoon drive to Jaipur. On arrival at Jaipur check-in at hotel. Overnight stay at hotel.</p>
                   </div>
                 </div>
               </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 10</span> Jaipur</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>In the morning visit the Amber Fort ascend fort in open Jeep. Amber was the ancient capital of Kachwaha dynasty for long time ago. It was moved to newly created Jaipur. Visit the Sheesh Mahal (Hall of victory) which is a hall glittering with mirrors. Afternoon visit Maharaja's City Palace, the Observatory and drive past to Hawa Mahal. Evening transfer to hotel or free for shopping in the local market. Overnight stay at hotel.</p>
+                    <p style="margin-top: 0.75rem;">In the morning visit the Amber Fort ascend fort in open Jeep. Amber was the ancient capital of Kachwaha dynasty for long time ago. It was moved to newly created Jaipur. Visit the Sheesh Mahal (Hall of victory) which is a hall glittering with mirrors. Afternoon visit Maharaja's City Palace, the Observatory and drive past to Hawa Mahal. Evening transfer to hotel or free for shopping in the local market. Overnight stay at hotel.</p>
                   </div>
                 </div>
               </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 11</span> Jaipur - Agra</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>After breakfast drive to Agra. En route stop at Fatehpur Sikri. Fatehpur Sikri was built by Akbar, the Mughal emperor between 1571 and 1585. It is one of the finest examples of Mughal architectural splendour. It was constructed mainly as a tribute to the great Sufi saint Shaikh Salim Chishti who had blessed Akbar with a son. Though the city is in ruins, it is a must visit place for those who visit Agra. On arrival at Agra our representative will assist in your check in process at the hotel. Overnight stay at hotel.</p>
+                    <p style="margin-top: 0.75rem;">After breakfast drive to Agra. En route stop at Fatehpur Sikri. Fatehpur Sikri was built by Akbar, the Mughal emperor between 1571 and 1585. It is one of the finest examples of Mughal architectural splendour. It was constructed mainly as a tribute to the great Sufi saint Shaikh Salim Chishti who had blessed Akbar with a son. Though the city is in ruins, it is a must visit place for those who visit Agra. On arrival at Agra our representative will assist in your check in process at the hotel. Overnight stay at hotel.</p>
                   </div>
                 </div>
               </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 12</span> Agra - Delhi</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>Morning visit the famous Taj Mahal in sunrise, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. This monument is made of white marble and it took 22 years to get constructed. After breakfast visit the Agra Fort which has the Pearl Mosque, Diwan-e-am (the hall of public audience) and Diwan-e-Khas (the hall of private audience). Later drive back to Delhi. On arrival at Delhi our representative will assist in your check in process at the hotel. Overnight stay at hotel.</p>
+                    <p style="margin-top: 0.75rem;">Morning visit the famous Taj Mahal in sunrise, built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal. This monument is made of white marble and it took 22 years to get constructed. After breakfast visit the Agra Fort which has the Pearl Mosque, Diwan-e-am (the hall of public audience) and Diwan-e-Khas (the hall of private audience). Later drive back to Delhi. On arrival at Delhi our representative will assist in your check in process at the hotel. Overnight stay at hotel.</p>
                   </div>
                 </div>
               </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 13</span> Delhi - Departure</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>Transfer to the airport on time to catch your flight for onward destination.</p>
+                    <p style="margin-top: 0.75rem;">Transfer to the airport on time to catch your flight for onward destination.</p>
                   </div>
                 </div>
               </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 14</span> Udaipur - Delhi (By Flight)</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>After breakfast transfer to Airport time to board flight for Delhi. On arrival transfer to International Airport for onward destination.</p>
+                    <p style="margin-top: 0.75rem;">After breakfast transfer to Airport time to board flight for Delhi. On arrival transfer to International Airport for onward destination.</p>
                   </div>
                 </div>
               </div> -->

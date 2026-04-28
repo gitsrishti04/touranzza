@@ -53,11 +53,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -158,7 +158,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour 7 Days</h1>
+                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour 7 Days</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -211,7 +211,17 @@
                 look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
                 available, but the majority have suffered alteradution in some form by injected humour, or randomised
                 words which don't look even slightly believable. If you are going</p>
-            </div>
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just want the heritage core? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> itinerary.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to dive deeper into the desert? Explore the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Interested in spiritual hubs near the Himalayas? Try our <a href="golden-triangle-tour-with-haridwar-and-rishikesh" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Haridwar &amp; Rishikesh</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
+              </ul>
+</div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
               <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
@@ -238,7 +248,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -246,18 +256,18 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Our Company Representative will pick up you from Delhi Airport and transfer to the Hotel, For
+                      <p style="margin-top: 0.75rem;">Our Company Representative will pick up you from Delhi Airport and transfer to the Hotel, For
                         your Overnight Saty in Hotel.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 2</span> Delhi</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After getting your breakfast, Start Sightseeing of Delhi. Start Sightseeing form Old Delhi with
+                      <p style="margin-top: 0.75rem;">After getting your breakfast, Start Sightseeing of Delhi. Start Sightseeing form Old Delhi with
                         some Popular places like Jama Masjid, Red Fort, Chandni Chowk. After that New Delhi Sightseeing
                         will start form India Gate, Rashtrapati Bhawan, Humayun’s Tomb and Qutub Minar. Completed your
                         sightseeing with Memorable Monuments. Finally drive to Agra and transfer to hotel, Enjoy your
@@ -265,49 +275,49 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 3</span> Delhi – Agra (210 Kms - Distance)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After getting your breakfast, Drive to Agra which is your next Destination of your Golden
+                      <p style="margin-top: 0.75rem;">After getting your breakfast, Drive to Agra which is your next Destination of your Golden
                         Triangle Tour. After Lunch Start Sightseeing Of Agra, Visit Stunning Agra Fort. Overnight Stay
                         At Agra Hotel.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 4</span> Agra</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Early Morning Have a Great Day of Your Life! because time to visit the Taj Mahal at Sunrise
+                      <p style="margin-top: 0.75rem;">Early Morning Have a Great Day of Your Life! because time to visit the Taj Mahal at Sunrise
                         Time after great time at Taj and come back to Hotel to get a Healthy Breakfast. Finally Visit
                         Mehtab Bagh And Stunning Itmad – Ud – Daulah which is also known as (Baby Taj). After Lunch
                         Visit Sikandra. Overnight Stay at Hotel in Agra.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 5</span> Agra – Fatehpur Sikri – Jaipur (250 Kms - Distance)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Getting your Breakfast, Depart from hotel to Jaipur visit fatehpur sikri which is on the
+                      <p style="margin-top: 0.75rem;">After Getting your Breakfast, Depart from hotel to Jaipur visit fatehpur sikri which is on the
                         way to Jaipur. Overnight Stay at Hotel in Jaipur.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 6</span> Jaipur</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Getting Your Breakfast, Early Morning Start Sightseeing Pink City which is Jaipur with
+                      <p style="margin-top: 0.75rem;">After Getting Your Breakfast, Early Morning Start Sightseeing Pink City which is Jaipur with
                         some Great Memories and Start Your Tour with Spectacular Amer Fort With famous Elephant Ride,
                         Hawa Mahal and also drive to Jal Mahal and its time for your Delicious Lunch at the end of the
                         Day Visit Jantar Mantar, City Palace and Explore Local Market. Overnight Stay at Hotel in
@@ -315,45 +325,45 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 7</span> Jaipur – Delhi (260 Kms - Distance)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>As per your daily routine getting your Breakfast. Now Drive to Delhi and transfer to Delhi
+                      <p style="margin-top: 0.75rem;">As per your daily routine getting your Breakfast. Now Drive to Delhi and transfer to Delhi
                         Airport. At the End of the Tour Your Will Definitely get some Great and Memorable time during
                         your sightseeing.</p>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <!-- <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 8</span> Haridwar - Delhi (200 KMS)</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>Proceed To Delhi As Per Your Flight Schedule, Transfer To Delhi Airport To Board Flight For Onward Destination With Sweet Memories Of Delhi Agra Jaipur Haridwar Rishikest Tour.</p>
+                    <p style="margin-top: 0.75rem;">Proceed To Delhi As Per Your Flight Schedule, Transfer To Delhi Airport To Board Flight For Onward Destination With Sweet Memories Of Delhi Agra Jaipur Haridwar Rishikest Tour.</p>
                   </div>
                 </div>
               </div> -->
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <!-- <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 9</span> Goa Departure</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>Transfer To Goa Airport To Board Flight For Mumbai Or Delhi With Sweet Memories Of Golden Triangle Tour With Goa.</p>
+                    <p style="margin-top: 0.75rem;">Transfer To Goa Airport To Board Flight For Mumbai Or Delhi With Sweet Memories Of Imperial Golden Triangle Tour With Goa.</p>
                   </div>
                 </div>
               </div> -->
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <!-- <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <div class="accrodion-title">
                   <h4><span>Day 10</span> Delhi</h4>
                 </div>
-                <div class="accrodion-content" style="display: none;">
+                <div class="accrodion-content">
                   <div class="inner">
-                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
+                    <p style="margin-top: 0.75rem;">Today, you have finished your Imperial Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
                   </div>
                 </div>
               </div> -->

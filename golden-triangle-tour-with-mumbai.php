@@ -4,18 +4,24 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Golden Triangle with Mumbai | 7-Day Cultural Tour</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="7-day Imperial Golden Triangle Tour with Mumbai. Private journey from Delhi, Agra and Jaipur to India's financial capital, colonial heritage and Bollywood landmarks." />
+  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-with-mumbai" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Golden Triangle with Mumbai | 7-Day Cultural Tour" />
+  <meta property="og:description" content="7-day Imperial Golden Triangle Tour with Mumbai. Private journey from Delhi, Agra and Jaipur to India's financial capital, colonial heritage and Bollywood landmarks." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-with-mumbai" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/mumbai-tours.webp" />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap"
     rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&amp;display=swap" rel="stylesheet">
@@ -50,19 +56,6 @@
     <?php include("header.php") ?>
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
-    <!-- <section class="page-header">
-    <div class="page-header__bg"></div>
-    <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
-        <div class="page-header__breadcrumb-box">
-            <ul class="trevlo-breadcrumb">
-                <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
-            </ul>
-        </div>
-    </div>
-</section> -->
-    <!-- Tour Listing Page One Start -->
     <!-- Tour Listing Details One Start -->
     <section class="tour-listing-details tour-listing-details-right">
 <div class="container">
@@ -95,8 +88,8 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                alt="Delhi monuments - Red Fort and Humayun's Tomb">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/mumbai-tours.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -106,8 +99,8 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                alt="Taj Mahal at sunrise, Agra">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/mumbai-tours.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -117,8 +110,8 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                alt="Amber Fort and Jaipur pink city">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/mumbai-tours.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -128,8 +121,8 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                alt="Hawa Mahal, Jaipur">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/mumbai-tours.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -139,8 +132,8 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mumbai-tours.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                alt="Gateway of India and Marine Drive, Mumbai">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}, {"src": "assets/images/tours/mumbai-tours.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -158,8 +151,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour With Mumbai</h1>
-                <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
+                <h1 class="tour-listing-details__dastination-title">Golden Triangle with Mumbai &mdash; 7 Days from Monuments to Metropolis</h1>
               </div>
               <!-- /.tour-listing-details__daetination-left -->
               <div class="tour-listing-details__ratings-box"><i class="fab fa-tripadvisor tripadvisor-icon"></i>
@@ -183,8 +175,8 @@
                 <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.7s"
                   data-wow-duration="1500ms"> <span class="icon-location-1"></span>
                   <div class="tour-listing-details__destination-info-title">
-                    <h4 class="tour-listing-details__destination-info-top">Location</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">Delhi - Agra - Jaipur - Mumbai</h4>
+                    <h4 class="tour-listing-details__destination-info-top">Route</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">Delhi &rsaquo; Agra &rsaquo; Jaipur &rsaquo; Mumbai</h4>
                   </div>
                 </div>
                 <!-- /.tour-listing-details__destination-info -->
@@ -201,204 +193,314 @@
       <div class="container">
         <div class="tour-listing-details__row row">
           <div class="col-xl-8">
+
+            <!-- OVERVIEW -->
             <div class="tour-listing-details__overview">
               <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h2>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">The Golden Triangle — Delhi, Agra, Jaipur — gives you Mughal and Rajput India. Mumbai, perched on the Arabian Sea 1,400 km south, gives you everything else: colonial grandeur, Art Deco seafronts, Bollywood glamour, and the relentless energy of India's financial capital.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s"
+                data-wow-duration="1500ms">This 7-day private tour brings both together. You begin with the monuments — the Taj Mahal, Agra Fort's red sandstone courts, and Jaipur's pink palaces. After four days of North India's heritage circuit, you fly south to Mumbai, where the pace and architecture shift entirely.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s"
+                data-wow-duration="1500ms">Mumbai's appeal is less about individual sights than about the atmosphere: the Gateway of India at dusk, the curve of Marine Drive lit up at night, the organised chaos of Dhobi Ghat where thousands of laundrymen work in the open air. The colonial core — Chhatrapati Shivaji Terminus, the Gothic and Art Deco buildings lining the Fort district — is a UNESCO World Heritage Site and unlike anything in North India.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.4s"
+                data-wow-duration="1500ms">Throughout, the tour is private. Your own car and driver in Delhi, Agra and Jaipur; flight to Mumbai; then a local guide and private car in Mumbai. Hotels can be upgraded to heritage properties in Jaipur and seafront hotels in Mumbai.</p>
             </div>
-            <!-- /.tour-listing-details__explore -->
+            <!-- /.tour-listing-details__overview -->
+
+            <!-- TOUR HIGHLIGHTS -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Full-day Delhi sightseeing — Jama Masjid, Red Fort, Humayun's Tomb, Qutub Minar</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Taj Mahal at sunrise and Agra Fort</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Fatehpur Sikri en route to Jaipur</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Amber Fort with elephant or jeep ride</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Jaipur's pink-walled old city — Hawa Mahal, Jantar Mantar, City Palace</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
+                </div>
+                <!-- /.col-lg-6 col-md-7 -->
+                <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+                  <ul class="tour-listing-details__included-list-one tour-highlights">
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Flight from Jaipur to Mumbai (included)</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Gateway of India and Elephanta Caves ferry</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Colonial architecture walk — Chhatrapati Shivaji Terminus, Marine Drive</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Dhobi Ghat and Prince of Wales Museum</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Private car and English-speaking guides throughout</p>
+                    </li>
+                  </ul>
                 </div>
                 <!-- /.col-lg-6 col-md-7 -->
               </div>
               <!-- /.row -->
             </div>
+
+            <!-- TOUR PLAN / ITINERARY -->
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 1</span> Arrival Delhi</h4>
+                    <h4><span>Day 1</span> Arrival in Delhi</h4>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>First Day Of Golden Triangle Tour With Mumbai. You Will Be Welcomed By Our Company
-                        Representative At Arrival On Delhi Airport And Then You Will Be Transferred To Hotel. Night Stay
-                        In Delhi Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Your driver meets you at Indira Gandhi International Airport and transfers you to your hotel. After the long flight, the day is kept light — time to settle in, rest and adjust to India time. Overnight in Delhi.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 2</span> Delhi - Agra (210 KMS)</h4>
+                    <h4><span>Day 2</span> Delhi Sightseeing &amp; Drive to Agra (210 km)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Breakfast, Start Sightseeing Tour Of Delhi. In Old Delhi, Visit Jama Masjid, Red Fort,
-                        Chandni Chowk. Enjoy Lip Smacking Lunch In Local Restaurant. Later Start Sightseeing Of New
-                        Delhi Which Includes India Gate, Rastrapati Bhawan, Humuyuns Tomb, Qutub Minar. Later Drive To
-                        Agra And Transfer To Hotel, Enjoy Mouth Watering Dinner. Overnight Stay At Agra Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Morning is given to Delhi's headline sights. Old Delhi: Jama Masjid, cycle-rickshaw through Chandni Chowk, Raj Ghat. Then imperial Delhi: Humayun's Tomb, Qutub Minar, drive past India Gate. After lunch, you drive to Agra (approx. 3.5 hours). Overnight in Agra.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 3</span> Agra - Fatehpur Sikri - Jaipur (250 KMS)</h4>
+                    <h4><span>Day 3</span> Agra, Fatehpur Sikri &amp; Drive to Jaipur (250 km)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Pick Up From Hotel At 06:30 A.M., Leave To Visit Taj Mahal At Sunrise Time Then Come Back To
-                        Hotel For Having Healthy Breakfast. Check Out From Hotel. And Visit Agra Fort. Leave To Jaipur
-                        Via Fatehpur Sikri And Post Lunch. Overnight Stay At Jaipur Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Early morning visit to the Taj Mahal at sunrise — the single most photogenic moment of the tour. After breakfast, visit Agra Fort's vast red sandstone courtyards. Leave for Jaipur with a stop at Fatehpur Sikri, the abandoned Mughal capital. Arrive Jaipur late afternoon. Overnight in Jaipur.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 4</span> Jaipur</h4>
+                    <h4><span>Day 4</span> Full-Day Jaipur</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Breakfast, Start Sightseeing Tour Of Jaipur At 08:00 A.M. With Our Tour Guide. Explore
-                        Stunning Amer Fort With Enthralling Elephant Ride, Hawa Mahal, Drive Past Jal Mahal. Enjoy Mouth
-                        Watering Lunch, Later Visit Jantar Mantar, City Palace.Enjoy Shopping In Local Market. Overnight
-                        Stay At Jaipur Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Morning: Amber Fort with elephant or jeep ride up the cobbled ramp. Afternoon: Hawa Mahal (Palace of Winds), Jantar Mantar astronomical observatory, City Palace, and Jal Mahal viewed from the lakeside. Evening free for Jaipur's bazaars — block-print textiles, blue pottery, and gem markets. Overnight in Jaipur.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 5</span> Jaipur - Mumbai (By Flight)</h4>
+                    <h4><span>Day 5</span> Jaipur to Mumbai by Flight</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Breakfast, Transfer To Jaipur Airport To Catch Flight For Mumbai, You Will Be Greet And
-                        Pick Up By Our Executive On Mumbai Airport. Upon Arrival Check Into Your Pre Booked Hotel.
-                        Overnight Stay At Mumbai Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Morning transfer to Jaipur Airport for your included domestic flight to Mumbai. Met on arrival and transferred to your hotel by a local representative. Afternoon free to rest or take an introductory walk along Marine Drive, Mumbai's famous Art Deco seafront promenade. Overnight in Mumbai.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 6</span> Mumbai</h4>
+                    <h4><span>Day 6</span> Full-Day Mumbai</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Breakfast, Get Ready For Sightseeing Tour Of Mumbai, Explore The Beauty Of Prince Of
-                        Wales Museum, Gateway Of India, Enjoy Photo Stop At Dhobi Ghat Followed By Enthralling Marine
-                        Drive And Chowpatty Beach. Overnight Stay At Mumbai Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Morning: Gateway of India — the grand colonial arch built to receive King George V — followed by a ferry to Elephanta Caves, a UNESCO-listed complex of rock-cut Hindu temples on an island in Mumbai Harbour. Afternoon: Prince of Wales Museum (Chhatrapati Shivaji Maharaj Vastu Sangrahalaya), Marine Drive, and Dhobi Ghat photo stop — the world's largest outdoor laundry. Evening free for Colaba shopping or a rooftop dinner above the city. Overnight in Mumbai.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 7</span> Mumbai</h4>
+                    <h4><span>Day 7</span> Mumbai Departure</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Breakfast, Transfer To Mumbai Airport To Catch Flight For Home.</p>
+                      <p style="margin-top: 0.75rem;">Transfer to Mumbai's Chhatrapati Shivaji Maharaj International Airport for your onward flight. If your schedule allows, a brief drive through the Fort district — Chhatrapati Shivaji Terminus, the High Court, and the Rajabai Clock Tower — makes a fitting final impression of this UNESCO World Heritage streetscape.</p>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>Day 8</span> Haridwar - Delhi (200 KMS)</h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Proceed To Delhi As Per Your Flight Schedule, Transfer To Delhi Airport To Board Flight For Onward Destination With Sweet Memories Of Delhi Agra Jaipur Haridwar Rishikest Tour.</p>
-                  </div>
-                </div>
-              </div> -->
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>Day 9</span> Goa Departure</h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Transfer To Goa Airport To Board Flight For Mumbai Or Delhi With Sweet Memories Of Golden Triangle Tour With Goa.</p>
-                  </div>
-                </div>
-              </div> -->
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>Day 10</span> Delhi</h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
-                  </div>
-                </div>
-              </div> -->
+
               </div>
             </div>
+            <!-- /.tour-listing-details__plan -->
+
+            <!-- INCLUSIONS / EXCLUSIONS -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Included / Excluded</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Accommodation in 4-star or 5-star hotels</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Daily breakfast throughout</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Private car with driver in Delhi, Agra, Jaipur and Mumbai</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>English-speaking guides in each city</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Domestic flight: Jaipur to Mumbai (economy class)</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>All monument entrance fees</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Elephanta Caves ferry ticket and entrance</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Elephant or jeep ride at Amber Fort</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>All airport transfers</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>All taxes and tolls</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
                 <!-- /.col-lg-6 col-md-7 -->
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>Additional Service</p>
+                      <p>International flights</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Insurance</p>
+                      <p>Lunches and dinners (unless specified)</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Food & Drinks</p>
+                      <p>Travel insurance</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Tickets</p>
+                      <p>Personal expenses and tips</p>
+                    </li>
+                    <li> <i class="fas fa-times"></i>
+                      <p>Optional Bollywood studio tour (available on request)</p>
+                    </li>
+                    <li> <i class="fas fa-times"></i>
+                      <p>Business class flight upgrades (available on request)</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
                 <!-- /.col-lg-6 col-md-5 -->
               </div>
               <!-- /.row -->
             </div>
-            <!-- /.tour-listing-details__similar container-fluid -->
+
+            <!-- BEST TIME -->
+            <div class="tour-listing-details__included">
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Best Time to Travel</h2>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <strong>October to March</strong> is the ideal window. December and January are the coolest months across North India — comfortable for monument-walking and long drives. Mumbai is warm year-round but most pleasant from November to February, when humidity drops and evenings by Marine Drive are genuinely enjoyable. Avoid the June–August monsoon season for North India; Mumbai receives heavy rainfall but remains operational year-round.
+              </p>
+            </div>
+
+            <!-- WHO THIS IS IDEAL FOR -->
+            <div class="tour-listing-details__included">
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Who This Tour Suits</h2>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                This itinerary works best for first-time India visitors flying out of Mumbai, business travellers adding a heritage extension before or after meetings, and couples looking for the Taj Mahal combined with big-city energy. Choose Mumbai over Goa if you prefer urban exploration, colonial architecture, and high-energy city life to beach relaxation. Mumbai is not a detour — it is a destination in its own right.
+              </p>
+            </div>
+
+            <!-- FAQ -->
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-mumbai-faq">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>Q</span> Is this tour entirely private?</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, entirely. You will have your own private car, driver and English-speaking guides throughout — in Delhi, Agra, Jaipur and Mumbai. You never travel in a shared coach or group.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>Q</span> Why Mumbai instead of Goa?</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Different appeal entirely. Mumbai is urban, colonial, Bollywood, and high-energy — India's financial capital with a UNESCO-listed Victorian Gothic and Art Deco precinct. Goa is beaches, Portuguese heritage, and a laid-back pace. If you want India's metropolis energy, Gateway of India, and colonial architecture rather than beach relaxation, Mumbai is the right choice.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>Q</span> Can I extend my time in Mumbai?</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes. Add one or two extra nights to include a day trip to the Ajanta and Ellora Caves (a UNESCO site), a Bollywood studio tour, the Dharavi community tour, or simply more time for shopping in Colaba and Crawford Market. We can customise the itinerary around your schedule.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>Q</span> Is the Jaipur–Mumbai flight included?</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, the economy class domestic flight from Jaipur to Mumbai is included in the tour price. Business class upgrades are available on request at an additional cost.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>Q</span> Can we visit a Bollywood studio?</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes. A half-day Bollywood studio tour visiting working film sets is a popular add-on for Mumbai. This must be arranged in advance as set access depends on shooting schedules. Contact us when booking to check availability.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>Q</span> How much time is spent in Mumbai?</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">The standard itinerary gives you approximately 1.5 days in Mumbai: the afternoon of Day 5, a full Day 6, and the morning of Day 7 before departure. We recommend adding at least one extra night if you want to see more of the city at a relaxed pace.</p>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <!-- /.tour-listing-details__plan (FAQ) -->
+
           </div>
           <div class="col-xl-4">
             <aside class="tour-listing-details__sidebar">
@@ -406,7 +508,7 @@
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="#" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -510,12 +612,12 @@
     <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
           class="fa fa-times"></i></span>
       <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp"
-            width="155" alt="" /></a> </div>
+            width="155" alt="Touranzza Logo" /></a> </div>
       <!-- /.logo-box -->
       <div class="mobile-nav__container"></div>
       <!-- /.mobile-nav__container -->
       <ul class="mobile-nav__contact list-unstyled">
-        <li> <i class="fa fa-envelope"></i> <a href="mailto:needhelp@trevlo.com">needhelp@trevlo.com</a> </li>
+        <li> <i class="fa fa-envelope"></i> <a href="mailto:info@touranzza.com">info@touranzza.com</a> </li>
         <li> <i class="fa fa-phone-alt"></i> <a href="tel:+919355995594">+91-9355995594</a> </li>
       </ul>
       <!-- /.mobile-nav__contact -->
@@ -534,7 +636,7 @@
     <div class="search-popup__overlay search-toggler"></div>
     <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
         <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
             class="icon-search"></span> </button>

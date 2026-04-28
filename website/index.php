@@ -496,7 +496,7 @@
       <div class="sec-title text-center">
         <p class="sec-title__tagline">Most Favorite Places</p>
         <!-- /.sec-title__tagline -->
-        <h2 class="sec-title__title">Explore Golden Triangle Tours</h2>
+        <h2 class="sec-title__title">Explore Imperial Golden Triangle Tours</h2>
         <!-- /.sec-title__title -->
       </div>
       <!-- /.sec-title -->
@@ -560,7 +560,7 @@
                   class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
               </div>
               <!-- /.tour-listing__card-camera-group -->
-              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Golden Triangle Tour 3
+              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Imperial Golden Triangle Tour 3
                   Days</a></h3>
               <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
                 agtilable.</p>
@@ -633,7 +633,7 @@
                   class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
               </div>
               <!-- /.tour-listing__card-camera-group -->
-              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Golden Triangle Tour 4
+              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Imperial Golden Triangle Tour 4
                   Days</a></h3>
               <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
                 agtilable.</p>
@@ -706,7 +706,7 @@
                   class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
               </div>
               <!-- /.tour-listing__card-camera-group -->
-              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days">Golden Triangle Tour 5
+              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-5-days">Imperial Golden Triangle Tour 5
                   Days</a></h3>
               <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
                 agtilable.</p>
@@ -779,7 +779,7 @@
                   class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
               </div>
               <!-- /.tour-listing__card-camera-group -->
-              <h3 class="tour-listing__card-title"><a href="#">Golden Triangle Tour with Mathura Vrindavan</a></h3>
+              <h3 class="tour-listing__card-title"><a href="#">Imperial Golden Triangle Tour with Mathura Vrindavan</a></h3>
               <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
                 agtilable.</p>
               <div class="tour-listing__card-inner-content">
@@ -851,7 +851,7 @@
                   class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
               </div>
               <!-- /.tour-listing__card-camera-group -->
-              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-varanasi">Golden Triangle Tour
+              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-varanasi">Imperial Golden Triangle Tour
                   with Varanasi</a></h3>
               <p class="tour-listing__card-text text-small">There are many variations of passages of Lorem Ipsum
                 agtilable.</p>
@@ -1146,7 +1146,7 @@
                   class="tour-listing__card-camera-btn video-popup"> <span class="icon-video-camera-1-1"></span> </a>
               </div>
               <!-- /.tour-listing__card-camera-group -->
-              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-amritsar">Golden Triangle Tour
+              <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-amritsar">Imperial Golden Triangle Tour
                   with Amritsar</a></h3>
               <p class="tour-listing__card-text text-small">Explore the spiritual side of India with a visit to the majestic Golden Temple in Amritsar.</p>
               <div class="tour-listing__card-inner-content">
@@ -1640,7 +1640,7 @@
                 <h4 class="blog-card__date-month">Days</h4>
               </div>
               <!-- /.blog-card__meta -->
-              <h3 class="blog-card__title"><a href="golden-triangle-tour-4-days"">Golden Triangle Tour 4 Days</a>
+              <h3 class="blog-card__title"><a href="golden-triangle-tour-4-days"">Imperial Golden Triangle Tour 4 Days</a>
               </h3>
               <!-- /.blog-card__title -->
               <a href="golden-triangle-tour-4-days"" class="blog-card__link"> Read more <i

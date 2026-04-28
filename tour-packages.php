@@ -138,7 +138,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tours" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-1.webp" alt="Golden Triangle Tours" class="tour-listing__card-image">
+                                <img src="assets/images/tours/agrai-tour-1.webp" alt="Imperial Golden Triangle Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
                                 </div>
@@ -151,7 +151,7 @@
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                 </div>
-                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tours">Golden Triangle Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a></h3>
                                 <p class="tour-listing__card-text text-small">A perfect introduction to India's rich heritage across three iconic cities.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
@@ -184,7 +184,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="rajasthan-tours" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="Rajasthan Tours" class="tour-listing__card-image">
+                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="Royal Rajasthan Retreats" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">Rajasthan</div>
                                 </div>
@@ -197,7 +197,7 @@
                                         <span class="icon-photo-camera-1"></span>
                                     </a>
                                 </div>
-                                <h3 class="tour-listing__card-title"><a href="rajasthan-tours">Rajasthan Tours</a></h3>
+                                <h3 class="tour-listing__card-title"><a href="rajasthan-tours">Royal Rajasthan Retreats</a></h3>
                                 <p class="tour-listing__card-text text-small">Experience the royal heritage, majestic forts, and desert life of Rajasthan.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">

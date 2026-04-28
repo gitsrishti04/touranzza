@@ -50,11 +50,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -153,7 +153,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour With Udaipur</h1>
+                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour With Udaipur</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -241,7 +241,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>First Day Of Golden Triangle Tour With Udaipur. You Will Be Welcomed By Our Executive At
+                      <p>First Day Of Imperial Golden Triangle Tour With Udaipur. You Will Be Welcomed By Our Executive At
                         Arrival On Delhi Airport And Then You Will Be Transferred To Hotel. Night Stay In Delhi Hotel.
                       </p>
                     </div>

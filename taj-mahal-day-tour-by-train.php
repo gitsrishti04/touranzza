@@ -4,78 +4,54 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Imperial Golden Triangle Tour with Rajasthan | 9-Day Private India Heritage Journey</title>
+  <title>Taj Mahal Day Tour by Train from Delhi | Gatimaan Express Experience</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Explore Delhi, Agra, Jaipur, Udaipur, Jaisalmer and Rajasthan's royal heart on a private 9-day Imperial Golden Triangle Tour with Rajasthan, forts, palaces and desert heritage." />
-  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-with-rajasthan" />
+  <meta name="description" content="Experience the Taj Mahal day tour from Delhi by Gatimaan Express train. Skip long drives, enjoy guided sightseeing, Agra Fort visit & 5-star lunch. Book now." />
+  <link rel="canonical" href="https://touranzza.com/taj-mahal-day-tour-by-train" />
   <!-- Open Graph -->
-  <meta property="og:title" content="Imperial Golden Triangle Tour with Rajasthan | 9-Day Private India Heritage Journey" />
-  <meta property="og:description" content="Explore Delhi, Agra, Jaipur, Udaipur, Jaisalmer and Rajasthan's royal heart on a private 9-day Imperial Golden Triangle Tour with Rajasthan, forts, palaces and desert heritage." />
+  <meta property="og:title" content="Taj Mahal Day Tour by Train from Delhi | Gatimaan Express Experience" />
+  <meta property="og:description" content="Experience the Taj Mahal day tour from Delhi by Gatimaan Express train. Skip long drives, enjoy guided sightseeing, Agra Fort visit & 5-star lunch. Book now." />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-with-rajasthan" />
-  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agratour2.webp" />
+  <meta property="og:url" content="https://touranzza.com/taj-mahal-day-tour-by-train" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-4.webp" />
   <!-- Schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "TouristTrip",
-    "name": "Imperial Golden Triangle Tour with Rajasthan",
-    "description": "Private 9-day journey linking Delhi, Agra, and Jaipur with Rajasthan's lakes, deserts, and fortress cities including Udaipur and Jaisalmer.",
+    "name": "Taj Mahal Day Tour by Gatimaan Express",
+    "description": "Same day Taj Mahal tour from Delhi by train including Agra Fort and guided sightseeing.",
+    "touristType": "International Travelers",
     "provider": {
       "@type": "TravelAgency",
       "name": "Touranzza"
     },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "url": "https://touranzza.com/taj-mahal-day-tour-by-train"
+    },
     "itinerary": {
       "@type": "ItemList",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Arrival in Delhi"},
-        {"@type": "ListItem", "position": 2, "name": "Delhi Exploration"},
-        {"@type": "ListItem", "position": 3, "name": "Delhi to Agra"},
-        {"@type": "ListItem", "position": 4, "name": "Agra to Jaipur via Fatehpur Sikri"},
-        {"@type": "ListItem", "position": 5, "name": "Jaipur + Ajmer + Pushkar"},
-        {"@type": "ListItem", "position": 6, "name": "Pushkar / Jaipur to Udaipur"},
-        {"@type": "ListItem", "position": 7, "name": "Udaipur to Jodhpur or Jaisalmer Route"},
-        {"@type": "ListItem", "position": 8, "name": "Jaisalmer Desert & Fort Experience"},
-        {"@type": "ListItem", "position": 9, "name": "Bikaner / Mandawa / Delhi Departure"}
+        {"@type": "ListItem", "position": 1, "name": "Pick-up & Transfer to Railway Station"},
+        {"@type": "ListItem", "position": 2, "name": "Gatimaan Express to Agra"},
+        {"@type": "ListItem", "position": 3, "name": "Arrival in Agra & Meet Your Guide"},
+        {"@type": "ListItem", "position": 4, "name": "Explore the Taj Mahal"},
+        {"@type": "ListItem", "position": 5, "name": "Lunch at a Luxury Hotel"},
+        {"@type": "ListItem", "position": 6, "name": "Visit Agra Fort"},
+        {"@type": "ListItem", "position": 7, "name": "Optional Visit to Baby Taj"},
+        {"@type": "ListItem", "position": 8, "name": "Transfer to Railway Station"},
+        {"@type": "ListItem", "position": 9, "name": "Gatimaan Express to Delhi"},
+        {"@type": "ListItem", "position": 10, "name": "Arrival in Delhi & Drop-off"}
       ]
     }
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Is this better than a standard Imperial Golden Triangle Tour?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes—this itinerary combines India's classic first-time route with Rajasthan's deeper heritage, lakes, and desert experiences."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is Jaisalmer too far for first-time travelers?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Not if paced correctly. It adds India's desert architecture and Thar experience, making the route far more diverse."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Who is this ideal for?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "First-time India visitors, couples, luxury travelers, photographers, and culture-led explorers."
-        }
-      }
-    ]
   }
   </script>
   <!-- fonts -->
@@ -134,38 +110,38 @@
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp" alt="Pushkar Lake Rajasthan">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-4.webp" alt="Taj Mahal day tour from Delhi">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp" alt="Lake Pichola Udaipur sunset">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.webp" alt="Agra Fort Mughal architecture India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp" alt="Taj Mahal on Golden Triangle Royal Rajasthan Retreats">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-2.webp" alt="Gatimaan Express train India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp" alt="Amber Fort Jaipur Rajasthan">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp" alt="Taj Mahal tour package">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp" alt="Jaisalmer Fort golden sandstone">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-1.webp" alt="same day Taj Mahal tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
         </div>
@@ -176,7 +152,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour with Rajasthan &mdash; 9 Days Through India&rsquo;s Icons, Royal Cities &amp; Desert Landscapes</h1>
+                <h1 class="tour-listing-details__dastination-title">Taj Mahal Day Tour by Gatimaan Express Train</h1>
               </div>
               <div class="tour-listing-details__ratings-box"><i class="fab fa-tripadvisor tripadvisor-icon"></i>
                 <div class="trevlo-ratings"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
@@ -188,13 +164,13 @@
                 <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="icon-clock-1"></span>
                   <div class="tour-listing-details__destination-info-title">
                     <h4 class="tour-listing-details__destination-info-top">Duration</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">9 Days / 8 Nights</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">1 Day Trip</h4>
                   </div>
                 </div>
                 <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms"> <span class="icon-location-1"></span>
                   <div class="tour-listing-details__destination-info-title">
-                    <h4 class="tour-listing-details__destination-info-top">Route</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">Delhi &rsaquo; Agra &rsaquo; Jaipur &rsaquo; Udaipur &rsaquo; Jaisalmer Route</h4>
+                    <h4 class="tour-listing-details__destination-info-top">Location</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">Delhi - Agra - Delhi</h4>
                   </div>
                 </div>
               </div>
@@ -210,61 +186,18 @@
               <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h2 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h2>
               </div>
-              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">For travelers who want more than India's classic Golden Triangle, this extended journey opens the country wider—linking Delhi, Agra, and Jaipur with Rajasthan's lakes, deserts, sacred towns, and fortress cities. Over nine thoughtfully paced days, this private Imperial Golden Triangle Tour with Rajasthan combines India's essential first-time landmarks with the deeper romance of Rajputana.</p>
-              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">Stand before the Taj Mahal, trace Mughal and imperial legacies through Delhi, and explore Jaipur's pink-hued palaces before Rajasthan unfolds further—through Pushkar's sacred lakeside rituals, Udaipur's shimmering palace reflections, Jaisalmer's golden sandstone citadel, and the desert-edge heritage of Bikaner and Mandawa.</p>
-              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">This itinerary is designed for international travelers who want India in full dimension: monumental, spiritual, regal, and atmospheric. With private transport, curated stays, expert local guides, and seamless transitions, it transforms a standard heritage circuit into a broader story—one that moves from marble mausoleums to desert forts without sacrificing comfort or depth.</p>
-              
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">If you&rsquo;re looking to experience one of the top tourist attractions in India without compromising on comfort, this <strong>Taj Mahal day tour from Delhi</strong> by high-speed train offers a refined and time-efficient journey. Traveling aboard the Gatimaan Express&mdash;the fastest train in India&mdash;you avoid long road hours and instead enjoy a smooth ride through North India&rsquo;s changing landscapes.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">This <strong>Taj Mahal tour package</strong> is thoughtfully designed for international travelers who want a seamless experience. From assisted transfers in Delhi to guided sightseeing in Agra, every detail is handled with precision. Accompanied by an expert, you&rsquo;ll explore some of the most iconic tourist places in India, including the breathtaking Taj Mahal and the historic Agra Fort.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">Perfect for those searching for a <strong>same day Taj Mahal tour</strong> or an <strong>Agra tour from Delhi</strong>, this experience blends cultural discovery, efficiency, and a touch of luxury&mdash;making it one of the most convenient India tour experiences for first-time visitors.</p>
+
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Compare Your Options</h3>
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">More Ways to Explore</h3>
               </div>
               <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
-                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just looking for the classic 5-day route? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> package.</li>
-                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want tigers instead of desert? See the <a href="golden-triangle-tour-with-ranthambore" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Ranthambore</a>.</li>
-                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Focus exclusively on Rajasthan's premium cities: Explore the <a href="royal-rajasthan-tour" style="color: inherit; text-decoration: underline; font-weight: 600;">Royal Rajasthan Tour</a>.</li>
-                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? The <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a> is perfect for quick visits.</li>
-                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to build a fully bespoke route? <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact us directly</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to extend your journey? Explore the famous <a href="golden-triangle-tour-india" style="color: inherit; text-decoration: underline; font-weight: 600;">Imperial Golden Triangle Tour India</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Need help planning? Read our guide on the <a href="#" style="color: inherit; text-decoration: underline; font-weight: 600;">best time to visit Taj Mahal</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to see more options? View all our <a href="agra-tours" style="color: inherit; text-decoration: underline; font-weight: 600;">Agra tour packages</a>.</li>
               </ul>
-            </div>
-
-            <div class="tour-listing-details__included">
-              <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
-              <div class="row">
-                <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <ul class="tour-listing-details__included-list-one tour-highlights">
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Private chauffeur-driven journey from Delhi through Rajasthan</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Taj Mahal &amp; Agra Fort</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Fatehpur Sikri</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Amber Fort Jaipur</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Pushkar Lake &amp; Brahma Temple</p>
-                    </li>
-                  </ul>
-                </div>
-                <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
-                  <ul class="tour-listing-details__included-list-one tour-highlights">
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Lake Pichola boat ride</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Jaisalmer Fort &amp; Thar Desert sunset</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Heritage towns of Bikaner &amp; Mandawa</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Palace, desert, lake &amp; spiritual diversity in one route</p>
-                    </li>
-                  </ul>
-                </div>
-              </div>
             </div>
 
             <!-- ITINERARY -->
@@ -274,113 +207,110 @@
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 1</span> Arrival in Delhi</h4>
+                    <h3><span>07:00 AM</span> Pick-up &amp; Transfer to Railway Station</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Welcome to India! A designated Touranzza representative will privately transfer you from Delhi International Airport to your handpicked hotel. Spend the afternoon shaking off jet lag—perhaps relaxing in the hotel lounge or walking to nearby landmarks like Connaught Place.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Delhi</p>
+                      <p style="margin-top: 0.75rem;">Begin your Delhi to Taj Mahal day trip with a comfortable pick-up from your hotel or airport. You&rsquo;ll be transferred to Hazrat Nizamuddin Railway Station with full assistance for boarding.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 2</span> Delhi Exploration</h4>
+                    <h3><span>08:10 AM</span> Gatimaan Express to Agra</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After breakfast, begin your guided exploration. Start in the medieval maze of Old Delhi visiting Jama Masjid and diving deep into the kinetic lanes of Chandni Chowk on a cycle rickshaw, passing the Red Fort.</p>
-                      <p style="margin-top: 0.75rem;">In the afternoon, contrast this with the imperial grandeur of New Delhi. See India Gate, the stately Rashtrapati Bhavan, and the soaring 12th-century Qutub Minar. Top off the evening with the profound beauty of Humayun's Tomb.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Delhi</p>
+                      <p style="margin-top: 0.75rem;">Board India&rsquo;s fastest train and enjoy a relaxed journey. Breakfast is served onboard as you travel towards one of the most famous tourist destinations in India.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 3</span> Delhi to Agra</h4>
+                    <h3><span>09:50 AM</span> Arrival in Agra &amp; Meet Your Guide</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Following a smooth drive down the Yamuna Expressway, arrive in Agra and check into your hotel. Post-lunch, embark on a sunset or late-afternoon visit to the legendary Taj Mahal—India's ultimate monument to love, constructed in flawless white marble.</p>
-                      <p style="margin-top: 0.75rem;">Afterwards, explore the regal courtyards and palaces of the Agra Fort, the red sandstone citadel that served as the heart of the Mughal Empire.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Agra</p>
+                      <p style="margin-top: 0.75rem;">On arrival, your private guide welcomes you and introduces you to Agra&mdash;one of the most visited cities in India tourism.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 4</span> Agra to Jaipur via Fatehpur Sikri</h4>
+                    <h3><span>10:00 AM</span> Explore the Taj Mahal</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">You may opt for a magical sunrise revisit to the Taj Mahal. Then, depart for Jaipur. En route, explore Fatehpur Sikri, an impeccably preserved architectural masterpiece and extinct Mughal capital.</p>
-                      <p style="margin-top: 0.75rem;">Upon arriving in the Pink City of Jaipur, you'll feel the energetic pulse of Rajasthan. The evening is at leisure to walk local bazaars like Johari Bazaar.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Jaipur</p>
+                      <p style="margin-top: 0.75rem;">Visit the world-famous Taj Mahal, one of the top tourist places in India. Learn about its history, architecture, and timeless story while enjoying ample time for photos and exploration.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 5</span> Jaipur + Ajmer + Pushkar</h4>
+                    <h3><span>01:00 PM</span> Lunch at a Luxury Hotel</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Start your morning climbing the rugged, amber-hued steps of the Amber Fort. On your return, photograph the floating Jal Mahal. After exploring the grand courtyards of the City Palace, we drive out to the sacred, laid-back town of Pushkar, pausing at Ajmer Sharif along the way.</p>
-                      <p style="margin-top: 0.75rem;">In Pushkar, watch the sun set over the holy lake and visit the extremely rare Brahma Temple, securing a fascinating glimpse into rural and spiritual Rajasthan.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Pushkar</p>
+                      <p style="margin-top: 0.75rem;">Enjoy a curated buffet at a premium hotel&mdash;an ideal pause during your Agra tour from Delhi.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 6</span> Pushkar / Jaipur to Udaipur</h4>
+                    <h3><span>02:00 PM</span> Visit Agra Fort</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Travel southward into the Aravalli Hills to reach "Rajasthan's most romantic city"—Udaipur. With its sparkling lakes, green hills, and shimmering marble palaces, this city offers a stunning visual shift from the rest of the Golden Triangle.</p>
-                      <p style="margin-top: 0.75rem;">Enjoy an evening boat ride on Lake Pichola, taking in the iconic Jag Mandir and the glowing facade of the City Palace as dusk falls.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Udaipur</p>
+                      <p style="margin-top: 0.75rem;">Explore Agra Fort, a UNESCO-listed site and one of the most important tourist attractions in India, known for its royal architecture and Mughal history.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 7</span> Udaipur to Jodhpur / Jaisalmer Route</h4>
+                    <h3><span>03:00 PM</span> Optional Visit to Baby Taj</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After finishing up key sights in Udaipur (like Saheliyon Ki Bari), begin the long scenic drive northwest toward the edge of the Thar desert. As the topography shifts from green lakes to arid scrub and dunes, arrive in Jaisalmer (or Jodhpur, depending on custom routing) late in the evening and relax before the desert immersion tomorrow.</p>
+                      <p style="margin-top: 0.75rem;">If time allows, visit Itmad-ud-Daulah, often called the Baby Taj&mdash;one of the hidden gems among Agra tourist attractions.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 8</span> Jaisalmer Desert &amp; Fort Experience</h4>
+                    <h3><span>05:30 PM</span> Transfer to Railway Station</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">It's time to explore Rajasthan's Golden Citadel. Spend the morning inside Jaisalmer Fort—one of the world's few living forts—alongside intricate merchants' mansions like Patwon Ki Haveli and the quiet Gadisar Lake.</p>
-                      <p style="margin-top: 0.75rem;">In the late afternoon, venture into the Sam Sand Dunes of the Thar Desert for a sunset camel safari. Enjoy a magical desert cultural evening under the stars before returning to your hotel or luxury camp.</p>
-                      <p style="margin-top: 0.75rem;"><strong><strong>Overnight:</strong></strong> Jaisalmer</p>
+                      <p style="margin-top: 0.75rem;">Return to Agra Railway Station for your journey back.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 9</span> Bikaner / Mandawa / Delhi Departure</h4>
+                    <h3><span>05:50 PM</span> Gatimaan Express to Delhi</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">On your final day, trace your way back toward Delhi, routing through the historic caravan cities of Bikaner and Mandawa, renowned for their vividly painted Havelis.</p>
-                      <p style="margin-top: 0.75rem;">Conclude your grand 9-day journey as you arrive in Delhi, where our chauffeur will drop you at the airport for your onward flight or onward accommodation.</p>
+                      <p style="margin-top: 0.75rem;">Relax onboard with light refreshments as your same day Agra tour comes to a close.</p>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>07:30 PM</span> Arrival in Delhi &amp; Drop-off</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Arrive in Delhi and get dropped off at your preferred location, completing your Taj Mahal day trip from Delhi.</p>
                     </div>
                   </div>
                 </div>
@@ -388,118 +318,74 @@
               </div>
             </div>
 
-            <!-- INCLUSIONS / EXCLUSIONS -->
+            <!-- INCLUSIONS -->
             <div class="tour-listing-details__included">
-              <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Included</h2>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Included in Your Taj Mahal Tour</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>8 nights accommodation in curated heritage hotels/resorts</p>
+                      <p>Round-trip Gatimaan Express train tickets (air-conditioned with meals)</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Daily breakfast at all hotels</p>
+                      <p>Hotel/airport pick-up and drop-off in Delhi</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Private air-conditioned vehicle during the tour</p>
+                      <p>Private air-conditioned car for Agra sightseeing</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Dedicated professional English-speaking chauffeur</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Local guides in all major cities</p>
+                      <p>Professional multilingual tour guide</p>
                     </li>
                   </ul>
                 </div>
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Monument assistance &amp; queue mediation</p>
+                      <p>Buffet lunch at a 5-star hotel</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Desert sunset experience in Jaisalmer</p>
+                      <p>All transfers, parking, and taxes</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pichola Lake boat ride assistance</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>Airport arrival and departure transfers</p>
-                    </li>
-                    <li> <i class="fas fa-check-circle"></i>
-                      <p>All parking, toll taxes, and driver allowances</p>
+                      <p>Station assistance</p>
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
 
+            <!-- EXCLUSIONS -->
             <div class="tour-listing-details__included" style="margin-top:-30px;">
               <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Not Included</h2>
               <div class="row">
                 <div class="col-lg-12 col-md-12 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>International and domestic flights</p>
+                      <p>Tips and gratuities</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Visa fees</p>
+                      <p>Personal expenses</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Lunches &amp; dinners (unless specifically mentioned)</p>
+                      <p>Camera/video fees at monuments</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Monument entrance fees and camera tickets</p>
+                      <p>Optional activities not mentioned</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Camel safari overnight luxury upgrades</p>
-                    </li>
-                    <li> <i class="fas fa-times"></i>
-                      <p>Personal expenses and travel insurance</p>
+                      <p>Any additional services beyond inclusions</p>
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
 
-            <!-- FAQ SECTION -->
-            <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
-              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq-2">
-
-                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h3>Is this better than a standard Imperial Golden Triangle Tour?</h3>
-                  </div>
-                  <div class="accrodion-content">
-                    <div class="inner">
-                      <p style="margin-top: 0.75rem;">Yes—this itinerary combines India's classic first-time route with Rajasthan's deeper heritage, lakes, and desert experiences.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h3>Is Jaisalmer too far for first-time travelers?</h3>
-                  </div>
-                  <div class="accrodion-content">
-                    <div class="inner">
-                      <p style="margin-top: 0.75rem;">Not if paced correctly. It adds India's stunning desert architecture and Thar experience, making the route far more diverse and photographically engaging.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h3>Who is this ideal for?</h3>
-                  </div>
-                  <div class="accrodion-content">
-                    <div class="inner">
-                      <p style="margin-top: 0.75rem;">First-time India visitors, couples, luxury travelers, photographers, and culture-led explorers looking for a comprehensive immersion in 9 days.</p>
-                    </div>
-                  </div>
-                </div>
-
+            <!-- WHY CHOOSE THIS TOUR -->
+            <div class="tour-listing-details__overview" style="margin-top: 30px;">
+              <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Why Choose This Taj Mahal Tour from Delhi</h2>
               </div>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">This experience is ideal for travelers searching for best India tours that combine speed, comfort, and cultural depth. Unlike road journeys, this <strong>Taj Mahal tour from Delhi</strong> by train allows you to maximize your time exploring rather than traveling. It&rsquo;s a perfect choice for those planning short stays, India trip packages, or adding a quick cultural highlight to their itinerary.</p>
             </div>
 
           </div>
@@ -508,7 +394,7 @@
           <div class="col-xl-4">
             <aside class="tour-listing-details__sidebar">
               <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__sidebar-title">Plan Your Golden Triangle &amp; Rajasthan Journey</h3>
+                <h3 class="tour-listing-details__sidebar-title">Book Your Gatimaan Tour</h3>
                 <form action="#" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
@@ -555,11 +441,6 @@
                       <option value="8">8</option>
                       <option value="9">9</option>
                       <option value="10">10</option>
-                      <option value="11">11</option>
-                      <option value="12">12</option>
-                      <option value="13">13</option>
-                      <option value="14">14</option>
-                      <option value="15+">15+</option>
                     </select>
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
@@ -576,19 +457,14 @@
                       <option value="8">8</option>
                       <option value="9">9</option>
                       <option value="10">10</option>
-                      <option value="11">11</option>
-                      <option value="12">12</option>
-                      <option value="13">13</option>
-                      <option value="14">14</option>
-                      <option value="15+">15+</option>
                     </select>
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Your Message</label>
-                    <textarea name="des" id="des" cols="30" rows="10" placeholder="Tell us your preferred travel style, dates, and hotel category—our India specialists will create your private custom itinerary within 24 hours."
+                    <textarea name="des" id="des" cols="30" rows="10" placeholder="Let us know your preferred pickup location and any special requests."
                       class="form-one__message form-one__input"></textarea>
                   </div>
-                  <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Plan Your Journey</span></button>
+                  <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Book Now</span></button>
                 </form>
               </div>
               <?php include("sidebar.php") ?>

@@ -19,9 +19,9 @@
           <h2 class="footer-widget__title">Tour Packages</h2>
           <!-- /.footer-widget__title -->
           <ul class="footer-widget__links">
-            <li><a href="golden-triangle-tours"">Golden Triangle Tours</a></li>
-            <li><a href="same-day-tours"">Same Day Tours </a></li>
-            <li><a href="rajasthan-tours"">Rajasthan Tours </a></li>
+            <li><a href="golden-triangle-tours"">Imperial Golden Triangle Tours</a></li>
+            <li><a href="same-day-tours"">Private Day Experiences </a></li>
+            <li><a href="rajasthan-tours"">Royal Rajasthan Retreats </a></li>
           </ul>
           <!-- /.footer-widget__links -->
         </div>

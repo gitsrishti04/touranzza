@@ -279,7 +279,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-ranthambore">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-ranthambore">Imperial Golden Triangle Tour With
                                         Ranthambore</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>

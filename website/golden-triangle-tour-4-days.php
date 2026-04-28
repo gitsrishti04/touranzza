@@ -50,11 +50,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -153,7 +153,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour 4 Days</h1>
+                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour 4 Days</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -241,7 +241,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>This 4 Days Golden Triangle Tour Starts From The Capital City Of Delhi. You, Will, Be Greeted
+                      <p>This 4 Days Imperial Golden Triangle Tour Starts From The Capital City Of Delhi. You, Will, Be Greeted
                         By Our Representative At The Airport On Arrival. From Here, You Will Be Transferred To The
                         Pre-Decided Hotel Overnight Stay In Hotel. If Time Permits You Can Go Shopping In The Nearby
                         Mall.</p>

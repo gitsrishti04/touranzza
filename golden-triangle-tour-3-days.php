@@ -53,11 +53,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -158,7 +158,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour 3 Days</h1>
+                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour 3 Days</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -211,6 +211,17 @@
                 look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
                 available, but the majority have suffered alteradution in some form by injected humour, or randomised
                 words which don't look even slightly believable. If you are going</p>
+              
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just want the heritage core? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> itinerary.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to dive deeper into the desert? Explore the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Interested in spiritual hubs near the Himalayas? Try our <a href="golden-triangle-tour-with-haridwar-and-rishikesh" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Haridwar &amp; Rishikesh</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
+              </ul>
             </div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
@@ -238,7 +249,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -246,7 +257,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>The 3 Days Golden Triangle Tour Begins From Delhi, Where You Will Be Greeted By Our
+                      <p style="margin-top: 0.75rem;">The 3 Days Imperial Golden Triangle Tour Begins From Delhi, Where You Will Be Greeted By Our
                         Representative At The Delhi Airport. You Will Be Taken For Sightseeing All Over The Busting
                         Capital Of India. Delhi Is A Perfect Fusion Of Old And Contemporary With Famous Monuments And
                         Malls Scattered All Over The City. You Can Travel Around The Old City Of Delhi And Visit Jama
@@ -262,13 +273,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 2</span> Agra - Fatehpur Sikri - Jaipur (250 Kms)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Our Tour Guide Will Pick You From Your Hotel Around 6:00 A.M. For A Sunrise Tour Of the Taj
+                      <p style="margin-top: 0.75rem;">Our Tour Guide Will Pick You From Your Hotel Around 6:00 A.M. For A Sunrise Tour Of the Taj
                         Mahal. The Taj Mahal Is Famous For Exhibiting Diverse Hues During Different Parts Of The Day.
                         During Sunrise It Adorns A Pink Shade. The Superb Craftsmanship And Fascinating Structural
                         Design Enchants All The Tourists Coming Here. This Majestic Taj Mahal Sprawling On The Bank Of
@@ -284,13 +295,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 3</span> Jaipur - Delhi (260 Kms)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After An Early Breakfast In The Hotel In Jaipur, Leave For The Sightseeing. Begin From The Amer
+                      <p style="margin-top: 0.75rem;">After An Early Breakfast In The Hotel In Jaipur, Leave For The Sightseeing. Begin From The Amer
                         Fort, Which Placed At The Top Of The Aravalli Hill. Enjoy The Elephant Ride That Takes You To
                         The Fort, Which Is An Incredible Experience. From Here, You Can Head To The City Palace, Which
                         Is An Amazing Blend Of Mughal And Rajput Architecture. After This Head Straight To Jal Mahal,
@@ -298,7 +309,7 @@
                         <Br>
                         Enjoy The Sumptuous Lunch In One Of The Popular Restaurants Of Jaipur Where Delicious Mughlai
                         Cuisine Served. In The Evening, Drive Back To Delhi, And You Will Be Dropped To Your
-                        Destination. Take This 3 Days Golden Triangle Tour And Have An Experience Of A Lifetime.
+                        Destination. Take This 3 Days Imperial Golden Triangle Tour And Have An Experience Of A Lifetime.
                       </p>
                     </div>
                   </div>

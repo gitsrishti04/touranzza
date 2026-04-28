@@ -53,11 +53,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -158,7 +158,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour 6 Days</h1>
+                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour 6 Days</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -211,7 +211,17 @@
                 look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
                 available, but the majority have suffered alteradution in some form by injected humour, or randomised
                 words which don't look even slightly believable. If you are going</p>
-            </div>
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just want the heritage core? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> itinerary.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to dive deeper into the desert? Explore the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Interested in spiritual hubs near the Himalayas? Try our <a href="golden-triangle-tour-with-haridwar-and-rishikesh" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Haridwar &amp; Rishikesh</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
+              </ul>
+</div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
               <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
@@ -238,7 +248,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -246,18 +256,18 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>On Reaching Delhi, Welcomed By Our Representative And Transferred To The Hotel. Overnight Stay
+                      <p style="margin-top: 0.75rem;">On Reaching Delhi, Welcomed By Our Representative And Transferred To The Hotel. Overnight Stay
                         In Delhi Hotel.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 2</span> Delhi</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Delhi Is A Unique Blend Of Historical Monuments And Contemporary Malls. In The Morning After An
+                      <p style="margin-top: 0.75rem;">Delhi Is A Unique Blend Of Historical Monuments And Contemporary Malls. In The Morning After An
                         Early Breakfast Take An Exciting Tour Of Old Delhi In The Prearranged Air Conditioned Taxi.
                         Visit The Iconic Red Fort Constructed In Red Stone By Emperor Shah Jahan. After This Visit,
                         Chandni Chowk One Of The Oldest Shopping Market In Delhi. After That, Visit The Colossal Mosque
@@ -268,26 +278,26 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 3</span> Delhi - Agra (210 Kms)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Proceed For Agra After Breakfast Via Yamuna Expressway To Cover The Distance Of Almost 210 Kms
+                      <p style="margin-top: 0.75rem;">Proceed For Agra After Breakfast Via Yamuna Expressway To Cover The Distance Of Almost 210 Kms
                         In Nearly 3 Hours. Agra Is Popularly Known As 'The City Of Taj.' Post Lunch Visit Proceed To
                         Visit The Sprawling Mehtab Bagh And Exquisite Itmad-Ud-Daulah Namely Baby Taj. Overnight Stay in
                         Agra Hotel.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 4</span> Agra - Fatehpur Sikri - Jaipur (250 Kms)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Depart Early Morning By Car At 6:00 A.M. To See The Exquisite Taj Mahal During Sunrise. You,
+                      <p style="margin-top: 0.75rem;">Depart Early Morning By Car At 6:00 A.M. To See The Exquisite Taj Mahal During Sunrise. You,
                         Will, Be Amazed By Its Ethereal Beauty And Architectural Finesse. Witness The Fairylike Beauty
                         Of The Taj Mahal With Beautiful Inlay Work And Beautiful White Marble Screens. Visit The
                         Beautiful Agra Fort That Located On The Banks Of River Yamuna. The Palatial Agra Fort Is
@@ -302,13 +312,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 5</span> Jaipur</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Early Breakfast, Get Ready At 8:00 A.M. For An Exciting Sightseeing Tour Of The 'Pink
+                      <p style="margin-top: 0.75rem;">After Early Breakfast, Get Ready At 8:00 A.M. For An Exciting Sightseeing Tour Of The 'Pink
                         City.' Jaipur Is Well Known For The Lovely Fusion Of Old-World Charm And Modern Living. Visit
                         Popular Tourist Hot Spots Of Jaipur, Namely, Sprawling Amer Fort. Enjoy The Elephant Ride To
                         Reach Amber Fort Situated Atop The Hillock Overlooking Maota Lake. See Hawa Mahal Where Rajput
@@ -320,13 +330,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 6</span> Jaipur - Delhi(260 Kms)</h4>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>After Breakfast As Per Your Flight Schedule Depart From Jaipur To Reach The Airport. It Takes
+                      <p style="margin-top: 0.75rem;">After Breakfast As Per Your Flight Schedule Depart From Jaipur To Reach The Airport. It Takes
                         Almost 5 Hours To Cover Nearly 280 Kms, Depending On The Traffic. Take A Flight For Onward
                         Destination.</p>
                     </div>

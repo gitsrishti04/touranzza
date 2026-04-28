@@ -118,8 +118,8 @@
               <p class="about-one__content__text"> Our Objectives We Are One Of The Leading Travel Operators From The
                 Last Few Decades And Aim To Provide World Class Services To Make Our Client Satisfied And Happy. India
                 Is The Land Of Culture, Great Heritage And Vast History. We Assure To Make Your Vacations A Cherishing
-                And Memorable Experience With Our Finely Customized Golden Triangle Tours. We Offer Best Of Tour
-                Packages To Make You Explore The Best And Unmatched Of India At Fullest. With Our Golden Triangle Tours,
+                And Memorable Experience With Our Finely Customized Imperial Golden Triangle Tours. We Offer Best Of Tour
+                Packages To Make You Explore The Best And Unmatched Of India At Fullest. With Our Imperial Golden Triangle Tours,
                 You Will Discover The Unexplored Beauty Of Deserts, Cultures, Forts, Palaces And Many More. This Will Be
                 A Journey Of A Lifetime As We Believe In Quality And Excellence. Our 24x7 Dedicated Team Assures Best Of
                 Services To Make Your Trip A Lifetime Experience.</p>

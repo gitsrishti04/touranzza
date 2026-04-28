@@ -136,7 +136,7 @@
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
-                                    <div class="tour-listing__card-discount @@innerExtraClassName">Same Day Tours</div>
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">Private Day Experiences</div>
                                 </div><!-- /.tour-listing__card-btn-group -->
                                 <div class="tour-listing__card-image-overlay"></div>
                                 <!-- /.tour-listing__card-image-overlay -->
@@ -154,7 +154,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="same-day-tours.php">Same Day Tours</a>
+                                <h3 class="tour-listing__card-title"><a href="same-day-tours.php">Private Day Experiences</a>
                                 </h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -213,7 +213,7 @@
                                         <span class="icon-video-camera-1-1"></span>
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
-                                <h3 class="tour-listing__card-title"><a href="rajasthan-tours.php">Rajasthan Tours</a>
+                                <h3 class="tour-listing__card-title"><a href="rajasthan-tours.php">Royal Rajasthan Retreats</a>
                                 </h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>

@@ -53,11 +53,11 @@
             <!-- /.page-header__bg -->
             <div class="container">
                 <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Golden Triangle Tours</h2>
+                    Imperial Golden Triangle Tours</h2>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
-                        <li>Golden Triangle Tours</li>
+                        <li>Imperial Golden Triangle Tours</li>
                     </ul><!-- /.trevlo-breadcrumb -->
                 </div><!-- /.page-header__breadcrumb-box -->
             </div><!-- /.container -->
@@ -158,7 +158,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-ranthambore">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-ranthambore">Imperial Golden Triangle Tour With
                                         Ranthambore</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -219,7 +219,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-rajasthan">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-rajasthan">Imperial Golden Triangle Tour With
                                         Rajasthan</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -281,7 +281,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-varanasi">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-varanasi">Imperial Golden Triangle Tour With
                                         Varanasi</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -343,7 +343,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-orchha-khajuraho">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-orchha-khajuraho">Imperial Golden Triangle Tour With
                                         Orchha Khajuraho</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -464,7 +464,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-mumbai">Golden Triangle Tour With Mumbai</a>
+                                        href="golden-triangle-tour-with-mumbai">Imperial Golden Triangle Tour With Mumbai</a>
                                 </h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -526,7 +526,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-haridwar-and-rishikesh">Golden Triangle Tour
+                                        href="golden-triangle-tour-with-haridwar-and-rishikesh">Imperial Golden Triangle Tour
                                         With Haridwar Rishikesh</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
@@ -587,7 +587,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a
-                                        href="golden-triangle-tour-with-amritsar">Golden Triangle Tour With
+                                        href="golden-triangle-tour-with-amritsar">Imperial Golden Triangle Tour With
                                         Amritsar</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>

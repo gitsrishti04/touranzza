@@ -50,11 +50,11 @@
     <!-- <section class="page-header">
     <div class="page-header__bg"></div>
     <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
+        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
         <div class="page-header__breadcrumb-box">
             <ul class="trevlo-breadcrumb">
                 <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
+                <li>Imperial Golden Triangle Tours</li>
             </ul>
         </div>
     </div>
@@ -153,7 +153,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour 3 Days</h1>
+                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour 3 Days</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -241,7 +241,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>The 3 Days Golden Triangle Tour Begins From Delhi, Where You Will Be Greeted By Our
+                      <p>The 3 Days Imperial Golden Triangle Tour Begins From Delhi, Where You Will Be Greeted By Our
                         Representative At The Delhi Airport. You Will Be Taken For Sightseeing All Over The Busting
                         Capital Of India. Delhi Is A Perfect Fusion Of Old And Contemporary With Famous Monuments And
                         Malls Scattered All Over The City. You Can Travel Around The Old City Of Delhi And Visit Jama
@@ -293,7 +293,7 @@
                         <Br>
                         Enjoy The Sumptuous Lunch In One Of The Popular Restaurants Of Jaipur Where Delicious Mughlai
                         Cuisine Served. In The Evening, Drive Back To Delhi, And You Will Be Dropped To Your
-                        Destination. Take This 3 Days Golden Triangle Tour And Have An Experience Of A Lifetime.
+                        Destination. Take This 3 Days Imperial Golden Triangle Tour And Have An Experience Of A Lifetime.
                       </p>
                     </div>
                   </div>

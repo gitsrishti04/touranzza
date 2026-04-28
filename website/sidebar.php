@@ -5,7 +5,7 @@
                   <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-1.jpg" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
-                    <h5 class="tour-listing-sidebar-post__link"><a href="golden-triangle-tours.php">Golden Triangle Tours</a></h5>
+                    <h5 class="tour-listing-sidebar-post__link"><a href="golden-triangle-tours.php">Imperial Golden Triangle Tours</a></h5>
                     <div class="tour-listing-sidebar-post__location"> 
                       <!-- <p class="tour-listing-sidebar-post__location-text text-small">Main Street, Brooklyn, NY</p> -->
                     </div>
@@ -15,7 +15,7 @@
                   <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-2.jpg" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
-                    <h5 class="tour-listing-sidebar-post__link"><a href="same-day-tours.php">Same Day Tours</a></h5>
+                    <h5 class="tour-listing-sidebar-post__link"><a href="same-day-tours.php">Private Day Experiences</a></h5>
                     <div class="tour-listing-sidebar-post__location">
                       <!-- <p class="tour-listing-sidebar-post__location-text text-small">Main Street, Brooklyn, NY</p> -->
                     </div>
@@ -25,7 +25,7 @@
                   <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-3.jpg" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
-                    <h5 class="tour-listing-sidebar-post__link"><a href="rajasthan-tours.php">Rajasthan Tours</a></h5>
+                    <h5 class="tour-listing-sidebar-post__link"><a href="rajasthan-tours.php">Royal Rajasthan Retreats</a></h5>
                     <div class="tour-listing-sidebar-post__location"> 
                       <!-- <p class="tour-listing-sidebar-post__location-text text-small">Main Street, Brooklyn, NY</p> -->
                     </div>

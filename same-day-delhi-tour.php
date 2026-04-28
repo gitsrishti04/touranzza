@@ -4,23 +4,27 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Same Day Delhi City Tour — Private Guided Experience | Touranzza</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Private same day Delhi city tour. Jama Masjid, Chandni Chowk rickshaw ride, Red Fort, Humayun's Tomb, Qutub Minar, Lotus Temple and India Gate — all in one guided day." />
+  <link rel="canonical" href="https://touranzza.com/same-day-delhi-tour" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Same Day Delhi City Tour — Private Guided Experience | Touranzza" />
+  <meta property="og:description" content="Private same day Delhi city tour. Jama Masjid, Chandni Chowk rickshaw ride, Red Fort, Humayun's Tomb, Qutub Minar, Lotus Temple and India Gate — all in one guided day." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://touranzza.com/same-day-delhi-tour" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/delhitour1.webp" />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link rel="preconnect" href="https://fonts.googleapis.com/">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&amp;display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
@@ -38,7 +42,6 @@
   <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
   <!-- enquiry -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
-  <!-- enquiry -->
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
   <link rel="stylesheet" href="assets/css/touranzza.css" />
@@ -50,19 +53,6 @@
     <?php include("header.php") ?>
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
-    <!-- <section class="page-header">
-    <div class="page-header__bg"></div>
-    <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Golden Triangle Tours</h2>
-        <div class="page-header__breadcrumb-box">
-            <ul class="trevlo-breadcrumb">
-                <li><a href="./">Home</a></li>
-                <li>Golden Triangle Tours</li>
-            </ul>
-        </div>
-    </div>
-</section> -->
-    <!-- Tour Listing Page One Start -->
     <!-- Tour Listing Details One Start -->
     <section class="tour-listing-details tour-listing-details-right">
 <div class="container">
@@ -78,336 +68,345 @@
         "dots":false,
         "navText": ["<span class=&apos;fa fa-angle-left&apos;></span>","<span class=&apos;fa fa-angle-right&apos;></span>"],
         "responsive":{
-            "0":{
-                "items": 1
-            },
-            "768":{
-                "items": 2
-            },
-            "992":{
-                "items": 3
-            },
-            "1300":{
-                "items": 4,
-                "dots": false
-            }
+            "0":{"items": 1},
+            "768":{"items": 2},
+            "992":{"items": 3},
+            "1300":{"items": 4,"dots": false}
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp" alt="Jama Masjid and Old Delhi, Delhi city tour">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp" alt="Humayun's Tomb UNESCO World Heritage Site, Delhi">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.webp" alt="Qutub Minar, New Delhi">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours2.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours2.webp" alt="India Gate and Rajpath, New Delhi">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours1.webp"
-                alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours1.webp" alt="Lotus Temple and Red Fort, Delhi sightseeing tour">
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
-              <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
-            <!-- /.tour-listing-details__top-carousel-image -->
           </div>
-          <!-- /.tour-listing-details__top-carousel-item item -->
         </div>
-        <!-- /.tour-listing-details__top-carousel-wrapper -->
       </div>
-      <!-- /.tour-listing-details__top-carousel -->
 </div><!-- /.container -->
       <div class="tour-listing-details__destination">
         <div class="container">
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Same Day Delhi Tour</h1>
-                <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
+                <h1 class="tour-listing-details__dastination-title">Same Day Delhi City Tour &mdash; Private Guided Experience</h1>
               </div>
-              <!-- /.tour-listing-details__daetination-left -->
               <div class="tour-listing-details__ratings-box"><i class="fab fa-tripadvisor tripadvisor-icon"></i>
-                <div class="trevlo-ratings"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i
-                    class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
+                <div class="trevlo-ratings"> <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
                 <p class="tour-listing-details__ratings-text">5.0 Superb</p>
               </div>
-              <!-- /.tour-listing-details__ratings-box -->
             </div>
-            <!-- /.col-xl-4 -->
             <div class="col-xl-6">
               <div class="tour-listing-details__destination-right">
-                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.1s"
-                  data-wow-duration="1500ms"> <span class="icon-clock-1"></span>
+                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms"> <span class="icon-clock-1"></span>
                   <div class="tour-listing-details__destination-info-title">
                     <h4 class="tour-listing-details__destination-info-top">Duration</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">01 Day Trip</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">1 Day Tour</h4>
                   </div>
                 </div>
-                <!-- /.tour-listing-details__destination-info -->
-                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.7s"
-                  data-wow-duration="1500ms"> <span class="icon-location-1"></span>
+                <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms"> <span class="icon-location-1"></span>
                   <div class="tour-listing-details__destination-info-title">
                     <h4 class="tour-listing-details__destination-info-top">Location</h4>
-                    <h4 class="tour-listing-details__destination-info-bottom">Delhi</h4>
+                    <h4 class="tour-listing-details__destination-info-bottom">Old Delhi &amp; New Delhi</h4>
                   </div>
                 </div>
-                <!-- /.tour-listing-details__destination-info -->
               </div>
-              <!-- /.tour-listing-details__destination-right -->
             </div>
-            <!-- /.col-xl-8 -->
           </div>
-          <!-- /.row -->
         </div>
-        <!-- /.container -->
       </div>
       <!-- /.tour-listing-details__destination -->
+
       <div class="container">
         <div class="tour-listing-details__row row">
           <div class="col-xl-8">
+
+            <!-- OVERVIEW -->
             <div class="tour-listing-details__overview">
               <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h2>
               </div>
-              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Delhi is not just a city — it's a living narrative of empires, cultures, and contrasts. This Delhi city tour invites you to step into that story, where centuries-old Mughal architecture coexists with grand colonial avenues and modern urban energy. Designed for international travellers, this experience offers a seamless way to explore the most iconic tourist attractions in Delhi in a single, well-paced day.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">From the vibrant chaos of Old Delhi's historic lanes to the refined elegance of New Delhi's boulevards, every moment reveals a different side of India's capital. With a private guide by your side, you'll uncover the deeper meaning behind each monument — from sacred spaces to royal tombs and architectural masterpieces. This is not a rushed bus tour; it's a private, guided day at your pace.</p>
+
+              <!-- INTERLINK 1: Taj Mahal day tour -->
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">If you're planning to explore beyond the capital, consider adding a <a href="same-day-agra-tour-by-gatimaan-express" style="color: inherit; text-decoration: underline; font-weight: 600;">Taj Mahal day tour from Delhi by train</a> to your itinerary — a natural next step that many travellers combine with this Delhi sightseeing experience.</p>
             </div>
-            <!-- /.tour-listing-details__explore -->
+            <!-- /.overview -->
+
+            
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Just want the heritage core? View our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle 5 Days</a> itinerary.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Want to dive deeper into the desert? Explore the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Interested in spiritual hubs near the Himalayas? Try our <a href="golden-triangle-tour-with-haridwar-and-rishikesh" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Haridwar &amp; Rishikesh</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
+              </ul>
+<!-- TOUR HIGHLIGHTS -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Jama Masjid — one of the largest mosques in India</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Chandni Chowk rickshaw ride through Old Delhi's spice lanes</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Khari Baoli — Asia's largest wholesale spice market</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Red Fort (outside view) — UNESCO World Heritage Site</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
-                <!-- /.col-lg-6 col-md-7 -->
+                <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+                  <ul class="tour-listing-details__included-list-one tour-highlights">
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Humayun's Tomb — UNESCO World Heritage Site &amp; Taj Mahal precursor</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Qutub Minar — 73-metre medieval minaret complex</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Lotus Temple — iconic Bahá'í House of Worship</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>India Gate &amp; Parliament House (drive-by)</p>
+                    </li>
+                  </ul>
+                </div>
               </div>
-              <!-- /.row -->
             </div>
+
+            <!-- ITINERARY -->
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>09:00 AM - Travel to Rajghat, Jama Masjid, and others</span></h4>
+                    <h3><span>9:00 AM</span> Pick-up from Hotel or Airport</h3>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Our staff will take you to the best charms of the city and you will start your trip from
-                        visiting Rajghat that is the memorial of Mahatma, Jama Masjid the biggest mosque in the country,
-                        QutabMinar a long tower, Humayun's Tomb a beautiful tomb, Red Fort replica of Mughal thought,
-                        JantarMantar consists of 13 architectural astronomy instruments. There will be more charms to
-                        explore.</p>
+                      <p style="margin-top: 0.75rem;">Begin your Delhi sightseeing tour with a comfortable pick-up from your hotel or airport. Your private guide will meet you at your preferred location, introduce the day's itinerary, and ensure you're oriented before heading into the city. Travel in a private air-conditioned vehicle throughout.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>13.30 PM – Lunch Time</span></h4>
+                    <h3><span>Old Delhi</span> Jama Masjid</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>Enjoy the local cuisines of the city or you will be transferred to a good restaurant, where you
-                        can enjoy the multi-cuisines. You will have the best North Indian and Mughlai cuisines to taste
-                        here. After a leisure break, you can continue your tour to the next attraction.</p>
+                      <p style="margin-top: 0.75rem;">Start at Jama Masjid — one of the largest mosques in India, built by the Mughal Emperor Shah Jahan between 1644 and 1656. Its vast red sandstone and white marble courtyard can hold over 25,000 worshippers. Your guide will walk you through its architectural and historical significance within the broader Mughal legacy. Non-Muslim visitors are welcome during non-prayer hours.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>14.30 PM - Chronological building to visit</span></h4>
+                    <h3><span>Old Delhi</span> Chandni Chowk Rickshaw Ride &amp; Khari Baoli Spice Market</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>You can drive towards other attractions such as - RashtrapathiBhavan, , Parliament House, Ga
-                        India Gate,Akshardham Temple , Birla Temple and PuranaQuila. You can also take pleasure in the
-                        sound and light show in PuranaQuila, which starts at 19.00 PM and it can be truly optional.</p>
+                      <p style="margin-top: 0.75rem;">Dive into Old Delhi's most atmospheric street with a traditional cycle-rickshaw ride through Chandni Chowk — once the wealthiest marketplace in the Mughal Empire. Your guide navigates the lanes and explains the origins of different market districts: the silver market, the fabric market, the sweet shops. Continue on foot to Khari Baoli, Asia's largest wholesale spice market, where sacks of turmeric, cardamom, dried chillies and rock salt line every passage. A genuinely sensory experience, unlike anything available in New Delhi.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>18.30 PM – Discover places to the capital’s cultural place</span></h4>
+                    <h3><span>Old Delhi</span> Red Fort — Photo Stop</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>You can enjoy a visit to the contemporary Connaught Place, an old ChandniChowk bazaar where you
-                        can take a ride in the street of the old Delhi culture, which is incomparable.It totally depends
-                        upon your time to travel to these places if you will not have then you can miss it. The Same Day
-                        Delhi Tour defines a new India and its people, culture, and traditions. Travelers who wish to
-                        visit India for a short period of time and want to discover some amazing and historical things
-                        about the country, then the city would be the best choice as per its combined mixture of
-                        culture, history and modern architecture. This should be included in your plan to make it a
-                        great pleasure trip.</p>
+                      <p style="margin-top: 0.75rem;">Pause outside the Red Fort — the UNESCO-listed red sandstone citadel that served as the main residence of Mughal Emperors from 1648 to 1857. The Lahori Gate's imposing façade makes for excellent photography. Entry to the interior is optional and can be added on request.</p>
                     </div>
                   </div>
                 </div>
-                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>19:30 Pm - Drop hotel or Airport.</span></h4>
+                    <h3><span>1:00 PM</span> Lunch Break</h3>
                   </div>
-                  <div class="accrodion-content" style="display: none;">
+                  <div class="accrodion-content">
                     <div class="inner">
-                      <p>When you finished the sight seen our drive will be drop at hotel y Airport.</p>
+                      <p style="margin-top: 0.75rem;">Enjoy a relaxed lunch at a quality local restaurant, offering a mix of North Indian and international cuisine. A good moment to rest before the afternoon's monuments and the switch from Old to New Delhi's character.</p>
                     </div>
                   </div>
                 </div>
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>14:30 PM – Drop to Airport/Hotel</span></h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>After coming back in the city, our driver will drop you at the Hotel or Airport to catch the flight to your home with amazing memories of your trip. The above tour plan is just an overview to let you know that your trip will go through this. If you want to include more destinations in it, you can as it will add more fun and excitement in your trip.</p>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>New Delhi</span> Humayun's Tomb (UNESCO World Heritage Site)</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Visit Humayun's Tomb — the 16th-century mausoleum commissioned by the Mughal Emperor Humayun's wife, and a UNESCO World Heritage Site since 1993. Built by Persian architect Mirak Mirza Ghiyas, it is widely considered the architectural precursor to the Taj Mahal. Its geometric Charbagh garden, double dome, and red sandstone and white marble inlay set the template for Mughal funerary architecture. Your guide will explain the progression from this tomb to the Taj.</p>
+                    </div>
                   </div>
                 </div>
-              </div> -->
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>03:30 PM – Visit itimad-ud-daulah (Baby Taj)</span></h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Well ahead visit Itimad-Ud-Daulah which is in the main called child Taj Mahal and it is also positioned on the banks of Yamuna River. The tomb is attractively constructed and reminds the years of the Mughals to travelers. This wonderful charm is a must-visit place and keeps a special place in the heart of history lovers and leisure travelers who come to see Taj. Every traveler must see this baby Taj during their trip to the city.</p>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>New Delhi</span> Qutub Minar</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Explore the Qutub Minar complex — a UNESCO-listed ensemble of monuments anchored by the 73-metre tapering minaret, the tallest brick minaret in the world. Construction began in 1193 under Qutb ud-Din Aibak of the Delhi Sultanate and was completed by his successors. The complex also includes the Quwwat-ul-Islam Mosque, a 2,000-year-old Iron Pillar that has never rusted, and the unfinished Alai Minar. Your guide will connect each element to the broader history of Delhi's sultans.</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>04:30 PM – Local street market walk</span></h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>After visiting you will be visit local street market for shopping , you can buy some souvenir for friend and family, alter drive the railway station board the train for Delhi</p>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>New Delhi</span> Lotus Temple</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Experience the Lotus Temple — the Bahá'í House of Worship, completed in 1986 and designed by Iranian architect Fariborz Sahba. Its 27 free-standing marble-clad petals form a lotus shape visible from across South Delhi. Open to people of all faiths, it is a place of quiet reflection rather than a tourist spectacle — a deliberate counterpoint to the intensity of Old Delhi's markets and the scale of Qutub Minar.</p>
+                    </div>
                   </div>
                 </div>
-              </div>
-              <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>07:30 Pm – Pick up Delhi Railway station</span></h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Our staff will be pick –up on the platform at Delhi Railway station after drive to hotel /airport drop. End your memorable train trip.</p>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>New Delhi</span> India Gate &amp; Parliament House — Drive-By</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Conclude the sightseeing with a drive along Kartavya Path (formerly Rajpath) past India Gate — the 42-metre war memorial dedicated to over 80,000 soldiers of the British Indian Army who died in World War I — and the Houses of Parliament, designed by Herbert Baker in the colonial era. The new Parliament of India building, opened in 2023, is visible alongside its predecessor. This stretch of New Delhi's ceremonial core gives a sense of the scale and ambition with which Edwin Lutyens and Herbert Baker designed British India's capital.</p>
+
+                      <!-- INTERLINK 2: Agra / Taj Mahal mid-content -->
+                      <p style="margin-top: 1rem;">Many travellers combine this experience with a <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">same day Agra tour from Delhi</a> to visit the Taj Mahal — making a natural two-day private North India experience.</p>
+                    </div>
                   </div>
                 </div>
-              </div> -->
-                <!-- <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <div class="accrodion-title">
-                  <h4><span>Day 10</span> Delhi</h4>
-                </div>
-                <div class="accrodion-content" style="display: none;">
-                  <div class="inner">
-                    <p>Today, you have finished your Golden Triangle Tour with Orchha and Khajuraho. Hope, you are feeling relaxed and stress free. Visit again with your loved ones.</p>
+
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h3><span>5:00 PM</span> Drop-off at Your Preferred Location</h3>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Return to your hotel or airport, completing your immersive Delhi day tour. Your driver will ensure drop-off at your preferred location in the city.</p>
+                    </div>
                   </div>
                 </div>
-              </div> -->
+
               </div>
             </div>
+            <!-- /.itinerary -->
+
+            <!-- INCLUSIONS / EXCLUSIONS -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Included</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Private air-conditioned vehicle with professional driver</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Hotel or airport pick-up and drop-off</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Experienced multilingual local tour guide</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Cycle-rickshaw ride through Chandni Chowk</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>All parking fees, tolls and applicable taxes</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Bottled water during the tour</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Personalised assistance throughout</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
-                <!-- /.col-lg-6 col-md-7 -->
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                  <h2 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Not Included</h2>
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>Additional Service</p>
+                      <p>Monument entrance fees</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Insurance</p>
+                      <p>Lunch and personal expenses</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Food & Drinks</p>
+                      <p>Tips and gratuities</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Tickets</p>
+                      <p>Camera or video charges at monuments</p>
+                    </li>
+                    <li> <i class="fas fa-times"></i>
+                      <p>Optional activities not mentioned in inclusions</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
                 </div>
-                <!-- /.col-lg-6 col-md-5 -->
               </div>
-              <!-- /.row -->
             </div>
-            <!-- /.tour-listing-details__similar container-fluid -->
+
+            <!-- WHY CHOOSE / CLOSING WITH INTERLINKS -->
+            <div class="tour-listing-details__overview">
+              <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Why Choose This Delhi City Tour?</h2>
+              </div>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">This experience is designed for travellers who want depth, not just distance covered. Instead of rushing between landmarks on a group coach, you explore Delhi with context and clarity — guided by stories that bring each site to life, in your own private vehicle, at your own pace.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">Whether you're searching for Delhi tour packages, planning your first trip to India, or looking for the most efficient introduction to the capital before connecting onward — this private tour ensures a balanced, insightful and memorable day.</p>
+
+              <!-- INTERLINK 3: Taj Mahal Tour Packages (money page) -->
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">For a complete North India experience, explore our curated <a href="taj-mahal-sunrise-tour" style="color: inherit; text-decoration: underline; font-weight: 600;">Taj Mahal tour packages from Delhi</a> — combining this Delhi sightseeing tour with an Agra day trip or a multi-day Golden Triangle journey.</p>
+            </div>
+
           </div>
+          <!-- /.col-xl-8 -->
+
           <div class="col-xl-4">
             <aside class="tour-listing-details__sidebar">
-              <div
-                class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
+              <div class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="#" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -421,8 +420,7 @@
                     <input id="phone-number" name="phone-number" type="tel" class="form-one__input">
                     <input id="country-name" type="hidden" name="country">
                     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-                    <script
-                      src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+                    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
                     <script>
                       var input = document.querySelector("#phone-number");
                       var iti = window.intlTelInput(input, {
@@ -488,67 +486,44 @@
                     <textarea name="des" id="des" cols="30" rows="10" placeholder="Write a Message"
                       class="form-one__message form-one__input"></textarea>
                   </div>
-                  <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Book
-                      Now</span></button>
+                  <button type="submit" class="tour-listing-details__sidebar-btn trevlo-btn trevlo-btn--base"><span>Book Now</span></button>
                 </form>
               </div>
               <?php include("sidebar.php") ?>
             </aside>
-            <!-- /.tour-listing-details__sidebar -->
           </div>
           <!-- /.col-xl-4 -->
         </div>
-        <!-- /.row -->
       </div>
-      <!-- /.container -->
     </section>
     <!-- Tour Listing Details One End -->
   </div>
   <!-- /.page-wrapper -->
   <div class="mobile-nav__wrapper">
     <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-    <!-- /.mobile-nav__overlay -->
-    <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
-          class="fa fa-times"></i></span>
-      <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp"
-            width="155" alt="" /></a> </div>
-      <!-- /.logo-box -->
+    <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+      <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp" width="155" alt="Touranzza Logo" /></a> </div>
       <div class="mobile-nav__container"></div>
-      <!-- /.mobile-nav__container -->
       <ul class="mobile-nav__contact list-unstyled">
-        <li> <i class="fa fa-envelope"></i> <a href="mailto:needhelp@trevlo.com">needhelp@trevlo.com</a> </li>
+        <li> <i class="fa fa-envelope"></i> <a href="mailto:info@touranzza.com">info@touranzza.com</a> </li>
         <li> <i class="fa fa-phone-alt"></i> <a href="tel:+919355995594">+91-9355995594</a> </li>
       </ul>
-      <!-- /.mobile-nav__contact -->
-      <div class="mobile-nav__social"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i>
-          <span class="sr-only">Twitter</span> </a> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"
-            aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i
-            class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a> <a
-          href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span
-            class="sr-only">Instagram</span> </a> </div>
-      <!-- /.mobile-nav__social -->
+      <div class="mobile-nav__social"> <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span> </a> <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook" aria-hidden="true"></i><span class="sr-only">Facebook</span> </a> <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i class="fab fa-tripadvisor" aria-hidden="true"></i><span class="sr-only">TripAdvisor</span> </a> <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i><span class="sr-only">Instagram</span> </a> </div>
     </div>
-    <!-- /.mobile-nav__content -->
   </div>
-  <!-- /.mobile-nav__wrapper -->
   <div class="search-popup">
     <div class="search-popup__overlay search-toggler"></div>
-    <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
-        <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
-            class="icon-search"></span> </button>
+        <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span class="icon-search"></span> </button>
       </form>
     </div>
-    <!-- /.search-popup__content -->
   </div>
-  <!-- Tour Listing Page One End -->
   </div><!-- /.mandala-bg-wrapper -->
     <!-- MANDALA BACKGROUND WRAPPER END -->
     <?php include("footer.php") ?>
-  <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back
-      top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
+  <a href="#" data-target="html" class="scroll-to-target scroll-to-top"> <span class="scroll-to-top__text">back top</span> <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span> </a>
   <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
   <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>

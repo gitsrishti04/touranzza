@@ -45,7 +45,7 @@
           <li> <a href="./">Home</a> </li>
           <li class="dropdown tour-pkg-dropdown"> <a href="tour-packages">Tour Packages</a>
             <ul class="sub-menu">
-              <li class="dropdown"><a href="golden-triangle-tours">Golden Triangle Tours (GT)</a>
+              <li class="dropdown"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a>
                 <ul class="sub-menu">
                   <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-with-ranthambore"> GT with Ranthambore</a></li>
@@ -60,7 +60,7 @@
                   <li><a href="golden-triangle-tour-with-mumbai">GT with Mumbai</a></li>
                 </ul>
               </li>
-              <li class="dropdown rajasthan-tours-col"><a href="rajasthan-tours">Rajasthan Tours</a>
+              <li class="dropdown rajasthan-tours-col"><a href="rajasthan-tours">Royal Rajasthan Retreats</a>
                 <ul class="sub-menu">
                   <li><a href="royal-rajasthan-tour">Royal Rajasthan Tour</a></li>
                   <li><a href="desert-tour-rajasthan">Desert Tour Rajasthan</a></li>
@@ -68,25 +68,21 @@
                   <li><a href="rajasthan-heritage-tour">Rajasthan Heritage Tour</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="same-day-tours">Same Day / 1 Day Tours</a>
+              <li class="dropdown"><a href="same-day-tours">Private Day Experiences</a>
                 <ul class="sub-menu">
                   <li><a href="same-day-agra-tour-by-car">Same Day Agra by Car</a></li>
-                  <li><a href="same-day-agra-tour-by-train">Same Day Agra by Train</a></li>
+                  <li><a href="taj-mahal-day-tour-by-train">Same Day Agra by Train</a></li>
                   <li><a href="same-day-delhi-tour">Same Day Delhi Tour</a></li>
                   <li><a href="same-day-jaipur-tour">Same Day Jaipur Tour</a></li>
 
                 </ul>
               </li>
-              <li class="dropdown"><a href="tour-packages#3-5-days">3–5 Days Tours</a>
+              <li class="dropdown"><a href="tour-packages#india-discovery">India Discovery Journeys</a>
                 <ul class="sub-menu">
                   <li><a href="golden-triangle-tour-3-days">3 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-4-days">4 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
                   <li><a href="desert-tour-rajasthan">5 Days Desert Tour</a></li>
-                </ul>
-              </li>
-              <li class="dropdown"><a href="tour-packages#6-10-days">6–10 Days Tours</a>
-                <ul class="sub-menu">
                   <li><a href="golden-triangle-tour-6-days">6 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-7-days">7 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-with-varanasi">7 Days GT + Varanasi</a></li>
@@ -96,7 +92,7 @@
                   <li><a href="fort-and-palaces-tour">10 Days Fort &amp; Palaces</a></li>
                 </ul>
               </li>
-              <li class="dropdown"><a href="tour-packages#10-plus-days">10+ Days Tours</a>
+              <li class="dropdown"><a href="tour-packages#grand-india-voyages">Grand India Voyages</a>
                 <ul class="sub-menu">
                   <li><a href="golden-triangle-tour-with-rajasthan">GT with Full Rajasthan</a></li>
                   <li><a href="golden-triangle-tour-with-goa">GT with Goa</a></li>
@@ -105,6 +101,16 @@
                       Rishikesh</a>
                   </li>
                   <li><a href="golden-triangle-tour-with-amritsar">GT with Amritsar</a></li>
+                </ul>
+              </li>
+              <li class="dropdown"><a href="soul-of-india-tours">Soul of India Tours</a>
+                <ul class="sub-menu">
+                  <li><a href="soul-of-india-tours">View All Tours</a></li>
+                </ul>
+              </li>
+              <li class="dropdown"><a href="the-maharaja-collection">The Maharaja Collection</a>
+                <ul class="sub-menu">
+                  <li><a href="the-maharaja-collection">View All Tours</a></li>
                 </ul>
               </li>
             </ul>
@@ -251,7 +257,7 @@
       /* Darkened division line */
     }
 
-    /* Specific darker line after Rajasthan Tours */
+    /* Specific darker line after Royal Rajasthan Retreats */
     .tour-pkg-dropdown>.sub-menu>li.rajasthan-tours-col {
       border-right: 2px solid #555555 !important;
       /* Darker and thicker separator */

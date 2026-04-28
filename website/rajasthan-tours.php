@@ -50,11 +50,11 @@
             <!-- /.page-header__bg -->
             <div class="container">
                 <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Rajasthan Tours</h2>
+                    Royal Rajasthan Retreats</h2>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
-                        <li>Rajasthan Tours</li>
+                        <li>Royal Rajasthan Retreats</li>
                     </ul><!-- /.trevlo-breadcrumb -->
                 </div><!-- /.page-header__breadcrumb-box -->
             </div><!-- /.container -->
@@ -218,7 +218,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="colorful-rajasthan-tour.php">Colorful
-                                        Rajasthan Tour</a></h3>
+                                        Royal Rajasthan Retreats</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
@@ -578,7 +578,7 @@
                                     </a>
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="historical-rajasthan-tour.php">Historical
-                                        Rajasthan Tour</a></h3>
+                                        Royal Rajasthan Retreats</a></h3>
                                 <p class="tour-listing__card-text text-small">There are many variations of passages of
                                     Lorem Ipsum agtilable</p>
                                 <div class="tour-listing__card-inner-content">
