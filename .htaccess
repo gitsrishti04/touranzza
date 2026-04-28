@@ -12,6 +12,12 @@ Redirect 301 /taj-mahal-tour-packages https://touranzza.com/tour-packages
 Redirect 301 /agra-tours https://touranzza.com/same-day-tours
 
 # -----------------------------------
+# www to non-www redirect (SEO best practice)
+# -----------------------------------
+RewriteCond %{HTTP_HOST} ^www\.touranzza\.com [NC]
+RewriteRule ^(.*)$ https://touranzza.com/$1 [L,R=301]
+
+# -----------------------------------
 # 1. Redirect index.php to root
 # -----------------------------------
 RewriteCond %{THE_REQUEST} \s.*/index\.php[\s?] [NC]

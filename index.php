@@ -13,6 +13,64 @@
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
   <meta name="description"
     content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <!-- Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TravelAgency",
+    "name": "Touranzza",
+    "description": "Luxury travel agency specializing in private tours of India, offering bespoke Golden Triangle tours, Rajasthan heritage journeys, and same-day experiences.",
+    "url": "https://touranzza.com",
+    "logo": "https://touranzza.com/assets/images/footer-logo-dark.webp",
+    "image": "https://touranzza.com/assets/images/tours/agra-1.webp",
+    "telephone": "+91-9837105911",
+    "email": "india@touranzza.com",
+    "priceRange": "₹₹₹",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Agra",
+      "addressLocality": "Agra",
+      "addressRegion": "Uttar Pradesh",
+      "postalCode": "282001",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "27.1767",
+      "longitude": "78.0081"
+    },
+    "areaServed": "India",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+91-9837105911",
+      "contactType": "customer service",
+      "areaServed": "Worldwide",
+      "availableLanguage": ["English", "Hindi"]
+    },
+    "sameAs": [
+      "https://www.facebook.com/share/1DU6ep6f9V/",
+      "https://www.linkedin.com/company/touranzza/",
+      "https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==",
+      "https://www.tripadvisor.in/Profile/touranzza"
+    ],
+    "openingHours": "Mo-Sa 09:00-19:00"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Touranzza",
+    "url": "https://touranzza.com",
+    "logo": "https://touranzza.com/assets/images/footer-logo-dark.webp",
+    "sameAs": [
+      "https://www.facebook.com/share/1DU6ep6f9V/",
+      "https://www.linkedin.com/company/touranzza/",
+      "https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==",
+      "https://www.tripadvisor.in/Profile/touranzza"
+    ]
+  }
+  </script>
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
