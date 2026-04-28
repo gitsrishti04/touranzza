@@ -4,6 +4,14 @@ Options -MultiViews
 RewriteBase /
 
 # -----------------------------------
+# 4XX Error Redirects - Fix broken URLs
+# -----------------------------------
+Redirect 301 /same-day-agra-tour-by-train https://touranzza.com/same-day-agra-tour-by-gatimaan-express
+Redirect 301 /golden-triangle-tour-india https://touranzza.com/golden-triangle-tours
+Redirect 301 /taj-mahal-tour-packages https://touranzza.com/tour-packages
+Redirect 301 /agra-tours https://touranzza.com/same-day-tours
+
+# -----------------------------------
 # 1. Redirect index.php to root
 # -----------------------------------
 RewriteCond %{THE_REQUEST} \s.*/index\.php[\s?] [NC]
