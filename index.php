@@ -4,7 +4,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza | Luxury India Tours & Bespoke Travel Experiences</title>
+
+  <link rel="canonical" href="https://touranzza.com/" />
+  <title>Touranzza | Luxury India Tours, Golden Triangle & Rajasthan Travel</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -12,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
   <meta name="description"
-    content="Touranzza offers luxury India tours, bespoke Golden Triangle packages, royal Rajasthan journeys, and same-day experiences designed for upscale travelers." />
+    content="Plan private luxury India tours with Touranzza, including Golden Triangle tours, Rajasthan desert journeys, Taj Mahal day trips and bespoke cultural travel." />
   <!-- Schema -->
   <script type="application/ld+json">
   {
@@ -54,6 +56,38 @@
       "https://www.tripadvisor.in/Profile/touranzza"
     ],
     "openingHours": "Mo-Sa 09:00-19:00"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What tours does Touranzza specialize in?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Touranzza specializes in private India tours including Golden Triangle tours, Rajasthan heritage tours, desert tours, Taj Mahal day tours, same-day city experiences and bespoke luxury journeys across North India."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can Touranzza customize a private India itinerary?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Touranzza customizes routes, hotels, private guides, vehicle types, pickup locations, travel pace and special experiences for couples, families and small groups."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which India tour is best for first-time visitors?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Golden Triangle tour covering Delhi, Agra and Jaipur is the best first India itinerary because it includes the Taj Mahal, Mughal heritage, Rajput palaces, markets and comfortable road connections."
+        }
+      }
+    ]
   }
   </script>
   <script type="application/ld+json">
@@ -491,7 +525,7 @@
     "loop": true,
     "smartSpeed": 700,
     "animateOut": "fadeOut",
-    "autoplayTimeout": 5000, 
+    "autoplayTimeout": 5000,
     "nav": true,
     "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
     "dots": false,
@@ -594,6 +628,38 @@
     <!-- main-slider-end -->
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
+      <section class="tour-listing-one" style="padding: 70px 0 25px;">
+        <div class="container">
+          <div class="sec-title text-center">
+            <p class="sec-title__tagline">Private India Travel, Planned With Care</p>
+            <h1 class="sec-title__title">Luxury India Tours by Touranzza</h1>
+          </div>
+          <div class="row justify-content-center">
+            <div class="col-xl-10">
+              <p class="tour-listing-details__overview-text" style="color:#000; font-size:17px; line-height:1.8; text-align:center;">
+                Touranzza creates private luxury India tours for travelers who want more than a rushed checklist. Our itineraries bring together personal drivers, handpicked hotels, expert local guides and thoughtful pacing across India's most rewarding routes. First-time visitors often begin with the <a href="golden-triangle-tour-3-days" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle Tour 3 Days</a>, the <a href="golden-triangle-tour-4-days" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle Tour 4 Days</a> or the more relaxed <a href="golden-triangle-tour-6-days" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle Tour 6 Days</a>, each covering Delhi, Agra, Jaipur and the Taj Mahal with private comfort.
+              </p>
+              <p class="tour-listing-details__overview-text" style="color:#000; font-size:17px; line-height:1.8; text-align:center;">
+                For travelers who want deeper culture, we extend the route into Rajasthan's palaces, desert towns and sacred cities. You can pair the Taj Mahal with the <a href="desert-tour-rajasthan" style="color:inherit; text-decoration:underline; font-weight:700;">Rajasthan Desert Tour</a>, explore forts and lake palaces on the <a href="golden-triangle-tour-with-rajasthan" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle with Rajasthan</a>, or choose a short <a href="same-day-agra-tour-by-car" style="color:inherit; text-decoration:underline; font-weight:700;">Same Day Agra Tour by Car</a> when time is limited. Every trip can be tailored around your hotel style, guide language, pickup city, flight schedule and preferred pace, so Google and guests see the same thing: clear, useful travel pages connected by real routes.
+              </p>
+            </div>
+          </div>
+          <div class="row justify-content-center" style="margin-top:20px;">
+            <div class="col-xl-10">
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="home-seo-faq">
+                <div class="accrodion active">
+                  <div class="accrodion-title"><h4>Which Touranzza tour should I choose first?</h4></div>
+                  <div class="accrodion-content"><div class="inner"><p style="margin-top:0.75rem;">Choose a Golden Triangle tour if this is your first India visit. Choose a Rajasthan tour if you want forts, desert landscapes and palace hotels. Choose a same-day tour if you are short on time but want a private Taj Mahal, Delhi or Jaipur experience.</p></div></div>
+                </div>
+                <div class="accrodion active">
+                  <div class="accrodion-title"><h4>Are Touranzza itineraries private and customizable?</h4></div>
+                  <div class="accrodion-content"><div class="inner"><p style="margin-top:0.75rem;">Yes. Most Touranzza journeys are planned as private tours with flexible routing, vehicle type, hotel category, guides and add-on experiences such as sunrise monument visits, food walks, shopping stops, desert safaris or backwater extensions.</p></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <!-- Tour Listing One Start -->
       <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.webp);">
         <div class="container">
@@ -1760,29 +1826,29 @@
             }
             }'>
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-        
+
       </div>
-      
+
     </div>
-    
+
   </div> -->
     <!-- /.client-carousel -->
     <!-- About Start -->

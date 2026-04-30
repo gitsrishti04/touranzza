@@ -4,6 +4,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-6-days" />
   <title>Golden Triangle Tour 6 Days | Luxury Delhi Agra Jaipur Cultural Journey</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -311,7 +313,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -322,7 +324,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -333,7 +335,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -344,7 +346,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -355,7 +357,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -421,11 +423,7 @@
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">The Golden Triangle Tour 6 Days is one of the most comfortable ways to experience Delhi, Agra and Jaipur because it gives each city enough breathing room. Rather than rushing from one monument to the next, you can enjoy guided sightseeing, photography time, relaxed drives, local markets and optional upgrades such as luxury hotels or specialist guides. The route covers Old Delhi, Qutub Minar, Humayun's Tomb, the Taj Mahal, Agra Fort, Fatehpur Sikri, Amer Fort, Hawa Mahal, City Palace and Jaipur bazaars. If you want a fuller North India journey after this route, consider the <a href="desert-tour-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Rajasthan Desert Tour</a> or the <a href="golden-triangle-tour-with-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Rajasthan</a>.</p>
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -601,6 +599,19 @@
               </div>
               <!-- /.row -->
             </div>
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Golden Triangle Tour 6 Days FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="priority-seo-faq">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title"><h4>Is 6 days a good duration for Delhi Agra Jaipur?</h4></div>
+                  <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes, 6 days is one of the most comfortable durations for the Golden Triangle because it allows better sightseeing time, smoother drives and less rushed monument visits.</p></div></div>
+                </div>
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title"><h4>What can I combine with the 6-day Golden Triangle tour?</h4></div>
+                  <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Popular extensions include the Rajasthan Desert Tour, Ranthambore, Udaipur, Varanasi, Ajmer Pushkar and the longer Golden Triangle with Rajasthan journey.</p></div></div>
+                </div>
+              </div>
+            </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
           <div class="col-xl-4">
@@ -609,7 +620,7 @@
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -645,7 +656,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -666,7 +677,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -737,7 +748,7 @@
     <div class="search-popup__overlay search-toggler"></div>
     <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
         <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
             class="icon-search"></span> </button>

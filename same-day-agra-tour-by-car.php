@@ -160,7 +160,7 @@
             </div>
             <!-- /.overview -->
 
-            
+
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -333,9 +333,9 @@
                 <h2 class="tour-listing-details__title tour-listing-details__overview-title">Why Choose This Agra Tour from Delhi?</h2>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">This experience is ideal for travelers looking for best India tours that combine flexibility, comfort, and cultural depth. Unlike group travel, this private Taj Mahal tour from Delhi allows you to explore at your own pace while enjoying personalized attention.</p>
-              
+
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">For those searching for Agra tour packages, same day Taj Mahal tour, or a seamless India trip experience, this journey offers the perfect balance of convenience and authenticity—making it one of the most rewarding day trips in India travel.</p>
-              
+
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">More Ways to Explore</h3>
               </div>
@@ -389,7 +389,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -410,7 +410,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>

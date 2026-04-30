@@ -6,7 +6,7 @@
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a></h5>
-                    <div class="tour-listing-sidebar-post__location"> 
+                    <div class="tour-listing-sidebar-post__location">
                       <!-- <p class="tour-listing-sidebar-post__location-text text-small">Main Street, Brooklyn, NY</p> -->
                     </div>
                   </div>
@@ -26,7 +26,7 @@
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="rajasthan-tours">Royal Rajasthan Retreats</a></h5>
-                    <div class="tour-listing-sidebar-post__location"> 
+                    <div class="tour-listing-sidebar-post__location">
                       <!-- <p class="tour-listing-sidebar-post__location-text text-small">Main Street, Brooklyn, NY</p> -->
                     </div>
                   </div>

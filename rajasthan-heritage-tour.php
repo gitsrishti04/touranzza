@@ -167,7 +167,7 @@
             </div>
             <!-- /.overview -->
 
-            
+
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -351,7 +351,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 11</span> Jaipur to Agra via Fatehpur Sikri</h4>
@@ -585,7 +585,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -606,7 +606,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>

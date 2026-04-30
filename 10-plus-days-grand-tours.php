@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>10+ Days Grand Tours | Epic Luxury India Journeys</title>
+
+  <link rel="canonical" href="https://touranzza.com/10-plus-days-grand-tours" />
+  <title>10+ Days Grand Tours | Epic Luxury India Journeys</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -100,8 +102,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="rajasthan-heritage-tour">Rajasthan
                                         Heritage Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -162,8 +163,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="fort-and-palaces-tour">Fort And
                                         Palaces Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -224,8 +224,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-kerala">Imperial Golden Triangle Tour With
                                         Kerala</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -287,8 +286,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi">Imperial Golden Triangle Tour With
                                         Orchha, Khajuraho & Varanasi</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>

@@ -160,7 +160,7 @@
 
               <!-- INTERLINK 1 → GT 5 Days (core page) -->
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.4s" data-wow-duration="1500ms">If your schedule allows only the core circuit, our <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">5-day Golden Triangle private tour</a> covers Delhi, Agra and Jaipur in the ideal balance of depth and efficiency — the natural foundation for this extended journey.</p>
-              
+
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -519,7 +519,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -540,7 +540,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>

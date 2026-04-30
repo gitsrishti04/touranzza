@@ -12,7 +12,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
-    <link rel="canonical" href="https://touranzza.com/contact" />
+  <link rel="canonical" href="https://touranzza.com/contact" />
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

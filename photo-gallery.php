@@ -12,7 +12,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Explore our photo gallery of luxury India tours. See stunning images of the Taj Mahal, Rajasthan palaces, Golden Triangle destinations, and memorable travel experiences." />
-    <link rel="canonical" href="https://touranzza.com/photo-gallery" />
+  <link rel="canonical" href="https://touranzza.com/photo-gallery" />
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",

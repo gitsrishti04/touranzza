@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tour Packages | Luxury India Travel Itineraries</title>
+
+  <link rel="canonical" href="https://touranzza.com/tour-packages" />
+  <title>Tour Packages | Luxury India Travel Itineraries</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -179,7 +181,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <!-- Rajasthan -->
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">

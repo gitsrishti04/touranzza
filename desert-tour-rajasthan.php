@@ -4,14 +4,62 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+
+  <link rel="canonical" href="https://touranzza.com/desert-tour-rajasthan" />
+  <title>Rajasthan Desert Tour | Private Mandawa Bikaner Jaisalmer Journey</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Book a private Rajasthan Desert Tour through Delhi, Mandawa, Bikaner and Jaisalmer with forts, havelis, desert heritage, private car and custom hotels." />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "TouristTrip",
+        "@id": "https://touranzza.com/desert-tour-rajasthan#tour",
+        "name": "Rajasthan Desert Tour",
+        "description": "Private Rajasthan desert journey covering Delhi, Mandawa, Bikaner and Jaisalmer with painted havelis, forts, desert architecture and customized private travel.",
+        "touristType": ["Culture travelers", "Families", "Couples", "Luxury travelers"],
+        "itinerary": [
+          "Delhi arrival and transfer",
+          "Delhi to Mandawa havelis",
+          "Mandawa to Bikaner",
+          "Bikaner sightseeing and desert heritage",
+          "Bikaner to Jaisalmer",
+          "Jaisalmer fort, havelis and desert experience"
+        ],
+        "provider": {
+          "@type": "TravelAgency",
+          "name": "Touranzza",
+          "url": "https://touranzza.com/"
+        },
+        "image": "https://touranzza.com/assets/images/tours/jaisalmer-1.webp",
+        "url": "https://touranzza.com/desert-tour-rajasthan"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://touranzza.com/desert-tour-rajasthan#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What places are included in the Rajasthan Desert Tour?",
+            "acceptedAnswer": {"@type": "Answer", "text": "The tour includes Delhi, Mandawa, Bikaner and Jaisalmer, with painted havelis, forts, desert heritage, markets and optional desert safari or cultural experiences."}
+          },
+          {
+            "@type": "Question",
+            "name": "Can this desert tour be combined with the Golden Triangle?",
+            "acceptedAnswer": {"@type": "Answer", "text": "Yes, the Rajasthan Desert Tour can be combined with Delhi, Agra and Jaipur for a longer Golden Triangle with Rajasthan itinerary."}
+          }
+        ]
+      }
+    ]
+  }
+  </script>
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -96,7 +144,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/mandawa2.webp"}, {"src": "assets/images/tours/mandawa1.webp"}, {"src": "assets/images/tours/bikaner-2.webp"}, {"src": "assets/images/tours/jaisalmer-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -107,7 +155,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mandawa2.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/mandawa2.webp"}, {"src": "assets/images/tours/mandawa1.webp"}, {"src": "assets/images/tours/bikaner-2.webp"}, {"src": "assets/images/tours/jaisalmer-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -118,7 +166,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mandawa1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/mandawa2.webp"}, {"src": "assets/images/tours/mandawa1.webp"}, {"src": "assets/images/tours/bikaner-2.webp"}, {"src": "assets/images/tours/jaisalmer-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -129,7 +177,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/bikaner-2.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/mandawa2.webp"}, {"src": "assets/images/tours/mandawa1.webp"}, {"src": "assets/images/tours/bikaner-2.webp"}, {"src": "assets/images/tours/jaisalmer-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -140,7 +188,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaisalmer-1.webp"
                 alt="listing-details-carousel">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/mandawa2.webp"}, {"src": "assets/images/tours/mandawa1.webp"}, {"src": "assets/images/tours/bikaner-2.webp"}, {"src": "assets/images/tours/jaisalmer-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -207,11 +255,7 @@
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">The Rajasthan Desert Tour is designed for travelers who want to go beyond the Golden Triangle and experience the desert edge of Rajasthan through historic towns, painted havelis, forts and golden sandstone landscapes. The route links Delhi with Mandawa, Bikaner and Jaisalmer, giving you a strong mix of Shekhawati frescoes, desert architecture, royal history and cultural encounters. It works beautifully after a <a href="golden-triangle-tour-6-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle Tour 6 Days</a> or as a focused Rajasthan itinerary for guests who prefer forts, dunes, heritage hotels and slow private travel. Touranzza can customize the desert safari, hotel category, guide services, pickup city and onward route to Jaipur, Jodhpur or Udaipur.</p>
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -446,6 +490,31 @@
               </div>
               <!-- /.row -->
             </div>
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Rajasthan Desert Tour FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="desert-tour-seo-faq">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>What makes this Rajasthan Desert Tour different?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">This route focuses on Rajasthan's desert-side heritage: Mandawa's painted havelis, Bikaner's royal architecture and Jaisalmer's golden fort city. It is private, flexible and easy to extend toward Jaipur, Jodhpur, Udaipur or the Golden Triangle.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Can I add a desert safari or heritage hotel?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, Touranzza can add Jaisalmer desert safari options, heritage hotels, private guides, cultural evenings, camel cart experiences and onward travel to the Golden Triangle or wider Rajasthan.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
           <div class="col-xl-4">
@@ -454,7 +523,7 @@
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -490,7 +559,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -511,7 +580,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -582,7 +651,7 @@
     <div class="search-popup__overlay search-toggler"></div>
     <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
         <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
             class="icon-search"></span> </button>

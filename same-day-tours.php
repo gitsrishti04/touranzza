@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Same Day Tours | Private Day Experiences in India</title>
+
+  <link rel="canonical" href="https://touranzza.com/same-day-tours" />
+  <title>Same Day Tours | Private Day Experiences in India</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -100,8 +102,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="same-day-agra-tour-by-car">Same Day
                                         Agra Tour By Car</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -159,8 +160,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="same-day-agra-tour-by-train">Same Day
                                         Agra Tour By Train</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -219,8 +219,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="same-day-agra-tour-by-gatimaan-express">Same Day Agra Tour By Gatimaan
                                         Express</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -278,8 +277,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="taj-mahal-sunrise-tour">Taj Mahal
                                         Sunrise Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -337,8 +335,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="same-day-delhi-tour">Same Day Delhi
                                         Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -396,8 +393,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="same-day-jaipur-tour">Same Day Jaipur
                                         Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>

@@ -201,7 +201,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp"
                 alt="Delhi sightseeing on Golden Triangle Tour 7 Days">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -212,7 +212,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
                 alt="Old Delhi and New Delhi heritage tour">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -223,7 +223,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp"
                 alt="Taj Mahal sunrise tour in Agra India">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -234,7 +234,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp"
                 alt="Agra Fort sightseeing on Delhi Agra Jaipur tour">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -245,7 +245,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp"
                 alt="Jaipur Amer Fort visit on Golden Triangle itinerary">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->

@@ -9,12 +9,12 @@
   <meta name="keywords" content="golden triangle tour udaipur, 7 day India tour, Delhi Agra Jaipur Udaipur, luxury India tours, Rajasthan tour package, Taj Mahal tour, best India itinerary, exotic Udaipur tours" />
   <meta name="author" content="Touranzza" />
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-with-udaipur.php" />
+  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-with-udaipur" />
   <!-- Open Graph Tags -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="7 Days Golden Triangle Tour With Udaipur - Luxury Rajasthan Experience" />
   <meta property="og:description" content="Explore Delhi, Agra, Jaipur, and Udaipur in 7 days with luxury accommodations, guided sightseeing, and authentic experiences." />
-  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-with-udaipur.php" />
+  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-with-udaipur" />
   <meta property="og:image" content="https://touranzza.com/assets/images/tours/delhi-tours3.webp" />
   <!-- Twitter Card Tags -->
   <meta name="twitter:card" content="summary_large_image" />
@@ -64,7 +64,7 @@
     "@type": "Tour",
     "name": "7 Days Golden Triangle Tour With Udaipur",
     "description": "Experience the best of India's cultural and historical heritage with our 7-day tour covering Delhi, Agra, Jaipur, and the stunning lake city of Udaipur.",
-    "url": "https://touranzza.com/golden-triangle-tour-with-udaipur.php",
+    "url": "https://touranzza.com/golden-triangle-tour-with-udaipur",
     "image": "https://touranzza.com/assets/images/tours/delhi-tours3.webp",
     "duration": "P7D",
     "itinerary": {
@@ -122,19 +122,19 @@
         "@type": "ListItem",
         "position": 2,
         "name": "Tours",
-        "item": "https://touranzza.com/tour-packages.php"
+        "item": "https://touranzza.com/tour-packages"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Golden Triangle Tours",
-        "item": "https://touranzza.com/golden-triangle-tours.php"
+        "item": "https://touranzza.com/golden-triangle-tours"
       },
       {
         "@type": "ListItem",
         "position": 4,
         "name": "7 Days Golden Triangle Tour With Udaipur",
-        "item": "https://touranzza.com/golden-triangle-tour-with-udaipur.php"
+        "item": "https://touranzza.com/golden-triangle-tour-with-udaipur"
       }
     ]
   }
@@ -193,7 +193,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.webp"
                 alt="Delhi monuments - Red Fort and Old Delhi heritage architecture">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -204,7 +204,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
                 alt="Delhi sightseeing - India Gate and historic colonial architecture">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -215,7 +215,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp"
                 alt="Taj Mahal Agra - iconic white marble monument at sunrise">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -226,7 +226,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp"
                 alt="Jaipur Hawa Mahal and pink city palace architecture">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -237,7 +237,7 @@
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/udaipur-tour1.webp"
                 alt="Udaipur City Palace and Lake Pichola - romantic lake city">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
@@ -482,7 +482,7 @@
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h2 class="tour-listing-details__sidebar-title">Book Your Tour Now</h2>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -518,7 +518,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -539,7 +539,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -610,7 +610,7 @@
     <div class="search-popup__overlay search-toggler"></div>
     <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
         <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
             class="icon-search"></span> </button>

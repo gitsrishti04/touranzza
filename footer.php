@@ -237,12 +237,12 @@
       <li> <i class="fa fa-phone-alt"></i> <a href="tel:+919837105911">+91-9837105911</a> </li>
     </ul>
     <!-- /.mobile-nav__contact -->
-    <div class="mobile-nav__social"> 
-      <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a> 
-      <a href="https://www.linkedin.com/company/touranzza/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin-in" aria-hidden="true"></i> <span class="sr-only">LinkedIn</span> </a> 
-      <a href="https://share.google/Bwu2Uwfy6zNyqPp0X" target="_blank" rel="noopener noreferrer"> <i class="fab fa-google" aria-hidden="true"></i> <span class="sr-only">Google</span> </a> 
-      <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a> 
-      <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a> 
+    <div class="mobile-nav__social">
+      <a href="https://www.facebook.com/share/1DU6ep6f9V/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a>
+      <a href="https://www.linkedin.com/company/touranzza/" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin-in" aria-hidden="true"></i> <span class="sr-only">LinkedIn</span> </a>
+      <a href="https://share.google/Bwu2Uwfy6zNyqPp0X" target="_blank" rel="noopener noreferrer"> <i class="fab fa-google" aria-hidden="true"></i> <span class="sr-only">Google</span> </a>
+      <a href="https://www.tripadvisor.in/Profile/touranzza" target="_blank" rel="noopener noreferrer"> <i class="fab fa-tripadvisor" aria-hidden="true"></i> <span class="sr-only">TripAdvisor</span> </a>
+      <a href="https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==" target="_blank" rel="noopener noreferrer"> <i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a>
     </div>
     <!-- /.mobile-nav__social -->
   </div>

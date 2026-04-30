@@ -4,7 +4,9 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>6 to 10 Days Expeditions | Extended Luxury India Tours</title>
+
+  <link rel="canonical" href="https://touranzza.com/6-to-10-days-expeditions" />
+  <title>6 to 10 Days Expeditions | Extended Luxury India Tours</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -116,8 +118,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="royal-rajasthan-tour">Royal Rajasthan
                                         Tour</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -193,8 +194,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="desert-tour-rajasthan">Desert Tour
                                         Rajasthan</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -270,8 +270,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-6-days">Golden
                                         Triangle Tour 6 Days</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -346,8 +345,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-7-days">Golden
                                         Triangle Tour 7 Days</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -424,8 +422,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-ajmer-and-pushkar">Imperial Golden Triangle Tour With
                                         Ajmer Pushkar</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -502,8 +499,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-amritsar">Imperial Golden Triangle Tour With
                                         Amritsar</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -579,8 +575,7 @@
                                 </div><!-- /.tour-listing__card-camera-group -->
                                 <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-goa">Golden
                                         Triangle Tour With Goa</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -658,8 +653,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-haridwar-and-rishikesh">Imperial Golden Triangle Tour
                                         With Haridwar Rishikesh</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -736,8 +730,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-rajasthan">Imperial Golden Triangle Tour With
                                         Rajasthan</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -815,8 +808,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-ranthambore">Imperial Golden Triangle Tour With
                                         Ranthambore</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -893,8 +885,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-varanasi">Imperial Golden Triangle Tour With
                                         Varanasi</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -971,8 +962,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-mumbai">Imperial Golden Triangle Tour With Mumbai</a>
                                 </h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -1050,8 +1040,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-orchha-khajuraho">Imperial Golden Triangle Tour With
                                         Orchha Khajuraho</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>
@@ -1129,8 +1118,7 @@
                                 <h3 class="tour-listing__card-title"><a
                                         href="golden-triangle-tour-with-udaipur">Imperial Golden Triangle Tour With
                                         Udaipur</a></h3>
-                                <p class="tour-listing__card-text text-small">There are many variations of passages of
-                                    Lorem Ipsum agtilable</p>
+                                <p class="tour-listing__card-text text-small">Private India tour package with curated sightseeing, comfortable transfers, expert local support and flexible planning by Touranzza.</p>
                                 <div class="tour-listing__card-inner-content">
                                     <div class="tour-listing__card-review-box">
                                         <span class="icon-star"></span>

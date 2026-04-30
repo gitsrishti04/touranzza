@@ -4,6 +4,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <link rel="canonical" href="https://touranzza.com/testimonials" />
   <title>Touranzza</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -45,7 +47,7 @@
     .testimonial-one {
       padding-bottom: 40px !important;
     }
-    
+
     .testimonial-one__carousel .owl-nav {
       position: absolute !important;
       top: 50% !important;

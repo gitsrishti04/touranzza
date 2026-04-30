@@ -13,14 +13,14 @@
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
   <meta name="description" content="A 9-day private Royal Rajasthan tour through Delhi, Agra, Jaipur, Jodhpur & Udaipur. See the Taj Mahal and Rajput forts with private car and local guides." />
   <link rel="canonical" href="https://touranzza.com/royal-rajasthan-tour" />
-  
+
   <!-- Open Graph -->
   <meta property="og:title" content="Royal Rajasthan Tour — 9-Day Private Heritage Journey | Touranzza" />
   <meta property="og:description" content="Travel privately through Delhi, Agra, Jaipur, Jodhpur and Udaipur on a nine-day Royal Rajasthan tour. Heritage hotels, expert guides, and a pace built for real exploration." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://touranzza.com/royal-rajasthan-tour" />
   <meta property="og:image" content="https://touranzza.com/assets/images/tours/udaipur-tour2.webp" />
-  
+
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -28,7 +28,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,400;0,700;0,800;1,800&amp;display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Manrope&amp;display=swap" rel="stylesheet">
-  
+
   <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
   <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
   <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
@@ -79,35 +79,35 @@
           }'>
             <div class="tour-listing-details__top-carousel-item item">
               <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.webp" alt="Humayun's Tomb gardens in Delhi">
-                <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
               <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.webp" alt="Taj Mahal at sunrise on a Royal Rajasthan tour">
-                <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
               <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/udaipur-tour2.webp" alt="Boat on Lake Pichola with Udaipur City Palace behind">
-                <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
               <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/udaipur-tour1.webp" alt="Private car and driver for Royal Rajasthan Retreats">
-                <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
               <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp" alt="Amber Fort overlooking Maota Lake near Jaipur">
-                <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+                <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
@@ -115,7 +115,7 @@
           </div>
         </div>
       </div>
-      
+
       <div class="tour-listing-details__destination">
         <div class="container">
           <div class="tour-listing-details__destination-row row">
@@ -147,7 +147,7 @@
           </div>
         </div>
       </div>
-      
+
       <div class="container">
         <div class="tour-listing-details__row row">
           <div class="col-xl-8">
@@ -160,7 +160,7 @@
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">Throughout, the tour is private. It is not a bus circuit. A dedicated car and driver travel with you from Delhi to Udaipur, each city has its own local guide, and the pace is built for travellers who want to see deeply rather than quickly. Hotels are selected for character — a mix of heritage properties and carefully chosen boutique addresses — and every detail, from airport pickup to evening transfers, is handled.</p>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.4s" data-wow-duration="1500ms">It's an ideal first Rajasthan journey. Elegant, well-paced, and quietly looked after from start to finish.</p>
             </div>
-            
+
             <div class="tour-listing-details__included">
               <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
@@ -208,7 +208,7 @@
             <div class="tour-listing-details__plan">
               <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 1</span> Arrival in Delhi</h4>
@@ -219,7 +219,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 2</span> Exploring Old &amp; New Delhi</h4>
@@ -427,7 +427,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h3>Can the itinerary be customised?</h3>
@@ -460,7 +460,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h3>Do you assist with flights and visas?</h3>
@@ -485,13 +485,13 @@
 
               </div>
             </div>
-            
+
             <div class="tour-listing-details__overview">
               <br>
               <h3 class="tour-listing-details__title tour-listing-details__overview-title">Related Tours You May Like</h3>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">Looking to extend beyond the Golden Triangle with more architecture? See our <a href="fort-and-palaces-tour" style="color: inherit; text-decoration: underline; font-weight: 600;">11-Day Forts &amp; Palaces Tour</a>. Alternatively, if you want a faster-paced Rajasthan option, look at our <a href="rajasthan-heritage-tour" style="color: inherit; text-decoration: underline; font-weight: 600;">Rajasthan Heritage Tour</a>.</p>
             </div>
-            
+
           </div>
           <!-- /.col-xl-8 -->
 
@@ -534,7 +534,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -555,7 +555,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>

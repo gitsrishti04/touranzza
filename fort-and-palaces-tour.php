@@ -19,7 +19,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://touranzza.com/fort-and-palaces-tour" />
   <meta property="og:image" content="https://touranzza.com/assets/images/tours/jaipur-tours1.webp" />
-  
+
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -76,35 +76,35 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp" alt="Private car and chauffeur for Rajasthan heritage tour">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours1.webp" alt="Amber Fort above Maota Lake near Jaipur Rajasthan">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/ajmer.webp" alt="Ajmer Sharif Dargah entrance courtyard Rajasthan">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/pushkar.webp" alt="Pushkar Brahma Temple and lake ghats at sunset">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mount-abu.webp" alt="Dilwara Temples intricate marble carving Mount Abu">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
@@ -143,7 +143,7 @@
           </div>
         </div>
       </div>
-      
+
       <div class="container">
         <div class="tour-listing-details__row row">
           <div class="col-xl-8">
@@ -155,7 +155,7 @@
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">It is a tour for travellers who want to understand Rajasthan rather than simply see it. Between the great strongholds, you'll spend time in the Sufi shrine town of Ajmer and at Pushkar's lakeside Brahma temple, where the register shifts from royal to sacred. Udaipur brings lakes and mirror-inlaid palaces. Mount Abu — Rajasthan's only hill station — offers a cooler pause and the astonishing Dilwara Jain temples, some of the finest marble carving anywhere in India. The tour closes in Jodhpur, where the blue city unfolds beneath Mehrangarh and Umaid Bhawan looms from its sandstone ridge.</p>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">The pace is unhurried by design. You travel privately throughout — your own vehicle, a chauffeur who remains with you across the route, and a qualified local guide in each city. Heritage hotel upgrades are available wherever you would like to sleep inside the architecture itself.</p>
             </div>
-            
+
             <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
             </div>
@@ -166,7 +166,7 @@
               <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Short on time? Do a quick <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a>.</li>
               <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> Tailor your perfect trip: <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a>.</li>
             </ul>
-            
+
             <div class="tour-listing-details__included">
               <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
@@ -224,7 +224,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h4><span>Day 2</span> A Full Day in Old &amp; New Delhi</h4>
@@ -465,7 +465,7 @@
                     </div>
                   </div>
                 </div>
-                
+
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
                     <h3>Can we stay in heritage or palace hotels?</h3>
@@ -490,13 +490,13 @@
 
               </div>
             </div>
-            
+
             <div class="tour-listing-details__overview">
               <br>
               <h3 class="tour-listing-details__title tour-listing-details__overview-title">Related Tours You May Like</h3>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">If you're seeking a more extensive itinerary mapping both the Golden Triangle and Rajasthan proper, consider our <a href="rajasthan-heritage-tour" style="color: inherit; text-decoration: underline; font-weight: 600;">12-Day Rajasthan Heritage Tour</a>. Alternatively, if you're looking for an arid twist, our <a href="desert-tour-rajasthan" style="color: inherit; text-decoration: underline; font-weight: 600;">Desert Tour</a> delivers the magic of the Thar ecosystem.</p>
             </div>
-            
+
           </div>
           <!-- /.col-xl-8 -->
 
@@ -539,7 +539,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -560,7 +560,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>

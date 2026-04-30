@@ -144,35 +144,35 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp" alt="Kashi Vishwanath Temple corridor">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp" alt="Taj Mahal on Golden Triangle Varanasi tour">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-4.webp" alt="Sarnath Dhamek Stupa">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours3.webp" alt="Amber Fort Jaipur Rajasthan">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/varanasi-tours-1.webp" alt="Sunrise boat on River Ganges Ganga Aarti ceremony Varanasi">
-              <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
+              <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipur-tours3.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
@@ -222,7 +222,7 @@
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">Some journeys introduce India. Others reveal its deeper soul. This Imperial Golden Triangle Tour with Varanasi is designed to do both—combining Delhi's layered empires, Agra's timeless Mughal grandeur, Jaipur's royal Rajasthan elegance, and finally Varanasi, India's oldest living city, where faith and ritual unfold daily along the Ganges.</p>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">Over ten thoughtfully paced days, travelers move from imperial capitals and UNESCO landmarks to sacred riverfront ceremonies that have shaped Indian civilization for millennia. Witness the Taj Mahal, Amber Fort, bustling bazaars, and architectural masterpieces before arriving in Varanasi, where sunrise boat rides, temple bells, and the evening Ganga Aarti offer an entirely different dimension of India.</p>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">This is not simply a sightseeing circuit—it is a carefully curated first-time India journey that balances history, spirituality, and cultural depth. With private transfers, expert local guides, seamless domestic connections, and handpicked stays, it is ideal for international travelers seeking India's most iconic landmarks alongside its most profound spiritual experiences.</p>
-              
+
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -278,7 +278,7 @@
                 </div>
               </div>
             </div>
-            
+
             <div class="tour-listing-details__plan">
               <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
@@ -448,7 +448,7 @@
                 </div>
               </div>
             </div>
-            
+
             <div class="tour-listing-details__included" style="margin-top:-30px;">
               <h3 class="tour-listing-details__title tour-listing-details__included-title">What&rsquo;s Not Included</h3>
               <div class="row">
@@ -580,7 +580,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -601,7 +601,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
