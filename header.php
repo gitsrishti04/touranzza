@@ -233,6 +233,7 @@
 
     .tour-pkg-dropdown>.sub-menu {
       display: none;
+      pointer-events: none;
       position: absolute !important;
       left: 50% !important;
       right: auto !important;
@@ -254,12 +255,10 @@
       max-height: calc(100vh - 170px) !important;
     }
 
-    /* Only open when hovering/clicking the Tour Packages link (or the menu itself) */
-    .tour-pkg-dropdown > a:hover + .sub-menu,
-    .tour-pkg-dropdown > a:focus + .sub-menu,
-    .tour-pkg-dropdown > a:active + .sub-menu,
-    .tour-pkg-dropdown > .sub-menu:hover {
+    /* Open state (JS controlled) */
+    .tour-pkg-dropdown.is-open > .sub-menu {
       display: grid !important;
+      pointer-events: auto;
     }
 
     /* Each category column */
@@ -391,3 +390,74 @@
     }
   }
 </style>
+
+<script>
+  (function () {
+    var mq = window.matchMedia && window.matchMedia('(min-width: 1200px)');
+    if (!mq || !mq.matches) return;
+
+    var li = document.querySelector('.tour-pkg-dropdown');
+    if (!li) return;
+    var trigger = li.querySelector(':scope > a');
+    var menu = li.querySelector(':scope > .sub-menu');
+    if (!trigger || !menu) return;
+
+    var closeTimer = null;
+    var openTimer = null;
+    function openMenu() {
+      if (closeTimer) {
+        clearTimeout(closeTimer);
+        closeTimer = null;
+      }
+      if (openTimer) {
+        clearTimeout(openTimer);
+        openTimer = null;
+      }
+      li.classList.add('is-open');
+      trigger.setAttribute('aria-expanded', 'true');
+    }
+
+    function closeMenu() {
+      if (openTimer) {
+        clearTimeout(openTimer);
+        openTimer = null;
+      }
+      li.classList.remove('is-open');
+      trigger.setAttribute('aria-expanded', 'false');
+    }
+
+    function scheduleOpen() {
+      if (closeTimer) {
+        clearTimeout(closeTimer);
+        closeTimer = null;
+      }
+      if (openTimer) clearTimeout(openTimer);
+      // Hover-intent: only open if user actually hovers the link briefly.
+      openTimer = setTimeout(openMenu, 240);
+    }
+
+    function scheduleClose() {
+      if (closeTimer) clearTimeout(closeTimer);
+      closeTimer = setTimeout(closeMenu, 140);
+    }
+
+    trigger.setAttribute('aria-haspopup', 'true');
+    trigger.setAttribute('aria-expanded', 'false');
+
+    // Hover-only dropdown. Click should navigate to Tour Packages page.
+    trigger.addEventListener('pointerenter', scheduleOpen);
+    trigger.addEventListener('pointerleave', scheduleClose);
+
+    // Keep open while interacting with the dropdown itself.
+    menu.addEventListener('pointerenter', openMenu);
+    menu.addEventListener('pointerleave', scheduleClose);
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeMenu();
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!li.contains(e.target)) closeMenu();
+    });
+  })();
+</script>
