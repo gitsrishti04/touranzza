@@ -4,9 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <link rel="canonical" href="https://touranzza.com/" />
-  <title>Touranzza | Luxury India Tours, Golden Triangle & Rajasthan Travel</title>
+  <title>Touranzza | Luxury India Tours & Bespoke Travel Experiences</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -14,7 +12,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
   <meta name="description"
-    content="Plan private luxury India tours with Touranzza, including Golden Triangle tours, Rajasthan desert journeys, Taj Mahal day trips and bespoke cultural travel." />
+    content="Touranzza offers luxury India tours, bespoke Golden Triangle packages, royal Rajasthan journeys, and same-day experiences designed for upscale travelers." />
   <!-- Schema -->
   <script type="application/ld+json">
   {
@@ -56,38 +54,6 @@
       "https://www.tripadvisor.in/Profile/touranzza"
     ],
     "openingHours": "Mo-Sa 09:00-19:00"
-  }
-  </script>
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What tours does Touranzza specialize in?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Touranzza specializes in private India tours including Golden Triangle tours, Rajasthan heritage tours, desert tours, Taj Mahal day tours, same-day city experiences and bespoke luxury journeys across North India."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can Touranzza customize a private India itinerary?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, Touranzza customizes routes, hotels, private guides, vehicle types, pickup locations, travel pace and special experiences for couples, families and small groups."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Which India tour is best for first-time visitors?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The Golden Triangle tour covering Delhi, Agra and Jaipur is the best first India itinerary because it includes the Taj Mahal, Mughal heritage, Rajput palaces, markets and comfortable road connections."
-        }
-      }
-    ]
   }
   </script>
   <script type="application/ld+json">
@@ -510,6 +476,154 @@
       border-top: 1px solid #f2f2f2 !important;
       padding-top: 15px !important;
     }
+
+    /* ── Home SEO block: compact + expandable ── */
+    .home-seo {
+      padding: 30px 0 10px;
+    }
+
+    .home-seo__card {
+      max-width: 980px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.92);
+      border: 1px solid rgba(0, 0, 0, 0.06);
+      border-radius: 18px;
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.08);
+      padding: 22px 22px;
+      backdrop-filter: blur(6px);
+    }
+
+    .home-seo__tagline {
+      margin: 0 0 6px;
+      font-size: 13px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: var(--trevlo-base, #d1a317);
+      font-weight: 700;
+      text-align: center;
+    }
+
+    .home-seo__title {
+      margin: 0 0 12px;
+      text-align: center;
+      font-size: 30px;
+      line-height: 1.2;
+    }
+
+    .home-seo__details {
+      margin: 0;
+    }
+
+    .home-seo__summary {
+      list-style: none;
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      font-weight: 800;
+      color: #111;
+      padding: 10px 10px 0;
+    }
+
+    .home-seo__summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .home-seo__chev {
+      width: 34px;
+      height: 34px;
+      border-radius: 999px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0, 0, 0, 0.06);
+      transition: transform 200ms ease;
+      flex: 0 0 auto;
+    }
+
+    details[open] .home-seo__chev {
+      transform: rotate(180deg);
+    }
+
+    .home-seo__text {
+      color: #111;
+      font-size: 16px;
+      line-height: 1.8;
+      text-align: center;
+      margin: 10px auto 0;
+    }
+
+    .home-seo__text a {
+      color: inherit;
+      text-decoration: underline;
+      font-weight: 700;
+      text-underline-offset: 3px;
+    }
+
+    .home-seo__preview {
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      max-width: 900px;
+    }
+
+    .home-seo__full {
+      max-width: 900px;
+    }
+
+    .home-seo__faq {
+      margin-top: 14px;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: left;
+    }
+
+    .home-seo__faq details {
+      background: rgba(0, 0, 0, 0.03);
+      border-radius: 12px;
+      padding: 10px 14px;
+      margin: 10px 0;
+    }
+
+    .home-seo__faq summary {
+      cursor: pointer;
+      font-weight: 800;
+      list-style: none;
+    }
+
+    .home-seo__faq summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .home-seo__faq p {
+      margin: 10px 0 0;
+      color: #222;
+      line-height: 1.7;
+    }
+
+    @media (max-width: 767px) {
+      .home-seo {
+        padding: 20px 0 0;
+      }
+
+      .home-seo__card {
+        padding: 18px 16px;
+        border-radius: 16px;
+      }
+
+      .home-seo__title {
+        font-size: 24px;
+      }
+
+      .home-seo__text {
+        font-size: 15px;
+        text-align: left;
+      }
+    }
   </style>
 </head>
 
@@ -525,7 +639,7 @@
     "loop": true,
     "smartSpeed": 700,
     "animateOut": "fadeOut",
-    "autoplayTimeout": 5000,
+    "autoplayTimeout": 5000, 
     "nav": true,
     "navText": ["<span class=&apos;icon-left-arrow&apos;></span>","<span class=&apos;icon-right-arrow&apos;></span>"],
     "dots": false,
@@ -628,38 +742,6 @@
     <!-- main-slider-end -->
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
-      <section class="tour-listing-one" style="padding: 70px 0 25px;">
-        <div class="container">
-          <div class="sec-title text-center">
-            <p class="sec-title__tagline">Private India Travel, Planned With Care</p>
-            <h1 class="sec-title__title">Luxury India Tours by Touranzza</h1>
-          </div>
-          <div class="row justify-content-center">
-            <div class="col-xl-10">
-              <p class="tour-listing-details__overview-text" style="color:#000; font-size:17px; line-height:1.8; text-align:center;">
-                Touranzza creates private luxury India tours for travelers who want more than a rushed checklist. Our itineraries bring together personal drivers, handpicked hotels, expert local guides and thoughtful pacing across India's most rewarding routes. First-time visitors often begin with the <a href="golden-triangle-tour-3-days" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle Tour 3 Days</a>, the <a href="golden-triangle-tour-4-days" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle Tour 4 Days</a> or the more relaxed <a href="golden-triangle-tour-6-days" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle Tour 6 Days</a>, each covering Delhi, Agra, Jaipur and the Taj Mahal with private comfort.
-              </p>
-              <p class="tour-listing-details__overview-text" style="color:#000; font-size:17px; line-height:1.8; text-align:center;">
-                For travelers who want deeper culture, we extend the route into Rajasthan's palaces, desert towns and sacred cities. You can pair the Taj Mahal with the <a href="desert-tour-rajasthan" style="color:inherit; text-decoration:underline; font-weight:700;">Rajasthan Desert Tour</a>, explore forts and lake palaces on the <a href="golden-triangle-tour-with-rajasthan" style="color:inherit; text-decoration:underline; font-weight:700;">Golden Triangle with Rajasthan</a>, or choose a short <a href="same-day-agra-tour-by-car" style="color:inherit; text-decoration:underline; font-weight:700;">Same Day Agra Tour by Car</a> when time is limited. Every trip can be tailored around your hotel style, guide language, pickup city, flight schedule and preferred pace, so Google and guests see the same thing: clear, useful travel pages connected by real routes.
-              </p>
-            </div>
-          </div>
-          <div class="row justify-content-center" style="margin-top:20px;">
-            <div class="col-xl-10">
-              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="home-seo-faq">
-                <div class="accrodion active">
-                  <div class="accrodion-title"><h4>Which Touranzza tour should I choose first?</h4></div>
-                  <div class="accrodion-content"><div class="inner"><p style="margin-top:0.75rem;">Choose a Golden Triangle tour if this is your first India visit. Choose a Rajasthan tour if you want forts, desert landscapes and palace hotels. Choose a same-day tour if you are short on time but want a private Taj Mahal, Delhi or Jaipur experience.</p></div></div>
-                </div>
-                <div class="accrodion active">
-                  <div class="accrodion-title"><h4>Are Touranzza itineraries private and customizable?</h4></div>
-                  <div class="accrodion-content"><div class="inner"><p style="margin-top:0.75rem;">Yes. Most Touranzza journeys are planned as private tours with flexible routing, vehicle type, hotel category, guides and add-on experiences such as sunrise monument visits, food walks, shopping stops, desert safaris or backwater extensions.</p></div></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       <!-- Tour Listing One Start -->
       <section class="tour-listing-one" style="background-image: url(assets/images/backgrounds/tour-bg-1.webp);">
         <div class="container">
@@ -1826,29 +1908,29 @@
             }
             }'>
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
         <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
-
+        
       </div>
-
+      
     </div>
-
+    
   </div> -->
     <!-- /.client-carousel -->
     <!-- About Start -->
@@ -1907,6 +1989,63 @@
 
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
+      <section class="home-seo">
+        <div class="container">
+          <div class="home-seo__card">
+            <p class="home-seo__tagline">Private India Travel, Planned With Care</p>
+            <h1 class="home-seo__title">Luxury India Tours by Touranzza</h1>
+
+            <details class="home-seo__details">
+              <p class="home-seo__text home-seo__preview">
+                Touranzza creates private luxury India tours for travelers who want more than a rushed checklist. Our
+                itineraries bring together personal drivers, handpicked hotels, expert local guides and thoughtful
+                pacing across India's most rewarding routes.
+              </p>
+
+              <summary class="home-seo__summary">
+                Read more
+                <span class="home-seo__chev" aria-hidden="true"><span class="icon-right-arrow"></span></span>
+              </summary>
+
+              <div class="home-seo__full">
+                <p class="home-seo__text">
+                  First-time visitors often begin with the
+                  <a href="golden-triangle-tour-3-days">Golden Triangle Tour 3 Days</a>, the
+                  <a href="golden-triangle-tour-4-days">Golden Triangle Tour 4 Days</a> or the more relaxed
+                  <a href="golden-triangle-tour-6-days">Golden Triangle Tour 6 Days</a>, each covering Delhi, Agra, Jaipur
+                  and the Taj Mahal with private comfort.
+                </p>
+                <p class="home-seo__text">
+                  For travelers who want deeper culture, we extend the route into Rajasthan's palaces, desert towns and
+                  sacred cities. You can pair the Taj Mahal with the
+                  <a href="desert-tour-rajasthan">Rajasthan Desert Tour</a>, explore forts and lake palaces on the
+                  <a href="golden-triangle-tour-with-rajasthan">Golden Triangle with Rajasthan</a>, or choose a short
+                  <a href="same-day-agra-tour-by-car">Same Day Agra Tour by Car</a> when time is limited. Every trip can be
+                  tailored around your hotel style, guide language, pickup city, flight schedule and preferred pace.
+                </p>
+
+                <div class="home-seo__faq" aria-label="Frequently asked questions">
+                  <details>
+                    <summary>Which Touranzza tour should I choose first?</summary>
+                    <p>
+                      Choose a Golden Triangle tour if this is your first India visit. Choose a Rajasthan tour if you want
+                      forts, desert landscapes and palace hotels. Choose a same-day tour if you are short on time but want a
+                      private Taj Mahal, Delhi or Jaipur experience.
+                    </p>
+                  </details>
+                  <details>
+                    <summary>Are Touranzza itineraries private and customizable?</summary>
+                    <p>
+                      Yes. Most Touranzza journeys are planned as private tours with flexible routing, vehicle type, hotel
+                      category, guides and add-on experiences.
+                    </p>
+                  </details>
+                </div>
+              </div>
+            </details>
+          </div>
+        </div>
+      </section>
       <!-- Testimonial One Start -->
       <section class="testimonial-one testimonial-one--home"
         style="padding-top: 60px !important; background: transparent !important;">

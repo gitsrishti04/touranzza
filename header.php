@@ -47,11 +47,7 @@
             <ul class="sub-menu">
               <li class="dropdown"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-3-days">3 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-4-days">4 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-6-days">6 Days Golden Triangle</a></li>
-                  <li><a href="golden-triangle-tour-7-days">7 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-with-ranthambore"> GT with Ranthambore</a></li>
                   <li><a href="golden-triangle-tour-with-rajasthan">GT with Rajasthan</a></li>
                   <li><a href="golden-triangle-tour-with-varanasi">GT with Varanasi</a></li>
@@ -258,7 +254,11 @@
       max-height: calc(100vh - 170px) !important;
     }
 
-    .tour-pkg-dropdown:hover>.sub-menu {
+    /* Only open when hovering/clicking the Tour Packages item (or the menu itself) */
+    .tour-pkg-dropdown:hover > a + .sub-menu,
+    .tour-pkg-dropdown > a:hover + .sub-menu,
+    .tour-pkg-dropdown:focus-within > .sub-menu,
+    .tour-pkg-dropdown > .sub-menu:hover {
       display: grid !important;
     }
 
