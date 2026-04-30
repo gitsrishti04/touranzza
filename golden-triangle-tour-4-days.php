@@ -4,14 +4,78 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Golden Triangle Tour 4 Days | Luxury Delhi Agra Jaipur Tour Package</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Book Golden Triangle Tour 4 Days covering Delhi, Agra & Jaipur with luxury hotels, private guides and curated cultural experiences. Discover India’s iconic heritage at the perfect pace.">
+  <!-- Schema Markup: TouristTrip & FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TouristTrip",
+    "name": "Golden Triangle Tour 4 Days",
+    "description": "Luxury Delhi Agra Jaipur tour with private guides, premium hotels, and curated experiences.",
+    "itinerary": [
+      "Day 1: New Delhi (India Gate, Humayun’s Tomb, Qutub Minar, Lotus Temple)",
+      "Day 2: Old Delhi (Jama Masjid, Chandni Chowk, Red Fort drive), transfer to Agra",
+      "Day 3: Agra (Taj Mahal sunrise, Agra Fort, Fatehpur Sikri), transfer to Jaipur",
+      "Day 4: Jaipur (Amber Fort, City Palace, Jantar Mantar, Hawa Mahal), return to Delhi"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock"
+    },
+    "image": [
+      "assets/images/tours/golden-triangle-tour-4-days.jpg",
+      "assets/images/tours/delhi-qutub-minar-tour.jpg",
+      "assets/images/tours/taj-mahal-sunrise-tour.jpg",
+      "assets/images/tours/jaipur-amber-fort-tour.jpg"
+    ],
+    "touristType": "Luxury, First-time India travelers",
+    "provider": {
+      "@type": "TravelAgency",
+      "name": "Touranzza"
+    },
+    "areaServed": ["Delhi", "Agra", "Jaipur"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is 4 days enough for Golden Triangle Tour?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, 4 days offers a more comfortable and immersive Golden Triangle experience than shorter itineraries."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between 3-day and 4-day Golden Triangle Tour?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The 4-day itinerary allows deeper Delhi exploration and a more relaxed pace."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this suitable for luxury travelers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, it is designed for travelers seeking comfort, premium stays and curated experiences."
+        }
+      }
+    ]
+  }
+  </script>
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -50,18 +114,155 @@
     <?php include("header.php") ?>
     <!-- MANDALA BACKGROUND WRAPPER START -->
     <div class="mandala-bg-wrapper">
-    <!-- <section class="page-header">
-    <div class="page-header__bg"></div>
-    <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">Imperial Golden Triangle Tours</h2>
-        <div class="page-header__breadcrumb-box">
-            <ul class="trevlo-breadcrumb">
-                <li><a href="./">Home</a></li>
-                <li>Imperial Golden Triangle Tours</li>
-            </ul>
+    <!-- HERO SECTION -->
+    <section class="gt-hero-section text-center py-5 bg-white">
+      <div class="container">
+        <h1 id="gt4a3" class="display-4 mb-3">Golden Triangle Tour 4 Days – Luxury Delhi Agra Jaipur Experience</h1>
+        <p class="lead mb-4">Experience India’s most iconic cultural route at the perfect pace with this Golden Triangle Tour 4 Days. Covering Delhi, Agra and Jaipur, this luxury journey offers deeper exploration of UNESCO landmarks, Mughal grandeur and Rajasthan’s royal heritage with premium comfort, private guides and curated experiences.</p>
+        <img src="assets/images/tours/golden-triangle-tour-4-days.jpg" alt="Golden Triangle Tour 4 Days India" class="img-fluid rounded shadow mb-3" style="max-width: 600px;" />
+      </div>
+    </section>
+    <!-- OVERVIEW SECTION -->
+    <section class="gt-overview-section py-5">
+      <div class="container">
+        <h2 id="gt4a4" class="mb-3">Golden Triangle Tour 4 Days Overview</h2>
+        <p>The Golden Triangle Tour 4 Days is ideal for travelers seeking a richer and more relaxed Delhi Agra Jaipur experience. Unlike shorter itineraries, this journey allows additional time to explore Delhi’s historic duality, enjoy Taj Mahal sunrise without rush and discover Jaipur’s royal architecture with deeper cultural immersion.</p>
+      </div>
+    </section>
+    <!-- TOUR HIGHLIGHTS SECTION -->
+    <section class="gt-highlights-section py-5 bg-light">
+      <div class="container">
+        <h2 id="gt4a5" class="mb-3">Tour Highlights</h2>
+        <ul class="list-unstyled fs-5">
+          <li>Explore both Old and New Delhi in greater depth</li>
+          <li>Sunrise Taj Mahal experience</li>
+          <li>Visit Agra Fort and Fatehpur Sikri</li>
+          <li>Discover Jaipur’s Amber Fort, City Palace and Hawa Mahal</li>
+          <li>Enjoy a more relaxed luxury Golden Triangle pace</li>
+          <li>Ideal for first-time India travelers seeking comfort and depth</li>
+        </ul>
+      </div>
+    </section>
+    <!-- ITINERARY SECTION -->
+    <section class="gt-itinerary-section py-5">
+      <div class="container">
+        <h2 class="mb-4">Day Wise Itinerary</h2>
+        <div class="mb-5">
+          <h3>Day 1: Arrival & New Delhi Discovery</h3>
+          <p>Arrive in Delhi and begin your journey with an elegant introduction to India’s capital. Visit India Gate, Humayun’s Tomb, Qutub Minar, and the Lotus Temple. Enjoy the blend of Mughal grandeur and modern vibrancy before relaxing at your luxury hotel.</p>
         </div>
-    </div>
-</section> -->
+        <div class="mb-5">
+          <h3>Day 2: Old Delhi Heritage & Transfer to Agra</h3>
+          <p>Explore the historic heart of Old Delhi: Jama Masjid, the bustling lanes of Chandni Chowk, and a drive past the Red Fort. Savor local flavors before transferring to Agra for an overnight stay, anticipating the Taj Mahal at sunrise.</p>
+        </div>
+        <div class="mb-5">
+          <h3>Day 3: Agra Sunrise, Fatehpur Sikri & Jaipur</h3>
+          <p>Witness the Taj Mahal at sunrise, a breathtaking moment of beauty and serenity. Visit Agra Fort, then journey to Jaipur with a stop at Fatehpur Sikri, the red sandstone city of Akbar. Arrive in Jaipur and unwind in royal comfort.</p>
+        </div>
+        <div class="mb-5">
+          <h3>Day 4: Jaipur Royal Sights & Return to Delhi</h3>
+          <p>Begin with Amber Fort’s majestic ramparts, then explore the City Palace, Jantar Mantar, and the iconic Hawa Mahal. Enjoy Jaipur’s vibrant markets before returning to Delhi, completing your perfectly balanced Golden Triangle experience.</p>
+        </div>
+      </div>
+    </section>
+    <!-- DESTINATIONS COVERED SECTION -->
+    <section class="gt-destinations-section py-5 bg-light">
+      <div class="container">
+        <h2 id="gt4a6" class="mb-4">Destinations Covered in the Golden Triangle Tour 4 Days</h2>
+        <div class="row">
+          <div class="col-md-4 mb-3">
+            <h4>Delhi</h4>
+            <p>Delhi offers a captivating blend of ancient and modern. Explore the Mughal marvels of Humayun’s Tomb and Qutub Minar, the spiritual calm of Lotus Temple, and the vibrant chaos of Old Delhi’s bazaars. The city’s duality is best experienced with time to savor both its heritage and cosmopolitan energy.</p>
+          </div>
+          <div class="col-md-4 mb-3">
+            <h4>Agra</h4>
+            <p>Agra is synonymous with the Taj Mahal, but its legacy runs deeper. Sunrise at the Taj is unforgettable, while Agra Fort and the nearby Fatehpur Sikri reveal the grandeur and intrigue of the Mughal era. The city’s romance and history are best enjoyed at a relaxed pace.</p>
+          </div>
+          <div class="col-md-4 mb-3">
+            <h4>Jaipur</h4>
+            <p>Jaipur, the Pink City, enchants with Amber Fort’s hilltop majesty, the regal City Palace, and the whimsical Hawa Mahal. Jantar Mantar’s astronomical wonders and the city’s colorful markets complete a royal Rajasthan experience, all in premium comfort.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- INCLUSIONS SECTION -->
+    <section class="gt-inclusions-section py-5">
+      <div class="container">
+        <h2 id="gt4a7" class="mb-3">What’s Included in Your Golden Triangle Tour 4 Days</h2>
+        <ul class="fs-5">
+          <li>Private chauffeur-driven air-conditioned vehicle</li>
+          <li>Luxury hotel accommodation</li>
+          <li>Daily breakfast</li>
+          <li>Professional multilingual guides</li>
+          <li>Airport pick-up and drop-off</li>
+          <li>All tolls, taxes and parking</li>
+        </ul>
+      </div>
+    </section>
+    <!-- EXCLUSIONS SECTION -->
+    <section class="gt-exclusions-section py-5 bg-light">
+      <div class="container">
+        <h2 class="mb-3">What’s Not Included</h2>
+        <ul class="fs-5">
+          <li>Flights</li>
+          <li>Monument tickets</li>
+          <li>Personal expenses</li>
+        </ul>
+      </div>
+    </section>
+    <!-- WHY CHOOSE THIS TOUR SECTION -->
+    <section class="gt-whychoose-section py-5">
+      <div class="container">
+        <h2 id="gt4a8" class="mb-3">Why Choose This Golden Triangle Tour 4 Days?</h2>
+        <ul class="fs-5">
+          <li>Perfect balance of depth and efficiency</li>
+          <li>More immersive than 3 days, more efficient than longer tours</li>
+          <li>Luxury, comfort, and curated experiences</li>
+          <li>Deeper Delhi exploration and relaxed pace</li>
+        </ul>
+        <p class="mt-3"><strong>The ideal luxury Golden Triangle experience</strong></p>
+      </div>
+    </section>
+    <!-- FAQ SECTION -->
+    <section class="gt-faq-section py-5 bg-light">
+      <div class="container">
+        <h2 class="mb-4">Frequently Asked Questions</h2>
+        <div class="accordion" id="faqAccordion">
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq1"><button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1" aria-expanded="true" aria-controls="faqCollapse1">Is 4 days enough for Golden Triangle Tour?</button></h3>
+            <div id="faqCollapse1" class="accordion-collapse collapse show" aria-labelledby="faq1" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">Yes, 4 days offers a more comfortable and immersive Golden Triangle experience than shorter itineraries.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq2"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2">What is the difference between 3-day and 4-day Golden Triangle Tour?</button></h3>
+            <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faq2" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">The 4-day itinerary allows deeper Delhi exploration and a more relaxed pace.</div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h3 class="accordion-header" id="faq3"><button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3">Is this suitable for luxury travelers?</button></h3>
+            <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faq3" data-bs-parent="#faqAccordion">
+              <div class="accordion-body">Yes, it is designed for travelers seeking comfort, premium stays and curated experiences.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- INTERNAL LINKS SECTION -->
+    <section class="gt-internal-links-section py-5">
+      <div class="container">
+        <h2 class="mb-3">Explore More Golden Triangle & Rajasthan Tours</h2>
+        <ul class="fs-5">
+          <li><a href="golden-triangle-tour-3-days">Golden Triangle 3 Days</a></li>
+          <li><a href="golden-triangle-tour-5-days">Golden Triangle 5 Days</a></li>
+          <li><a href="same-day-agra-tour-by-car">Same Day Agra Tour</a></li>
+          <li><a href="rajasthan-tours.php">Rajasthan Tours</a></li>
+        </ul>
+      </div>
+    </section>
+    <!-- IMAGE SEO (IMAGES ALREADY ABOVE) -->
+    <!-- ...existing code... -->
     <!-- Tour Listing Page One Start -->
     <!-- Tour Listing Details One Start -->
     <section class="tour-listing-details tour-listing-details-right">

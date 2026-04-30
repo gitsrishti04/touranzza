@@ -4,14 +4,119 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Golden Triangle Tour 7 Days | Delhi Agra Jaipur Itinerary - Touranzza</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Book a private Golden Triangle Tour 7 Days covering Delhi, Agra, Taj Mahal, Fatehpur Sikri and Jaipur with hotels, car, driver, guided sightseeing and custom itinerary." />
+  <meta name="keywords" content="Golden Triangle Tour 7 Days, 7 days Golden Triangle India tour, Delhi Agra Jaipur tour package, Golden Triangle itinerary 7 days, Taj Mahal Jaipur Delhi tour, private Golden Triangle tour India, luxury Golden Triangle tour, Delhi Agra Jaipur 7 days itinerary" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-7-days" />
+  <meta property="og:type" content="product" />
+  <meta property="og:title" content="Golden Triangle Tour 7 Days | Delhi Agra Jaipur Itinerary" />
+  <meta property="og:description" content="Explore India's classic Golden Triangle in 7 days with Delhi heritage, Taj Mahal sunrise, Agra Fort, Fatehpur Sikri, Amer Fort and Jaipur sightseeing." />
+  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-7-days" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/gt1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Golden Triangle Tour 7 Days | Delhi Agra Jaipur" />
+  <meta name="twitter:description" content="Private 7 days Golden Triangle tour package for Delhi, Agra, Taj Mahal, Fatehpur Sikri and Jaipur." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/gt1.webp" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "TravelAgency",
+        "@id": "https://touranzza.com/#organization",
+        "name": "Touranzza",
+        "url": "https://touranzza.com/",
+        "telephone": "+91-9355995594",
+        "email": "india@touranzza.com",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Agra",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        },
+        "sameAs": [
+          "https://www.facebook.com/share/1DU6ep6f9V/",
+          "https://www.linkedin.com/company/touranzza/",
+          "https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==",
+          "https://www.tripadvisor.in/Profile/touranzza"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://touranzza.com/#website",
+        "url": "https://touranzza.com/",
+        "name": "Touranzza",
+        "publisher": {"@id": "https://touranzza.com/#organization"}
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://touranzza.com/golden-triangle-tour-7-days#webpage",
+        "url": "https://touranzza.com/golden-triangle-tour-7-days",
+        "name": "Golden Triangle Tour 7 Days",
+        "description": "Private 7 days Golden Triangle India tour covering Delhi, Agra, Taj Mahal, Fatehpur Sikri and Jaipur.",
+        "isPartOf": {"@id": "https://touranzza.com/#website"},
+        "about": {"@id": "https://touranzza.com/golden-triangle-tour-7-days#tour"}
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://touranzza.com/golden-triangle-tour-7-days#breadcrumb",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://touranzza.com/"},
+          {"@type": "ListItem", "position": 2, "name": "Golden Triangle Tours", "item": "https://touranzza.com/golden-triangle-tours"},
+          {"@type": "ListItem", "position": 3, "name": "Golden Triangle Tour 7 Days", "item": "https://touranzza.com/golden-triangle-tour-7-days"}
+        ]
+      },
+      {
+        "@type": "TouristTrip",
+        "@id": "https://touranzza.com/golden-triangle-tour-7-days#tour",
+        "name": "Golden Triangle Tour 7 Days",
+        "description": "A private Delhi Agra Jaipur tour package with Old Delhi, New Delhi, Taj Mahal sunrise, Agra Fort, Fatehpur Sikri, Amer Fort, City Palace, Jantar Mantar and Jaipur local markets.",
+        "touristType": ["Couples", "Families", "First-time India visitors", "Luxury travelers", "Culture travelers"],
+        "itinerary": [
+          "Day 1: Delhi arrival and hotel transfer",
+          "Day 2: Old Delhi and New Delhi sightseeing",
+          "Day 3: Delhi to Agra and Agra Fort",
+          "Day 4: Taj Mahal sunrise, Mehtab Bagh, Baby Taj and Sikandra",
+          "Day 5: Agra to Jaipur via Fatehpur Sikri",
+          "Day 6: Jaipur sightseeing with Amer Fort, Hawa Mahal, Jal Mahal, City Palace and Jantar Mantar",
+          "Day 7: Jaipur to Delhi departure"
+        ],
+        "provider": {"@id": "https://touranzza.com/#organization"},
+        "image": "https://touranzza.com/assets/images/tours/gt1.webp",
+        "url": "https://touranzza.com/golden-triangle-tour-7-days"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://touranzza.com/golden-triangle-tour-7-days#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is covered in the Golden Triangle Tour 7 Days?",
+            "acceptedAnswer": {"@type": "Answer", "text": "The tour covers Delhi, Agra and Jaipur with highlights such as Old Delhi, Qutub Minar, Humayun's Tomb, Taj Mahal sunrise, Agra Fort, Fatehpur Sikri, Amer Fort, Hawa Mahal, City Palace and Jantar Mantar."}
+          },
+          {
+            "@type": "Question",
+            "name": "Can the 7 days Golden Triangle itinerary be customized?",
+            "acceptedAnswer": {"@type": "Answer", "text": "Yes, Touranzza can customize hotel category, sightseeing pace, guides, vehicle type, airport pickup, drop location and optional experiences based on your travel style."}
+          },
+          {
+            "@type": "Question",
+            "name": "Is this Delhi Agra Jaipur tour private?",
+            "acceptedAnswer": {"@type": "Answer", "text": "The itinerary is designed as a private Golden Triangle tour with a dedicated vehicle and driver, with guide services available for monuments and city sightseeing."}
+          }
+        ]
+      }
+    ]
+  }
+  </script>
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -95,7 +200,7 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp"
-                alt="listing-details-carousel">
+                alt="Delhi sightseeing on Golden Triangle Tour 7 Days">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -106,7 +211,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
-                alt="listing-details-carousel">
+                alt="Old Delhi and New Delhi heritage tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -117,7 +222,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp"
-                alt="listing-details-carousel">
+                alt="Taj Mahal sunrise tour in Agra India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -128,7 +233,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp"
-                alt="listing-details-carousel">
+                alt="Agra Fort sightseeing on Delhi Agra Jaipur tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -139,7 +244,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp"
-                alt="listing-details-carousel">
+                alt="Jaipur Amer Fort visit on Golden Triangle itinerary">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -158,7 +263,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour 7 Days</h1>
+                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour 7 Days - Delhi Agra Jaipur</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -206,11 +311,7 @@
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">Our Golden Triangle Tour 7 Days is a private Delhi Agra Jaipur tour package designed for travelers who want India's most iconic heritage route at a comfortable pace. The itinerary covers Old Delhi, New Delhi, the Taj Mahal at sunrise, Agra Fort, Fatehpur Sikri, Amer Fort, Hawa Mahal, City Palace, Jantar Mantar and colorful Jaipur bazaars, with time for guided sightseeing, photography and relaxed transfers. This 7 days Golden Triangle India tour is ideal for first-time visitors, couples, families and culture lovers who want a smooth, well-planned journey through North India's best monuments, palaces, markets and UNESCO World Heritage sites.</p>
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -229,16 +330,16 @@
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Private airport pickup and drop in Delhi</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Delhi, Agra and Jaipur sightseeing by private car</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Taj Mahal sunrise visit with Agra Fort and Baby Taj</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Fatehpur Sikri, Amer Fort, Hawa Mahal and City Palace</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -256,8 +357,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Our Company Representative will pick up you from Delhi Airport and transfer to the Hotel, For
-                        your Overnight Saty in Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Arrive in Delhi for your 7 days Golden Triangle India tour. A Touranzza representative will meet you at Delhi Airport or your preferred pickup point and transfer you to the hotel. Relax after your journey and prepare for the Delhi Agra Jaipur itinerary ahead. Overnight stay in Delhi.</p>
                     </div>
                   </div>
                 </div>
@@ -267,11 +367,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After getting your breakfast, Start Sightseeing of Delhi. Start Sightseeing form Old Delhi with
-                        some Popular places like Jama Masjid, Red Fort, Chandni Chowk. After that New Delhi Sightseeing
-                        will start form India Gate, Rashtrapati Bhawan, Humayun’s Tomb and Qutub Minar. Completed your
-                        sightseeing with Memorable Monuments. Finally drive to Agra and transfer to hotel, Enjoy your
-                        Delicious Dinner. Overnight Stay At Agra Hotel.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, begin a full-day Delhi sightseeing tour. Explore Old Delhi highlights such as Jama Masjid, Red Fort and Chandni Chowk, then continue to New Delhi landmarks including India Gate, Rashtrapati Bhawan, Humayun's Tomb and Qutub Minar. Return to your hotel for an overnight stay in Delhi.</p>
                     </div>
                   </div>
                 </div>
@@ -281,9 +377,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After getting your breakfast, Drive to Agra which is your next Destination of your Golden
-                        Triangle Tour. After Lunch Start Sightseeing Of Agra, Visit Stunning Agra Fort. Overnight Stay
-                        At Agra Hotel.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, drive from Delhi to Agra, the Mughal city that makes every Golden Triangle tour unforgettable. Check in at your Agra hotel and visit the impressive Agra Fort, a UNESCO World Heritage site known for royal halls, courtyards and views of the Taj Mahal. Overnight stay in Agra.</p>
                     </div>
                   </div>
                 </div>
@@ -293,10 +387,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Early Morning Have a Great Day of Your Life! because time to visit the Taj Mahal at Sunrise
-                        Time after great time at Taj and come back to Hotel to get a Healthy Breakfast. Finally Visit
-                        Mehtab Bagh And Stunning Itmad – Ud – Daulah which is also known as (Baby Taj). After Lunch
-                        Visit Sikandra. Overnight Stay at Hotel in Agra.</p>
+                      <p style="margin-top: 0.75rem;">Rise early for a Taj Mahal sunrise tour, one of the most requested experiences on a Delhi Agra Jaipur tour package. Return to the hotel for breakfast, then visit Mehtab Bagh, Itmad-ud-Daulah, also known as Baby Taj, and Sikandra. Overnight stay in Agra.</p>
                     </div>
                   </div>
                 </div>
@@ -306,8 +397,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After Getting your Breakfast, Depart from hotel to Jaipur visit fatehpur sikri which is on the
-                        way to Jaipur. Overnight Stay at Hotel in Jaipur.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, depart for Jaipur, the Pink City of Rajasthan. En route, stop at Fatehpur Sikri, the red sandstone Mughal capital famous for Buland Darwaza, Jama Masjid and beautifully preserved palaces. Continue to Jaipur and check in at your hotel. Overnight stay in Jaipur.</p>
                     </div>
                   </div>
                 </div>
@@ -317,11 +407,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After Getting Your Breakfast, Early Morning Start Sightseeing Pink City which is Jaipur with
-                        some Great Memories and Start Your Tour with Spectacular Amer Fort With famous Elephant Ride,
-                        Hawa Mahal and also drive to Jal Mahal and its time for your Delicious Lunch at the end of the
-                        Day Visit Jantar Mantar, City Palace and Explore Local Market. Overnight Stay at Hotel in
-                        Jaipur.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, enjoy a complete Jaipur sightseeing tour. Visit Amer Fort, stop for photos at Jal Mahal and Hawa Mahal, then explore City Palace and Jantar Mantar. In the evening, browse Jaipur's local markets for textiles, jewelry, handicrafts and souvenirs. Overnight stay in Jaipur.</p>
                     </div>
                   </div>
                 </div>
@@ -331,9 +417,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">As per your daily routine getting your Breakfast. Now Drive to Delhi and transfer to Delhi
-                        Airport. At the End of the Tour Your Will Definitely get some Great and Memorable time during
-                        your sightseeing.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, drive from Jaipur to Delhi for your airport transfer or onward travel. Your Golden Triangle Tour 7 Days ends with memories of Delhi's heritage, Agra's Taj Mahal and Jaipur's royal forts and palaces.</p>
                     </div>
                   </div>
                 </div>
@@ -370,21 +454,31 @@
               </div>
             </div>
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__included-title">Why Choose This 7 Days Golden Triangle Tour?</h3>
+              <p class="tour-listing-details__overview-text">This private Golden Triangle itinerary gives you more breathing room than shorter Delhi Agra Jaipur tours. You get two nights in Agra for the Taj Mahal sunrise and extra Mughal monuments, two nights in Jaipur for royal forts and markets, and a smooth private car route from Delhi to Agra, Agra to Jaipur and Jaipur back to Delhi.</p>
+              <ul class="tour-listing-details__overview-text list-unstyled">
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Best route for first-time India visitors who want Delhi, Taj Mahal and Jaipur in one trip.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Customizable hotel category, guide language, pickup time and drop location.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Private vehicle with driver for comfort, flexibility and easy monument transfers.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Balanced sightseeing plan covering UNESCO monuments, bazaars, forts, palaces and photo stops.</li>
+              </ul>
+            </div>
+            <div class="tour-listing-details__included">
+              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included / Excluded</h3>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Pickup and drop from Delhi airport, hotel or railway station</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Private air-conditioned car with experienced driver</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Delhi, Agra, Fatehpur Sikri and Jaipur sightseeing route</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Assistance for hotels, guides and monument planning</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -393,16 +487,16 @@
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>Additional Service</p>
+                      <p>Monument entrance tickets unless added to your quote</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Insurance</p>
+                      <p>Travel insurance and personal expenses</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Food & Drinks</p>
+                      <p>Meals and drinks not mentioned in the final package</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Tickets</p>
+                      <p>Camera fees, tips and optional activities</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -410,6 +504,41 @@
                 <!-- /.col-lg-6 col-md-5 -->
               </div>
               <!-- /.row -->
+            </div>
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Golden Triangle Tour 7 Days FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__seo-faq">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>What places are included in the Golden Triangle Tour 7 Days?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">The tour includes Delhi, Agra and Jaipur with major attractions such as Jama Masjid, Chandni Chowk, Qutub Minar, Humayun's Tomb, Taj Mahal, Agra Fort, Mehtab Bagh, Baby Taj, Fatehpur Sikri, Amer Fort, Hawa Mahal, City Palace and Jantar Mantar.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Is this Delhi Agra Jaipur tour package private?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, this itinerary is planned as a private Golden Triangle tour with a dedicated car and driver. Local guides, luxury hotels, language preferences and special experiences can be added on request.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Can I customize the 7 days Golden Triangle India tour?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, Touranzza can customize the travel dates, hotel category, number of travelers, pickup city, drop city, guide services and pace of sightseeing to match your comfort and budget.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
@@ -419,7 +548,7 @@
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -455,7 +584,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -476,7 +605,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -547,7 +676,7 @@
     <div class="search-popup__overlay search-toggler"></div>
     <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
         <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
             class="icon-search"></span> </button>

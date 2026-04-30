@@ -33,10 +33,11 @@
           <!-- /.footer-widget__title -->
           <ul class="footer-widget__links">
             <li><a href="./">HOME</a></li>
+            <li><a href="about">ABOUT US</a></li>
             <li><a href="contact">CONTACT US</a></li>
-            <li><a href="contact">TERMS OF SERVICES</a></li>
-            <li><a href="contact">PRIVACY POLICY</a></li>
-            <li><a href="contact">CANCELLATION AND REFUND POLICY</a></li>
+            <li><a href="terms-of-service">TERMS OF SERVICES</a></li>
+            <li><a href="privacy-policy">PRIVACY POLICY</a></li>
+            <li><a href="cancellation-policy">CANCELLATION AND REFUND POLICY</a></li>
           </ul>
           <!-- /.footer-widget__links -->
         </div>

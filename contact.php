@@ -4,14 +4,40 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Touranzza</title>
+    <title>Contact Touranzza | Get in Touch for Luxury India Tours</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+    <meta name="description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
+    <link rel="canonical" href="https://touranzza.com/contact" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "TravelAgency",
+      "name": "Touranzza",
+      "url": "https://touranzza.com/contact",
+      "telephone": "+91-9837105911",
+      "email": "india@touranzza.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Agra",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "282001",
+        "addressCountry": "IN"
+      },
+      "sameAs": [
+        "https://www.facebook.com/share/1DU6ep6f9V/",
+        "https://www.linkedin.com/company/touranzza/",
+        "https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==",
+        "https://www.tripadvisor.in/Profile/touranzza"
+      ],
+      "openingHours": "Mo-Sa 09:00-19:00"
+    }
+    </script>
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>

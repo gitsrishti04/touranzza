@@ -47,7 +47,11 @@
             <ul class="sub-menu">
               <li class="dropdown"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a>
                 <ul class="sub-menu">
+                  <li><a href="golden-triangle-tour-3-days">3 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-4-days">4 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-6-days">6 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-7-days">7 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-with-ranthambore"> GT with Ranthambore</a></li>
                   <li><a href="golden-triangle-tour-with-rajasthan">GT with Rajasthan</a></li>
                   <li><a href="golden-triangle-tour-with-varanasi">GT with Varanasi</a></li>
@@ -56,7 +60,11 @@
                       Rishikesh</a>
                   </li>
                   <li><a href="golden-triangle-tour-with-orchha-khajuraho">GT with Orchha &amp; Khajuraho</a></li>
+                  <li><a href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi">GT with Orchha, Khajuraho &amp; Varanasi</a></li>
+                  <li><a href="golden-triangle-tour-with-ajmer-and-pushkar">GT with Ajmer &amp; Pushkar</a></li>
+                  <li><a href="golden-triangle-tour-with-udaipur">GT with Udaipur</a></li>
                   <li><a href="golden-triangle-tour-with-goa">GT with Goa</a></li>
+                  <li><a href="golden-triangle-tour-with-kerala">GT with Kerala</a></li>
                   <li><a href="golden-triangle-tour-with-mumbai">GT with Mumbai</a></li>
                 </ul>
               </li>
@@ -230,29 +238,34 @@
     .tour-pkg-dropdown>.sub-menu {
       display: none;
       position: absolute !important;
-      left: 0 !important;
-      right: 0 !important;
+      left: 50% !important;
+      right: auto !important;
       top: 100% !important;
+      transform: translateX(-50%) !important;
       min-width: unset !important;
-      width: 100% !important;
-      flex-direction: row !important;
-      flex-wrap: nowrap !important;
-      padding: 14px 20px !important;
+      width: 100vw !important;
+      max-width: 100vw !important;
+      box-sizing: border-box !important;
+      grid-template-columns: repeat(7, minmax(0, 1fr)) !important;
+      padding: 14px 18px !important;
       gap: 0;
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.13);
       border-top: 3px solid #ffc202;
       background: #fff;
       z-index: 99999;
+      overflow-x: hidden !important;
+      overflow-y: auto !important;
+      max-height: calc(100vh - 170px) !important;
     }
 
     .tour-pkg-dropdown:hover>.sub-menu {
-      display: flex !important;
+      display: grid !important;
     }
 
     /* Each category column */
     .tour-pkg-dropdown>.sub-menu>li.dropdown {
-      flex: 1;
-      padding: 0 10px;
+      min-width: 0 !important;
+      padding: 0 8px;
       border-right: 1px solid #e0e0e0;
       /* Darkened division line */
     }
@@ -280,8 +293,11 @@
       padding: 5px 8px !important;
       border-radius: 3px;
       margin-bottom: 8px;
-      white-space: nowrap;
+      min-height: 36px;
+      white-space: normal;
+      line-height: 1.2;
       text-align: center !important;
+      overflow-wrap: anywhere;
       /* Keeps the headings centered in their blocks */
     }
 

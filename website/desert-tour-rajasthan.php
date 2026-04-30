@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Rajasthan Desert Tour Package 7 Days | Luxury Jaisalmer Jodhpur Rajasthan Tour</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Book Rajasthan Desert Tour Package 7 Days covering Delhi, Mandawa, Bikaner, Jaisalmer & Jodhpur with heritage stays, camel safari and curated luxury experiences." />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -40,8 +40,121 @@
   <!-- enquiry -->
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
-  <link rel="stylesheet" href="assets/css/touranzza.css" />
-</head>
+  <link rel="stylesheet" href="assets/css/touranzza.css" />  <!-- Schema Markup -->
+  <script type=\"application/ld+json\">
+  {
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"TouristTrip\",
+    \"name\": \"Rajasthan Desert Tour Package 7 Days\",
+    \"description\": \"Luxury Rajasthan Desert Tour covering Delhi, Mandawa, Bikaner, Jaisalmer and Jodhpur with heritage stays, camel safari and curated luxury experiences.\",
+    \"duration\": \"P7D\",
+    \"itinerary\": {
+      \"@type\": \"ItemList\",
+      \"itemListElement\": [
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 1,
+          \"name\": \"Delhi Arrival\",
+          \"description\": \"Arrival in Delhi - Gateway to Rajasthan\"
+        },
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 2,
+          \"name\": \"Mandawa\",
+          \"description\": \"Explore Shekhawati artistic havelis and heritage\"
+        },
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 3,
+          \"name\": \"Bikaner\",
+          \"description\": \"Visit Junagarh Fort and Karni Mata Temple\"
+        },
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 4,
+          \"name\": \"Jaisalmer Arrival\",
+          \"description\": \"Golden city and Gadisar Lake\"
+        },
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 5,
+          \"name\": \"Jaisalmer Full Day\",
+          \"description\": \"Jaisalmer Fort, havelis and Thar Desert camel safari\"
+        },
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 6,
+          \"name\": \"Jodhpur\",
+          \"description\": \"Blue City and Mehrangarh Fort\"
+        },
+        {
+          \"@type\": \"ListItem\",
+          \"position\": 7,
+          \"name\": \"Departure\",
+          \"description\": \"Jodhpur departure\"
+        }
+      ]
+    },
+    \"touristType\": \"Leisure\",
+    \"audience\": {
+      \"@type\": \"Audience\",
+      \"audienceType\": \"Luxury Travelers\"
+    },
+    \"provider\": {
+      \"@type\": \"TravelAgency\",
+      \"name\": \"Touranzza\",
+      \"url\": \"https://touranzza.com\"
+    }
+  }
+  </script>
+  <script type=\"application/ld+json\">
+  {
+    \"@context\": \"https://schema.org\",
+    \"@type\": \"FAQPage\",
+    \"mainEntity\": [
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is 7 days enough for a Rajasthan Desert Tour?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes, 7 days is the ideal duration for this Rajasthan desert tour package. It provides sufficient time to explore Delhi, Mandawa, Bikaner, Jaisalmer and Jodhpur without rushing.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Which desert is best to visit in Rajasthan?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"The Thar Desert in Jaisalmer is the most popular and best-preserved desert in Rajasthan. Sam Sand Dunes near Jaisalmer offer authentic desert experiences.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is Jaisalmer worth visiting?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Absolutely! Jaisalmer is one of Rajasthan's most magical destinations featuring stunning sandstone architecture, UNESCO World Heritage Jaisalmer Fort and authentic desert culture.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Can this Rajasthan Desert Tour be combined with Golden Triangle?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Yes! This desert tour includes Delhi already. You can extend to include Agra and Taj Mahal for a comprehensive 10-12 day North India experience.\"
+        }
+      },
+      {
+        \"@type\": \"Question\",
+        \"name\": \"Is this Rajasthan package suitable for luxury travelers?\",
+        \"acceptedAnswer\": {
+          \"@type\": \"Answer\",
+          \"text\": \"Absolutely! This package is specifically designed for luxury travelers with premium heritage hotels and personalized service.\"
+        }
+      }
+    ]
+  }
+  </script></head>
 
 <body>
   <!-- PAGE STARTS -->
@@ -91,7 +204,7 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.jpg"
-                alt="listing-details-carousel">
+                alt=\"Delhi gateway to Rajasthan desert tour package\">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.jpg"}, {"src": "assets/images/tours/mandawa2.jpg"}, {"src": "assets/images/tours/mandawa1.jpg"}, {"src": "assets/images/tours/bikaner-2.jpg"}, {"src": "assets/images/tours/jaisalmer-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -102,7 +215,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mandawa2.jpg"
-                alt="listing-details-carousel">
+                alt="Mandawa havelis artistic fresco paintings Shekhawati">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.jpg"}, {"src": "assets/images/tours/mandawa2.jpg"}, {"src": "assets/images/tours/mandawa1.jpg"}, {"src": "assets/images/tours/bikaner-2.jpg"}, {"src": "assets/images/tours/jaisalmer-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -113,7 +226,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mandawa1.jpg"
-                alt="listing-details-carousel">
+                alt="Mandawa heritage haveli architecture luxury Rajasthan tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.jpg"}, {"src": "assets/images/tours/mandawa2.jpg"}, {"src": "assets/images/tours/mandawa1.jpg"}, {"src": "assets/images/tours/bikaner-2.jpg"}, {"src": "assets/images/tours/jaisalmer-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -124,7 +237,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/bikaner-2.jpg"
-                alt="listing-details-carousel">
+                alt="Bikaner Junagarh Fort royal heritage Rajasthan">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.jpg"}, {"src": "assets/images/tours/mandawa2.jpg"}, {"src": "assets/images/tours/mandawa1.jpg"}, {"src": "assets/images/tours/bikaner-2.jpg"}, {"src": "assets/images/tours/jaisalmer-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -135,7 +248,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaisalmer-1.jpg"
-                alt="listing-details-carousel">
+                alt="Jaisalmer camel safari Thar Desert golden dunes luxury">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.jpg"}, {"src": "assets/images/tours/mandawa2.jpg"}, {"src": "assets/images/tours/mandawa1.jpg"}, {"src": "assets/images/tours/bikaner-2.jpg"}, {"src": "assets/images/tours/jaisalmer-1.jpg"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -153,7 +266,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Desert Tour Rajasthan</h1>
+                <h1 class="tour-listing-details__dastination-title">Rajasthan Desert Tour Package – 7 Days Luxury Rajasthan Heritage Journey</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -199,32 +312,36 @@
           <div class="col-xl-8">
             <div class="tour-listing-details__overview">
               <div class="wow animated fadeIn" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
+                <h2 class="tour-listing-details__title tour-listing-details__overview-title">Rajasthan Desert Tour Package Overview</h2>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">Discover Rajasthan's royal soul on this immersive 7-day desert tour through Delhi, Mandawa, Bikaner, Jaisalmer and Jodhpur. Designed for travelers seeking heritage, culture and luxury, this Rajasthan Desert Tour Package combines painted havelis, grand forts, golden dunes, camel safaris and royal cities into one unforgettable North India journey.</p>
+              <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.2s"
+                data-wow-duration="1500ms">This Rajasthan Desert Tour Package is crafted for travelers who want to explore India's regal desert frontier beyond conventional routes. From Delhi's dynamic gateway to Mandawa's fresco-painted mansions, Bikaner's fortresses, Jaisalmer's golden dunes and Jodhpur's royal grandeur, this journey offers a complete Rajasthan cultural circuit. Perfect for heritage seekers, luxury explorers and first-time India travelers, this itinerary balances architecture, desert adventure, curated experiences and premium comfort—making it one of the best Rajasthan holiday packages for meaningful exploration.</p>
             </div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Explore Mandawa's artistic havelis in Shekhawati</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Visit Bikaner's Junagarh Fort and Karni Mata Temple</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Experience Jaisalmer Fort and camel safari in the Thar Desert</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Discover Jodhpur's Mehrangarh Fort and Blue City charm</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Enjoy curated Rajasthan heritage and desert experiences</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Stay in premium or heritage accommodations</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -233,87 +350,105 @@
               </div>
               <!-- /.row -->
             </div>
+            <div class="tour-listing-details__destinations">
+              <h2 class="tour-listing-details__title tour-listing-details__destinations-title">Destinations Covered in This Rajasthan Desert Tour</h2>
+              <div class="row">
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="destination-item">
+                    <h3 class="destination-item-title">Mandawa</h3>
+                    <p>Discover the artistic heart of Rajasthan in Mandawa, the fresco capital of Shekhawati region. Explore intricately painted havelis showcasing centuries-old artistry, traditional architecture and cultural heritage that define luxury heritage tourism.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+                  <div class="destination-item">
+                    <h3 class="destination-item-title">Bikaner</h3>
+                    <p>Experience the desert fortress city of Bikaner, home to the magnificent Junagarh Fort. Visit sacred temples and camel breeding farms while immersing yourself in royal Rajasthan architecture and desert legacy culture.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                  <div class="destination-item">
+                    <h3 class="destination-item-title">Jaisalmer</h3>
+                    <p>Enter the golden city of Jaisalmer, jewel of the Thar Desert. Experience authentic desert culture, stunning sandstone architecture, Sam sand dunes camel safaris and sunset experiences that define luxury Rajasthan adventure tourism.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.4s" data-wow-duration="1500ms">
+                  <div class="destination-item">
+                    <h3 class="destination-item-title">Jodhpur</h3>
+                    <p>Discover the Blue City of Jodhpur and its iconic Mehrangarh Fort, one of Rajasthan's most impressive forts. Explore royal architecture, heritage cenotaphs and the charm of this majestic fortress city overlooking the Thar Desert.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Tour Plan</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__plan-title">Day-Wise Rajasthan Desert Tour Itinerary</h2>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 1</span> Arrival Delhi</h4>
+                    <h4><span>Day 1</span> Arrival in Delhi – Gateway to Rajasthan</h4>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p>Upon your arrival at New Delhi, our tour representative will meet and greet at the airport.
-                        Transfer to the hotel. Rest of the day is free at leisure. Overnight stay will be in Delhi.</p>
+                      <p>Upon your arrival at New Delhi's Indira Gandhi International Airport, our experienced tour representative will greet you with a warm welcome. Experience seamless transfer to your premium hotel in Delhi, your gateway to the majestic deserts and royal heritage of Rajasthan. Check into your luxurious accommodation and take time to relax after your journey. Rest of the day is free to explore the hotel or Delhi at your leisure. Overnight stay at your hotel in Delhi.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 2</span> Mandawa</h4>
+                    <h4><span>Day 2</span> Delhi to Mandawa – Shekhawati Heritage & Artistic Havelis</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After morning breakfast, drive to Mandawa (200 km / 4 hrs). Explore the glorious havelis rich
-                        in preserving heritage of this colorful state. Overnight stay will be in Mandawa.</p>
+                      <p>Begin your day with a delicious breakfast at the hotel. Embark on a scenic 4-hour drive to Mandawa (200 km) in the heart of Shekhawati region, famous for its architectural treasures and artistic heritage. Upon arrival, check into your heritage hotel and prepare for an immersive cultural experience. Explore the magnificent havelis adorned with intricate frescoes and traditional Rajasthani artwork that showcase centuries of artistic excellence. Visit beautifully painted mansions and marvel at the craftsmanship of local artisans. Enjoy evening leisure time in the charming town. Overnight stay at your heritage accommodation in Mandawa.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 3</span> Bikaner</h4>
+                    <h4><span>Day 3</span> Mandawa to Bikaner – Desert Fortress & Royal Heritage</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>Morning breakfast at the hotel. Proceed for a 4 hours drive to Bikaner (200km). Visit Junagarh
-                        Fort, one of the glorious fort depicting royal heritage of the city. Also visit camel breeding
-                        farm and famous Karni Mata temple at Deshnok. Overnight stay will be at the hotel in Bikaner.
-                      </p>
+                      <p>Enjoy breakfast at your heritage hotel. Drive to Bikaner (200 km / 4 hours), a magnificent desert city steeped in royal heritage and architectural splendor. Upon arrival, visit the spectacular Junagarh Fort, a stunning example of Rajasthani martial architecture with elaborate palace interiors and museum exhibits. Explore the renowned Gajner Palace and the sacred Karni Mata Temple at Deshnok, known for its unique holy rats. Visit the historic camel breeding farm to learn about desert livestock heritage. Experience authentic Rajasthani hospitality and enjoy leisure time exploring the bustling local bazaars. Overnight stay at your hotel in Bikaner.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 4</span> Jaisalmer</h4>
+                    <h4><span>Day 4</span> Bikaner to Jaisalmer – The Golden City Awaits</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>Enjoy a healthy breakfast at the hotel. Later on, drive to Jaisalmer (355km / 6-7 hrs). Visit
-                        the only lake in the city, Gadsisar Lake. The lake is surrounded by temples and shrines. Also
-                        visit the royal cenotaphs at Bada Bagh. Overnight stay will be Jaisalmer.</p>
+                      <p>After breakfast, embark on a scenic 6-7 hour journey to Jaisalmer (355 km), the crown jewel of Rajasthan's Thar Desert. Watch the landscape transform into golden dunes as you approach this enchanting city. Upon arrival, visit the serene Gadisar Lake, a tranquil oasis surrounded by ancient temples and ornate shrines that reflect Jaisalmer's spiritual heritage. Explore Bada Bagh with its royal cenotaphs and wind-carved sandstone structures offering panoramic views of the golden dunes. Check into your premium heritage hotel. Experience the magical charm of Jaisalmer as sunset paints the desert golden. Overnight stay in Jaisalmer.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 5</span> Jaisalmer</h4>
+                    <h4><span>Day 5</span> Jaisalmer Full Day – Desert Expedition & Luxury Heritage</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>After breakfast, begin your local sightseeing with a visit to forts and the havelis of
-                        Jaisalmer. In Evening, proceed for a camel safari in the golden sand dunes of the city.
-                        Overnight stay will be in Jaisalmer.</p>
+                      <p>Today is your hero day in the Thar Desert! After a luxurious breakfast, embark on comprehensive sightseeing of Jaisalmer's architectural marvels. Visit the magnificent Jaisalmer Fort, a UNESCO World Heritage site, and explore its intricate carved architecture from inside out. Marvel at the stunning Patwon Ki Haveli, an architectural masterpiece showcasing delicate sandstone carvings. Explore other historic havelis and temples that tell tales of merchant legacy. In the late afternoon, experience an authentic camel safari into the golden dunes of Sam Sand Dunes, where you'll witness traditional Rajasthani culture and hospitality. Enjoy a magical sunset over endless golden desert landscapes. Participate in cultural experiences with local desert dwellers, enjoy folk music and authentic Rajasthani dinner under the stars. Return to your heritage hotel for overnight stay in Jaisalmer.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 6</span> Jodhpur</h4>
+                    <h4><span>Day 6</span> Jaisalmer to Jodhpur – The Blue City of Rajasthan</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>Morning breakfast at the hotel. Next, drive to Jodhpur (305 km / 6 hrs). In afternoon, visit
-                        Mehrangarh Fort, regarded as one of the biggest forts in Rajasthan. Later on, explore the marble
-                        cenotaph at Jaswant Thada. Overnight stay will be at the hotel in Jodhpur.</p>
+                      <p>After breakfast, drive to the legendary Blue City of Jodhpur (305 km / 6 hours), famous for its distinctive indigo-colored architecture and majestic fortifications. Upon arrival, visit the magnificent Mehrangarh Fort, one of India's largest and most impressive forts perched dramatically above the city. Explore intricate palace interiors with museum exhibits showcasing royal artifacts, weapons and historical memorabilia. Visit Jaswant Thada, a beautiful white marble cenotaph built as a tribute to a noble warrior, offering breathtaking views over the Blue City's enchanting landscape. Stroll through the charming blue-painted streets and experience authentic bazaars. Check into your premium hotel in Jodhpur. Overnight stay in this magnificent city.</p>
                     </div>
                   </div>
                 </div>
                 <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h4><span>Day 7</span> Jodhpur</h4>
+                    <h4><span>Day 7</span> Jodhpur Departure – Return with Memories</h4>
                   </div>
                   <div class="accrodion-content" style="display: none;">
                     <div class="inner">
-                      <p>Morning breakfast at the hotel. You will proceed to airport for your onward journey.</p>
+                      <p>Enjoy a final breakfast at your hotel in Jodhpur. Depending on your flight time, enjoy some final leisure time to explore the Blue City or shop for authentic handicrafts and souvenirs. Transfer to Jodhpur airport for your onward journey, carrying precious memories of your luxury Rajasthan desert expedition. Consider extending your tour with our Golden Triangle package or exploring more of Rajasthan's charm with additional destinations.</p>
                     </div>
                   </div>
                 </div>
@@ -390,49 +525,175 @@
               </div>
             </div>
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">What's Included in Your Rajasthan Desert Tour Package</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Premium or heritage hotel accommodations (6 nights)</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Daily breakfast at hotels</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Private chauffeur-driven air-conditioned vehicle</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Airport and intercity transfers</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Guided sightseeing tours at all destinations</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>Camel safari in Jaisalmer (Sam Sand Dunes)</p>
+                    </li>
+                    <li> <i class="fas fa-check-circle"></i>
+                      <p>All applicable taxes and fees</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
                 </div>
                 <!-- /.col-lg-6 col-md-7 -->
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                  <h3 class="tour-listing-details__exclusions-title">Not Included</h3>
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>Additional Service</p>
+                      <p>International flights</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Insurance</p>
+                      <p>Meals (except breakfast)</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Food & Drinks</p>
+                      <p>Monument entry tickets</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Tickets</p>
+                      <p>Travel insurance</p>
                     </li>
                   </ul>
-                  <!-- /.tour-listing-details__included-list-one -->
+                  <!-- /.tour-listing-details__included-list-two -->
                 </div>
                 <!-- /.col-lg-6 col-md-5 -->
               </div>
               <!-- /.row -->
             </div>
-            <!-- /.tour-listing-details__similar container-fluid -->
-          </div>
+            <div class="tour-listing-details__why-choose">
+              <h2 class="tour-listing-details__title tour-listing-details__why-choose-title">Why Choose This Rajasthan Desert Tour?</h2>
+              <div class="row">
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="why-choose-item">
+                    <h3 class="why-choose-item-title">Beyond Jaipur – Authentic Rajasthan</h3>
+                    <p>Explore lesser-known desert destinations that showcase the true essence of Rajasthan beyond the typical tourist trail. Experience authentic culture, local communities and genuine heritage.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+                  <div class="why-choose-item">
+                    <h3 class="why-choose-item-title">Genuine Desert Experience</h3>
+                    <p>The golden Thar Desert camel safari from Jaisalmer offers authentic desert immersion with traditional Rajasthani hospitality, folk entertainment and desert landscapes under starlit skies.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                  <div class="why-choose-item">
+                    <h3 class="why-choose-item-title">Luxury Meets Heritage</h3>
+                    <p>Stay in premium heritage hotels and palaces that offer world-class comfort while preserving authentic Rajasthani architecture, design and cultural ambiance.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.4s" data-wow-duration="1500ms">
+                  <div class="why-choose-item">
+                    <h3 class="why-choose-item-title">Curated Route & Experiences</h3>
+                    <p>Our carefully designed 7-day itinerary connects must-see destinations while allowing time for meaningful exploration and cultural immersion at each stop.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+                  <div class="why-choose-item">
+                    <h3 class="why-choose-item-title">Perfect for Cultural Travelers</h3>
+                    <p>Ideal for heritage enthusiasts, first-time India travelers and luxury seekers who want to experience Rajasthan's royal forts, artistic heritage and desert adventure in comfort.</p>
+                  </div>
+                </div>
+                <div class="col-lg-6 wow animated fadeInUp" data-wow-delay="0.6s" data-wow-duration="1500ms">
+                  <div class="why-choose-item">
+                    <h3 class="why-choose-item-title">Expert Local Guides</h3>
+                    <p>Travel with experienced, knowledgeable guides who provide deep insights into history, culture and local traditions at each destination.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="tour-listing-details__faq">
+              <h2 class="tour-listing-details__title tour-listing-details__faq-title">Frequently Asked Questions About Rajasthan Desert Tour</h2>
+              <div class="trevlo-accrodion tour-faq-accordion" data-grp-name="tour-faq-accordion">
+                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Is 7 days enough for a Rajasthan Desert Tour?</h4>
+                  </div>
+                  <div class="accrodion-content" style="display: none;">
+                    <div class="inner">
+                      <p>Yes, 7 days is the ideal duration for this Rajasthan desert tour package. It provides sufficient time to explore Delhi, Mandawa, Bikaner, Jaisalmer and Jodhpur without rushing. You'll experience major attractions, enjoy leisure time and immerse in cultural experiences. Those seeking a more comprehensive Rajasthan tour can extend to 10-12 days to include additional destinations.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.2s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Which desert is best to visit in Rajasthan?</h4>
+                  </div>
+                  <div class="accrodion-content" style="display: none;">
+                    <div class="inner">
+                      <p>The Thar Desert in Jaisalmer is the most popular and best-preserved desert in Rajasthan. Sam Sand Dunes near Jaisalmer offer authentic desert experiences including camel safaris, sunset views and cultural interactions. This desert destination is prominently featured in our Rajasthan Desert Tour Package, providing unforgettable desert memories.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Is Jaisalmer worth visiting?</h4>
+                  </div>
+                  <div class="accrodion-content" style="display: none;">
+                    <div class="inner">
+                      <p>Absolutely! Jaisalmer is one of Rajasthan's most magical destinations. The golden city features stunning sandstone architecture, UNESCO World Heritage Jaisalmer Fort, intricate havelis and authentic desert culture. The Thar Desert camel safari and sunset experiences create unforgettable memories. Jaisalmer is the highlight of our Rajasthan desert tour itinerary.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.4s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Can this Rajasthan Desert Tour be combined with Golden Triangle?</h4>
+                  </div>
+                  <div class="accrodion-content" style="display: none;">
+                    <div class="inner">
+                      <p>Yes! This desert tour already includes Delhi, a key Golden Triangle destination. You can easily extend this package to include Agra and Taj Mahal or combine it with our Golden Triangle with Rajasthan tour package for a comprehensive 10-12 day North India experience.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Is this Rajasthan package suitable for luxury travelers?</h4>
+                  </div>
+                  <div class="accrodion-content" style="display: none;">
+                    <div class="inner">
+                      <p>Absolutely! This package is specifically designed for luxury travelers. We offer premium heritage hotels, private air-conditioned vehicles, personalized service and curated cultural experiences. Accommodations range from 4-5 star hotels to authentic heritage palaces that blend comfort with cultural authenticity.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- /.tour-listing-details__faq -->
+            <div class=\"tour-listing-details__related-tours\">
+              <h2 class=\"tour-listing-details__title\">Explore More Rajasthan Tours & North India Experiences</h2>
+              <div class=\"row\">
+                <div class=\"col-lg-6 wow animated fadeInUp\" data-wow-delay=\"0.1s\" data-wow-duration=\"1500ms\">
+                  <div class=\"related-tour-item\">
+                    <p><a href=\"./golden-triangle-tours.php\">Discover our Golden Triangle Tour</a> combining Delhi, Agra and Jaipur for a complete North India heritage experience.</p>
+                  </div>
+                </div>
+                <div class=\"col-lg-6 wow animated fadeInUp\" data-wow-delay=\"0.2s\" data-wow-duration=\"1500ms\">
+                  <div class=\"related-tour-item\">
+                    <p><a href=\"./golden-triangle-tour-with-rajasthan.php\">Combine Desert Rajasthan with Golden Triangle</a> for an extended 10-12 day comprehensive North India journey.</p>
+                  </div>
+                </div>
+                <div class=\"col-lg-6 wow animated fadeInUp\" data-wow-delay=\"0.3s\" data-wow-duration=\"1500ms\">
+                  <div class=\"related-tour-item\">
+                    <p><a href=\"./rajasthan-tours.php\">Explore all Rajasthan Tours</a> offering diverse heritage, cultural and desert experiences across the state.</p>
+                  </div>
+                </div>
+                <div class=\"col-lg-6 wow animated fadeInUp\" data-wow-delay=\"0.4s\" data-wow-duration=\"1500ms\">
+                  <div class=\"related-tour-item\">
+                    <p><a href=\"./fort-and-palaces-tour.php\">Experience our Fort & Palaces Tour</a> showcasing the majestic forts and royal architecture of Rajasthan.</p>\n                  </div>\n                </div>\n              </div>\n            </div>\n            <!-- /.tour-listing-details__related-tours -->\n          </div>
           <div class="col-xl-4">
             <aside class="tour-listing-details__sidebar">
               <div

@@ -4,14 +4,119 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>Golden Triangle Tour with Ajmer Pushkar | 7 Days Itinerary - Touranzza</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+  <meta name="description" content="Book a private Golden Triangle Tour with Ajmer Pushkar covering Delhi, Agra, Taj Mahal, Jaipur, Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple in 7 days." />
+  <meta name="keywords" content="Golden Triangle Tour with Ajmer Pushkar, Golden Triangle Ajmer Pushkar tour, Delhi Agra Jaipur Ajmer Pushkar itinerary, Ajmer Pushkar tour package, Delhi Agra Jaipur Pushkar tour, Ajmer Sharif Pushkar Brahma Temple tour, 7 days Golden Triangle with Ajmer Pushkar, India spiritual Golden Triangle tour" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar" />
+  <meta property="og:type" content="product" />
+  <meta property="og:title" content="Golden Triangle Tour with Ajmer Pushkar | 7 Days Itinerary" />
+  <meta property="og:description" content="A private Delhi Agra Jaipur Ajmer Pushkar tour with Taj Mahal sunrise, Jaipur forts, Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple." />
+  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/pushkar.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Golden Triangle Tour with Ajmer Pushkar" />
+  <meta name="twitter:description" content="7 days private Golden Triangle itinerary with Delhi, Agra, Jaipur, Ajmer Sharif and Pushkar." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/pushkar.webp" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "TravelAgency",
+        "@id": "https://touranzza.com/#organization",
+        "name": "Touranzza",
+        "url": "https://touranzza.com/",
+        "telephone": "+91-9355995594",
+        "email": "india@touranzza.com",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Agra",
+          "addressRegion": "Uttar Pradesh",
+          "addressCountry": "IN"
+        },
+        "sameAs": [
+          "https://www.facebook.com/share/1DU6ep6f9V/",
+          "https://www.linkedin.com/company/touranzza/",
+          "https://www.instagram.com/touranzza?igsh=MWVqNWhsb2NqcnlvMA==",
+          "https://www.tripadvisor.in/Profile/touranzza"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://touranzza.com/#website",
+        "url": "https://touranzza.com/",
+        "name": "Touranzza",
+        "publisher": {"@id": "https://touranzza.com/#organization"}
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar#webpage",
+        "url": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar",
+        "name": "Golden Triangle Tour with Ajmer Pushkar",
+        "description": "Private 7 days Golden Triangle tour covering Delhi, Agra, Jaipur, Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple.",
+        "isPartOf": {"@id": "https://touranzza.com/#website"},
+        "about": {"@id": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar#tour"}
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar#breadcrumb",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://touranzza.com/"},
+          {"@type": "ListItem", "position": 2, "name": "Golden Triangle Tours", "item": "https://touranzza.com/golden-triangle-tours"},
+          {"@type": "ListItem", "position": 3, "name": "Golden Triangle Tour with Ajmer Pushkar", "item": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar"}
+        ]
+      },
+      {
+        "@type": "TouristTrip",
+        "@id": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar#tour",
+        "name": "Golden Triangle Tour with Ajmer Pushkar",
+        "description": "A private Delhi Agra Jaipur Ajmer Pushkar itinerary featuring Taj Mahal sunrise, Agra Fort, Fatehpur Sikri, Amer Fort, City Palace, Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple.",
+        "touristType": ["Families", "Couples", "Pilgrimage travelers", "Culture travelers", "First-time India visitors"],
+        "itinerary": [
+          "Day 1: Arrival in Delhi and hotel transfer",
+          "Day 2: Delhi sightseeing and drive to Agra",
+          "Day 3: Taj Mahal sunrise, Agra Fort, Fatehpur Sikri and Jaipur",
+          "Day 4: Jaipur sightseeing with Amer Fort, Hawa Mahal, City Palace and Jantar Mantar",
+          "Day 5: Jaipur to Ajmer Sharif Dargah and Pushkar",
+          "Day 6: Pushkar Lake, Brahma Temple and drive to Delhi",
+          "Day 7: Delhi departure"
+        ],
+        "provider": {"@id": "https://touranzza.com/#organization"},
+        "image": "https://touranzza.com/assets/images/tours/pushkar.webp",
+        "url": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar"
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://touranzza.com/golden-triangle-tour-with-ajmer-and-pushkar#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is included in the Golden Triangle Tour with Ajmer Pushkar?",
+            "acceptedAnswer": {"@type": "Answer", "text": "The tour covers Delhi, Agra, Jaipur, Ajmer and Pushkar with highlights such as Jama Masjid, Qutub Minar, Taj Mahal sunrise, Agra Fort, Fatehpur Sikri, Amer Fort, Hawa Mahal, Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple."}
+          },
+          {
+            "@type": "Question",
+            "name": "How many days are needed for Delhi Agra Jaipur Ajmer Pushkar?",
+            "acceptedAnswer": {"@type": "Answer", "text": "Seven days is a comfortable duration for the Delhi Agra Jaipur Ajmer Pushkar route because it allows time for the classic Golden Triangle monuments plus spiritual visits in Ajmer and Pushkar."}
+          },
+          {
+            "@type": "Question",
+            "name": "Can this Ajmer Pushkar Golden Triangle tour be customized?",
+            "acceptedAnswer": {"@type": "Answer", "text": "Yes, Touranzza can customize hotel category, private guides, vehicle type, pickup and drop locations, travel pace and optional experiences according to your travel style."}
+          }
+        ]
+      }
+    ]
+  }
+  </script>
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -95,7 +200,7 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
-                alt="listing-details-carousel">
+                alt="Delhi sightseeing on Golden Triangle Ajmer Pushkar tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -106,7 +211,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-4.webp"
-                alt="listing-details-carousel">
+                alt="Taj Mahal sunrise visit in Agra">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -117,7 +222,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp"
-                alt="listing-details-carousel">
+                alt="Jaipur forts and palaces on Delhi Agra Jaipur tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -128,7 +233,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/ajmer.webp"
-                alt="listing-details-carousel">
+                alt="Ajmer Sharif Dargah visit in Rajasthan">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -139,7 +244,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/pushkar.webp"
-                alt="listing-details-carousel">
+                alt="Pushkar Lake and Brahma Temple tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -158,7 +263,7 @@
           <div class="tour-listing-details__destination-row row">
             <div class="col-xl-6 wow animated fadeInLeft" data-wow-delay="0.1s" data-wow-duration="1500ms">
               <div class="tour-listing-details__destination-left">
-                <h1 class="tour-listing-details__dastination-title">Imperial Golden Triangle Tour With Ajmer Pushkar</h1>
+                <h1 class="tour-listing-details__dastination-title">Golden Triangle Tour with Ajmer Pushkar</h1>
                 <!-- <h4 class="tour-listing-details__dastination-price"><span>$130</span><span class="tour-listing-details__dastination-person">/ Per Person</span></h4> -->
               </div>
               <!-- /.tour-listing-details__daetination-left -->
@@ -207,11 +312,7 @@
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">This Golden Triangle Tour with Ajmer Pushkar combines India's classic Delhi Agra Jaipur route with two of Rajasthan's most meaningful spiritual stops. In 7 days, travel privately from Delhi to Agra for the Taj Mahal, continue through Fatehpur Sikri to Jaipur for royal forts and palaces, then visit Ajmer Sharif Dargah and the sacred lake town of Pushkar, home to the rare Brahma Temple. It is a strong choice for travelers who want heritage, Mughal architecture, Rajput culture, pilgrimage sites and a smooth private itinerary in one Delhi Agra Jaipur Ajmer Pushkar tour package.</p>
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -230,16 +331,16 @@
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Private Delhi pickup and airport departure assistance</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Taj Mahal sunrise, Agra Fort and Fatehpur Sikri</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Jaipur sightseeing with Amer Fort, Hawa Mahal and City Palace</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -257,9 +358,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">First Day Of Imperial Golden Triangle Tour With Ajmer And Pushkar. Pick Up From Delhi Airport, You Will
-                        Be Welcomed By Our Company Representative And Then You Will Be Transferred To Hotel. Overnight
-                        Stay At Hotel In Delhi.</p>
+                      <p style="margin-top: 0.75rem;">Begin your Golden Triangle Tour with Ajmer Pushkar on arrival in Delhi. A Touranzza representative will meet you at Delhi Airport, railway station or your hotel and transfer you to your accommodation. The rest of the day is free to relax before the Delhi Agra Jaipur Ajmer Pushkar itinerary begins. Overnight stay in Delhi.</p>
                     </div>
                   </div>
                 </div>
@@ -269,11 +368,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After Breakfast, Start Sightseeing Tour Of Delhi. In Old Delhi, Visit Jama Masjid, Red Fort,
-                        Chandni Chowk. Enjoy Lip Smacking Lunch In Local Restaurant. Later Start Sightseeing Of New
-                        Delhi Which Includes India Gate, Rastrapati Bhawan, Humuyuns Tomb, Qutub Minar. Later Scenic
-                        Drive Towards Agra And Upon Arrival Check Into Hotel, Enjoy Dinner In Local Restaurant Or In
-                        Hotel. Overnight Stay At The Hotel In Agra.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, explore Old Delhi and New Delhi with visits to Jama Masjid, Red Fort, Chandni Chowk, India Gate, Rashtrapati Bhawan, Humayun's Tomb and Qutub Minar. Later, drive to Agra, the city of the Taj Mahal, and check in at your hotel. Overnight stay in Agra.</p>
                     </div>
                   </div>
                 </div>
@@ -283,9 +378,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Pick Up From Hotel At 06:30 A.M., Proceed To Visit Taj Mahal At Sunrise Time Then Come Back To
-                        Hotel For Having Healthy Breakfast. Check Out From Hotel. And Visit Agra Fort. Leave For Jaipur
-                        Via Fatehpur Sikri And Post Lunch. Night Stay At Jaipur Hotel.</p>
+                      <p style="margin-top: 0.75rem;">Start early for a Taj Mahal sunrise visit, the most iconic moment of the Golden Triangle route. Return to the hotel for breakfast, then visit Agra Fort before driving to Jaipur via Fatehpur Sikri, the former Mughal capital known for Buland Darwaza and red sandstone palaces. Overnight stay in Jaipur.</p>
                     </div>
                   </div>
                 </div>
@@ -295,10 +388,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After Breakfast, Start Sightseeing Tour Of Jaipur At 08:00 A.M. With Our Tour Guide. Visit Amer
-                        Fort (Enjoy Elephant Ride In Amer Fort (Its Optional), Hawa Mahal, Drive Past Jal Mahal. Enjoy
-                        Mouth Watering Lunch. Later Visit Jantar Mantar, City Palace. Enjoy Shopping In Local Market. In
-                        The Evening Enjoy Dinner In Local Restaurant Or In Hotel. Overnight Stay At Hotel In Jaipur.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, enjoy a guided Jaipur sightseeing tour. Visit Amer Fort, stop at Jal Mahal and Hawa Mahal for photos, then continue to City Palace and Jantar Mantar. In the evening, explore Jaipur's local markets for textiles, jewelry, handicrafts and souvenirs. Overnight stay in Jaipur.</p>
                     </div>
                   </div>
                 </div>
@@ -308,8 +398,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After Breakfast, Check Out From Hotel And Drive To Ajmer, A Religious Muslim Place, Visit
-                        Dargah Sharif And Proceed To Pushkar, Check In Hotel, Overnight Stay At Hotel In Pushkar.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, check out and drive from Jaipur to Ajmer, one of India's most important Sufi pilgrimage cities. Visit Ajmer Sharif Dargah, dedicated to Khwaja Moinuddin Chishti, then continue to Pushkar. Check in at your hotel and enjoy the peaceful atmosphere near Pushkar Lake. Overnight stay in Pushkar.</p>
                     </div>
                   </div>
                 </div>
@@ -319,9 +408,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">After Breakfast, Start Sightseeing Tour Of Pushkar, Visit Brahma Temple, Pushkar Lake And
-                        Ghats. After Sightseeing Of Pushkar, Proceed To Delhi. Transfer To Hotel, Overnight Stay At
-                        Hotel In Delhi.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, visit Pushkar's sacred highlights including Brahma Temple, Pushkar Lake and the surrounding ghats. After sightseeing, drive back to Delhi by private car. Check in at your Delhi hotel for the final night of the tour.</p>
                     </div>
                   </div>
                 </div>
@@ -331,8 +418,7 @@
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Transfer To Delhi Airport As Per Your Flight Schedule With Sweet Memories Of Delhi Agra Jaipur
-                        Ajmer Pushkar Tour.</p>
+                      <p style="margin-top: 0.75rem;">After breakfast, transfer to Delhi Airport or your chosen departure point. Your Golden Triangle Ajmer Pushkar tour ends with memories of the Taj Mahal, Jaipur's royal monuments, Ajmer Sharif and Pushkar's sacred lake.</p>
                     </div>
                   </div>
                 </div>
@@ -369,21 +455,31 @@
               </div>
             </div>
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__included-title">Why Choose This Ajmer Pushkar Golden Triangle Tour?</h3>
+              <p class="tour-listing-details__overview-text">This itinerary is designed for travelers who want the classic Golden Triangle plus a deeper spiritual Rajasthan experience. Delhi and Agra bring Mughal and colonial heritage, Jaipur adds royal palaces and forts, Ajmer brings the devotional atmosphere of Ajmer Sharif Dargah, and Pushkar adds lake ghats, temple rituals and the rare Brahma Temple.</p>
+              <ul class="tour-listing-details__overview-text list-unstyled">
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Covers Delhi, Agra, Jaipur, Ajmer and Pushkar in a comfortable 7 days route.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Includes Taj Mahal sunrise, Fatehpur Sikri, Jaipur sightseeing, Ajmer Sharif and Pushkar Lake.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Private car and driver for smooth intercity transfers and flexible sightseeing.</li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-check-circle" style="color:var(--trevlo-base); margin-right: 8px;"></i> Customizable hotels, guides, pickup point, drop point and travel pace.</li>
+              </ul>
+            </div>
+            <div class="tour-listing-details__included">
+              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included / Excluded</h3>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Pick and Drop Service</p>
+                      <p>Delhi pickup and departure transfer</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>1 Meal Per Day</p>
+                      <p>Private air-conditioned vehicle with driver</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Cruise Dinner & Music Event</p>
+                      <p>Delhi, Agra, Jaipur, Ajmer and Pushkar sightseeing route</p>
                     </li>
                     <li> <i class="fas fa-check-circle"></i>
-                      <p>Visit 7 Best Places in the City with Group</p>
+                      <p>Assistance for hotels, guides and monument planning</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -392,16 +488,16 @@
                 <div class="col-lg-6 col-md-5 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-two">
                     <li> <i class="fas fa-times"></i>
-                      <p>Additional Service</p>
+                      <p>Monument entrance tickets unless included in your quote</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Insurance</p>
+                      <p>Travel insurance and personal expenses</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Food & Drinks</p>
+                      <p>Meals and drinks not mentioned in the package</p>
                     </li>
                     <li> <i class="fas fa-times"></i>
-                      <p>Tickets</p>
+                      <p>Tips, camera fees and optional activities</p>
                     </li>
                   </ul>
                   <!-- /.tour-listing-details__included-list-one -->
@@ -409,6 +505,41 @@
                 <!-- /.col-lg-6 col-md-5 -->
               </div>
               <!-- /.row -->
+            </div>
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Golden Triangle with Ajmer Pushkar FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__seo-faq">
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>What places are covered in this Golden Triangle Ajmer Pushkar tour?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">The tour covers Delhi, Agra, Jaipur, Ajmer and Pushkar with highlights such as Jama Masjid, Qutub Minar, Taj Mahal, Agra Fort, Fatehpur Sikri, Amer Fort, Hawa Mahal, City Palace, Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Is 7 days enough for Delhi Agra Jaipur Ajmer Pushkar?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, 7 days is a practical duration for this route. It gives enough time for Delhi sightseeing, Taj Mahal sunrise, Jaipur monuments and the spiritual visits to Ajmer Sharif and Pushkar without making the trip feel too rushed.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                  <div class="accrodion-title">
+                    <h4>Can this tour be customized?</h4>
+                  </div>
+                  <div class="accrodion-content">
+                    <div class="inner">
+                      <p style="margin-top: 0.75rem;">Yes, Touranzza can customize hotel category, guide services, vehicle type, number of nights, pickup location, drop location and optional experiences such as local food walks, market visits or heritage hotel upgrades.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
@@ -418,7 +549,7 @@
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
-                <form action="# class="tour-listing-details__sidebar-form">
+                <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
@@ -454,7 +585,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Adults</label>
-                    <select class="selectpicker" aria-label="Adults">
+                    <select class="selectpicker" name="adults" aria-label="Adults">
                       <option selected="">Adults</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -475,7 +606,7 @@
                   </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>No. of Children</label>
-                    <select class="selectpicker" aria-label="Children">
+                    <select class="selectpicker" name="children" aria-label="Children">
                       <option selected="">Children</option>
                       <option value="1">1</option>
                       <option value="2">2</option>
@@ -546,7 +677,7 @@
     <div class="search-popup__overlay search-toggler"></div>
     <!-- /.search-popup__overlay -->
     <div class="search-popup__content">
-      <form role="search" method="get" class="search-popup__form" action="#>
+      <form role="search" method="get" class="search-popup__form" action="#">
         <input type="text" id="search" placeholder="Search Here..." />
         <button type="submit" aria-label="search submit" class="search-popup__btn trevlo-btn trevlo-btn--base"> <span
             class="icon-search"></span> </button>

@@ -4,14 +4,29 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Touranzza</title>
+  <title>12 Days Imperial Golden Triangle Tour With Orchha, Khajuraho & Varanasi | Touranzza</title>
+  <meta name="description" content="Explore India's most iconic destinations with our 12-day Imperial Golden Triangle tour. Visit Delhi, Agra, Jaipur, Orchha, Khajuraho, and Varanasi with luxury accommodations, guided tours, and cultural experiences." />
+  <meta name="keywords" content="golden triangle tour, 12 day India tour, Delhi Agra Jaipur tour, Orchha Khajuraho Varanasi tour, luxury India tours, best India itinerary, golden triangle with Orchha, exotic India tours" />
+  <meta name="author" content="Touranzza" />
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-with-orchha-khajuraho-and-varanasi.php" />
+  <!-- Open Graph Tags -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="12 Days Imperial Golden Triangle Tour With Orchha, Khajuraho & Varanasi" />
+  <meta property="og:description" content="Explore India's most iconic destinations with our 12-day Imperial Golden Triangle tour. Visit Delhi, Agra, Jaipur, Orchha, Khajuraho, and Varanasi with luxury accommodations and guided tours." />
+  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-with-orchha-khajuraho-and-varanasi.php" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/delhitour1.webp" />
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="12 Days Imperial Golden Triangle Tour With Orchha, Khajuraho & Varanasi" />
+  <meta name="twitter:description" content="Explore India's most iconic destinations. 12-day tour covering Delhi, Agra, Jaipur, Orchha, Khajuraho, and Varanasi." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/delhitour1.webp" />
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-  <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
   <!-- fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com/">
   <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -42,6 +57,93 @@
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
   <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <!-- Schema Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Tour",
+    "name": "12 Days Imperial Golden Triangle Tour With Orchha, Khajuraho And Varanasi",
+    "description": "Experience the best of India's cultural and historical heritage with our comprehensive 12-day tour covering Delhi, Agra, Jaipur, Orchha, Khajuraho, and Varanasi.",
+    "url": "https://touranzza.com/golden-triangle-tour-with-orchha-khajuraho-and-varanasi.php",
+    "image": "https://touranzza.com/assets/images/tours/delhitour1.webp",
+    "duration": "P12D",
+    "itinerary": {
+      "@type": "ItemList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Day 1: Delhi - Arrival"},
+        {"@type": "ListItem", "position": 2, "name": "Day 2: Delhi - Sightseeing"},
+        {"@type": "ListItem", "position": 3, "name": "Day 3: Delhi to Jaipur"},
+        {"@type": "ListItem", "position": 4, "name": "Day 4: Jaipur - Sightseeing"},
+        {"@type": "ListItem", "position": 5, "name": "Day 5: Jaipur to Agra"},
+        {"@type": "ListItem", "position": 6, "name": "Day 6: Agra - Taj Mahal & Sightseeing"},
+        {"@type": "ListItem", "position": 7, "name": "Day 7: Agra to Orchha"},
+        {"@type": "ListItem", "position": 8, "name": "Day 8: Orchha to Khajuraho"},
+        {"@type": "ListItem", "position": 9, "name": "Day 9: Khajuraho - Sightseeing"},
+        {"@type": "ListItem", "position": 10, "name": "Day 10: Khajuraho to Varanasi"},
+        {"@type": "ListItem", "position": 11, "name": "Day 11: Varanasi - Sightseeing"},
+        {"@type": "ListItem", "position": 12, "name": "Day 12: Varanasi Departure"}
+      ]
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Delhi, Jaipur, Agra, Orchha, Khajuraho, Varanasi",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "IN"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Touranzza",
+      "url": "https://touranzza.com",
+      "telephone": "+91-9355995594",
+      "email": "needhelp@trevlo.com"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "ratingCount": "1"
+    },
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "INR",
+      "price": "Contact for pricing",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://touranzza.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Tours",
+        "item": "https://touranzza.com/tour-packages.php"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Golden Triangle Tours",
+        "item": "https://touranzza.com/golden-triangle-tours.php"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "12 Days Imperial Golden Triangle Tour With Orchha, Khajuraho And Varanasi",
+        "item": "https://touranzza.com/golden-triangle-tour-with-orchha-khajuraho-and-varanasi.php"
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body>
@@ -95,7 +197,7 @@
         }'>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp"
-                alt="listing-details-carousel">
+                alt="Delhi sightseeing - India Gate and Humayun's Tomb">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/khajuraho-tour.webp"}, {"src": "assets/images/tours/orchha-tour.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -106,7 +208,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour2.webp"
-                alt="listing-details-carousel">
+                alt="Taj Mahal Agra - iconic white marble mausoleum">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/khajuraho-tour.webp"}, {"src": "assets/images/tours/orchha-tour.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -117,7 +219,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp"
-                alt="listing-details-carousel">
+                alt="Jaipur city palace and Hawa Mahal pink architecture">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/khajuraho-tour.webp"}, {"src": "assets/images/tours/orchha-tour.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -128,7 +230,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/khajuraho-tour.webp"
-                alt="listing-details-carousel">
+                alt="Khajuraho temples - UNESCO world heritage monuments">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/khajuraho-tour.webp"}, {"src": "assets/images/tours/orchha-tour.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -139,7 +241,7 @@
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/orchha-tour.webp"
-                alt="listing-details-carousel">
+                alt="Orchha palace and temples - royal heritage site">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/khajuraho-tour.webp"}, {"src": "assets/images/tours/orchha-tour.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -149,7 +251,7 @@
           </div>
           <div class="tour-listing-details__top-carousel-item item">
             <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/varanasi-tours-1.webp"
-                alt="listing-details-carousel">
+                alt="Varanasi ghats on River Ganges - spiritual India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#" 
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/jaipurtour2.webp"}, {"src": "assets/images/tours/khajuraho-tour.webp"}, {"src": "assets/images/tours/orchha-tour.webp"}, {"src": "assets/images/tours/varanasi-tours-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -218,11 +320,7 @@
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">There are many variations of passages of Lorem Ipsum available, but the
-                majority have suffered alteradution in some form by injected humour, or randomised words which don't
-                look even slightly believable. If you are going There are many variations of passages of Lorem Ipsum
-                available, but the majority have suffered alteradution in some form by injected humour, or randomised
-                words which don't look even slightly believable. If you are going</p>
+                data-wow-duration="1500ms">Embark on an unforgettable 12-day journey through India's most iconic destinations with our Imperial Golden Triangle Tour with Orchha, Khajuraho, and Varanasi. This comprehensive itinerary seamlessly combines the cultural triangle of Delhi, Agra, and Jaipur with the artistic marvels of Orchha and Khajuraho temples, and the spiritual essence of Varanasi. Experience luxury accommodations, expertly guided tours of UNESCO World Heritage sites, elephant rides at Amer Fort, sunrise views of the Taj Mahal, authentic local cuisine, and the mesmerizing Ganges River experience. Perfect for travelers seeking a deep immersion into India's rich history, architecture, and spirituality, this tour offers the perfect blend of heritage exploration and comfort.</p>
               <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
               </div>
@@ -236,7 +334,7 @@
 </div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one tour-highlights">
@@ -260,7 +358,7 @@
               <!-- /.row -->
             </div>
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h2>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq">
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
@@ -411,7 +509,7 @@
               </div>
             </div>
             <div class="tour-listing-details__included">
-              <h3 class="tour-listing-details__title tour-listing-details__included-title">Included/Exclude</h3>
+              <h2 class="tour-listing-details__title tour-listing-details__included-title">What's Included & Excluded</h2>
               <div class="row">
                 <div class="col-lg-6 col-md-7 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <ul class="tour-listing-details__included-list-one">
@@ -459,7 +557,7 @@
               <div
                 class="tour-listing-details__sidebar-book-tours tour-listing-details__sidebar-single wow animated fadeInUp"
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
-                <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
+                <h2 class="tour-listing-details__sidebar-title">Book Your Tour Now</h2>
                 <form action="# class="tour-listing-details__sidebar-form">
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>

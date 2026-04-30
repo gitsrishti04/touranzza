@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Touranzza</title>
+    <title>Golden Triangle Tours | Imperial Delhi Agra Jaipur Tours</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Experience luxury travel across India with bespoke tour packages crafted for comfort, elegance, and unforgettable moments." />
+    <meta name="description" content="Explore India's Golden Triangle with luxury tours of Delhi, Agra, and Jaipur. Imperial heritage sites, palaces, and the Taj Mahal in bespoke travel packages." />
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
@@ -621,6 +621,184 @@
                             </div><!-- /.tour-listing__card-content -->
                         </div><!-- /.tour-listing__card -->
                     </div><!-- /.col-xl-4 col-md-6 -->
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-3-days" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/gt1.webp" alt="3 Days Golden Triangle Tour Delhi Agra Jaipur"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group">
+                                    <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
+                                </div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-3-days">Golden Triangle Tour 3 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">A short private Delhi Agra Jaipur itinerary for travelers who want the Golden Triangle highlights quickly.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">3 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-4-days" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/gt2.webp" alt="4 Days Golden Triangle Tour"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-4-days">Golden Triangle Tour 4 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">A compact Delhi, Agra and Jaipur tour with private transfers, Taj Mahal sightseeing and Jaipur heritage.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">4 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-6-days" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/gt3.webp" alt="6 Days Golden Triangle Tour"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-6-days">Golden Triangle Tour 6 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">A balanced private Golden Triangle tour with extra time for Delhi, Agra and Jaipur sightseeing.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">6 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-7-days" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/gt4.webp" alt="7 Days Golden Triangle Tour"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-7-days">Golden Triangle Tour 7 Days</a></h3>
+                                <p class="tour-listing__card-text text-small">A comfortable Delhi Agra Jaipur itinerary with Taj Mahal sunrise, Fatehpur Sikri and Jaipur palaces.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">7 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-ajmer-and-pushkar" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/pushkar.webp" alt="Golden Triangle Tour with Ajmer Pushkar"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-ajmer-and-pushkar">Golden Triangle with Ajmer Pushkar</a></h3>
+                                <p class="tour-listing__card-text text-small">Delhi, Agra and Jaipur with Ajmer Sharif Dargah, Pushkar Lake and Brahma Temple.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Ajmer - Pushkar</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">7 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-udaipur" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/udaipur.webp" alt="Golden Triangle Tour with Udaipur"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-udaipur">Golden Triangle with Udaipur</a></h3>
+                                <p class="tour-listing__card-text text-small">Delhi, Agra and Jaipur extended to Udaipur's lakes, palaces and romantic Rajasthan heritage.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Udaipur</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">8 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/orchha-khajuraho.webp" alt="Golden Triangle with Orchha Khajuraho and Varanasi"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi">GT with Orchha, Khajuraho &amp; Varanasi</a></h3>
+                                <p class="tour-listing__card-text text-small">A culture-rich route linking the Golden Triangle with Orchha, Khajuraho temples and Varanasi ghats.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Orchha - Khajuraho - Varanasi</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">10 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s"
+                        data-wow-duration="1500ms">
+                        <div class="tour-listing__card">
+                            <a href="golden-triangle-tour-with-kerala" class="tour-listing__card-image-box">
+                                <img src="assets/images/tours/kerala-tours.webp" alt="Golden Triangle Tour with Kerala"
+                                    class="tour-listing__card-image">
+                                <div class="tour-listing__card-btn-group"><div class="tour-listing__card-discount @@innerExtraClassName">GT</div></div>
+                                <div class="tour-listing__card-image-overlay"></div>
+                            </a>
+                            <a href="javascript:void(0);" class="tour-listing__card-wishlist"><span class="icon-heart"></span></a>
+                            <div class="tour-listing__card-content">
+                                <h3 class="tour-listing__card-title"><a href="golden-triangle-tour-with-kerala">Golden Triangle with Kerala</a></h3>
+                                <p class="tour-listing__card-text text-small">Delhi, Agra and Jaipur combined with Kochi heritage, Kerala backwaters and houseboat options.</p>
+                                <div class="tour-listing__card-inner-content">
+                                    <div class="tour-listing__card-review-box"><span class="icon-star"></span><p class="tour-listing__card-review-text text-small">4.5 (30 Reviews)</p></div>
+                                    <div class="tour-listing__card-location-box"><span class="icon-location-1"></span><p class="tour-listing__card-location-text text-small">Delhi - Agra - Jaipur - Kerala</p></div>
+                                    <div class="tour-listing__card-divider"></div>
+                                    <div class="tour-listing__card-bottom"><div class="tour-listing__card-bottom-left"><div class="tour-listing__card-day"><span class="icon-clock-1"></span><p class="tour-listing__card-day-text text-small">7 Days</p></div><div class="tour-listing__card-people"><span class="icon-Duration"></span><p class="tour-listing__card-people-text text-small">12+</p></div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 </div><!-- /.row -->
             </div><!-- /.container -->
         </section>
