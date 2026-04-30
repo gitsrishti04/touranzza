@@ -254,10 +254,10 @@
       max-height: calc(100vh - 170px) !important;
     }
 
-    /* Only open when hovering/clicking the Tour Packages item (or the menu itself) */
-    .tour-pkg-dropdown:hover > a + .sub-menu,
+    /* Only open when hovering/clicking the Tour Packages link (or the menu itself) */
     .tour-pkg-dropdown > a:hover + .sub-menu,
-    .tour-pkg-dropdown:focus-within > .sub-menu,
+    .tour-pkg-dropdown > a:focus + .sub-menu,
+    .tour-pkg-dropdown > a:active + .sub-menu,
     .tour-pkg-dropdown > .sub-menu:hover {
       display: grid !important;
     }
@@ -286,14 +286,14 @@
       background: #ffc202 !important;
       color: #000000 !important;
       /* Changed to black for visibility */
-      font-size: 10.5px !important;
+      font-size: 10px !important;
       font-weight: 700 !important;
       text-transform: uppercase !important;
       letter-spacing: 0.4px;
-      padding: 5px 8px !important;
+      padding: 4px 7px !important;
       border-radius: 3px;
       margin-bottom: 8px;
-      min-height: 36px;
+      min-height: 32px;
       white-space: normal;
       line-height: 1.2;
       text-align: center !important;
@@ -336,8 +336,8 @@
     }
 
     .tour-pkg-dropdown>.sub-menu>li.dropdown>.sub-menu>li>a {
-      padding: 5px 4px !important;
-      font-size: 12px !important;
+      padding: 4px 4px !important;
+      font-size: 11px !important;
       color: #444 !important;
       white-space: normal !important;
       line-height: 1.3;
