@@ -471,7 +471,7 @@
 
             <!-- FAQ SECTION -->
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Rajasthan FAQs</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-listing-details__faq-2">
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
