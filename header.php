@@ -47,7 +47,7 @@
             <ul class="sub-menu">
               <li class="dropdown"><a href="golden-triangle-tours">Imperial Golden Triangle Tours</a>
                 <ul class="sub-menu">
-                  <li><a href="golden-triangle-tour-6-days">6 Days Golden Triangle</a></li>
+                  <li><a href="golden-triangle-tour-5-days">5 Days Golden Triangle</a></li>
                   <li><a href="golden-triangle-tour-with-ranthambore"> GT with Ranthambore</a></li>
                   <li><a href="golden-triangle-tour-with-rajasthan">GT with Rajasthan</a></li>
                   <li><a href="golden-triangle-tour-with-varanasi">GT with Varanasi</a></li>
