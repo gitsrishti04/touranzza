@@ -29,7 +29,15 @@
     "touristType": "International Travelers",
     "provider": {
       "@type": "TravelAgency",
-      "name": "Touranzza"
+      "name": "Touranzza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Agra",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "282001",
+        "addressCountry": "IN"
+      }
     },
     "offers": {
       "@type": "Offer",

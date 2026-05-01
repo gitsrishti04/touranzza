@@ -28,7 +28,15 @@
     "description": "Private 9-day journey linking Delhi, Agra, and Jaipur with Rajasthan's lakes, deserts, and fortress cities including Udaipur and Jaisalmer.",
     "provider": {
       "@type": "TravelAgency",
-      "name": "Touranzza"
+      "name": "Touranzza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Agra",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "282001",
+        "addressCountry": "IN"
+      }
     },
     "itinerary": {
       "@type": "ItemList",

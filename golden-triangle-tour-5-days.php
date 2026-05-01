@@ -28,7 +28,15 @@
     "description": "Private 5-day journey exploring Delhi, Agra, and Jaipur including the Taj Mahal and Amber Fort.",
     "provider": {
       "@type": "TravelAgency",
-      "name": "Touranzza"
+      "name": "Touranzza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Agra",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "282001",
+        "addressCountry": "IN"
+      }
     },
     "itinerary": {
       "@type": "ItemList",

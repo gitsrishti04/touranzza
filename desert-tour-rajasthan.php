@@ -36,7 +36,15 @@
         "provider": {
           "@type": "TravelAgency",
           "name": "Touranzza",
-          "url": "https://touranzza.com/"
+          "url": "https://touranzza.com/",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Agra",
+            "addressLocality": "Agra",
+            "addressRegion": "Uttar Pradesh",
+            "postalCode": "282001",
+            "addressCountry": "IN"
+          }
         },
         "image": "https://touranzza.com/assets/images/tours/jaisalmer-1.webp",
         "url": "https://touranzza.com/desert-tour-rajasthan"

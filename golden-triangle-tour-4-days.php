@@ -41,7 +41,15 @@
     "touristType": "Luxury, First-time India travelers",
     "provider": {
       "@type": "TravelAgency",
-      "name": "Touranzza"
+      "name": "Touranzza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Agra",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "282001",
+        "addressCountry": "IN"
+      }
     },
     "areaServed": ["Delhi", "Agra", "Jaipur"]
   }

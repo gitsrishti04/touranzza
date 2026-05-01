@@ -28,7 +28,15 @@
     "description": "Private 10-day journey combining the heritage of Delhi, Agra, and Jaipur with the spiritual awakening of Varanasi and the Ganges.",
     "provider": {
       "@type": "TravelAgency",
-      "name": "Touranzza"
+      "name": "Touranzza",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Agra",
+        "addressLocality": "Agra",
+        "addressRegion": "Uttar Pradesh",
+        "postalCode": "282001",
+        "addressCountry": "IN"
+      }
     },
     "itinerary": {
       "@type": "ItemList",
