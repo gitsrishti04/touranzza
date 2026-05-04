@@ -468,6 +468,29 @@
               <?php include("sidebar.php") ?>
             </aside>
           </div>
+
+          <!-- FAQ -->
+          <div class="tour-listing-details__plan">
+            <h3 class="tour-listing-details__title tour-listing-details__plan-title">Same Day Jaipur Tour FAQs</h3>
+            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="jaipur-tour-seo-faq">
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Can Jaipur be done as a day trip from Delhi?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — it is a 5-hour drive or 4.5-hour train ride. Leaving Delhi by 5–6 AM gives you a full day of sightseeing in Jaipur before returning in the evening.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>What is covered on a same day Jaipur tour?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Amber Fort with jeep ascent, City Palace, Jantar Mantar, Hawa Mahal photo stop, and Jal Mahal — all the Pink City's iconic landmarks in one guided day.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Is the same day Jaipur tour private?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — Touranzza operates all tours privately with a dedicated car, driver and local expert guide throughout the day. No shared groups or fixed departure times.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Is it better to stay overnight in Jaipur or do it as a day trip?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Staying overnight allows a more relaxed pace and the chance to explore Jaipur's bazaars and evening atmosphere. The day trip is ideal if you are short on time but still want to see the key highlights.</p></div></div>
+            </div>
+            </div>
+          </div>
           <!-- /.col-xl-4 -->
         </div>
       </div>

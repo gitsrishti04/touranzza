@@ -208,7 +208,17 @@
                 <h3 class="tour-listing-details__title tour-listing-details__overview-title">Overview</h3>
               </div>
               <p class="tour-listing-details__overview-text wow animated fadeInUp" data-wow-delay="0.1s"
-                data-wow-duration="1500ms">This private Touranzza itinerary is designed for travelers who want meaningful sightseeing, reliable transfers and a smoother India travel experience. The route can be customized with hotel category, private guides, pickup point, travel pace and optional experiences so the page gives both guests and search engines clear, useful destination information.</p>
+                data-wow-duration="1500ms">This private Touranzza itinerary
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour by Car</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="same-day-agra-tour-by-gatimaan-express" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour by Gatimaan Express</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="taj-mahal-day-tour-by-train" style="color: inherit; text-decoration: underline; font-weight: 600;">Taj Mahal Day Tour by Train</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="golden-triangle-tour-3-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle Tour 3 Days</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a></li>
+              </ul> is designed for travelers who want meaningful sightseeing, reliable transfers and a smoother India travel experience. The route can be customized with hotel category, private guides, pickup point, travel pace and optional experiences so the page gives both guests and search engines clear, useful destination information.</p>
             </div>
             <!-- /.tour-listing-details__explore -->
             <div class="tour-listing-details__included">
@@ -399,6 +409,29 @@
                 <!-- /.col-lg-6 col-md-5 -->
               </div>
               <!-- /.row -->
+            </div>
+
+            <!-- FAQ -->
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Taj Mahal Sunrise Tour FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="sunrise-tour-seo-faq">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>What time does the Taj Mahal open for sunrise visits?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Taj Mahal opens 30 minutes before sunrise. Depending on the season, this is typically between 5:30 AM and 6:30 AM. Your guide will confirm the exact time based on your travel date.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Is the Taj Mahal sunrise tour from Delhi a same-day trip?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — you depart early from Delhi by private car, arrive in Agra for sunrise, complete sightseeing including Agra Fort and optionally Baby Taj, then return to Delhi the same evening.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Why is sunrise the best time to visit the Taj Mahal?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The soft morning light turns the white marble pink and golden, crowds are significantly thinner than midday, and the atmosphere is far more serene — making it the most photographically and emotionally rewarding time to visit.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>What is included in the Taj Mahal sunrise tour?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Private air-conditioned car, experienced local guide, Agra Fort visit, lunch at a quality restaurant, and all transfers. Monument entry tickets are arranged separately.</p></div></div>
+              </div>
+              </div>
             </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>

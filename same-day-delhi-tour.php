@@ -492,6 +492,29 @@
               <?php include("sidebar.php") ?>
             </aside>
           </div>
+
+          <!-- FAQ -->
+          <div class="tour-listing-details__plan">
+            <h3 class="tour-listing-details__title tour-listing-details__plan-title">Same Day Delhi Tour FAQs</h3>
+            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="delhi-tour-seo-faq">
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>What is covered on a same day Delhi sightseeing tour?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Old Delhi highlights including Jama Masjid, Chandni Chowk rickshaw ride and Red Fort exterior, plus New Delhi landmarks like India Gate, Qutub Minar, Humayun's Tomb, Lotus Temple and a ceremonial drive past Rashtrapati Bhavan.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>How long does a full Delhi sightseeing tour take?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">A comprehensive Delhi tour covering both Old and New Delhi takes 8–10 hours. Starting by 8 AM ensures you cover all major sites comfortably before evening.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Is Delhi safe for tourists?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — with a private guide and pre-arranged transfers, Delhi is very manageable and rewarding for international visitors. Your guide handles all logistics so you can focus entirely on the experience.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Can I combine a Delhi tour with Agra on the same trip?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — the most popular option is to do Delhi on day one, then drive to Agra for the Taj Mahal on day two. This is the start of the classic Golden Triangle route.</p></div></div>
+            </div>
+            </div>
+          </div>
           <!-- /.col-xl-4 -->
         </div>
       </div>

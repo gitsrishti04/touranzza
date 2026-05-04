@@ -550,6 +550,29 @@
               </div>
               <!-- /.row -->
             </div>
+
+            <!-- FAQ -->
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Orchha, Khajuraho & Varanasi FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="orchha-varanasi-seo-faq">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>What makes this tour different from a standard Golden Triangle?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">It adds Orchha's medieval cenotaphs and temples, Khajuraho's UNESCO-listed sculptural masterpieces, and Varanasi's sacred Ganges ghats — transforming a heritage tour into a complete cultural journey across five distinct destinations.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Is Khajuraho appropriate for all travelers?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes. The temples are UNESCO World Heritage Sites celebrated for their artistic and architectural significance. The sculptures depict a wide range of human experience and are presented in a respectful historical context.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>How long is this tour?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The standard itinerary runs 12 days, covering Delhi, Agra, Jaipur, Orchha, Khajuraho and Varanasi at a comfortable private pace.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Can I customize the itinerary?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — Touranzza builds all tours privately, so stops, hotel categories and pace can be adjusted to your preferences and travel dates.</p></div></div>
+              </div>
+              </div>
+            </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
           <div class="col-xl-4">

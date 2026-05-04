@@ -474,6 +474,29 @@
               </div>
               <!-- /.row -->
             </div>
+
+            <!-- FAQ -->
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Udaipur FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="udaipur-seo-faq">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>What is the Golden Triangle Tour with Udaipur?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">It combines Delhi, Agra and Jaipur — India's classic heritage circuit — with Udaipur, the City of Lakes, adding Rajasthan's most romantic destination to the route.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>How many days is the Golden Triangle with Udaipur tour?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The standard itinerary is 7 days, giving comfortable time in each city without rushing between monuments.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Is Udaipur worth adding to the Golden Triangle?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Absolutely. Udaipur's Lake Pichola, City Palace and Rajput architecture offer a completely different experience from the Mughal heritage of Delhi and Agra — making the overall journey far more diverse.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Can I extend this tour further into Rajasthan?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — popular extensions include Jodhpur, Jaisalmer and Pushkar. Touranzza builds all itineraries privately so the route can be tailored to your schedule.</p></div></div>
+              </div>
+              </div>
+            </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
           <div class="col-xl-4">

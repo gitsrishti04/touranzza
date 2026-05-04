@@ -410,6 +410,29 @@
               </div>
               <!-- /.row -->
             </div>
+
+            <!-- FAQ -->
+            <div class="tour-listing-details__plan">
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Same Day Agra Tour by Gatimaan Express FAQs</h3>
+              <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="gatimaan-seo-faq">
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>What is the Gatimaan Express?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Gatimaan Express is India's fastest train, running between Delhi Hazrat Nizamuddin and Agra Cantonment in under 2 hours at speeds up to 160 km/h.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Is the Gatimaan Express same day Agra tour better than by car?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">For most travelers yes — the train is faster, avoids road traffic entirely, and the air-conditioned journey is more comfortable. It is the premium same-day Agra option for those who value speed and comfort.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>What monuments are covered on this tour?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Taj Mahal, Agra Fort, and optionally Baby Taj (Itmad-ud-Daulah) — all with a private guide, lunch at a quality restaurant, and seamless transfers between the station and monuments.</p></div></div>
+              </div>
+              <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <div class="accrodion-title"><h4>Do I need to book train tickets separately?</h4></div>
+                <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">No — Touranzza handles all train ticket bookings as part of the tour package. You simply arrive at the station and your guide will be there to meet you.</p></div></div>
+              </div>
+              </div>
+            </div>
             <!-- /.tour-listing-details__similar container-fluid -->
           </div>
           <div class="col-xl-4">

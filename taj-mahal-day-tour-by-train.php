@@ -478,6 +478,29 @@
               <?php include("sidebar.php") ?>
             </aside>
           </div>
+
+          <!-- FAQ -->
+          <div class="tour-listing-details__plan">
+            <h3 class="tour-listing-details__title tour-listing-details__plan-title">Taj Mahal Day Tour by Train FAQs</h3>
+            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="train-tour-seo-faq">
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Which train is used for the Taj Mahal day tour from Delhi?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Gatimaan Express — India's fastest train — connects Delhi Hazrat Nizamuddin to Agra Cantonment in under 2 hours, making it the most efficient same-day option for visiting the Taj Mahal.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Is the Taj Mahal day tour by train better than by car?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">For most travelers yes. The train avoids Delhi-Agra highway traffic, is faster, and the air-conditioned journey is more comfortable. It is the premium same-day Agra experience.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>What monuments are covered on this tour?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Taj Mahal, Agra Fort, and optionally Baby Taj (Itmad-ud-Daulah) — all with a private guide, lunch at a quality restaurant, and seamless station-to-monument transfers.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Can I visit the Taj Mahal at sunrise on this train tour?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Gatimaan Express departs Delhi at 8:10 AM, arriving in Agra around 10 AM — ideal for a mid-morning visit. For a true sunrise visit, the same-day Agra tour by car with an early departure is recommended.</p></div></div>
+            </div>
+            </div>
+          </div>
           <!-- /.col-xl-4 -->
         </div>
       </div>

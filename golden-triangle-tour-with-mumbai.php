@@ -161,7 +161,30 @@
               </div>
               <!-- /.tour-listing-details__ratings-box -->
             </div>
-            <!-- /.col-xl-4 -->
+  
+          <!-- FAQ -->
+          <div class="tour-listing-details__plan">
+            <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Mumbai FAQs</h3>
+            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="mumbai-seo-faq">
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>What is the Golden Triangle Tour with Mumbai?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">It combines Delhi, Agra and Jaipur — India's classic North India heritage circuit — with Mumbai, India's financial capital and a UNESCO World Heritage city, creating a tour that covers both Mughal monuments and colonial grandeur.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>How do you travel from Jaipur to Mumbai on this tour?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">By flight — a short domestic flight connects Jaipur to Mumbai, making the transition seamless and saving significant travel time.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>How many days is the Golden Triangle with Mumbai tour?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The standard itinerary is 7 days: four days across Delhi, Agra and Jaipur, and three days in Mumbai.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Is Mumbai safe for tourists?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes. Mumbai is one of India's most cosmopolitan and tourist-friendly cities, with excellent infrastructure, diverse cuisine, and a vibrant cultural scene.</p></div></div>
+            </div>
+            </div>
+          </div>
+          <!-- /.col-xl-4 -->
             <div class="col-xl-6">
               <div class="tour-listing-details__destination-right">
                 <div class="tour-listing-details__destination-info wow animated fadeInUp" data-wow-delay="0.1s"
@@ -210,7 +233,16 @@
             </div>
             <!-- /.tour-listing-details__overview -->
 
-            <!-- TOUR HIGHLIGHTS -->
+              <div class="wow animated fadeIn mt-4" data-wow-delay="0.1s" data-wow-duration="1500ms">
+                <h3 class="tour-listing-details__title tour-listing-details__overview-title" style="font-size: 1.25rem;">Explore More Options</h3>
+              </div>
+              <ul class="tour-listing-details__overview-text wow animated fadeInUp list-unstyled" data-wow-delay="0.3s" data-wow-duration="1500ms">
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="golden-triangle-tour-5-days" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle Tour 5 Days</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="golden-triangle-tour-with-goa" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Goa</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="golden-triangle-tour-with-kerala" style="color: inherit; text-decoration: underline; font-weight: 600;">Golden Triangle with Kerala</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="same-day-agra-tour-by-car" style="color: inherit; text-decoration: underline; font-weight: 600;">Same Day Agra Tour</a></li>
+                <li style="margin-bottom: 8px;"><i class="fas fa-arrow-right" style="color:var(--trevlo-base); margin-right: 8px;"></i> <a href="contact" style="color: inherit; text-decoration: underline; font-weight: 600;">Contact our specialists</a></li>
+              </ul>
             <div class="tour-listing-details__included">
               <h2 class="tour-listing-details__title tour-listing-details__included-title">Tour Highlights</h2>
               <div class="row">

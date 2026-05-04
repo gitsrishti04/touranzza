@@ -440,6 +440,29 @@
               <?php include("sidebar.php") ?>
             </aside>
           </div>
+
+          <!-- FAQ -->
+          <div class="tour-listing-details__plan">
+            <h3 class="tour-listing-details__title tour-listing-details__plan-title">Same Day Agra Tour by Car FAQs</h3>
+            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="agra-car-seo-faq">
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>Is a same day Agra tour from Delhi worth it?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes — with a private car and expert guide you can comfortably visit the Taj Mahal, Agra Fort and optionally Baby Taj in one day. The Yamuna Expressway makes the drive smooth and predictable.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>How long is the drive from Delhi to Agra by car?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Approximately 3 to 3.5 hours via the Yamuna Expressway, depending on traffic. An early morning departure avoids congestion and gets you to the Taj Mahal before crowds build.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>What is the best time to visit Agra on a day trip?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Leave Delhi by 5–6 AM to reach Agra for the Taj Mahal in the morning light. This gives you the best photography conditions and a quieter experience before tour groups arrive.</p></div></div>
+            </div>
+            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
+              <div class="accrodion-title"><h4>What is the difference between the same day Agra tour by car and by train?</h4></div>
+              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The car tour offers more flexibility — earlier departures, door-to-door service, and the ability to stop en route. The Gatimaan Express is faster and more comfortable for the journey itself but has fixed departure times.</p></div></div>
+            </div>
+            </div>
+          </div>
           <!-- /.col-xl-4 -->
         </div>
       </div>
