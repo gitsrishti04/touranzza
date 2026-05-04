@@ -162,28 +162,6 @@
               <!-- /.tour-listing-details__ratings-box -->
             </div>
   
-          <!-- FAQ -->
-          <div class="tour-listing-details__plan">
-            <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Haridwar & Rishikesh FAQs</h3>
-            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="haridwar-seo-faq">
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>What is the Golden Triangle Tour with Haridwar and Rishikesh?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">It combines Delhi, Agra and Jaipur — India's iconic heritage circuit — with Haridwar and Rishikesh, the sacred Himalayan gateway cities on the Ganges, creating a journey that balances Mughal monuments with spiritual India.</p></div></div>
-            </div>
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>How many days is this tour?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The standard itinerary is 8 days, giving two full days in the Golden Triangle cities and two days in Haridwar and Rishikesh.</p></div></div>
-            </div>
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>Is Rishikesh only for yoga enthusiasts?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">No. While Rishikesh is the world's yoga capital, it also offers Ganga Aarti ceremonies, suspension bridge walks, river rafting, and a deeply peaceful atmosphere that appeals to all kinds of travelers.</p></div></div>
-            </div>
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>What is the Ganga Aarti at Haridwar?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The Ganga Aarti at Har Ki Pauri is a nightly fire ceremony on the banks of the Ganges where priests offer prayers to the river with large oil lamps. It is one of India's most visually spectacular spiritual experiences.</p></div></div>
-            </div>
-            </div>
-          </div>
           <!-- /.col-xl-4 -->
             <div class="col-xl-6">
               <div class="tour-listing-details__destination-right">
@@ -475,38 +453,27 @@
 
             <!-- FAQ -->
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Haridwar & Rishikesh FAQs</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-haridwar-faq">
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h3><span>Q</span> Is this tour private?</h3>
+                    <h4>What is the Golden Triangle Tour with Haridwar and Rishikesh?</h4>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">Yes, entirely. You have your own car, driver and local English-speaking guides throughout — in Delhi, Agra, Jaipur, Haridwar and Rishikesh. Nothing is shared with other travellers.</p>
+                      <p style="margin-top: 0.75rem;">It combines Delhi, Agra and Jaipur — India's iconic heritage circuit — with Haridwar and Rishikesh, the sacred Himalayan gateway cities on the Ganges, creating a journey that balances Mughal monuments with spiritual India.</p>
                     </div>
                   </div>
                 </div>
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                   <div class="accrodion-title">
-                    <h3><span>Q</span> Do I need to be a yoga practitioner to enjoy Rishikesh?</h3>
+                    <h4>What is the Ganga Aarti at Haridwar?</h4>
                   </div>
                   <div class="accrodion-content">
                     <div class="inner">
-                      <p style="margin-top: 0.75rem;">No. Rishikesh is the yoga capital of the world, but you can enjoy it entirely for its riverside calm, ashram architecture, Laxman Jhula, and the evening aarti. Yoga classes are optional and can be arranged on request — they are not part of the standard itinerary.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-                  <div class="accrodion-title">
-                    <h3><span>Q</span> How long is the drive from Jaipur to Haridwar?</h3>
-                  </div>
-                  <div class="accrodion-content">
-                    <div class="inner">
-                      <p style="margin-top: 0.75rem;">Roughly 9 hours in total — Jaipur to Delhi (approx. 5 hours), then Delhi to Haridwar (approx. 4 hours). We break this into a comfortable day's drive with a lunch stop en route.</p>
+                      <p style="margin-top: 0.75rem;">The Ganga Aarti at Har Ki Pauri is a nightly fire ceremony on the banks of the Ganges where priests offer prayers to the river with large oil lamps. It is one of India's most visually spectacular spiritual experiences.</p>
                     </div>
                   </div>
                 </div>

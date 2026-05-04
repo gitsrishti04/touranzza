@@ -162,28 +162,6 @@
               <!-- /.tour-listing-details__ratings-box -->
             </div>
   
-          <!-- FAQ -->
-          <div class="tour-listing-details__plan">
-            <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Mumbai FAQs</h3>
-            <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="mumbai-seo-faq">
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>What is the Golden Triangle Tour with Mumbai?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">It combines Delhi, Agra and Jaipur — India's classic North India heritage circuit — with Mumbai, India's financial capital and a UNESCO World Heritage city, creating a tour that covers both Mughal monuments and colonial grandeur.</p></div></div>
-            </div>
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>How do you travel from Jaipur to Mumbai on this tour?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">By flight — a short domestic flight connects Jaipur to Mumbai, making the transition seamless and saving significant travel time.</p></div></div>
-            </div>
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>How many days is the Golden Triangle with Mumbai tour?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">The standard itinerary is 7 days: four days across Delhi, Agra and Jaipur, and three days in Mumbai.</p></div></div>
-            </div>
-            <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
-              <div class="accrodion-title"><h4>Is Mumbai safe for tourists?</h4></div>
-              <div class="accrodion-content"><div class="inner"><p style="margin-top: 0.75rem;">Yes. Mumbai is one of India's most cosmopolitan and tourist-friendly cities, with excellent infrastructure, diverse cuisine, and a vibrant cultural scene.</p></div></div>
-            </div>
-            </div>
-          </div>
           <!-- /.col-xl-4 -->
             <div class="col-xl-6">
               <div class="tour-listing-details__destination-right">
@@ -460,7 +438,7 @@
 
             <!-- FAQ -->
             <div class="tour-listing-details__plan">
-              <h3 class="tour-listing-details__title tour-listing-details__plan-title">Day Wise Itinerary</h3>
+              <h3 class="tour-listing-details__title tour-listing-details__plan-title">GT with Mumbai FAQs</h3>
               <div class="trevlo-accrodion tour-listing-details__faq" data-grp-name="tour-mumbai-faq">
 
                 <div class="accrodion active wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
