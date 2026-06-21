@@ -224,7 +224,7 @@
   <!-- /.mobile-nav__overlay -->
   <div class="mobile-nav__content"> <span class="mobile-nav__close mobile-nav__toggler"><i
         class="fa fa-times"></i></span>
-    <div class="logo-box"> <a href="./" aria-label="logo image"><img src="assets/images/blacklogo1.webp"
+    <div class="logo-box"> <a href="./" aria-label="logo image"><img loading="lazy" decoding="async" src="assets/images/blacklogo1.webp"
           width="155" alt="Touranzza" /></a> </div>
     <!-- /.logo-box -->
     <div class="mobile-nav__container"></div>

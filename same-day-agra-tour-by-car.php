@@ -82,28 +82,28 @@
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp" alt="Taj Mahal reflecting pool and gardens">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agratour1.webp" alt="Taj Mahal reflecting pool and gardens">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-2.webp" alt="Agra Fort red sandstone walls and courtyards">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-2.webp" alt="Agra Fort red sandstone walls and courtyards">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-4.webp" alt="Itmad-ud-Daulah Baby Taj, Agra">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-4.webp" alt="Itmad-ud-Daulah Baby Taj, Agra">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-1.webp" alt="Taj Mahal marble detail and inlay work">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-1.webp" alt="Taj Mahal marble detail and inlay work">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agratour2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>

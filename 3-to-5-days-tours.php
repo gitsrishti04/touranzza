@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/3-to-5-days-tours" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="3 to 5 Days Tours | Short Luxury India Journeys" />
+  <meta property="og:description" content="Discover India's treasures in 3-5 days with our curated short tours. Perfect for busy travelers seeking luxury experiences of the Golden Triangle and Rajasthan heritage." />
+  <meta property="og:url" content="https://touranzza.com/3-to-5-days-tours" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="3 to 5 Days Tours | Short Luxury India Journeys" />
+  <meta name="twitter:description" content="Discover India's treasures in 3-5 days with our curated short tours. Perfect for busy travelers seeking luxury experiences of the Golden Triangle and Rajasthan heritage." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>3 to 5 Days Tours | Short Luxury India Journeys</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -42,6 +53,37 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/3-to-5-days-tours#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://touranzza.com/tour-packages"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "3 to 5 Days Tours",
+          "item": "https://touranzza.com/3-to-5-days-tours"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -78,7 +120,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-3-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-1.webp" alt="assets/images/tours/tour-3-1.webp"
+                                <img src="assets/images/tours/agrai-tour-1.webp" alt="Golden Triangle Tour 3 Days – Delhi, Agra & Jaipur"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -137,7 +179,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-4-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-1.webp" alt="assets/images/tours/tour-3-2.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tour-1.webp" alt="Golden Triangle Tour 4 Days – Delhi, Agra & Jaipur"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -196,7 +238,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-5-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="assets/images/tours/tour-3-3.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-1.webp" alt="Golden Triangle Tour 5 Days – Delhi, Agra & Jaipur"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -255,7 +297,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-ranthambore" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/gt8.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/gt8.webp" alt="Golden Triangle Tour with Ranthambore National Park"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 

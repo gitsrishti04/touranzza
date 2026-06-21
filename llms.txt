@@ -3,10 +3,10 @@
 Explore the soul of India with Touranzza. We provide premium, curated travel experiences across India's most iconic destinations, including the Golden Triangle, Rajasthan, and beyond.
 
 ## Core Content
-- Home: [https://touranzza.com/index.php]
-- Tour Packages: [https://touranzza.com/tour-packages.php]
-- Photo Gallery: [https://touranzza.com/photo-gallery.php]
-- Contact & Bookings: [https://touranzza.com/contact.php]
+- Home: [https://touranzza.com/]
+- Tour Packages: [https://touranzza.com/tour-packages]
+- Photo Gallery: [https://touranzza.com/photo-gallery]
+- Contact & Bookings: [https://touranzza.com/contact]
 
 ## Key Destinations & Services
 - Golden Triangle Tours (GT): Comprehensive itineraries covering Delhi, Agra, and Jaipur.

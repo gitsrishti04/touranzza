@@ -6,7 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/testimonials" />
-  <title>Touranzza</title>
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Customer Reviews & Testimonials | Touranzza India Tours" />
+  <meta property="og:description" content="Read what travelers say about Touranzza. Genuine reviews from guests who experienced our private Golden Triangle, Rajasthan, and India heritage tours." />
+  <meta property="og:url" content="https://touranzza.com/testimonials" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Customer Reviews & Testimonials | Touranzza India Tours" />
+  <meta name="twitter:description" content="Read what travelers say about Touranzza. Genuine reviews from guests who experienced our private Golden Triangle, Rajasthan, and India heritage tours." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <title>Customer Reviews & Testimonials | Touranzza India Tours</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="48x48" href="assets/images/favicons/favicon-48x48.png" />
@@ -95,6 +106,31 @@
       .testimonial-one__carousel .owl-nav button.owl-next { right: 5px !important; }
     }
   </style>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/testimonials#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Testimonials",
+          "item": "https://touranzza.com/testimonials"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -105,8 +141,8 @@
       <div class="page-header__bg testi"></div>
       <!-- /.page-header__bg -->
       <div class="container">
-        <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-          Testimonial</h2>
+        <h1 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+          Customer Testimonials</h1>
         <div class="page-header__breadcrumb-box">
           <ul class="trevlo-breadcrumb">
             <li><a href="./">Home</a></li>
@@ -166,7 +202,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-2.webp"
                 alt="Robert Fox"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
@@ -184,7 +220,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-3.webp"
                 alt="Guy Hawkins"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
@@ -202,7 +238,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-1.webp"
                 alt="Jacob Jones"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
@@ -220,7 +256,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-2.webp"
                 alt="Robert Fox"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Robert Fox</h5>
@@ -238,7 +274,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-3.webp"
                 alt="Guy Hawkins"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
@@ -256,7 +292,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-1.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-1.webp"
                 alt="David"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">David Miller</h5>
@@ -274,7 +310,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-2.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-2.webp"
                 alt="Elena"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Elena</h5>
@@ -292,7 +328,7 @@
         <!-- /.owl-slide-item-->
         <div class="item">
           <div class="testimonials-card">
-            <div class="testimonials-card__image"> <img src="assets/images/testimonial/testimonial-1-3.webp"
+            <div class="testimonials-card__image"> <img loading="lazy" decoding="async" src="assets/images/testimonial/testimonial-1-3.webp"
                 alt="Arthur"> </div>
             <div class="testimonials-card__meta">
               <h5 class="testimonials-card__meta__name">Arthur</h5>

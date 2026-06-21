@@ -82,28 +82,28 @@
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipur-tours1.webp" alt="Amber Fort above Maota Lake near Jaipur Rajasthan">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tours1.webp" alt="Amber Fort above Maota Lake near Jaipur Rajasthan">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/ajmer.webp" alt="Ajmer Sharif Dargah entrance courtyard Rajasthan">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/ajmer.webp" alt="Ajmer Sharif Dargah entrance courtyard Rajasthan">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/pushkar.webp" alt="Pushkar Brahma Temple and lake ghats at sunset">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/pushkar.webp" alt="Pushkar Brahma Temple and lake ghats at sunset">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/mount-abu.webp" alt="Dilwara Temples intricate marble carving Mount Abu">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/mount-abu.webp" alt="Dilwara Temples intricate marble carving Mount Abu">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/jaipur-tours1.webp"}, {"src": "assets/images/tours/ajmer.webp"}, {"src": "assets/images/tours/pushkar.webp"}, {"src": "assets/images/tours/mount-abu.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>

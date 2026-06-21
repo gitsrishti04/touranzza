@@ -82,28 +82,28 @@
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour2.webp" alt="Humayun's Tomb UNESCO World Heritage Site, Delhi">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/delhitour2.webp" alt="Humayun's Tomb UNESCO World Heritage Site, Delhi">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours3.webp" alt="Qutub Minar, New Delhi">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tours3.webp" alt="Qutub Minar, New Delhi">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours2.webp" alt="India Gate and Rajpath, New Delhi">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tours2.webp" alt="India Gate and Rajpath, New Delhi">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhi-tours1.webp" alt="Lotus Temple and Red Fort, Delhi sightseeing tour">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tours1.webp" alt="Lotus Temple and Red Fort, Delhi sightseeing tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhitour1.webp"}, {"src": "assets/images/tours/delhitour2.webp"}, {"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/delhi-tours2.webp"}, {"src": "assets/images/tours/delhi-tours1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>

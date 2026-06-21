@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/cancellation-policy" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Cancellation & Refund Policy | Touranzza - Luxury India Tours" />
+  <meta property="og:description" content="Touranzza Cancellation & Refund Policy - Transparent terms for cancellations, refunds, and modifications to your luxury India tour bookings." />
+  <meta property="og:url" content="https://touranzza.com/cancellation-policy" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Cancellation & Refund Policy | Touranzza - Luxury India Tours" />
+  <meta name="twitter:description" content="Touranzza Cancellation & Refund Policy - Transparent terms for cancellations, refunds, and modifications to your luxury India tour bookings." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Cancellation & Refund Policy | Touranzza - Luxury India Tours</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />

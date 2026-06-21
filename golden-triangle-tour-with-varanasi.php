@@ -151,45 +151,45 @@
         }
         }'>
                     <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gtvaranasi1.jpg" alt="Varanasi Ganges Ghats">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gtvaranasi1.webp" alt="Varanasi Ganges Ghats">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.jpg"},{"src": "assets/images/gtimages/gtvaranasi2.jpg"},{"src": "assets/images/gtimages/gt4.jpg"},{"src": "assets/images/gtimages/gt5.jpg"},{"src": "assets/images/gtimages/gt6.jpg"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.webp"},{"src": "assets/images/gtimages/gtvaranasi2.webp"},{"src": "assets/images/gtimages/gt4.webp"},{"src": "assets/images/gtimages/gt5.webp"},{"src": "assets/images/gtimages/gt6.webp"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gtvaranasi2.jpg" alt="Varanasi Ganga Aarti">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gtvaranasi2.webp" alt="Varanasi Ganga Aarti">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.jpg"},{"src": "assets/images/gtimages/gtvaranasi2.jpg"},{"src": "assets/images/gtimages/gt4.jpg"},{"src": "assets/images/gtimages/gt5.jpg"},{"src": "assets/images/gtimages/gt6.jpg"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.webp"},{"src": "assets/images/gtimages/gtvaranasi2.webp"},{"src": "assets/images/gtimages/gt4.webp"},{"src": "assets/images/gtimages/gt5.webp"},{"src": "assets/images/gtimages/gt6.webp"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt4.jpg" alt="Golden Triangle Tour India">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gt4.webp" alt="Golden Triangle Tour India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.jpg"},{"src": "assets/images/gtimages/gtvaranasi2.jpg"},{"src": "assets/images/gtimages/gt4.jpg"},{"src": "assets/images/gtimages/gt5.jpg"},{"src": "assets/images/gtimages/gt6.jpg"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.webp"},{"src": "assets/images/gtimages/gtvaranasi2.webp"},{"src": "assets/images/gtimages/gt4.webp"},{"src": "assets/images/gtimages/gt5.webp"},{"src": "assets/images/gtimages/gt6.webp"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt5.jpg" alt="Taj Mahal Agra">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gt5.webp" alt="Taj Mahal Agra">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.jpg"},{"src": "assets/images/gtimages/gtvaranasi2.jpg"},{"src": "assets/images/gtimages/gt4.jpg"},{"src": "assets/images/gtimages/gt5.jpg"},{"src": "assets/images/gtimages/gt6.jpg"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.webp"},{"src": "assets/images/gtimages/gtvaranasi2.webp"},{"src": "assets/images/gtimages/gt4.webp"},{"src": "assets/images/gtimages/gt5.webp"},{"src": "assets/images/gtimages/gt6.webp"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt6.jpg" alt="Jaipur Amber Fort">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gt6.webp" alt="Jaipur Amber Fort">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.jpg"},{"src": "assets/images/gtimages/gtvaranasi2.jpg"},{"src": "assets/images/gtimages/gt4.jpg"},{"src": "assets/images/gtimages/gt5.jpg"},{"src": "assets/images/gtimages/gt6.jpg"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.webp"},{"src": "assets/images/gtimages/gtvaranasi2.webp"},{"src": "assets/images/gtimages/gt4.webp"},{"src": "assets/images/gtimages/gt5.webp"},{"src": "assets/images/gtimages/gt6.webp"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-1.webp" alt="Taj Mahal">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-1.webp" alt="Taj Mahal">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.jpg"},{"src": "assets/images/gtimages/gtvaranasi2.jpg"},{"src": "assets/images/gtimages/gt4.jpg"},{"src": "assets/images/gtimages/gt5.jpg"},{"src": "assets/images/gtimages/gt6.jpg"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gtvaranasi1.webp"},{"src": "assets/images/gtimages/gtvaranasi2.webp"},{"src": "assets/images/gtimages/gt4.webp"},{"src": "assets/images/gtimages/gt5.webp"},{"src": "assets/images/gtimages/gt6.webp"},{"src": "assets/images/tours/agra-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->

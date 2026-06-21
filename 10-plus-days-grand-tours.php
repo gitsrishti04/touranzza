@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/10-plus-days-grand-tours" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="10+ Days Grand Tours | Epic Luxury India Journeys" />
+  <meta property="og:description" content="Experience India's grandeur on 10+ day luxury tours. Comprehensive journeys through multiple regions, cultural immersion, and unforgettable adventures with expert local guides." />
+  <meta property="og:url" content="https://touranzza.com/10-plus-days-grand-tours" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="10+ Days Grand Tours | Epic Luxury India Journeys" />
+  <meta name="twitter:description" content="Experience India's grandeur on 10+ day luxury tours. Comprehensive journeys through multiple regions, cultural immersion, and unforgettable adventures with expert local guides." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>10+ Days Grand Tours | Epic Luxury India Journeys</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -42,6 +53,37 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/10-plus-days-grand-tours#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://touranzza.com/tour-packages"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "10+ Days Grand Tours",
+          "item": "https://touranzza.com/10-plus-days-grand-tours"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -79,7 +121,7 @@
                         <div class="tour-listing__card">
                             <a href="rajasthan-heritage-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/rajasthan-heritage-tour.webp"
-                                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                                    alt="Rajasthan Heritage Tour" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -139,8 +181,8 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="fort-and-palaces-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/fort-and-palaces-tour.webp"
-                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/fort-and-palaces-tour.webp"
+                                    alt="Rajasthan Fort & Palaces Tour" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -199,7 +241,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-kerala" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/mumbai.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/mumbai.webp" alt="Golden Triangle Tour with Kerala"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -261,7 +303,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-orchha-khajuraho-and-varanasi" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/varanasi-2.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/varanasi-2.webp" alt="Golden Triangle Tour with Orchha, Khajuraho & Varanasi"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 

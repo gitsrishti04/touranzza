@@ -13,6 +13,17 @@
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Explore our photo gallery of luxury India tours. See stunning images of the Taj Mahal, Rajasthan palaces, Golden Triangle destinations, and memorable travel experiences." />
   <link rel="canonical" href="https://touranzza.com/photo-gallery" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Photo Gallery | Touranzza Luxury India Tours" />
+  <meta property="og:description" content="Explore our photo gallery of luxury India tours. See stunning images of the Taj Mahal, Rajasthan palaces, Golden Triangle destinations, and memorable travel experiences." />
+  <meta property="og:url" content="https://touranzza.com/photo-gallery" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Photo Gallery | Touranzza Luxury India Tours" />
+  <meta name="twitter:description" content="Explore our photo gallery of luxury India tours. See stunning images of the Taj Mahal, Rajasthan palaces, Golden Triangle destinations, and memorable travel experiences." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -66,6 +77,31 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/photo-gallery#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Photo Gallery",
+          "item": "https://touranzza.com/photo-gallery"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -76,8 +112,8 @@
             <div class="page-header__bg"></div>
             <!-- /.page-header__bg -->
             <div class="container">
-                <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Photo Gallery</h2>
+                <h1 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+                    Tour Photo Gallery</h1>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
@@ -124,7 +160,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -137,7 +173,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery1.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery1.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery1.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -150,7 +186,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery2.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery2.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery2.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -163,7 +199,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -176,7 +212,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -189,7 +225,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery3.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery3.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery3.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -202,7 +238,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery4.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery4.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery4.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -215,7 +251,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -228,7 +264,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -241,7 +277,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery5.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery5.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery5.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -254,7 +290,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery6.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery6.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery6.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -267,7 +303,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -280,7 +316,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_23 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -293,7 +329,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery7.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery7.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery7.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -306,7 +342,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery8.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery8.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery8.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -319,7 +355,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -332,7 +368,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_34_45 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -345,7 +381,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery9.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery9.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery9.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -358,7 +394,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery10.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery10.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery10.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -371,7 +407,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_35_59 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -384,7 +420,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -397,7 +433,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery11.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery11.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery11.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -410,7 +446,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery12.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery12.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery12.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -423,7 +459,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_39_43 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -436,7 +472,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_41_01 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -449,7 +485,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery13.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery13.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery13.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -462,7 +498,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery14.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery14.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery14.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -475,7 +511,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -488,7 +524,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -501,7 +537,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery15.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery15.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery15.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -514,7 +550,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery16.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery16.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery16.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -527,7 +563,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_46_42 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -540,7 +576,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -553,7 +589,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery17.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery17.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery17.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -566,7 +602,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery18.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery18.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery18.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -579,7 +615,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery22.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery22.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery22.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -592,7 +628,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery19.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery19.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery19.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -605,7 +641,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery20.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery20.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery20.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -618,7 +654,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery21.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery21.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery21.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -631,7 +667,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery26.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery26.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery26.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -644,7 +680,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery27.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery27.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery27.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -657,7 +693,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery28.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery28.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery28.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -670,7 +706,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery29.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery29.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery29.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -683,7 +719,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery34.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery34.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery34.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -696,7 +732,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery35.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery35.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery35.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -709,7 +745,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery36.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery36.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery36.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -722,7 +758,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery37.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery37.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery37.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -735,7 +771,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery38.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery38.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery38.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -748,7 +784,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery39.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery39.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery39.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -761,7 +797,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery40.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery40.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery40.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -774,7 +810,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery41.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery41.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery41.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -787,7 +823,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery42.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery42.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery42.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -800,7 +836,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery43.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery43.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery43.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -813,7 +849,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery44.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery44.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery44.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -826,7 +862,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery45.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery45.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery45.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -839,7 +875,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery46.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery46.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery46.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -852,7 +888,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery47.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery47.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery47.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -865,7 +901,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery48.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery48.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery48.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -878,7 +914,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery49.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery49.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery49.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -891,7 +927,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery50.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery50.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery50.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -904,7 +940,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery51.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery51.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery51.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -917,7 +953,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery52.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery52.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery52.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span
@@ -930,7 +966,7 @@
                     data-wow-duration="1500ms">
                     <div class="gallery-single">
                         <div class="gallery-single__img-box">
-                            <img src="assets/images/gallery/gallery53.webp" alt="gallery" class="gallery-single__img">
+                            <img loading="lazy" decoding="async" src="assets/images/gallery/gallery53.webp" alt="gallery" class="gallery-single__img">
                             <div class="gallery-single__overlay">
                                 <a href="assets/images/gallery/gallery53.webp"
                                     class="gallery-single__btn trevlo-btn trevlo-btn--base-three img-popup"><span

@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/tour-packages" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Tour Packages | Luxury India Travel Itineraries" />
+  <meta property="og:description" content="Explore our curated collection of luxury tour packages across India. From Golden Triangle tours to Rajasthan retreats, find your perfect bespoke travel itinerary." />
+  <meta property="og:url" content="https://touranzza.com/tour-packages" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Tour Packages | Luxury India Travel Itineraries" />
+  <meta name="twitter:description" content="Explore our curated collection of luxury tour packages across India. From Golden Triangle tours to Rajasthan retreats, find your perfect bespoke travel itinerary." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Tour Packages | Luxury India Travel Itineraries</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -97,6 +108,75 @@
             overflow: hidden;
         }
     </style>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/tour-packages#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://touranzza.com/tour-packages"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://touranzza.com/tour-packages#tours",
+      "name": "Tour Packages",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Imperial Golden Triangle Tours",
+          "url": "https://touranzza.com/golden-triangle-tours"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Royal Rajasthan Retreats",
+          "url": "https://touranzza.com/rajasthan-tours"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "1 Day Tours",
+          "url": "https://touranzza.com/1-day-tours"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "3-5 Day Tours",
+          "url": "https://touranzza.com/3-to-5-days-tours"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "6-10 Day Tours",
+          "url": "https://touranzza.com/6-to-10-days-expeditions"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "10+ Day Tours",
+          "url": "https://touranzza.com/10-plus-days-grand-tours"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -109,8 +189,8 @@
             <div class="page-header__bg"></div>
             <!-- /.page-header__bg -->
             <div class="container">
-                <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Tour Packages</h2>
+                <h1 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+                    India Tour Packages</h1>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
@@ -186,7 +266,7 @@
                     <div class="col-xl-4 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="rajasthan-tours" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="Royal Rajasthan Retreats" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-1.webp" alt="Royal Rajasthan Retreats" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">Rajasthan</div>
                                 </div>
@@ -245,7 +325,7 @@
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="1-day-tours" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agra-3.webp" alt="1 Day Tours" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/agra-3.webp" alt="1 Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">1 Day</div>
                                 </div>
@@ -276,7 +356,7 @@
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="3-to-5-days-tours" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-2.webp" alt="3-5 Day Tours" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-2.webp" alt="3-5 Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">3-5 Days</div>
                                 </div>
@@ -307,7 +387,7 @@
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="6-to-10-days-expeditions" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/gt1.webp" alt="6-10 Day Tours" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/gt1.webp" alt="6-10 Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">6-10 Days</div>
                                 </div>
@@ -338,7 +418,7 @@
                     <div class="col-xl-3 col-md-6 wow animated fadeInUp" data-wow-delay="0.7s" data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="10-plus-days-grand-tours" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/colorful-rajasthan.webp" alt="10+ Day Tours" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/colorful-rajasthan.webp" alt="10+ Day Tours" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
                                     <div class="tour-listing__card-discount @@innerExtraClassName">10+ Days</div>
                                 </div>

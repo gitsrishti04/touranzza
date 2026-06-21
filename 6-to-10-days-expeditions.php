@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/6-to-10-days-expeditions" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="6 to 10 Days Expeditions | Extended Luxury India Tours" />
+  <meta property="og:description" content="Embark on 6-10 day luxury expeditions across India. Explore multiple destinations, cultural experiences, and hidden gems with expert guides and premium accommodations." />
+  <meta property="og:url" content="https://touranzza.com/6-to-10-days-expeditions" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="6 to 10 Days Expeditions | Extended Luxury India Tours" />
+  <meta name="twitter:description" content="Embark on 6-10 day luxury expeditions across India. Explore multiple destinations, cultural experiences, and hidden gems with expert guides and premium accommodations." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>6 to 10 Days Expeditions | Extended Luxury India Tours</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -42,6 +53,37 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/6-to-10-days-expeditions#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://touranzza.com/tour-packages"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "6 to 10 Days Expeditions",
+          "item": "https://touranzza.com/6-to-10-days-expeditions"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -79,7 +121,7 @@
                         <div class="tour-listing__card">
                             <a href="royal-rajasthan-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/fort-and-palaces-tour2.webp"
-                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
+                                    alt="Royal Rajasthan Tour" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -154,7 +196,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="desert-tour-rajasthan" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-4.webp" alt="Desert Tour of Rajasthan"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -230,7 +272,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-6-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-3.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/agrai-tour-3.webp" alt="Golden Triangle Tour 6 Days – Delhi, Agra & Jaipur"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -305,7 +347,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-7-days" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-2.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tour-2.webp" alt="Golden Triangle Tour 7 Days – Delhi, Agra & Jaipur"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -381,7 +423,7 @@
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-ajmer-and-pushkar"
                                 class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-4.webp" alt="Golden Triangle Tour with Ajmer & Pushkar"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -458,7 +500,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-amritsar" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/amritsar.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/amritsar.webp" alt="Golden Triangle Tour with Amritsar & the Golden Temple"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -535,7 +577,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-goa" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/goa.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/goa.webp" alt="Golden Triangle Tour with Goa"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -612,8 +654,8 @@
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-haridwar-and-rishikesh"
                                 class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/Haridwar-Rishikesh.webp"
-                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/Haridwar-Rishikesh.webp"
+                                    alt="Golden Triangle Tour with Haridwar & Rishikesh" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -689,7 +731,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-rajasthan" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-4.webp" alt="Golden Triangle Tour with Rajasthan"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -767,7 +809,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-ranthambore" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/gt8.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/gt8.webp" alt="Golden Triangle Tour with Ranthambore National Park"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -844,7 +886,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-varanasi" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/varanasi-1.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/varanasi-1.webp" alt="Golden Triangle Tour with Varanasi"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -921,7 +963,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-mumbai" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/mumbai.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/mumbai.webp" alt="Golden Triangle Tour with Mumbai"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -999,8 +1041,8 @@
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-orchha-khajuraho"
                                 class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/orchha-khajuraho.webp"
-                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/orchha-khajuraho.webp"
+                                    alt="Golden Triangle Tour with Orchha & Khajuraho" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -1077,7 +1119,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="golden-triangle-tour-with-udaipur" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/udaipur-tour1.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/udaipur-tour1.webp" alt="Golden Triangle Tour with Udaipur"
                                     class="tour-listing__card-image" style="height: 252px; width: 100%; object-fit: cover;">
                                 <div class="tour-listing__card-btn-group">
 

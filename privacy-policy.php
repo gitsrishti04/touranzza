@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/privacy-policy" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Privacy Policy | Touranzza - Luxury India Tours" />
+  <meta property="og:description" content="Touranzza Privacy Policy - Learn how we protect your personal information and safeguard your data during your luxury India travel experience." />
+  <meta property="og:url" content="https://touranzza.com/privacy-policy" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Privacy Policy | Touranzza - Luxury India Tours" />
+  <meta name="twitter:description" content="Touranzza Privacy Policy - Learn how we protect your personal information and safeguard your data during your luxury India travel experience." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Privacy Policy | Touranzza - Luxury India Tours</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />

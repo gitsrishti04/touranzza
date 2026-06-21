@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/about" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="About Touranzza | Private Luxury India Tour Specialists" />
+  <meta property="og:description" content="Learn about Touranzza — India's private tour specialists offering bespoke Golden Triangle, Rajasthan, and heritage journeys with expert guides, curated hotels, and 24x7 dedicated support." />
+  <meta property="og:url" content="https://touranzza.com/about" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="About Touranzza | Private Luxury India Tour Specialists" />
+  <meta name="twitter:description" content="Learn about Touranzza — India's private tour specialists offering bespoke Golden Triangle, Rajasthan, and heritage journeys with expert guides, curated hotels, and 24x7 dedicated support." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>About Touranzza | Private Luxury India Tour Specialists</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -41,6 +52,31 @@
   <!-- template styles -->
   <link rel="stylesheet" href="assets/css/trevlo.css" />
   <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/about#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About Us",
+          "item": "https://touranzza.com/about"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -71,7 +107,7 @@
                 <div class="col-md-5">
                   <div class="about-one__image__one trevlo-tilt"
                     data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 3, "speed": 700, "scale": 1 }'> <img
-                      src="assets/images/resources/about-1-1.webp" alt="trevlo"> <img
+                      src="assets/images/resources/about-1-1.webp" alt="trevlo"> <img loading="lazy" decoding="async"
                       src="assets/images/resources/about-1-2.webp" alt="trevlo">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178 30">
                       <path d="M177.276 2.12957C155.784 21.96 90.3733 49.5857 0.667034 1.44487" />
@@ -85,8 +121,8 @@
                     </svg>
                     <div class="trevlo-tilt"
                       data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 5, "speed": 700, "scale": 1 }'>
-                      <img src="assets/images/resources/about-1-3.webp" alt="trevlo"> </div>
-                    <div class="about-one__image__two__shape"><img src="assets/images/shapes/about-1-shape-3.webp"
+                      <img loading="lazy" decoding="async" src="assets/images/resources/about-1-3.webp" alt="trevlo"> </div>
+                    <div class="about-one__image__two__shape"><img loading="lazy" decoding="async" src="assets/images/shapes/about-1-shape-3.webp"
                         alt="trevlo"></div>
                     <div class="about-one__counter"
                       style="background-image: url(assets/images/shapes/about-1-shape-4.webp);">
@@ -101,9 +137,9 @@
               </div>
             </div>
             <!-- /.about-one__image -->
-            <div class="about-one__shape-one"> <img src="assets/images/shapes/about-1-shape-1.webp" alt="trevlo"> </div>
+            <div class="about-one__shape-one"> <img loading="lazy" decoding="async" src="assets/images/shapes/about-1-shape-1.webp" alt="trevlo"> </div>
             <!-- /.about-one__shape -->
-            <div class="about-one__shape-two"> <img src="assets/images/shapes/about-1-shape-2.webp" alt="trevlo"> </div>
+            <div class="about-one__shape-two"> <img loading="lazy" decoding="async" src="assets/images/shapes/about-1-shape-2.webp" alt="trevlo"> </div>
             <!-- /.about-one__shape -->
           </div>
           <!-- /.col-xl-6 col-lg-6 -->

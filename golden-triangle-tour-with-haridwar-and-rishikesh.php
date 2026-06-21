@@ -87,45 +87,45 @@
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gallery/haridwar1.jpg.jpeg" alt="Haridwar Ganga Aarti">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gallery/haridwar1.webp" alt="Haridwar Ganga Aarti">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.jpg.jpeg"},{"src": "assets/images/gallery/haridwar2.jpg.jpeg"},{"src": "assets/images/gallery/haridwar3.jpg.jpeg"},{"src": "assets/images/gallery/haridwar4.jpg.jpeg"},{"src": "assets/images/gallery/haridwar5.jpg.jpeg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.webp"},{"src": "assets/images/gallery/haridwar2.webp"},{"src": "assets/images/gallery/haridwar3.webp"},{"src": "assets/images/gallery/haridwar4.webp"},{"src": "assets/images/gallery/haridwar5.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gallery/haridwar2.jpg.jpeg" alt="Rishikesh River Ganges">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gallery/haridwar2.webp" alt="Rishikesh River Ganges">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.jpg.jpeg"},{"src": "assets/images/gallery/haridwar2.jpg.jpeg"},{"src": "assets/images/gallery/haridwar3.jpg.jpeg"},{"src": "assets/images/gallery/haridwar4.jpg.jpeg"},{"src": "assets/images/gallery/haridwar5.jpg.jpeg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.webp"},{"src": "assets/images/gallery/haridwar2.webp"},{"src": "assets/images/gallery/haridwar3.webp"},{"src": "assets/images/gallery/haridwar4.webp"},{"src": "assets/images/gallery/haridwar5.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gallery/haridwar3.jpg.jpeg" alt="Haridwar Temples">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gallery/haridwar3.webp" alt="Haridwar Temples">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.jpg.jpeg"},{"src": "assets/images/gallery/haridwar2.jpg.jpeg"},{"src": "assets/images/gallery/haridwar3.jpg.jpeg"},{"src": "assets/images/gallery/haridwar4.jpg.jpeg"},{"src": "assets/images/gallery/haridwar5.jpg.jpeg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.webp"},{"src": "assets/images/gallery/haridwar2.webp"},{"src": "assets/images/gallery/haridwar3.webp"},{"src": "assets/images/gallery/haridwar4.webp"},{"src": "assets/images/gallery/haridwar5.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gallery/haridwar4.jpg.jpeg" alt="Rishikesh Yoga Capital">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gallery/haridwar4.webp" alt="Rishikesh Yoga Capital">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.jpg.jpeg"},{"src": "assets/images/gallery/haridwar2.jpg.jpeg"},{"src": "assets/images/gallery/haridwar3.jpg.jpeg"},{"src": "assets/images/gallery/haridwar4.jpg.jpeg"},{"src": "assets/images/gallery/haridwar5.jpg.jpeg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.webp"},{"src": "assets/images/gallery/haridwar2.webp"},{"src": "assets/images/gallery/haridwar3.webp"},{"src": "assets/images/gallery/haridwar4.webp"},{"src": "assets/images/gallery/haridwar5.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gallery/haridwar5.jpg.jpeg" alt="Haridwar Rishikesh Tour">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gallery/haridwar5.webp" alt="Haridwar Rishikesh Tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.jpg.jpeg"},{"src": "assets/images/gallery/haridwar2.jpg.jpeg"},{"src": "assets/images/gallery/haridwar3.jpg.jpeg"},{"src": "assets/images/gallery/haridwar4.jpg.jpeg"},{"src": "assets/images/gallery/haridwar5.jpg.jpeg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.webp"},{"src": "assets/images/gallery/haridwar2.webp"},{"src": "assets/images/gallery/haridwar3.webp"},{"src": "assets/images/gallery/haridwar4.webp"},{"src": "assets/images/gallery/haridwar5.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agrai-tour-1.webp" alt="Taj Mahal">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agrai-tour-1.webp" alt="Taj Mahal">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.jpg.jpeg"},{"src": "assets/images/gallery/haridwar2.jpg.jpeg"},{"src": "assets/images/gallery/haridwar3.jpg.jpeg"},{"src": "assets/images/gallery/haridwar4.jpg.jpeg"},{"src": "assets/images/gallery/haridwar5.jpg.jpeg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gallery/haridwar1.webp"},{"src": "assets/images/gallery/haridwar2.webp"},{"src": "assets/images/gallery/haridwar3.webp"},{"src": "assets/images/gallery/haridwar4.webp"},{"src": "assets/images/gallery/haridwar5.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->

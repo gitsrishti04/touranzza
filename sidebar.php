@@ -12,7 +12,7 @@
                   </div>
                 </li>
                 <li class="tour-listing-sidebar-post__item">
-                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-2.webp" alt="last-post"> </div>
+                  <div class="tour-listing-sidebar-post__image"> <img loading="lazy" decoding="async" src="assets/images/tours/tour-listing-details-post-2.webp" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="same-day-tours">Private Day Experiences</a></h5>
@@ -22,7 +22,7 @@
                   </div>
                 </li>
                 <li class="tour-listing-sidebar-post__item">
-                  <div class="tour-listing-sidebar-post__image"> <img src="assets/images/tours/tour-listing-details-post-3.webp" alt="last-post"> </div>
+                  <div class="tour-listing-sidebar-post__image"> <img loading="lazy" decoding="async" src="assets/images/tours/tour-listing-details-post-3.webp" alt="last-post"> </div>
                   <div class="tour-listing-sidebar-post__content">
                     <!-- <p class="tour-listing-sidebar-post__price">$380</p> -->
                     <h5 class="tour-listing-sidebar-post__link"><a href="rajasthan-tours">Royal Rajasthan Retreats</a></h5>

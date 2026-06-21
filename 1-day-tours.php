@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/1-day-tours" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="1 Day Tours - Touranzza" />
+  <meta property="og:description" content="Explore Touranzza's 1 day tours from Delhi — same-day Agra by car or Gatimaan Express, Delhi city tours, and Jaipur day trips. Private guides, flexible itineraries, and seamless transfers." />
+  <meta property="og:url" content="https://touranzza.com/1-day-tours" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="1 Day Tours - Touranzza" />
+  <meta name="twitter:description" content="Explore Touranzza's 1 day tours from Delhi — same-day Agra by car or Gatimaan Express, Delhi city tours, and Jaipur day trips. Private guides, flexible itineraries, and seamless transfers." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>1 Day Tours - Touranzza</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -42,6 +53,37 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/1-day-tours#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tour Packages",
+          "item": "https://touranzza.com/tour-packages"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "1 Day Tours",
+          "item": "https://touranzza.com/1-day-tours"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -78,7 +120,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-car" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-2.webp" alt="assets/images/tours/tour-3-1.webp"
+                                <img src="assets/images/tours/agrai-tour-2.webp" alt="Same Day Agra Tour by Car – Taj Mahal"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -136,7 +178,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-train" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-1.webp" alt="assets/images/tours/tour-3-2.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/agrai-tour-1.webp" alt="Same Day Agra Tour by Train – Taj Mahal"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -195,7 +237,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-delhi-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-3.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tour-3.webp" alt="Same Day Delhi City Tour"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -253,7 +295,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-jaipur-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-1.webp" alt="Same Day Jaipur Tour, Rajasthan"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 

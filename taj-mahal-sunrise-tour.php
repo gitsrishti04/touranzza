@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/taj-mahal-sunrise-tour" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Taj Mahal Sunrise Tour from Delhi | Private Same Day Agra Trip" />
+  <meta property="og:description" content="Book a private Taj Mahal Sunrise Tour from Delhi. Witness the Taj at dawn, visit Agra Fort and Baby Taj, with expert guides, comfortable transfers and a full-day itinerary by Touranzza." />
+  <meta property="og:url" content="https://touranzza.com/taj-mahal-sunrise-tour" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Taj Mahal Sunrise Tour from Delhi | Private Same Day Agra Trip" />
+  <meta name="twitter:description" content="Book a private Taj Mahal Sunrise Tour from Delhi. Witness the Taj at dawn, visit Agra Fort and Baby Taj, with expert guides, comfortable transfers and a full-day itinerary by Touranzza." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Taj Mahal Sunrise Tour from Delhi | Private Same Day Agra Trip</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -106,7 +117,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-2.webp" alt="listing-details-carousel">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-2.webp" alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/sameday3.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -116,7 +127,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.webp" alt="listing-details-carousel">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-3.webp" alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/sameday3.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -126,7 +137,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp" alt="listing-details-carousel">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agratour1.webp" alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/sameday3.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -136,7 +147,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/sameday3.webp" alt="listing-details-carousel">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/sameday3.webp" alt="listing-details-carousel">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-1.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/sameday3.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>

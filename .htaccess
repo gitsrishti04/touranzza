@@ -35,6 +35,8 @@ RewriteRule ^([^.]+)\.php$ $1 [L,R=301]
 # -----------------------------------
 # STEP 4: Internal rewrite to .php
 # -----------------------------------
+RewriteRule ^scripts/ - [F,L]
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([^/]+)/?$ $1.php [L]

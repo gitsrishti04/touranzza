@@ -201,7 +201,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/delhitour1.webp" alt="Delhi sightseeing - India Gate and historic colonial architecture">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/delhitour1.webp" alt="Delhi sightseeing - India Gate and historic colonial architecture">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"},{"src": "assets/images/tours/delhitour1.webp"},{"src": "assets/images/tours/agratour1.webp"},{"src": "assets/images/tours/jaipurtour2.webp"},{"src": "assets/images/tours/udaipur-tour1.webp"},{"src": "assets/images/tours/gt2.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -211,7 +211,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp" alt="Taj Mahal Agra - iconic white marble monument at sunrise">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agratour1.webp" alt="Taj Mahal Agra - iconic white marble monument at sunrise">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"},{"src": "assets/images/tours/delhitour1.webp"},{"src": "assets/images/tours/agratour1.webp"},{"src": "assets/images/tours/jaipurtour2.webp"},{"src": "assets/images/tours/udaipur-tour1.webp"},{"src": "assets/images/tours/gt2.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -221,7 +221,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour2.webp" alt="Jaipur Hawa Mahal and pink city palace architecture">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/jaipurtour2.webp" alt="Jaipur Hawa Mahal and pink city palace architecture">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"},{"src": "assets/images/tours/delhitour1.webp"},{"src": "assets/images/tours/agratour1.webp"},{"src": "assets/images/tours/jaipurtour2.webp"},{"src": "assets/images/tours/udaipur-tour1.webp"},{"src": "assets/images/tours/gt2.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -231,7 +231,7 @@
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/udaipur-tour1.webp" alt="Udaipur City Palace and Lake Pichola - romantic lake city">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/udaipur-tour1.webp" alt="Udaipur City Palace and Lake Pichola - romantic lake city">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"},{"src": "assets/images/tours/delhitour1.webp"},{"src": "assets/images/tours/agratour1.webp"},{"src": "assets/images/tours/jaipurtour2.webp"},{"src": "assets/images/tours/udaipur-tour1.webp"},{"src": "assets/images/tours/gt2.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
@@ -240,7 +240,7 @@
             <!-- /.tour-listing-details__top-carousel-image -->
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/gt2.webp" alt="Taj Mahal">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/gt2.webp" alt="Taj Mahal">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"},{"src": "assets/images/tours/delhitour1.webp"},{"src": "assets/images/tours/agratour1.webp"},{"src": "assets/images/tours/jaipurtour2.webp"},{"src": "assets/images/tours/udaipur-tour1.webp"},{"src": "assets/images/tours/gt2.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>

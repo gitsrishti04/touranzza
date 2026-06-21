@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/same-day-tours" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Same Day Tours | Private Day Experiences in India" />
+  <meta property="og:description" content="Experience India's iconic destinations in a single day with our private guided tours. Visit the Taj Mahal, Delhi monuments, and Jaipur palaces with luxury transportation." />
+  <meta property="og:url" content="https://touranzza.com/same-day-tours" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Same Day Tours | Private Day Experiences in India" />
+  <meta name="twitter:description" content="Experience India's iconic destinations in a single day with our private guided tours. Visit the Taj Mahal, Delhi monuments, and Jaipur palaces with luxury transportation." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Same Day Tours | Private Day Experiences in India</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -42,6 +53,69 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/same-day-tours#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Same Day Tours",
+          "item": "https://touranzza.com/same-day-tours"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://touranzza.com/same-day-tours#tours",
+      "name": "Same Day Tours",
+      "numberOfItems": 5,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Same Day Agra Tour By Car",
+          "url": "https://touranzza.com/same-day-agra-tour-by-car"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Same Day Agra Tour By Train",
+          "url": "https://touranzza.com/same-day-agra-tour-by-train"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Taj Mahal Sunrise Tour",
+          "url": "https://touranzza.com/taj-mahal-sunrise-tour"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Same Day Delhi Tour",
+          "url": "https://touranzza.com/same-day-delhi-tour"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Same Day Jaipur Tour",
+          "url": "https://touranzza.com/same-day-jaipur-tour"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -54,8 +128,8 @@
             <div class="page-header__bg samedays"></div>
             <!-- /.page-header__bg -->
             <div class="container">
-                <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Private Day Experiences</h2>
+                <h1 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+                    Private Day Experiences</h1>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
@@ -78,7 +152,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-car" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-2.webp" alt="assets/images/tours/tour-3-1.webp"
+                                <img src="assets/images/tours/agrai-tour-2.webp" alt="Same Day Agra Tour by Car – Taj Mahal"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -136,7 +210,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-train" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/agrai-tour-1.webp" alt="assets/images/tours/tour-3-2.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/agrai-tour-1.webp" alt="Same Day Agra Tour by Train – Taj Mahal"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -194,7 +268,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-agra-tour-by-gatimaan-express" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/same-day-tour.webp" alt="assets/images/tours/tour-3-3.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/same-day-tour.webp" alt="Same Day Agra Tour by Gatimaan Express Train"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -253,7 +327,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="taj-mahal-sunrise-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/sunrise-tour.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/sunrise-tour.webp" alt="Taj Mahal Sunrise Tour, Agra"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -311,7 +385,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-delhi-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/delhi-tour-3.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/delhi-tour-3.webp" alt="Same Day Delhi City Tour"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
@@ -369,7 +443,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="same-day-jaipur-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-1.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-1.webp" alt="Same Day Jaipur Tour, Rajasthan"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 

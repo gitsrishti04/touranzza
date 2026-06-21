@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/golden-triangle-tour-6-days" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Golden Triangle Tour 6 Days | Luxury Delhi Agra Jaipur Cultural Journey" />
+  <meta property="og:description" content="Book Golden Triangle Tour 6 Days covering Delhi, Agra & Jaipur with luxury hotels, private guides and immersive cultural experiences. Discover India’s iconic heritage at an elegant pace." />
+  <meta property="og:url" content="https://touranzza.com/golden-triangle-tour-6-days" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Golden Triangle Tour 6 Days | Luxury Delhi Agra Jaipur Cultural Journey" />
+  <meta name="twitter:description" content="Book Golden Triangle Tour 6 Days covering Delhi, Agra & Jaipur with luxury hotels, private guides and immersive cultural experiences. Discover India’s iconic heritage at an elegant pace." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Golden Triangle Tour 6 Days | Luxury Delhi Agra Jaipur Cultural Journey</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -35,10 +46,10 @@
       "availability": "https://schema.org/InStock"
     },
     "image": [
-      "assets/images/tours/golden-triangle-tour-6-days.jpg",
-      "assets/images/tours/old-delhi-tour.jpg",
-      "assets/images/tours/taj-mahal-sunrise.jpg",
-      "assets/images/tours/jaipur-city-palace-tour.jpg"
+      "assets/images/tours/golden-triangle-tour-6-days.webp",
+      "assets/images/tours/old-delhi-tour.webp",
+      "assets/images/tours/taj-mahal-sunrise.webp",
+      "assets/images/tours/jaipur-city-palace-tour.webp"
     ],
     "touristType": "Luxury, First-time India travelers",
     "provider": {
@@ -157,49 +168,49 @@
         }
         }'>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt13.jpg" alt="Golden Triangle Tour 6 Days photo 1">
+            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt13.webp" alt="Golden Triangle Tour 6 Days photo 1">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.jpg"},{"src": "assets/images/gtimages/gt14.jpg"},{"src": "assets/images/gtimages/gt15.jpg"},{"src": "assets/images/gtimages/gt16.jpg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.webp"},{"src": "assets/images/gtimages/gt14.webp"},{"src": "assets/images/gtimages/gt15.webp"},{"src": "assets/images/gtimages/gt16.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt14.jpg" alt="Golden Triangle Tour 6 Days photo 2">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gt14.webp" alt="Golden Triangle Tour 6 Days photo 2">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.jpg"},{"src": "assets/images/gtimages/gt14.jpg"},{"src": "assets/images/gtimages/gt15.jpg"},{"src": "assets/images/gtimages/gt16.jpg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.webp"},{"src": "assets/images/gtimages/gt14.webp"},{"src": "assets/images/gtimages/gt15.webp"},{"src": "assets/images/gtimages/gt16.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt15.jpg" alt="Golden Triangle Tour 6 Days photo 3">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gt15.webp" alt="Golden Triangle Tour 6 Days photo 3">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.jpg"},{"src": "assets/images/gtimages/gt14.jpg"},{"src": "assets/images/gtimages/gt15.jpg"},{"src": "assets/images/gtimages/gt16.jpg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.webp"},{"src": "assets/images/gtimages/gt14.webp"},{"src": "assets/images/gtimages/gt15.webp"},{"src": "assets/images/gtimages/gt16.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
           </div>
           <!-- /.tour-listing-details__top-carousel-item item -->
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/gtimages/gt16.jpg" alt="Golden Triangle Tour 6 Days photo 4">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/gtimages/gt16.webp" alt="Golden Triangle Tour 6 Days photo 4">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.jpg"},{"src": "assets/images/gtimages/gt14.jpg"},{"src": "assets/images/gtimages/gt15.jpg"},{"src": "assets/images/gtimages/gt16.jpg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.webp"},{"src": "assets/images/gtimages/gt14.webp"},{"src": "assets/images/gtimages/gt15.webp"},{"src": "assets/images/gtimages/gt16.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agrai-tour-1.webp" alt="Taj Mahal">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agrai-tour-1.webp" alt="Taj Mahal">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
-                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.jpg"},{"src": "assets/images/gtimages/gt14.jpg"},{"src": "assets/images/gtimages/gt15.jpg"},{"src": "assets/images/gtimages/gt16.jpg"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
+                  data-gallery-options='{"items": [{"src": "assets/images/gtimages/gt13.webp"},{"src": "assets/images/gtimages/gt14.webp"},{"src": "assets/images/gtimages/gt15.webp"},{"src": "assets/images/gtimages/gt16.webp"},{"src": "assets/images/tours/agrai-tour-1.webp"}],"gallery": {"enabled": true},"type": "image"}'><span class="icon-plus"></span></a> </div>
               <!-- /.tour-listing-details__top-carousel-overlay -->
             </div>
             <!-- /.tour-listing-details__top-carousel-image -->

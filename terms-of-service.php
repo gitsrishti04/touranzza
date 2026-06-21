@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/terms-of-service" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Terms of Service | Touranzza - Luxury India Tours" />
+  <meta property="og:description" content="Touranzza Terms of Service - Understand our booking, cancellation, and service policies for your luxury India travel experience." />
+  <meta property="og:url" content="https://touranzza.com/terms-of-service" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Terms of Service | Touranzza - Luxury India Tours" />
+  <meta name="twitter:description" content="Touranzza Terms of Service - Understand our booking, cancellation, and service policies for your luxury India travel experience." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Terms of Service | Touranzza - Luxury India Tours</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -196,7 +207,7 @@
             <p>All content on this website, including text, images, branding, and design, is the property of Touranzza and may not be copied, reproduced, or used without permission.</p>
 
             <h2>14. Privacy</h2>
-            <p>Your personal information is handled in accordance with our <a href="privacy-policy.php" style="color: #ffc202; text-decoration: underline;">Privacy Policy</a>.</p>
+            <p>Your personal information is handled in accordance with our <a href="privacy-policy" style="color: #ffc202; text-decoration: underline;">Privacy Policy</a>.</p>
 
             <h2>15. Governing Law & Jurisdiction</h2>
             <p>These Terms of Service are governed by the laws of India.</p>

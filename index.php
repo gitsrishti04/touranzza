@@ -4,6 +4,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta property="og:title" content="Touranzza | Luxury India Tours" />
+  <meta property="og:description" content="Private luxury India tours..." />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta property="og:url" content="https://touranzza.com/" />
+  <meta property="og:type" content="website" />
   <title>Touranzza | Luxury India Tours & Bespoke Travel Experiences</title>
   <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -11,6 +16,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
   <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
+  <link rel="canonical" href="https://touranzza.com/">
   <meta name="description"
     content="Touranzza offers luxury India tours, bespoke Golden Triangle packages, royal Rajasthan journeys, and same-day experiences designed for upscale travelers." />
   <!-- Schema -->
@@ -713,7 +719,7 @@
             <div class="main-slider-one__content">
               <h5 class="main-slider-one__sub-title">Your compass to India <img
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza<img
+              <h3 class="main-slider-one__title">Explore India with Touranzza<img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -724,9 +730,9 @@
           </div>
           <div class="container">
             <div class="main-slider-one__content">
-              <h5 class="main-slider-one__sub-title">Your compass to India <img
+              <h5 class="main-slider-one__sub-title">Your compass to India <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza <img
+              <h3 class="main-slider-one__title">Explore India with Touranzza <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -737,9 +743,9 @@
           </div>
           <div class="container">
             <div class="main-slider-one__content">
-              <h5 class="main-slider-one__sub-title">Your compass to India <img
+              <h5 class="main-slider-one__sub-title">Your compass to India <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza <img
+              <h3 class="main-slider-one__title">Explore India with Touranzza <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -750,9 +756,9 @@
           </div>
           <div class="container">
             <div class="main-slider-one__content">
-              <h5 class="main-slider-one__sub-title">Your compass to India <img
+              <h5 class="main-slider-one__sub-title">Your compass to India <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza <img
+              <h3 class="main-slider-one__title">Explore India with Touranzza <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -763,9 +769,9 @@
           </div>
           <div class="container">
             <div class="main-slider-one__content">
-              <h5 class="main-slider-one__sub-title">Your compass to India <img
+              <h5 class="main-slider-one__sub-title">Your compass to India <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza <img
+              <h3 class="main-slider-one__title">Explore India with Touranzza <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -776,9 +782,9 @@
           </div>
           <div class="container">
             <div class="main-slider-one__content">
-              <h5 class="main-slider-one__sub-title">Your compass to India <img
+              <h5 class="main-slider-one__sub-title">Your compass to India <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza <img
+              <h3 class="main-slider-one__title">Explore India with Touranzza <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -789,9 +795,9 @@
           </div>
           <div class="container">
             <div class="main-slider-one__content">
-              <h5 class="main-slider-one__sub-title">Your compass to India <img
+              <h5 class="main-slider-one__sub-title">Your compass to India <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-1.webp" alt="trevlo"></h5>
-              <h3 class="main-slider-one__title">Explore India with Touranzza <img
+              <h3 class="main-slider-one__title">Explore India with Touranzza <img loading="lazy" decoding="async"
                   src="assets/images/shapes/slider-1-shape-2.webp" alt="trevlo"
                   style="display: block; margin-top: 15px;"></h3>
             </div>
@@ -840,8 +846,8 @@
             }'>
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-3-days"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt1.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt1.webp"
+                    alt="Golden Triangle Tour 3 Days – Delhi, Agra & Jaipur" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
 
@@ -889,8 +895,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-4-days"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt2.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt2.webp"
+                    alt="Golden Triangle Tour 4 Days – Delhi, Agra & Jaipur" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
 
@@ -938,8 +944,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-5-days"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt3.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt3.webp"
+                    alt="Golden Triangle Tour 5 Days – Delhi, Agra & Jaipur" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
 
@@ -986,8 +992,8 @@
             </div>
             <!-- /.item -->
             <div class="item">
-              <div class="tour-listing__card"> <a href="#" class="tour-listing__card-image-box"> <img
-                    src="assets/images/tours/gt4.webp" alt="assets/images/tours/tour-3-1.webp"
+              <div class="tour-listing__card"> <a href="#" class="tour-listing__card-image-box"> <img loading="lazy" decoding="async"
+                    src="assets/images/tours/gt4.webp" alt="Golden Triangle Tour, India"
                     class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
@@ -1035,8 +1041,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-with-varanasi"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt5.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt5.webp"
+                    alt="Golden Triangle Tour with Varanasi" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
@@ -1086,8 +1092,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ajmer-and-pushkar"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt6.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt6.webp"
+                    alt="Golden Triangle Tour with Ajmer & Pushkar" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
@@ -1136,8 +1142,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-with-rajasthan"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt7.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt7.webp"
+                    alt="Golden Triangle Tour with Rajasthan" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT+Spritual</div>
 
@@ -1187,8 +1193,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-with-ranthambore"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/gt8.webp"
-                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/gt8.webp"
+                    alt="Golden Triangle Tour with Ranthambore National Park" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT+Wildlife</div>
 
@@ -1238,8 +1244,8 @@
             <!-- /.item -->
             <div class="item">
               <div class="tour-listing__card"> <a href="golden-triangle-tour-with-amritsar"
-                  class="tour-listing__card-image-box"> <img src="assets/images/tours/amritsar.webp"
-                    alt="assets/images/tours/tour-4-1.webp" class="tour-listing__card-image">
+                  class="tour-listing__card-image-box"> <img loading="lazy" decoding="async" src="assets/images/tours/amritsar.webp"
+                    alt="Golden Triangle Tour with Amritsar & the Golden Temple" class="tour-listing__card-image">
                   <div class="tour-listing__card-btn-group">
                     <div class="tour-listing__card-discount @@innerExtraClassName">GT+Religious</div>
 
@@ -1324,7 +1330,7 @@
           }'>
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_28_35 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1340,7 +1346,7 @@
             <!-- /.item -->
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_29_56 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1356,7 +1362,7 @@
             <!-- /.item -->
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_33_30 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1372,7 +1378,7 @@
             <!-- /.item -->
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_42_29 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1388,7 +1394,7 @@
             <!-- /.item -->
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_44_41 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1404,7 +1410,7 @@
             <!-- /.item -->
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_48_41 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1420,7 +1426,7 @@
             <!-- /.item -->
             <div class="item">
               <div class="gallery-single">
-                <div class="gallery-single__img-box"> <img
+                <div class="gallery-single__img-box"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_50_43 AM.webp" alt="gallery"
                     class="gallery-single__img">
                   <div class="gallery-single__overlay"> <a
@@ -1475,7 +1481,7 @@
             }
             }'>
             <div class="item">
-              <div class="blog-card"> <a href="same-day-tours" class="blog-card__image-link"> <img
+              <div class="blog-card"> <a href="same-day-tours" class="blog-card__image-link"> <img loading="lazy" decoding="async"
                     src="assets/images/blog/blog-1-1.webp" alt="You Should See Things when visiting Japan"
                     class="blog-card__image">
                   <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
@@ -1500,7 +1506,7 @@
             </div>
             <!-- /.col-md-6 col-xl-4 -->
             <div class="item">
-              <div class="blog-card"> <a href="golden-triangle-tours" class="blog-card__image-link"> <img
+              <div class="blog-card"> <a href="golden-triangle-tours" class="blog-card__image-link"> <img loading="lazy" decoding="async"
                     src="assets/images/blog/blog-1-2.webp" alt="You Should See Things when visiting Japan"
                     class="blog-card__image">
                   <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
@@ -1526,7 +1532,7 @@
             </div>
             <!-- /.col-md-6 col-xl-4 -->
             <div class="item">
-              <div class="blog-card"> <a href="rajasthan-tours" class="blog-card__image-link"> <img
+              <div class="blog-card"> <a href="rajasthan-tours" class="blog-card__image-link"> <img loading="lazy" decoding="async"
                     src="assets/images/blog/blog-1-3.webp" alt="You Should See Things when visiting Japan"
                     class="blog-card__image">
                   <div class="blog-card__overlay"> <span class="blog-card__plus icon-plus"></span> </div>
@@ -1581,8 +1587,8 @@
           <!-- /.col-xl-5 col-lg-6 -->
           <div class="col-xl-7 col-lg-6 wow animated fadeInRight" data-wow-delay="0.1s" data-wow-duration="1500ms">
             <div class="offer-one__img-box">
-              <div class="offer-one__inner-img-box"> <img src="assets/images/offer/offer-1-1.webp" alt="offer"
-                  class="offer-one__img-one"> <img src="assets/images/offer/offer-1-2.webp" alt="offer"
+              <div class="offer-one__inner-img-box"> <img loading="lazy" decoding="async" src="assets/images/offer/offer-1-1.webp" alt="offer"
+                  class="offer-one__img-one"> <img loading="lazy" decoding="async" src="assets/images/offer/offer-1-2.webp" alt="offer"
                   class="offer-one__img-three" style="border-radius: 50%; object-fit: cover; aspect-ratio: 1 / 1;">
               </div>
               <!-- /.offer-one__inner-img-box -->
@@ -1634,7 +1640,7 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-1.webp);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/taj-mahal.webp" alt="Taj Mahal"
+              <div class="why-choose-one__box__icon"><img loading="lazy" decoding="async" src="assets/images/icons/taj-mahal.webp" alt="Taj Mahal"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">One Day Tour</h3>
               <a href="1-day-tours"
@@ -1647,7 +1653,7 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-2.webp);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/city.webp" alt="City"
+              <div class="why-choose-one__box__icon"><img loading="lazy" decoding="async" src="assets/images/icons/city.webp" alt="City"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">Under 3-5 Days Journey</h3>
               <a href="3-to-5-days-tours"
@@ -1660,7 +1666,7 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-3.webp);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/temple.webp" alt="Temple"
+              <div class="why-choose-one__box__icon"><img loading="lazy" decoding="async" src="assets/images/icons/temple.webp" alt="Temple"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">6-10 days Tours</h3>
               <a href="6-to-10-days-expeditions"
@@ -1673,7 +1679,7 @@
             <div class="why-choose-one__box">
               <div class="why-choose-one__box__bg"
                 style="background-image: url(assets/images/backgrounds/why-choose-bg-1-4.webp);"></div>
-              <div class="why-choose-one__box__icon"><img src="assets/images/icons/tower.webp" alt="Tower"
+              <div class="why-choose-one__box__icon"><img loading="lazy" decoding="async" src="assets/images/icons/tower.webp" alt="Tower"
                   class="why-choose-custom-icon"></div>
               <h3 class="why-choose-one__box__title">10+ Days Grand Tours</h3>
               <a href="10-plus-days-grand-tours"
@@ -1721,25 +1727,25 @@
                 }
             }
             }'>
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
-        <div class="client-carousel__one__item"> <img class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
+        <div class="client-carousel__one__item"> <img loading="lazy" decoding="async" class="client-carousel__one__item__normal" src="assets/images/resources/brand-1-normal.webp" alt="trevlo"> <img loading="lazy" decoding="async" class="client-carousel__one__item__hover" src="assets/images/resources/brand-1-hover.webp" alt="trevlo"> </div>
         
       </div>
       
@@ -1785,7 +1791,7 @@
             </div>
           </div>
           <div class="col-lg-7 wow fadeInRight" data-wow-delay="200ms">
-            <div class="benefit-one__image"><img src="assets/images/resources/benefit-1-1.webp" alt="trevlo"></div>
+            <div class="benefit-one__image"><img loading="lazy" decoding="async" src="assets/images/resources/benefit-1-1.webp" alt="trevlo"></div>
             <div class="benefit-one__counter">
               <div class="benefit-one__counter__icon"><span class="icon-satisfied"></span></div>
               <!-- /.counter__icon -->
@@ -1840,7 +1846,7 @@
                 }'>
             <div class="item">
               <div class="testimonials-card centered-card">
-                <div class="testimonials-card__image enlarge-image"> <img
+                <div class="testimonials-card__image enlarge-image"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_15_46 AM.webp" alt="Jacob Jones"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Jacob Jones</h5>
@@ -1854,7 +1860,7 @@
             </div>
             <div class="item">
               <div class="testimonials-card centered-card">
-                <div class="testimonials-card__image enlarge-image"> <img
+                <div class="testimonials-card__image enlarge-image"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_25_00 AM.webp" alt="Hanie Fox"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Hanie Fox</h5>
@@ -1868,7 +1874,7 @@
             </div>
             <div class="item">
               <div class="testimonials-card centered-card">
-                <div class="testimonials-card__image enlarge-image"> <img
+                <div class="testimonials-card__image enlarge-image"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_43_45 AM.webp" alt="Guy Hawkins"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Guy Hawkins</h5>
@@ -1882,7 +1888,7 @@
             </div>
             <div class="item">
               <div class="testimonials-card centered-card">
-                <div class="testimonials-card__image enlarge-image"> <img
+                <div class="testimonials-card__image enlarge-image"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_39_20 AM.webp" alt="Charlotte Parker"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Charlotte Parker</h5>
@@ -1895,7 +1901,7 @@
             </div>
             <div class="item">
               <div class="testimonials-card centered-card">
-                <div class="testimonials-card__image enlarge-image"> <img
+                <div class="testimonials-card__image enlarge-image"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 18, 2026, 01_49_26 AM.webp" alt="Yuki Tanaka"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Yuki Tanaka</h5>
@@ -1908,7 +1914,7 @@
             </div>
             <div class="item">
               <div class="testimonials-card centered-card">
-                <div class="testimonials-card__image enlarge-image"> <img
+                <div class="testimonials-card__image enlarge-image"> <img loading="lazy" decoding="async"
                     src="assets/images/gallery/ChatGPT Image Apr 19, 2026, 12_38_36 AM.webp" alt="Arjun Mehta"> </div>
                 <div class="testimonials-card__meta">
                   <h5 class="testimonials-card__meta__name">Arjun Mehta</h5>

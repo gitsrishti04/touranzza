@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <link rel="canonical" href="https://touranzza.com/rajasthan-tours" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Rajasthan Tours | Royal Rajasthan Retreats & Palace Tours" />
+  <meta property="og:description" content="Discover Rajasthan's royal heritage with luxury tours of palaces, forts, and desert landscapes. Experience the Maharaja lifestyle in Jaipur, Jodhpur, Udaipur, and Jaisalmer." />
+  <meta property="og:url" content="https://touranzza.com/rajasthan-tours" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Rajasthan Tours | Royal Rajasthan Retreats & Palace Tours" />
+  <meta name="twitter:description" content="Discover Rajasthan's royal heritage with luxury tours of palaces, forts, and desert landscapes. Experience the Maharaja lifestyle in Jaipur, Jodhpur, Udaipur, and Jaisalmer." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <title>Rajasthan Tours | Royal Rajasthan Retreats & Palace Tours</title>
     <!-- favicons Icons -->
   <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
@@ -42,6 +53,63 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/rajasthan-tours#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rajasthan Tours",
+          "item": "https://touranzza.com/rajasthan-tours"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://touranzza.com/rajasthan-tours#tours",
+      "name": "Rajasthan Tours",
+      "numberOfItems": 4,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rajasthan Heritage Tour",
+          "url": "https://touranzza.com/rajasthan-heritage-tour"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Royal Rajasthan Tour",
+          "url": "https://touranzza.com/royal-rajasthan-tour"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fort And Palaces Tour",
+          "url": "https://touranzza.com/fort-and-palaces-tour"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Desert Tour Rajasthan",
+          "url": "https://touranzza.com/desert-tour-rajasthan"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -54,8 +122,8 @@
             <div class="page-header__bg raj"></div>
             <!-- /.page-header__bg -->
             <div class="container">
-                <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Royal Rajasthan Retreats</h2>
+                <h1 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+                    Royal Rajasthan Retreats</h1>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
@@ -79,7 +147,7 @@
                         <div class="tour-listing__card">
                             <a href="rajasthan-heritage-tour" class="tour-listing__card-image-box">
                                 <img src="assets/images/tours/rajasthan-heritage-tour.webp"
-                                    alt="assets/images/tours/tour-3-1.webp" class="tour-listing__card-image">
+                                    alt="Rajasthan Heritage Tour" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -138,8 +206,8 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="royal-rajasthan-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/fort-and-palaces-tour2.webp"
-                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/fort-and-palaces-tour2.webp"
+                                    alt="Royal Rajasthan Tour" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -197,8 +265,8 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="fort-and-palaces-tour" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/fort-and-palaces-tour.webp"
-                                    alt="assets/images/tours/tour-3-4.webp" class="tour-listing__card-image">
+                                <img loading="lazy" decoding="async" src="assets/images/tours/fort-and-palaces-tour.webp"
+                                    alt="Rajasthan Fort & Palaces Tour" class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 
                                     <div class="tour-listing__card-discount @@innerExtraClassName">GT</div>
@@ -256,7 +324,7 @@
                         data-wow-duration="1500ms">
                         <div class="tour-listing__card">
                             <a href="desert-tour-rajasthan" class="tour-listing__card-image-box">
-                                <img src="assets/images/tours/jaipur-tour-4.webp" alt="assets/images/tours/tour-3-4.webp"
+                                <img loading="lazy" decoding="async" src="assets/images/tours/jaipur-tour-4.webp" alt="Desert Tour of Rajasthan"
                                     class="tour-listing__card-image">
                                 <div class="tour-listing__card-btn-group">
 

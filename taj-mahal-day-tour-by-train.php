@@ -125,28 +125,28 @@
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.webp" alt="Agra Fort Mughal architecture India">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-3.webp" alt="Agra Fort Mughal architecture India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-2.webp" alt="Gatimaan Express train India">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-2.webp" alt="Gatimaan Express train India">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agratour1.webp" alt="Taj Mahal tour package">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agratour1.webp" alt="Taj Mahal tour package">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
             </div>
           </div>
           <div class="tour-listing-details__top-carousel-item item">
-            <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-1.webp" alt="same day Taj Mahal tour">
+            <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-1.webp" alt="same day Taj Mahal tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                   class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                   data-gallery-options='{"items": [{"src": "assets/images/tours/agra-4.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/agra-2.webp"}, {"src": "assets/images/tours/agratour1.webp"}, {"src": "assets/images/tours/agra-1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>

@@ -85,28 +85,28 @@
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
-              <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/agra-3.webp" alt="Taj Mahal at sunrise on a Royal Rajasthan tour">
+              <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/agra-3.webp" alt="Taj Mahal at sunrise on a Royal Rajasthan tour">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
-              <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/udaipur-tour2.webp" alt="Boat on Lake Pichola with Udaipur City Palace behind">
+              <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/udaipur-tour2.webp" alt="Boat on Lake Pichola with Udaipur City Palace behind">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
-              <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/udaipur-tour1.webp" alt="Private car and driver for Royal Rajasthan Retreats">
+              <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/udaipur-tour1.webp" alt="Private car and driver for Royal Rajasthan Retreats">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>
               </div>
             </div>
             <div class="tour-listing-details__top-carousel-item item">
-              <div class="tour-listing-details__top-carousel-image"> <img src="assets/images/tours/jaipurtour1.webp" alt="Amber Fort overlooking Maota Lake near Jaipur">
+              <div class="tour-listing-details__top-carousel-image"> <img loading="lazy" decoding="async" src="assets/images/tours/jaipurtour1.webp" alt="Amber Fort overlooking Maota Lake near Jaipur">
               <div class="tour-listing-details__top-carousel-overlay"> <a href="#"
                     class="tour-listing-details__top-carousel-btn trevlo-btn trevlo-btn--base-three trevlo-image-popup"
                     data-gallery-options='{"items": [{"src": "assets/images/tours/delhi-tours3.webp"}, {"src": "assets/images/tours/agra-3.webp"}, {"src": "assets/images/tours/udaipur-tour2.webp"}, {"src": "assets/images/tours/udaipur-tour1.webp"}, {"src": "assets/images/tours/jaipurtour1.webp"}], "gallery": {"enabled": true}, "type": "image"}'><span class="icon-plus"></span></a> </div>

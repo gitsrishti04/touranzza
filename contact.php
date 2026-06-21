@@ -13,6 +13,17 @@
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
     <meta name="description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
   <link rel="canonical" href="https://touranzza.com/contact" />
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Touranzza" />
+  <meta property="og:title" content="Contact Touranzza | Get in Touch for Luxury India Tours" />
+  <meta property="og:description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
+  <meta property="og:url" content="https://touranzza.com/contact" />
+  <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Contact Touranzza | Get in Touch for Luxury India Tours" />
+  <meta name="twitter:description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
+  <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -66,6 +77,31 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/trevlo.css" />
     <link rel="stylesheet" href="assets/css/touranzza.css" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://touranzza.com/contact#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://touranzza.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Contact",
+          "item": "https://touranzza.com/contact"
+        }
+      ]
+    }
+  ]
+}
+  </script>
 </head>
 
 <body>
@@ -76,8 +112,8 @@
             <div class="page-header__bg contact"></div>
             <!-- /.page-header__bg -->
             <div class="container">
-                <h2 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
-                    Contact</h2>
+                <h1 class="page-header__title wow animated fadeInLeft" data-wow-delay="0s" data-wow-duration="1500ms">
+                    Contact Us</h1>
                 <div class="page-header__breadcrumb-box">
                     <ul class="trevlo-breadcrumb">
                         <li><a href="./">Home</a></li>
