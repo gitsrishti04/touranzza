@@ -102,6 +102,27 @@
     border-radius: 10px;
 }
 
+/* Tour card — uniform image sizing (fixed 3:2 box, cover, no distortion) */
+.tour-listing__card-image-box {
+    overflow: hidden;
+    aspect-ratio: 3 / 2;
+}
+.tour-listing__card-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Tour card — uniform 2-line title (reserves the space so rows align) */
+.tour-listing__card-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 2.6em;
+}
+
 .main-footer__social {
     margin: 0;
     padding: 0;
