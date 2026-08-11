@@ -50,7 +50,6 @@
           <p class="footer-widget__address">Agra, Uttar Pradesh</p>
           <ul class="footer-widget__info">
             <li> <span class="icon-phone-1"></span> <a href="tel:+918979333017">+91-8979333017</a></li>
-            <li> <span class="icon-phone-1"></span> <a href="tel:+918979333017">+91-8979333017</a></li>
             <li> <span class="icon-envelope"></span> <a href="mailto:india@touranzza.com">india@touranzza.com</a>
             </li>
           </ul>
