@@ -29,7 +29,7 @@
     "url": "https://touranzza.com",
     "logo": "https://touranzza.com/assets/images/footer-logo-dark.webp",
     "image": "https://touranzza.com/assets/images/tours/agra-1.webp",
-    "telephone": "+91-9837105911",
+    "telephone": "+91-8979333017",
     "email": "india@touranzza.com",
     "priceRange": "₹₹₹",
     "address": {
@@ -48,7 +48,7 @@
     "areaServed": "India",
     "contactPoint": {
       "@type": "ContactPoint",
-      "telephone": "+91-9837105911",
+      "telephone": "+91-8979333017",
       "contactType": "customer service",
       "areaServed": "Worldwide",
       "availableLanguage": ["English", "Hindi"]
