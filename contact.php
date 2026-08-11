@@ -143,9 +143,6 @@
                                 <a href="tel:+918979333017">
                                     <h4 class="contact-page__info-text contact-page__info-text-link">+91-8979333017</h4>
                                 </a>
-                                <a href="tel:+919355995594">
-                                    <h4 class="contact-page__info-text contact-page__info-text-link">+91-9355995594</h4>
-                                </a>
                             </div>
                         </div><!-- /.contact-page__info-box -->
                     </div>
