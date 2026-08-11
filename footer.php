@@ -49,8 +49,8 @@
           <!-- /.footer-widget__title -->
           <p class="footer-widget__address">Agra, Uttar Pradesh</p>
           <ul class="footer-widget__info">
-            <li> <span class="icon-phone-1"></span> <a href="tel:+919837105911">+91-9837105911</a></li>
-            <li> <span class="icon-phone-1"></span> <a href="tel:+917830492929">+91-7830492929</a></li>
+            <li> <span class="icon-phone-1"></span> <a href="tel:+918979333017">+91-8979333017</a></li>
+            <li> <span class="icon-phone-1"></span> <a href="tel:+918979333017">+91-8979333017</a></li>
             <li> <span class="icon-envelope"></span> <a href="mailto:india@touranzza.com">india@touranzza.com</a>
             </li>
           </ul>
@@ -213,7 +213,7 @@
 </div>
 
 <!-- Custom WhatsApp Sticky Button -->
-<a href="https://wa.me/919675155111" class="whatsapp-sticky" target="_blank" aria-label="Chat on WhatsApp">
+<a href="https://wa.me/918979333017" class="whatsapp-sticky" target="_blank" aria-label="Chat on WhatsApp">
   <i class="fab fa-whatsapp"></i>
   <span class="whatsapp-sticky__tooltip">Message us</span>
 </a>
@@ -231,7 +231,7 @@
     <!-- /.mobile-nav__container -->
     <ul class="mobile-nav__contact list-unstyled">
       <li> <i class="fa fa-envelope"></i> <a href="mailto:india@touranzza.com">india@touranzza.com</a> </li>
-      <li> <i class="fa fa-phone-alt"></i> <a href="tel:+919837105911">+91-9837105911</a> </li>
+      <li> <i class="fa fa-phone-alt"></i> <a href="tel:+918979333017">+91-8979333017</a> </li>
     </ul>
     <!-- /.mobile-nav__contact -->
     <div class="mobile-nav__social">

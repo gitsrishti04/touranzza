@@ -6,7 +6,7 @@
     <div class="topbar-one__inner">
       <div class="topbar-one__left">
         <ul class="topbar-one__info">
-          <li class="topbar-one__info-item"><span class="topbar-one__info-icon icon-phone-1"></span><a href="tel:+919045427043" class="topbar-one__info-text">+91-9045427043</a></li>
+          <li class="topbar-one__info-item"><span class="topbar-one__info-icon icon-phone-1"></span><a href="tel:+918979333017" class="topbar-one__info-text">+91-8979333017</a></li>
           <li class="topbar-one__info-item"><span class="topbar-one__info-icon icon-phone-1"></span><a href="tel:+919355995594" class="topbar-one__info-text">+91-9355995594</a></li>
           <li class="topbar-one__info-item"><span class="topbar-one__info-icon icon-envelope"></span><a href="mailto:india@touranzza.com" class="topbar-one__info-text">india@touranzza.com</a></li>
         </ul>

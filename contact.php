@@ -11,18 +11,18 @@
   <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
-    <meta name="description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
+    <meta name="description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-8979333017." />
   <link rel="canonical" href="https://touranzza.com/contact" />
   <!-- Open Graph / social sharing -->
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Touranzza" />
   <meta property="og:title" content="Contact Touranzza | Get in Touch for Luxury India Tours" />
-  <meta property="og:description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
+  <meta property="og:description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-8979333017." />
   <meta property="og:url" content="https://touranzza.com/contact" />
   <meta property="og:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Contact Touranzza | Get in Touch for Luxury India Tours" />
-  <meta name="twitter:description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-9837105911." />
+  <meta name="twitter:description" content="Contact Touranzza for personalized luxury tours of India. Get expert advice on Golden Triangle, Rajasthan heritage, and same-day experiences. Call +91-8979333017." />
   <meta name="twitter:image" content="https://touranzza.com/assets/images/tours/agra-1.webp" />
     <script type="application/ld+json">
     {
@@ -30,7 +30,7 @@
       "@type": "TravelAgency",
       "name": "Touranzza",
       "url": "https://touranzza.com/contact",
-      "telephone": "+91-9837105911",
+      "telephone": "+91-8979333017",
       "email": "india@touranzza.com",
       "address": {
         "@type": "PostalAddress",
@@ -140,8 +140,8 @@
                             </div>
                             <div class="contact-page__info-text-box">
                                 <p class="contact-page__info-title">Have any question?</p>
-                                <a href="tel:+919045427043">
-                                    <h4 class="contact-page__info-text contact-page__info-text-link">+91-9045427043</h4>
+                                <a href="tel:+918979333017">
+                                    <h4 class="contact-page__info-text contact-page__info-text-link">+91-8979333017</h4>
                                 </a>
                                 <a href="tel:+919355995594">
                                     <h4 class="contact-page__info-text contact-page__info-text-link">+91-9355995594</h4>

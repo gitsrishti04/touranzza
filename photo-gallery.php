@@ -30,7 +30,7 @@
       "@type": "TravelAgency",
       "name": "Touranzza",
       "url": "https://touranzza.com/photo-gallery",
-      "telephone": "+91-9837105911",
+      "telephone": "+91-8979333017",
       "email": "india@touranzza.com",
       "address": {
         "@type": "PostalAddress",
