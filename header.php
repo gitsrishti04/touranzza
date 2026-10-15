@@ -1,10 +1,10 @@
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MD5M1Q2EJ9"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F4ETPKXVPW"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-MD5M1Q2EJ9');
+  gtag('config', 'G-F4ETPKXVPW');
 </script>
 
 <!-- enquiry -->
