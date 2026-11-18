@@ -2,6 +2,12 @@
 <html lang="en">
 
 <head>
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-5CTVFD86"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Rajasthan Heritage Tour | 12-Day Complete Grand Itinerary</title>
