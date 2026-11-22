@@ -512,6 +512,10 @@
                 <h3 class="tour-listing-details__sidebar-title">Plan Your Rajasthan Forts &amp; Palaces Tour</h3>
                 <p class="tour-listing-details__sidebar-text">Share your dates and preferences. Our India specialist will reply within 24 hours with a tailored 11-day itinerary — no obligation.</p>
                 <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
+            <div style="position: absolute; left: -9999px; top: -9999px; height: 0; width: 0; overflow: hidden; opacity: 0;" aria-hidden="true">
+                <label for="website_hp">Do not fill this</label>
+                <input type="text" name="website_hp" id="website_hp" tabindex="-1" autocomplete="off">
+            </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">

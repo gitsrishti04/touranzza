@@ -406,6 +406,10 @@
                 data-wow-delay="0.1s" data-wow-duration="1500ms">
                 <h3 class="tour-listing-details__sidebar-title">Book Your Tour Now</h3>
                 <form action="tourmail" method="POST" class="tour-listing-details__sidebar-form">
+            <div style="position: absolute; left: -9999px; top: -9999px; height: 0; width: 0; overflow: hidden; opacity: 0;" aria-hidden="true">
+                <label for="website_hp">Do not fill this</label>
+                <input type="text" name="website_hp" id="website_hp" tabindex="-1" autocomplete="off">
+            </div>
                   <div class="tour-listing-details__sidebar-form-input">
                     <label>Name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name" class="form-one__input">
